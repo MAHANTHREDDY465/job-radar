@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-05T14:46:02.720Z",
+  "generatedAt": "2026-07-05T15:01:37.622Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 219,
-    "goal": 107,
+    "total": 231,
+    "goal": 114,
     "target": 0,
-    "below": 112,
+    "below": 117,
     "overseas": 0,
-    "new": 196,
+    "new": 12,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -51,7 +51,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.664Z"
     },
     {
@@ -90,7 +90,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.662Z"
     },
     {
@@ -330,7 +330,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.713Z"
     },
     {
@@ -369,8 +369,46 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.710Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Senior Business Analyst- ServiceNow Artificial Intelligence",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 20 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Senior-Business-Analyst--ServiceNow-Artificial-Intelligence_R0178670",
+      "reqId": "R0178670",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Business-Analyst--ServiceNow-Artificial-Intelligence_R0178670",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Business-Analyst--ServiceNow-Artificial-Intelligence_R0178670",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet. \n Bangalore, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.  \n \n At Takeda’s ICC we Unite in Diversity \n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team. \n \n The Opportunity \n As a ServiceNow AI Senior Business Analyst, you will lead the end-to-end analysis, discovery, and delivery of ServiceNow capabilities with a strong focus on Artificial Intelligence, Now Assist–based solutions, and related platform features in close partnership with product owners and engineering teams. You will translate business needs into clear, actionable requirements, ensure solutions align to ServiceNow best practices, and support delivery through the full agile lifecycle, including incident-driven enhancements and continuous improvement. You will serve as a key SME for AI/ML-enabled workflows, ensuring user-centric design, measurable outcomes, and scalable adoption across Takeda.\n \n Responsibilities \n Lead stakeholder discovery to identify and qualify AI/Now Assist opportunities (agent support, self-service, workflow automation) and define measurable outcomes.\n Define and manage epics, features, user stories, acceptance criteria, dependencies, and success metrics for ServiceNow AI initiatives.\n Shape and maintain the product backlog with product owners: prioritization, refinement, roadmap alignment, and value-based delivery.\n Translate business processes into AI-enhanced workflow requirements (intent capture, auto-triage, categorization, routing, next-best action, summarization).\n Lead requirements for Now Assist capabilities (search, summarization, content generation, agent assist/virtual agent assist), including usage guardrails and user experience needs.\n Drive conversation design requirements for Virtual Agent\n Define requirements for AI-assisted knowledge management (article standards, content lifecycle, feedback signals, governance) to improve answer quality and deflection.\n Partner with architects/developers to ensure requirements are feasible, testable, aligned with ServiceNow best practices, and minimize customization.\n Capture non-functional requirements for AI features: performance, reliability, scalability, usability, observability, and supportability.\n Document governance and compliance requirements for AI: data classification, RBAC, audit trails, privacy, prompt/data exposure controls, and risk controls.\n Establish requirements for AI evaluation and monitoring: quality scoring, accuracy validation, human-in-the-loop approvals, feedback loops, and KPI dashboards.\n Define and operationalize feedback mechanisms (agent/user ratings, corrections, re-ranking signals) to support continuous improvement of AI outcomes.\n Coordinate UAT end-to-end: test strategy, scenarios, traceability, defect triage, and release readiness for AI and non-AI features.\n Support product-related incidents by analyzing themes/root causes, recommending enhancements, and driving incident-to-backlog conversion.\n Facilitate agile ceremonies and delivery support: refinement, sprint planning support, demos, retrospectives, and stakeholder communications.\n Support adoption readiness: training needs, release notes, comms, and change management for new AI-driven experiences.\n \n Skills and Qualifications \n Education : Bachelor’s degree (or higher) in Computer Science, Information Technology, or a related field; or equivalent work experience.\n Experience : 6 years as a Business Analyst, with 3 years specifically focused on ServiceNow AI & ML features like Now Assist, Virtual Agent, Agent Assist, Summarization & Content Generation, AI Search, Predictive Intelligence, AIOps/Operational Intelligence, Process Optimization, Document Intelligence, Agentic AI\n Technical Understanding : Awareness of ServiceNow platform architecture and common configuration elements.\n Ability to assess feasibility of requirements against OOB features vs. customization\n Experience configuring ServiceNow AI/ML features\n Familiarity with integrating ServiceNow AI tools with third party applications.\n \n Sost Skills : Excellent facilitation, documentation, and communication skills.\n Strong stakeholder management and negotiation skills.\n Analytical mindset with a focus on business value delivery.\n \n \n What Takeda Can Offer You \n Takeda is certified as a Top Employer, not only in India, but also globally. No investment we make pays greater dividends than taking good care of our people.\n At Takeda, you take the lead on building and shaping your own career.\n Joining the ICC in Bangalore will give you access to high-end technology, continuous training and a diverse and inclusive network of colleagues who will support your career growth.\n \n Benefits \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are:\n Competitive Salary Performance Annual Bonus\n Flexible work environment, including hybrid working\n Comprehensive Healthcare Insurance Plans for self, spouse, and children\n Group Term Life Insurance and Group Accident Insurance programs\n Health & Wellness programs including annual health screening, weekly health sessions for employees.\n Employee Assistance Program\n 5 days of leave every year for Voluntary Service in addition to Humanitarian Leaves\n Broad Variety of learning platforms \n Diversity, Equity, and Inclusion Programs\n No Meeting Days\n Reimbursements – Home Internet & Mobile Phone\n Employee Referral Program\n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 days)\n \n About ICC in Takeda \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day.\n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization.\n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "compliance",
+        "documentation",
+        "audit",
+        "stakeholder management"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 100,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.455Z"
     },
     {
       "source": "Workday",
@@ -406,7 +444,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.665Z"
     },
     {
@@ -443,7 +481,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.666Z"
     },
     {
@@ -485,6 +523,43 @@
     },
     {
       "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Senior Business Analyst - ServiceNow CSM",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 24 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Senior-Business-Analyst---ServiceNow-CSM_R0164399",
+      "reqId": "R0164399",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Business-Analyst---ServiceNow-CSM_R0164399",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Business-Analyst---ServiceNow-CSM_R0164399",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n Responsibilities \n Assess and anticipate user and business needs, expectations, and pain points within the ServiceNow ecosystem for both Customer Service Management (CSM) and Source-to-Pay Operations (S2P) modules.\n Provide data-driven, prioritized, actionable recommendations to enhance the user experience across CSM and S2P modules\n Identify gaps in existing functionality and review requirements with stakeholders across various business functions.\n Communicate Solutions effectively to relevant stakeholders, ensuring alignment on business changes\n Transform Requirements from stakeholder feedback into clear, comprehensive, and concise documentation throughout the SDLC\n Conduct Review Sessions to gain approval of requirements and manage changes using standard control processes\n Create and maintain documentation and project-related artifacts, specific to CSM and other business areas.\n Develop Comprehensive Plans for eliciting, documenting, and managing requirements (e.g., Waterfall, Agile, Hybrid)\n Develop Change Rationale and perform scoping assessments to evaluate the feasibility of process modifications\n Calculate Change Estimates and produce financial models for cost, savings, and revenue impacts\n Liaise with Quality Assurance to ensure test plans and results confirm that all business requirements are met\n Facilitate Workshops and meetings to gather insights, feedback, and user stories from stakeholders and end-users\n Analyze Data to identify trends and opportunities for process improvement\n Support Configuration and customization of ServiceNow to meet specific business needs\n Ensure Compliance with organizational policies and external regulations\n Document and Track Issues through resolution, capturing lessons learned to refine future implementations\n Work Collaboratively with IT teams to troubleshoot and resolve system issues efficiently\n Prepare and Deliver Presentations to communicate findings and recommended actions\n Create User Stories and acceptance criteria to support agile development processes\n Continuously Monitor Industry Trends and advancements to identify opportunities for innovation\n Provide training and support to CSM & S2P users to ensure they can effectively use the ServiceNow CSM & S2P modules.\n Stay updated with the latest features and best practices related to the CSM & S2P modules and incorporate them into the solutions.\n Use agile engineering practices and various software development technologies to rapidly develop creative and efficient solutions that enhance the customer experience.\n \n Skills and Qualifications \n Education : Bachelor’s degree or higher in Computer Science/Information technology; or relevant work experience.\n Experience : 6 years of experience in architecting and designing ServiceNow solutions, with 3 years specifically focused on Customer Service Management (CSM) and Source-to-Pay Operations (S2P) modules\n CSM & Finance Expertise: Strong understanding of CSM & S2P processes and how they can be automated and improved using ServiceNow CSM and S2P modules.\n Business Analysis Skills : Proven ability to analyze and interpret CSM and Finance data, align business strategies, and develop actionable insights\n Technical and Methodological Expertise : Familiarity with Agile, Waterfall, or Hybrid SDLC approaches; able to create user stories, acceptance criteria, and financial models for changes\n Communication : Strong verbal and written skills to articulate business cases, gather user requirements, and collaborate with cross-functional teams\n Industry Awareness : Knowledge of Global Data & Technology’s product/service catalog, staying informed on market and industry fundamentals for CSM & S2P\n Collaboration : Solid communication skills for conveying technical solutions, ensuring organizational alignment, and integrating operational KPIs within CSM & Finance\n \n \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "compliance",
+        "quality assurance",
+        "documentation"
+      ],
+      "experience": "6 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 98,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.455Z"
+    },
+    {
+      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Regulatory Affairs Senior Associate",
@@ -520,7 +595,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.666Z"
     },
     {
@@ -676,7 +751,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.706Z"
     },
     {
@@ -712,7 +787,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.661Z"
     },
     {
@@ -748,7 +823,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.625Z"
     },
     {
@@ -784,7 +859,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.624Z"
     },
     {
@@ -820,7 +895,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.640Z"
     },
     {
@@ -856,7 +931,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.641Z"
     },
     {
@@ -893,7 +968,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.664Z"
     },
     {
@@ -931,7 +1006,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.654Z"
     },
     {
@@ -1040,7 +1115,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.668Z"
     },
     {
@@ -1075,7 +1150,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.668Z"
     },
     {
@@ -1110,7 +1185,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.679Z"
     },
     {
@@ -1145,7 +1220,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.678Z"
     },
     {
@@ -1180,7 +1255,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.623Z"
     },
     {
@@ -1215,7 +1290,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.652Z"
     },
     {
@@ -1255,6 +1330,41 @@
     },
     {
       "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Principal Business Analyst",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 4 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Principal-Business-Analyst_R0164827",
+      "reqId": "R0164827",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Principal-Business-Analyst_R0164827",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Principal-Business-Analyst_R0164827",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n As a Senior Business Analyst specializing in healthcare industry, you will play a pivotal role in driving digital transformation within Takeda s healthcare initiatives. Working closely with cross-functional teams, you will lead the identification of challenges and opportunities for digital solutions, interpret Takeda s SDLC (Software Development Life Cycle), and collaborate effectively with various stakeholders throughout the entire journey. Your expertise in Salesforce Health Cloud and healthcare industry knowledge will be instrumental in shaping the future of patient-centric digital solutions.\n \n RESPONSIBILITIES: •Works with the business to identify the patient challenges and opportunities for digital solutions to make an impact. •Lead workshops and collaborate with business stakeholders to identify challenges and opportunities for digital solutions within the healthcare domain. Conduct High Level Assessments and design workshops. •Interpret Takeda s SDLC and guide junior business analysts and stakeholders through the digital solution journey. •Maintain comprehensive documentation and outputs for Salesforce Health Cloud applications. •Ensure that analytical outputs adhere to established standards and are aligned with the needs of the healthcare industry. •Process and decompose internal business requirements into specifications and user stories, with a focus on patient-centric solutions. •Form the bridge between the business and team of testers and developers during successful patient solution development. •Collaborate with cross-functional teams to identify business requirements, functional design, process design, prototyping, testing, and training within the Salesforce Health Cloud environment. •Provide continuous updates to business stakeholders, Product Owners, and Delivery Manager during project delivery, and communicate changes, problems, and ambiguities in a timely manner •Understanding and/or strong interest in technologies that can serve patients e.g., Salesforce Health Cloud, Service Cloud, Communities, as well as low-code app development tools.\n Leadership: •Persuasive communication skills and understanding dependencies across technology initiatives. •Facilitates a culture which is open for innovation and high-quality delivery. •Assertive, with the confidence to be a voice of authority. •Ability to promote innovative thinking and self-development. •Create and maintain an atmosphere of trust through facilitation of retrospectives and feedback exchange among team members. •Help other teams and conventional parts of the organization build effective communication and interaction with the team. •Coordinate interaction with other teams of one s own and other units. •Clear obstacles and blockers in the team’s path (such as dependencies on other teams) and maintain a list of obstacles. •Contribute to product development to the extent of her or his competence.\n SKILLS & QUALIFICATIONS: •Bachelor’s degree in relevant field, or other relevant work experience •Bachelor s or master s degree in a relevant field, or equivalent work experience. •5 years of experience in a business analysis role, with a focus on consumer or patient related health applications, preferably Salesforce Health Cloud and healthcare industry solutions. •5 years of experience within a Lean/Agile development environment. •Salesforce certification(s), preferably SFDC Health Cloud, or equivalent certifications demonstrating expertise in Salesforce platform. •Proven experience in leading workshops and collaborating with stakeholders in the healthcare industry. •Outstanding communication skills, both written and verbal, can engage audiences at all levels within a global organization. •Technical background (in one of the following areas: Customer Relationship Management, Downstream, Integrations, Data management) is a huge advantage.\n WHAT TAKEDA CAN OFFER YOU: •Takeda is certified as a Top Employer, not only in México and North America, but also globally. No investment we make pays greater dividends than taking good care of our people. •At Takeda, you take the lead on building and shaping your own career.\n BENEFITS: It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: •Competitive Salary Performance Annual Bonus •Monthly Supermarket and Food Vouchers •Flexible Working Schemes •Comprehensive Healthcare Insurance Plans: Life, Medical, Dental & Vision •Additional Time Off •Diversity, Equity, and Inclusion Programs\n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "documentation"
+      ],
+      "experience": "5 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 94,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.450Z"
+    },
+    {
+      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Senior Associate - Regulatory Data & Analytics",
@@ -1287,7 +1397,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.668Z"
     },
     {
@@ -1324,7 +1434,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.667Z"
     },
     {
@@ -1361,7 +1471,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.676Z"
     },
     {
@@ -1398,7 +1508,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.676Z"
     },
     {
@@ -1435,7 +1545,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.676Z"
     },
     {
@@ -1472,7 +1582,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.652Z"
     },
     {
@@ -1549,7 +1659,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.674Z"
     },
     {
@@ -1590,7 +1700,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.673Z"
     },
     {
@@ -1630,7 +1740,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.663Z"
     },
     {
@@ -1671,7 +1781,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.673Z"
     },
     {
@@ -1748,7 +1858,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.669Z"
     },
     {
@@ -1784,7 +1894,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.664Z"
     },
     {
@@ -1820,7 +1930,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.665Z"
     },
     {
@@ -1857,7 +1967,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.665Z"
     },
     {
@@ -1931,7 +2041,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.662Z"
     },
     {
@@ -1966,7 +2076,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.670Z"
     },
     {
@@ -2001,7 +2111,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.671Z"
     },
     {
@@ -2036,7 +2146,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.655Z"
     },
     {
@@ -2071,7 +2181,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.699Z"
     },
     {
@@ -2252,7 +2362,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.669Z"
     },
     {
@@ -2286,7 +2396,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.678Z"
     },
     {
@@ -2322,7 +2432,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.643Z"
     },
     {
@@ -2357,7 +2467,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.672Z"
     },
     {
@@ -2392,7 +2502,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.636Z"
     },
     {
@@ -2463,7 +2573,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.669Z"
     },
     {
@@ -2498,7 +2608,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.681Z"
     },
     {
@@ -2533,7 +2643,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.642Z"
     },
     {
@@ -2568,7 +2678,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.642Z"
     },
     {
@@ -2606,7 +2716,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.640Z"
     },
     {
@@ -2640,7 +2750,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.677Z"
     },
     {
@@ -2674,7 +2784,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.619Z"
     },
     {
@@ -2708,7 +2818,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.621Z"
     },
     {
@@ -2742,7 +2852,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.639Z"
     },
     {
@@ -2778,7 +2888,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.677Z"
     },
     {
@@ -2813,7 +2923,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.683Z"
     },
     {
@@ -2851,7 +2961,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.707Z"
     },
     {
@@ -2886,7 +2996,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.672Z"
     },
     {
@@ -2921,7 +3031,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.675Z"
     },
     {
@@ -2956,7 +3066,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.618Z"
     },
     {
@@ -2990,7 +3100,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.618Z"
     },
     {
@@ -3024,7 +3134,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.651Z"
     },
     {
@@ -3062,7 +3172,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.701Z"
     },
     {
@@ -3101,7 +3211,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.654Z"
     },
     {
@@ -3140,7 +3250,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.683Z"
     },
     {
@@ -3178,7 +3288,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.682Z"
     },
     {
@@ -3217,7 +3327,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.682Z"
     },
     {
@@ -3255,7 +3365,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.646Z"
     },
     {
@@ -3293,7 +3403,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.648Z"
     },
     {
@@ -3328,7 +3438,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.708Z"
     },
     {
@@ -3366,7 +3476,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.713Z"
     },
     {
@@ -3405,8 +3515,82 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.712Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Senior Analyst, Forecasting",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 11 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Senior-Analyst--Forecasting_R0182256",
+      "reqId": "R0182256",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Analyst--Forecasting_R0182256",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Analyst--Forecasting_R0182256",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet. \n Bengaluru, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.   \n \n At Takeda’s ICC we Unite in Diversity \n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team \n \n OBJECTIVES / PURPOSE \n We are seeking a forecasting-oriented Senior Analyst to join Takeda’s GCC Commercial Analytics & Insights (CA&I) organization in India as part of the Forecasting capability supporting International Business Units (IBU). This individual contributor role is responsible for building, maintaining, and evolving multiple forecast types across Ex-US markets — including short-term in-market demand forecasts, long-term strategic forecasts, patient-based epidemiology forecasts, and launch and event scenarios — in partnership with affiliate forecasting leads. The Senior Analyst is accountable for forecast model integrity, assumption discipline, and the business relevance of outputs delivered into brand planning, S&OP, and portfolio cycles.\n \n ACCOUNTABILITIES \n Forecast Model Development and Delivery \n Build and maintain a portfolio of forecasts across multiple IBU markets and brands, spanning short-term tactical forecasts (24–36 months), long-term strategic forecasts (10 years), in-line product forecasts, and pre-launch and launch forecasts.\n Apply the appropriate forecast methodology to each business question, including patient-based (epidemiology, prevalence, incidence, treatment flow, persistence, compliance, share) approaches, demand-based (trend, time-series, curve fitting, regression, exponential smoothing) approaches, and hybrid models that integrate both.\n Conduct scenario and sensitivity analyses for market events, competitive entries, LOEs, pricing changes, indication expansions, and access scenarios across IBU geographies.\n Maintain rigorous assumption documentation, version control, and audit trails for every forecast cycle, supporting reproducibility and review by affiliate and global stakeholders.\n Track forecast accuracy across cycles, perform variance analyses against actuals, and translate learnings into improved drivers and assumptions for the next cycle.\n Data, Methodology, and Tooling \n Work with IQVIA MIDAS, local audit data, syndicated subnational data, claims, prescription data, and epidemiology sources to build robust market and patient views across Ex-US geographies.\n Apply statistical and machine learning techniques where appropriate — including ARIMA, exponential smoothing, regression (single and multivariate), Prophet, and other time-series methods — to enhance forecast accuracy for in-market brands.\n Build forecast outputs and tracking dashboards in Tableau or Power BI; structure model files in Excel and, where applicable, in Python or R for automation and reproducibility.\n Stakeholder Partnership and Communication \n Partner with affiliate forecasting leads, brand teams, finance, and global IBU stakeholders to clarify intake, align on methodology, and walk through outputs, assumptions, risks, and scenarios.\n Translate model outputs into clear narratives, decision-grade slides, and assumption summaries tailored to commercial, finance, and senior leadership audiences.\n Represent the GCC forecasting pod in cross-functional working sessions for brand planning, S&OP, LRP, and ad-hoc strategic questions.\n Process Improvement and Operational Excellence \n Identify opportunities to automate recurring forecast updates, standardize templates across markets and brands, and build reusable assumption libraries that improve speed and consistency.\n Contribute to building capability within the GCC pod, including knowledge sharing, documentation of best practices, and onboarding support for new analysts.\n Leverage AI and GenAI tools to accelerate data preparation, assumption research, deviation reasoning, and narrative generation within forecasting workflows.\n KNOWLEDGE, SKILLS & EXPERIENCE \n Education: \n Bachelor’s Degree required in Statistics, Economics, Data Science, Life Sciences, Computer Science, Engineering, or a related quantitative field.\n Advanced degree (Master’s or MBA) in Analytics, Economics, Data Science, Business, or a related quantitative field is strongly preferred.\n Relevant certifications in forecasting, analytics, cloud platforms, or statistical methods are a plus.\n Experience: \n 4–5 years of progressive experience in pharmaceutical forecasting, commercial analytics, healthcare analytics, or related quantitative areas.\n Hands-on experience building and maintaining multiple forecast types — short-term and long-term, in-line and launch, patient-based and demand-based — across more than one market.\n Experience supporting Ex-US markets is required, particularly EU markets; exposure to Asian or Latin American markets is a strong plus.\n Working knowledge of pharma data assets such as IQVIA MIDAS, local audit data, prescription and claims data, and epidemiology sources for Ex-US markets.\n Proficiency in advanced Excel for forecast model construction; working knowledge of Python, R, or SAS for data preparation, time-series analysis, and automation.\n Strong experience with Tableau or Power BI for forecast tracking, scenario reporting, and commercial performance dashboard development.\n Familiarity with cloud analytics environments (Databricks, AWS, Azure) and forecasting platforms (e.g., Anaplan, J D, SAP IBP) is a plus.\n Demonstrated ability to manage multiple forecast cycles simultaneously in a fast-paced, cross-cultural, matrixed environment.\n Skills & Competencies: \n Forecasting Methodology Breadth — Comfortable selecting and applying patient-based, demand-based, and hybrid forecast approaches based on the business question and data context.\n Pharmaceutical Domain Knowledge — Understands demand drivers, patient flow, market events, lifecycle stages, and competitive dynamics across therapy areas and Ex-US markets.\n Analytical Rigor — Applies disciplined assumption management, sensitivity analysis, and accuracy tracking to every forecast deliverable.\n Stakeholder Partnership — Builds trusted working relationships with affiliate forecasting leads, brand teams, finance, and global partners across multiple time zones.\n Data Storytelling — Distills forecast outputs, assumptions, risks, and scenarios into clear narratives with practical business implications and decision points.\n Operational Excellence — Identifies and implements opportunities to automate, standardize, and scale forecasting workflows using modern tools and engineering practices.\n Cross-Cultural Communication — Fluent communicator across India-EU-Asia-LatAm time zones; adapts style effectively for technical and commercial audiences.\n TAKEDA LEADERSHIP BEHAVIORS \n In alignment with Takeda’s Values-Based Culture, this role requires demonstration of the following leadership behaviors:\n Act with Integrity — Deliver accurate, transparent work and take full responsibility for quality.\n Collaborate Cross-Functionally — Contribute positively to GCC-IBU team workflows and cross-functional collaboration.\n Drive Accountability — Take ownership of all assigned tasks and deliver on commitments.\n Embrace Learning — Continuously build analytical and domain capabilities through feedback and self-driven development.\n \n BENEFITS: \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: \n Competitive Salary Performance Annual Bonus \n Flexible work environment, including hybrid working \n Comprehensive Healthcare Insurance Plans for self, spouse, and children \n Group Term Life Insurance and Group Accident Insurance programs \n Employee Assistance Program \n Broad Variety of learning platforms \n Diversity, Equity, and Inclusion Programs \n Reimbursements – Home Internet & Mobile Phone \n Employee Referral Program \n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 calendar days) \n ABOUT ICC IN TAKEDA: \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day. \n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization. \n #Li-Hybrid \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "compliance",
+        "documentation",
+        "SAP",
+        "Excel",
+        "audit"
+      ],
+      "experience": "4–5 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.451Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Viatris",
+      "domain": "pharma",
+      "title": "Global Business Partner Master Data Analyst (1 year fixed term)",
+      "location": "Poland Remote Office",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Poland-Remote-Office/Global-Business-Partner-Master-Data-Analyst_R5662492",
+      "reqId": "R5662492",
+      "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/Poland-Remote-Office/Global-Business-Partner-Master-Data-Analyst_R5662492",
+      "applyUrl": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/Poland-Remote-Office/Global-Business-Partner-Master-Data-Analyst_R5662492",
+      "description": "Viatris Healthcare Sp. z o.o. \n \n At VIATRIS, we see healthcare not as it is but as it should be. We act courageously and are uniquely positioned to be a source of stability in a world of evolving healthcare needs. Viatris empowers people worldwide to live healthier at every stage of life. We do so via:   Access – Providing high quality trusted medicines regardless of geography or circumstance; Leadership – Advancing sustainable operations and innovative solutions to improve patient health; and   Partnership – Leveraging our collective expertise to connect people to products and services.    \n Every day, we rise to the challenge to make a difference — and here’s how this role will make an impact:\n Key Responsibilities\n Create and maintain vendor/customer master data in accordance with global standards and governance policies.\n Collaborate cross-functionally with Global Quality, Regulatory, Finance, Sourcing, affiliates, and manufacturing sites to resolve master data issues and meet business objectives.\n Contribute to the definition and maintenance of Viatris-wide data definitions, terminology, data quality metrics, and business rules.\n Act as the subject matter expert and point of contact for all vendor/customer master data-related matters.\n Write, revise, and maintain standard operating procedures (SOPs), training materials, and process documentation.\n Analyze and resolve master data issues to support efficient daily operations.\n Represent the Global Vendor/Customer Master Data function in SAP implementation and transformation projects, ensuring alignment between global and local teams.\n Support data cleansing, enrichment, and migration activities during system implementations.\n Provide training and guidance to business units on vendor/customer master data processes and best practices.\n Assist in system development initiatives by gathering requirements, drafting test scripts, and executing test cases.\n Lead data cleansing and harmonization efforts, developing effective rules and procedures in collaboration with stakeholders.\n Conduct regular data quality audits to ensure vendor master data remains accurate, complete, and compliant.\n Identify, escalate, and manage the resolution of data quality issues.\n Skills & Experience\n Proven experience in a master data management role, preferably focused on vendor/customer master data.\n Hands-on experience with SAP ERP systems is required; SAP S/4HANA experience is strongly preferred.\n Experience with Business Partner (BP) transformation in S/4HANA, including migration from legacy customer/vendor records, BP role configuration, and integration with procurement and finance modules.\n Experience with processing mass creations/updates preferably with the usage of SAP GUI scripting is a plus\n Strong attention to detail and a consistent track record of delivering high-quality, accurate data.\n Excellent analytical skills, with the ability to interpret data and optimize processes.\n Proficiency in Microsoft Office, especially Excel; experience with SQL is a plus.\n Ability to work effectively in ambiguous environments and bring structure to complex challenges.\n Strong organizational and time management skills.\n Excellent communication skills, both written and verbal.\n Proven ability to work collaboratively across functions and cultures.\n Bachelor’s degree in a relevant discipline or equivalent professional experience.\n Strong customer service orientation and stakeholder engagement skills\n \n A t Viatris, we offer   competitive   salar ies , benefits   and   an inclusive environment where you can use your experiences, perspectives and skills to help make an impact on the lives of others.   \n \n Viatris is an Equal Opportunity Employer.",
+      "skills": [
+        "documentation",
+        "SAP",
+        "Excel"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.457Z"
     },
     {
       "source": "Workday",
@@ -3438,7 +3622,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.675Z"
     },
     {
@@ -3471,7 +3655,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.618Z"
     },
     {
@@ -3508,7 +3692,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.706Z"
     },
     {
@@ -3545,7 +3729,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.699Z"
     },
     {
@@ -3582,7 +3766,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.621Z"
     },
     {
@@ -3619,7 +3803,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.653Z"
     },
     {
@@ -3656,7 +3840,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.653Z"
     },
     {
@@ -3693,7 +3877,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.652Z"
     },
     {
@@ -3730,7 +3914,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.647Z"
     },
     {
@@ -3767,7 +3951,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.648Z"
     },
     {
@@ -3804,7 +3988,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.647Z"
     },
     {
@@ -3841,8 +4025,45 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.714Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Manager, Access Data Products & AI Analytics",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 10 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Manager--Access-Data-Products---AI-Analytics_R0182193",
+      "reqId": "R0182193",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Manager--Access-Data-Products---AI-Analytics_R0182193",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Manager--Access-Data-Products---AI-Analytics_R0182193",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet. \n Bengaluru, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.   \n \n At Takeda’s ICC we Unite in Diversity \n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team \n \n OBJECTIVES / PURPOSE \n We are seeking a technically strong and business-oriented data analytics manager to join Takeda’s GCC Commercial Analytics & Insights organization in India as Manager, Access Data Products & AI Analytics.\n This role will support the delivery and operational excellence of Takeda’s Patient and Market Access data product portfolio. The Manager will partner closely with the Senior Manager, Access Data Product Strategy & AI Enablement, the U.S. Access Data Products Director, Patient Access and Market Access (PAMA), DD&T ICC teams to translate PAMA business needs into trusted, governed, analytics-ready data products and solutions.\n The ideal candidate will bring strong hands-on data analytics skills, commercial pharma data experience, and practical exposure to modern data platforms and AI-enabled analytics. Experience with Databricks, SQL, BI tools, AI/BI capabilities, conversational analytics, GenAI, LLMs, small language models, and natural language data exploration is preferred. Candidates with prior experience at organizations such as ZS, Axtria, IQVIA, or similar life sciences analytics and data consulting firms would be well aligned to this role.\n This role requires a hands-on manager who can manage product delivery workstreams, perform data analysis, validate business rules, support reporting and AI/BI enablement, and ensure data products and analytics are accurate, reusable, and fit for decision-making.\n \n ACCOUNTABILITIES \n Access data product delivery and execution \n Support delivery of Access data products across payer, plan, formulary, coverage, reimbursement, affordability, patient services, hub, specialty pharmacy, prior authorization, claims, and access performance domains.\n Translate business questions and stakeholder needs into clear requirements, user stories, acceptance criteria, source-to-target mappings, data definitions, and validation scenarios.\n Partner with the Senior Manager, U.S. Access Data Products Director, DD&T, data engineering teams, analytics teams, and reporting teams to ensure assigned data products are delivered with quality and business relevance.\n Maintain product backlogs, delivery trackers, issue logs, release notes, documentation, and validation evidence for assigned Access data products.\n Support standardization and reuse across Access data products, helping reduce fragmented, manual, or one-off datasets.\n Technical data analysis and Databricks enablement \n Perform hands-on data analysis to profile data, validate logic, investigate discrepancies, and confirm data readiness for analytics and reporting use cases\n Use SQL and modern data platforms, especially Databricks or similar environments, to support data exploration, transformation validation, reconciliation, and analytics-ready dataset preparation.\n Partner with data engineers and platform teams to review data models, transformation logic, refresh processes, and consumption layers.\n Support creation and validation of semantic layers, curated data marts, reusable business logic, and certified metrics for Access analytics and reporting.\n Identify opportunities to automate recurring data checks, validation routines, reporting support, and data quality monitoring.\n AI/BI and conversational analytics support \n Support AI/BI and GenAI-enabled analytics use cases that improve data discovery, self-service reporting, data quality investigation, documentation, and insight generation.\n Assist in developing and validating conversational analytics capabilities, including natural language querying, governed semantic layers, reusable analytical prompts, and business-friendly data exploration experiences.\n Bring practical understanding of LLMs, small language models, prompt engineering, retrieval-augmented generation, and responsible AI concepts as they apply to commercial pharma data and analytics.\n Partner with the Senior Manager and platform teams to test AI-enabled workflows and ensure outputs are accurate, explainable, governed, and appropriate for business use.\n Help business users adopt AI-enabled analytics capabilities by supporting training materials, FAQs, examples, documentation, and issue resolution.\n Data quality, validation, and governance \n Perform hands-on data quality checks, including completeness, timeliness, accuracy, consistency, business rule adherence, and reconciliation against source or control totals.\n Create and maintain validation scripts, QA checklists, exception reports, control files, and issue-resolution documentation.\n Investigate data discrepancies, identify root causes, coordinate remediation with technical teams, and communicate business impacts clearly.\n Support data quality KPIs and monitoring routines for assigned Access data products.\n Ensure business rules, metric definitions, lineage, source-to-target mappings, transformation logic, assumptions, limitations, and known caveats are documented and maintained.\n Follow Takeda’s data governance, privacy, metadata, lineage, and appropriate-use standards for healthcare and commercial pharma data.\n Reporting and analytics enablement \n Support trusted home office, market access, patient services, and franchise-level reporting by ensuring assigned Access data products are accurate, timely, and decision-ready.\n Partner with A&I and reporting teams to validate dashboards, scorecards, metrics, extracts, and analytical outputs that rely on Access data products.\n Support analytics use cases related to payer engagement, coverage and formulary performance, affordability, reimbursement, prior authorization, hub operations, specialty pharmacy performance, patient journey, and access performance measurement.\n Help identify opportunities to improve time-to-insight through reusable data logic, better documentation, improved data models, automated checks, and simplified data consumption.\n Support adoption of centralized Access data products and help transition users away from non-standard or manual reporting processes where appropriate.\n Stakeholder, vendor, and team collaboration \n Work closely with U.S. and GCC stakeholders across PAMA, A&I, Commercial Operations, DD&T, franchise analytics teams, and vendors to clarify requirements, resolve issues, and support delivery.\n Collaborate with external data and analytics partners as needed, including vendors and consulting partners supporting Access data, commercial pharma analytics, data engineering, and AI-enabled analytics.\n Bring working knowledge of commercial pharma data vendor ecosystems, including IQVIA, Axtria, ZS, specialty pharmacy data partners, hub vendors, claims vendors, payer/formulary data providers, and related partners.\n Communicate status, risks, dependencies, issues, and decisions clearly to the Senior Manager and relevant stakeholders.\n Manage and coach a small team of analysts, QA resources, or reporting specialists supporting assigned Access data product workstreams.\n KNOWLEDGE, SKILLS & EXPERIENCE \n Education \n Bachelor’s degree in Statistics, Business, Information Systems, Computer Science, Engineering, Analytics, Life Sciences, or a related field required.\n Experience \n 7 years of experience in data analytics, business intelligence, reporting, data product delivery, data operations, commercial analytics, or business analysis.\n Experience in pharmaceutical, biotech, healthcare, payer, patient services, market access, or life sciences data preferred.\n Experience leading small teams, delivery workstreams, analysts, QA resources, or reporting specialists.\n Experience translating business needs into requirements, user stories, data definitions, source-to-target mappings, testing scenarios, and validation plans.\n Experience with commercial pharma data sources such as claims, specialty pharmacy, hub, payer, plan, formulary, IQVIA, LAAD, LAAD Plus, DDD, 852/867, patient services, market access, or affordability data preferred.\n Prior experience with ZS, Axtria, IQVIA, or similar life sciences analytics, data strategy, or consulting organizations preferred.\n Experience supporting U.S. commercial pharma stakeholders across Market Access, Patient Services, Commercial Operations, Analytics & Insights, or brand/franchise teams preferred.\n Technical skills \n Strong Python and SQL skills required.\n Hands-on experience with data analysis, data profiling, reconciliation, validation, QA, and root-cause investigation required.\n Experience with Databricks or similar cloud data platforms preferred.\n Familiarity with Spark, PySpark, Python, notebooks, data pipelines, semantic layers, and modern ELT concepts preferred.\n Experience with BI and visualization tools such as Tableau, Power BI, Qlik, or similar platforms.\n Exposure to Databricks AI/BI capabilities, Genie or Gene-style conversational analytics, natural language querying, or AI-assisted data exploration preferred.\n Basic understanding of LLMs, small language models, prompt engineering, retrieval-augmented generation, conversational analytics, and responsible AI concepts preferred.\n Experience using AI or GenAI tools to improve analytics workflows, reporting, documentation, data quality, or user self-service preferred.\n Working knowledge of data modeling, metadata, lineage, source-to-target mapping, data governance, MDM, and controlled data consumption.\n Understanding of data privacy, compliance, and appropriate use considerations for healthcare and commercial pharma data.\n Leadership and business competencies \n Strong analytical problem-solving skills and ability to connect data findings to business impact.\n Clear communication skills, with the ability to explain data issues, requirements, and analytical findings to both business and technical audiences.\n Strong execution discipline, attention to detail, and ownership of quality, timelines, and documentation.\n Ability to work effectively across time zones with U.S. business partners, GCC teams, DD&T, vendors, and analytics stakeholders.\n Curiosity and willingness to build deeper Access domain knowledge across payer, reimbursement, affordability, hub, specialty pharmacy, formulary, and patient services topics.\n Ability to manage ambiguity, prioritize competing work, and escalate issues with clear options and recommendations.\n Willingness to challenge unclear requirements, inconsistent definitions, weak data controls, or outputs that are not fit for business use.\n Ability to coach analysts and help build stronger technical, analytical, domain, and AI-enabled analytics capabilities within the GCC team.\n TAKEDA LEADERSHIP BEHAVIORS \n Think Strategically — Demonstrate strategic enterprise thinking to find innovative ways to serve patients.\n Collaborate Cross-Functionally — Build diverse teams that deliver results while fostering inclusion.\n Drive Accountability — Execute with excellence and hold oneself and others accountable.\n Develop Talent — Attract, develop, and retain top talent, building capabilities for the future.\n \n BENEFITS: \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: \n Competitive Salary Performance Annual Bonus \n Flexible work environment, including hybrid working \n Comprehensive Healthcare Insurance Plans for self, spouse, and children \n Group Term Life Insurance and Group Accident Insurance programs \n Employee Assistance Program \n Broad Variety of learning platforms \n Diversity, Equity, and Inclusion Programs \n Reimbursements – Home Internet & Mobile Phone \n Employee Referral Program \n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 calendar days) \n \n ABOUT ICC IN TAKEDA: \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day. \n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization. \n \n #Li-Hybrid \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "compliance",
+        "documentation",
+        "data analysis"
+      ],
+      "experience": "7 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 75,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.454Z"
     },
     {
       "source": "Workday",
@@ -3877,7 +4098,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.680Z"
     },
     {
@@ -3913,7 +4134,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.680Z"
     },
     {
@@ -3949,7 +4170,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.659Z"
     },
     {
@@ -3985,7 +4206,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.657Z"
     },
     {
@@ -4021,7 +4242,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.702Z"
     },
     {
@@ -4057,7 +4278,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.643Z"
     },
     {
@@ -4093,7 +4314,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.645Z"
     },
     {
@@ -4129,8 +4350,44 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.645Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Digital Communications and Change Senior Analyst",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 10 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Digital-Communications-and-Change-Senior-Analyst_R0181469",
+      "reqId": "R0181469",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Digital-Communications-and-Change-Senior-Analyst_R0181469",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Digital-Communications-and-Change-Senior-Analyst_R0181469",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are creating a future-ready organization that uses data and digital to meet the needs of patients, our people, and the planet. We need your help to make this happen. Join our Innovation Capability Center (ICC) in Bratislava, Slovakia.\n \n THE OPPORTUNTY As a Senior Analyst, Digital Communications and Change , you will collaborate closely with key stakeholders to lead all organizational alignment initiatives related to GDD&T communications. You will be responsible for shaping the communications vision and defining an effective engagement strategy—including cadence, channels, audience segmentation, and tools—to ensure clarity, consistency, and impact. This role is pivotal in fostering organizational agility and change readiness, serving as a key enabler of our ongoing digital transformation. You will help build a culture that embraces change, drives collaboration, and supports innovation at every level of the organization.\n  \n OBJECTIVES/PURPOSE \n As an OCM Senior Analyst, you will support small to medium-scale Change Management initiatives, ensuring effective delivery and adoption of digital transformation activities.\n Accompany the operational implementation of all Change Management services to deliver an excellent experience during dynamic times of change.\n Execute Change Management and Communications activities to support the adoption of new processes and technology to achieve our digital ambitions, ensuring an exceptional end user experience.\n Prepare Change Management assets, based on a defined strategic approach\n Manage and monitor the change and suggest reinforcements to support the transition.\n \n ACCOUNTABILITIES \n Change Management and Communications service delivery to effectively support change and provide an exceptional end user experience.  \n Services include (but not limited to):   \n End to End Change Management and Communications services for digital technology implementations.  \n Track Change Management and Communications effectiveness through standard KPIs.  \n Identification and mitigation/management of organizational, process, system and data changes.  \n Execution of the defined training approach in collaboration with training team members to deliver an exceptional user experience: Training Materials, Training Effectiveness, Training Approach, Training Needs Assessment, Curriculum, LMS, etc.   \n Execution of the defined communications and engagement activities to support adoption. \n Collaboration with Communications team members to deliver an exceptional user experience. \n Monitor the Change Management effectiveness, based on data. \n Comply with the Project Management practices used in Change Management and Communications, including: Project Plan, Milestone Management, Status Tracking and Reporting, Deliverables Follow Up, Issue and Risk Management. \n As a member of the Change and Communications team support other team activities as needed and participate in OCM community activities to support internal collaboration and capability building  \n Collaborate with stakeholders to lead all organizational alignment activities for GDD&T communications. \n All other duties reasonably required of the position.  \n \n SKILLS    \n \n Technical/Functional (Line) Expertise   \n Experience with end-to-end change implementations for small-medium programs with knowledge of operational steps such as Change and Communication Strategy, Change Impact Assessment, Change Action Plan, Communications Planning, Training Needs Assessment, Training Curriculum, Readiness Assessment, etc.  \n \n Leadership   \n Driving participation and engaging with various stakeholders and Subject Matter Experts (SME) to enable key decision making and delivery.  \n \n Decision-making and Autonomy   \n Collaborate with Stakeholders and team members to identify needs, objectives, risks and improvement opportunities from initiation, be proactive .\n Create relevant plans and ensure end-to-end deliverables execution for the effective management of change. \n \n Interaction   \n Establish and maintain productive relationships with relevant stakeholders to the success of our services.  \n \n Innovation   \n Be proactive and propose solutions to create an effective and impactful Change Management.   \n \n \n EDUCATION, BEHAVIOURAL COMPETENCIES AND SKILLS:  \n Essentials \n Appropriate Bachelor’s in related specialization area (e.g. Change Management, Communications, Business Administration, IT) is essential\n 4-6 years of experience in Change Management in a global setting preferably in an IT function \n Excellent oral and written communications skills , business acumen with analytical and problem-solving skills\n Experience in managing change in a diverse data and digital technology landscape\n Ability to manage change in a cross functional organization while being flexible and adaptable to work in ambiguous situations\n Excellent interpersonal and communication skills (both written and verbal English) to clearly articulate messages to a variety of audiences\n Ability to work successfully in multi-cultural teams and to build and maintain strong relationship with key local and global stakeholders\n Practice efficient time management and coordinates tasks, working in an international environment\n Skilled in problem-solving, able to identify and address challenges creatively and effectively\n Experience in Pharma and GxP projects is a plus\n \n Skills \n \n Tools and Technology \n Experience in communicating effectively to business and IT leaders \n Solid IT skills and a quick learner of new systems \n Open to new ways of working and applying new methodologies \n Proficient in using Microsoft Office 365 applications, including Word, Excel, PowerPoint, Forms, and SharePoint. \n Experienced in using Change Management methods and tools to facilitate organizational change\n \n Your application and all conversations that occur with the recruiter, HR, and the hiring manager as part of that application will be treated in the strictest confidence.\n \n At Takeda’s ICC we Unite in Diversity  Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team.   \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "GxP",
+        "Excel"
+      ],
+      "experience": "4–6 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 73,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.453Z"
     },
     {
       "source": "Workday",
@@ -4164,7 +4421,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.697Z"
     },
     {
@@ -4275,7 +4532,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.712Z"
     },
     {
@@ -4310,7 +4567,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.614Z"
     },
     {
@@ -4345,7 +4602,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.626Z"
     },
     {
@@ -4380,7 +4637,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.621Z"
     },
     {
@@ -4415,7 +4672,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.625Z"
     },
     {
@@ -4450,7 +4707,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.623Z"
     },
     {
@@ -4485,7 +4742,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.628Z"
     },
     {
@@ -4520,7 +4777,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.627Z"
     },
     {
@@ -4590,7 +4847,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.643Z"
     },
     {
@@ -4625,7 +4882,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.651Z"
     },
     {
@@ -4660,7 +4917,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.650Z"
     },
     {
@@ -4694,7 +4951,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.681Z"
     },
     {
@@ -4728,8 +4985,42 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.651Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Senior Analyst -Tech Ops and Support - R&D Veeva Vault CoE",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted 9 Days Ago",
+      "externalPath": "/job/IND---Bengaluru/Senior-Analyst--Tech-Ops-and-Support---R-D-Veeva-Vault-CoE_R0181065",
+      "reqId": "R0181065",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Analyst--Tech-Ops-and-Support---R-D-Veeva-Vault-CoE_R0181065",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Senior-Analyst--Tech-Ops-and-Support---R-D-Veeva-Vault-CoE_R0181065",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n  Senior Analyst -Tech Ops and Support - R&D Veeva Vault CoE \n \n The Future Begins Here\n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet.\n Bengaluru, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.  \n \n At Takeda’s ICC we Unite in Diversity\n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team.\n \n Objectives/Purpose:\n \n OBJECTIVES/PURPOSE : \n The Senior Support Engineer will be responsible for ensuring the smooth operation, maintenance, and enhancement of software applications used by the R&D Veeva Vault CoE. This role requires a blend of technical expertise, problem-solving skills, and excellent communication abilities to provide support to R&D Veeva Vault CoE. The successful candidate will collaborate with various teams to provide comprehensive support and deliver exceptional service.\n \n ACCOUNTABILITIES \n Application Maintenance and Support\n Monitor and maintain application systems to ensure optimal performance, reliability, and scalability.\n Provide Level 2 and Level 3 support for software applications, addressing and resolving incidents in a timely manner.\n Diagnose and resolve application-related issues promptly, providing technical support and troubleshooting expertise to end-users.\n Monitor application performance and availability, identifying and resolving potential issues proactively.\n Perform routine maintenance tasks, including patching, updates, and backups, to ensure application stability and security.\n Document and maintain support procedures, troubleshooting guides, and knowledge base articles.\n System Administration\n Manage and maintain application servers, ensuring they are running efficiently and securely.\n Implement and monitor security measures to protect applications and data from unauthorized access and threats.\n Configure and optimize system settings and parameters to enhance application performance.\n Collaborate with IT teams to plan and execute system upgrades and migrations.\n User Administration and Access Controls\n Create, modify, or delete user accounts as needed. Ensure that users have the appropriate access levels based on their roles and responsibilities.\n Implement and enforce access control policies to protect sensitive data and prevent unauthorized access. This includes setting up role-based access controls (RBAC) and regularly reviewing user permissions.\n Respond to security incidents related to user access and administration.\n Conduct regular security audits to identify and address potential vulnerabilities.\n Provide training and support to users on security best practices and the proper use of access controls.\n Address any user-related security issues promptly and effectively and respond to security incidents related to user access and administration.\n Monitoring and Troubleshooting Application Interfaces\n Conduct regular monitoring of application interfaces to ensure seamless data exchange between systems.\n Identify and resolve interface-related issues swiftly, minimizing impact on business operations.\n Collaborate with development teams to enhance interface performance and reliability.\n Document interface configurations, troubleshooting steps, and resolution processes to maintain a comprehensive knowledge base.\n Utilize monitoring tools and logs to proactively detect and address potential interface disruptions.\n Incident Management\n Respond to and resolve application-related incidents, ensuring minimal impact on business operations.\n Coordinate with development teams, system administrators, and other stakeholders to investigate and resolve complex issues.\n Track and document incidents, root causes, and resolutions in the ticketing system.\n Identify recurring issues and recommend long-term solutions to prevent future occurrences.\n User Support and Training\n Provide excellent customer service by addressing user queries and providing guidance on application usage and best practices.\n Provide technical support and guidance to end-users, assisting them in utilizing applications effectively.\n Conduct training sessions and create user manuals to educate users on application functionality and best practices.\n Act as a liaison between end-users and development teams to communicate enhancement requests and user feedback.\n Service Requests\n Receive and process requests by accurately log and categorize incoming service requests.\n Follow established procedures to resolve common service requests (Generating reports, adding users, system configuration changes, data processing, etc).\n Provide clear and concise updates to customers regarding the status of their requests.\n Maintain detailed records of all service requests and resolutions.\n Identify opportunities to improve service request processes.\n Enhancements\n Gather requirements for application enhancements from end-users and stakeholders.\n Evaluate enhancement requests and prioritize them based on business needs and impact.\n Responsible for executing approved service requests in a timely and efficient manner.\n Collaborate with product engineering teams, as needed, to design, test, and implement approved enhancements.\n Communicate changes and updates to end-users, ensuring they understand new features and improvements.\n System Integration and Testing\n Collaborate with development teams to test new releases, patches, and updates before deployment.\n Participate in system integration testing to ensure seamless interaction between applications and other systems.\n Identify and document any issues discovered during testing, working with developers to resolve them.\n \n EDUCATION, BEHAVIOURAL COMPETENCIES AND SKILLS:  \n \n Education and Experience\n Bachelor s degree in Computer Science, Information Technology, or a related field.\n 6 years of experience in application support or a related technical role.\n Experience with enterprise software applications, databases, and operating systems.\n Certifications: Relevant certifications such as Veeva.\n \n What Takeda Can Offer You \n Takeda is certified as a Top Employer, not only in India, but also globally. No investment we make pays greater dividends than taking good care of our people. \n At Takeda, you take the lead on building and shaping your own career. \n Joining the ICC in Bangalore will give you access to high-end technology, continuous training and a diverse and inclusive network of colleagues who will support your career growth. \n \n Benefits \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: \n Competitive Salary Performance Annual Bonus \n Flexible work environment, including hybrid working \n Comprehensive Healthcare Insurance Plans for self, spouse, and children \n Group Term Life Insurance and Group Accident Insurance programs \n Health & Wellness programs\n Employee Assistance Program \n 3 days of leave every year for Voluntary Service in additional to Humanitarian Leaves \n Broad Variety of learning platforms   \n Diversity, Equity, and Inclusion Programs \n Reimbursements – Home Internet & Mobile Phone \n Employee Referral Program \n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 days) \n \n About ICC in Takeda \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day. \n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization.\n \n \n \n \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND"
+      ],
+      "experience": "6 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 69,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.452Z"
     },
     {
       "source": "Workday",
@@ -4760,7 +5051,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.655Z"
     },
     {
@@ -4792,7 +5083,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.637Z"
     },
     {
@@ -4827,7 +5118,7 @@
         "title match",
         "domain fit"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.707Z"
     },
     {
@@ -4859,7 +5150,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.686Z"
     },
     {
@@ -4891,7 +5182,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.686Z"
     },
     {
@@ -4923,7 +5214,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.687Z"
     },
     {
@@ -4955,7 +5246,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.688Z"
     },
     {
@@ -4987,7 +5278,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.688Z"
     },
     {
@@ -5019,7 +5310,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.690Z"
     },
     {
@@ -5051,7 +5342,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.691Z"
     },
     {
@@ -5083,7 +5374,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.692Z"
     },
     {
@@ -5115,7 +5406,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.693Z"
     },
     {
@@ -5147,7 +5438,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.693Z"
     },
     {
@@ -5179,7 +5470,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.694Z"
     },
     {
@@ -5211,7 +5502,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.694Z"
     },
     {
@@ -5243,7 +5534,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.695Z"
     },
     {
@@ -5275,7 +5566,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.695Z"
     },
     {
@@ -5307,7 +5598,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.696Z"
     },
     {
@@ -5339,7 +5630,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.696Z"
     },
     {
@@ -5371,7 +5662,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.696Z"
     },
     {
@@ -5403,7 +5694,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.697Z"
     },
     {
@@ -5435,7 +5726,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.697Z"
     },
     {
@@ -5467,7 +5758,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.684Z"
     },
     {
@@ -5499,7 +5790,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.684Z"
     },
     {
@@ -5531,7 +5822,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.685Z"
     },
     {
@@ -5563,7 +5854,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.685Z"
     },
     {
@@ -5595,7 +5886,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.685Z"
     },
     {
@@ -5627,7 +5918,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.686Z"
     },
     {
@@ -5659,7 +5950,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.687Z"
     },
     {
@@ -5691,7 +5982,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.688Z"
     },
     {
@@ -5723,7 +6014,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.689Z"
     },
     {
@@ -5755,7 +6046,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.689Z"
     },
     {
@@ -5787,7 +6078,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.689Z"
     },
     {
@@ -5819,7 +6110,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.690Z"
     },
     {
@@ -5851,7 +6142,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.690Z"
     },
     {
@@ -5883,7 +6174,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.691Z"
     },
     {
@@ -5915,7 +6206,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.692Z"
     },
     {
@@ -5947,7 +6238,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.692Z"
     },
     {
@@ -5979,7 +6270,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.693Z"
     },
     {
@@ -6011,7 +6302,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.694Z"
     },
     {
@@ -6043,7 +6334,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.695Z"
     },
     {
@@ -6080,7 +6371,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.660Z"
     },
     {
@@ -6118,7 +6409,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.615Z"
     },
     {
@@ -6156,7 +6447,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.627Z"
     },
     {
@@ -6193,7 +6484,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.650Z"
     },
     {
@@ -6231,7 +6522,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.682Z"
     },
     {
@@ -6268,7 +6559,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.711Z"
     },
     {
@@ -6304,7 +6595,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.698Z"
     },
     {
@@ -6340,7 +6631,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.702Z"
     },
     {
@@ -6376,8 +6667,44 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.705Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Associate, HR Reporting & Analytics-1",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted 6 Days Ago",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
+      "reqId": "441713",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
+      "description": "The Reporting and Analytics Analyst (GCC) is a member of the People Services Employee Life Cycle & supports global markets and plays a key role in the analysis and supply of data metrics ensuring data quality and the enablement of operationally relevant business intelligence in order for performance decisions to be made and a compliant People Services ELC organization upheld. \n This position requires an action oriented professional, who will provide essential support in the production or reports, analytics and actionable insights in support of People Services ELC Service delivery obligations. \n \n Key Responsibilities: \n \n Deliver against all compliance imperatives including support for local and global Data Audits, local legislative needs, protecting Data Privacy at all times and adhering to confidentiality requirements to promote zero breach of compliance policies.  \n Understands the use of Workday Reporting and can act as a subject matter expert on providing guidance on Workday reports \n Understands the use of on-line tools and HR systems and can act as a subject matter expert on a wide range of diverse and complex issues and provide guidance as it relates to HR transactions. \n ·   Supporting employees, managers and HR on Workday reporting request (scheduled and ad hoc). \n Possesses deep knowledge of Workday reporting serving as subject matter understanding the downstream impact of transactions. \n Generates and analyses service KPI’s when requested. \n Develop capability for sophisticated data analysis that provides both retrospective and prospective actionable insights that improves service. \n Possesses deep knowledge of Workday, ServiceNow, PowerBI reporting serving as subject matter understanding the downstream impact of transactions \n Will create appropriate global, regional and local metrics/dashboards to provide oversight and insights to performance with an expectation of driving continuous improvement.  \n Develop new Dashboards, improve existing ones in order to support People Service ELC Center metrics and performance. \n Will be partnering with the PDA, GXOTeams to create appropriate global, regional and local metrics/dashboards to provide oversight and insights to performance with an expectation of driving continuous improvement.   \n Develop capability for sophisticated data analysis that provides both retrospective and prospective actionable insights that improves service. \n \n Knowledge Management \n Uses knowledge management tools/Veevadocs effectively to ensure accuracy of information and stays abreast of changes in knowledge management content.\n Take accountability for ensuring all relevant Service Operating Procedures are fit for purpose and governed according to accepted Global standards\n \n \n Delivery Management \n Deliver services against Global Value Stream Metrics and standards utilizing Dashboards and available data analytics to ensure personal and team performance meet all agreed service standards and any CI opportunities are identified and followed up accordingly\n Ensure effective prioritization of work and appropriate workforce planning for incoming workload\n Deliver against all compliance imperatives including support for local and global Data Audits, local legislative needs, protecting Data Privacy at all times and adhering to confidentiality requirements to promote zero breach of compliance policies\n \n Skills and expertise: \n Experience working in a HR Shared Services, Support Centre or Customer Support environment. \n Workday Reporting, Analytics, ServiceNow, POWER BI Dashboarding is a Must. \n Excellent Communication Skills. \n Demonstrated Workday technical & analytical skills and experience of working with metrics. \n High level of expertise in Workday and standard MS Office Software (excel and word). \n Performance driven / Focus on results. \n Knowledge of relevant technology that aid in process improvement and governance (e.g. QlikView dashboards, Power BI, Workday, Service Now, etc.). \n Experience in the Microsoft Power Platform – MS PowerApps, Power Automate, and Power BI \n Experience with Office 365 development utilizing PowerApps, Power Automate, and Power BI, Teams and SharePoint Online \n   \n Basic Qualification: \n University Degree, bachelor s degree or equivalent experience \n Minimum 3 to 4yrs of experience. \n \n Skills \nBusiness Data Mining, Data Analysis, Data Analysis Tools, Data Mining, Data Modeling, Data Storytelling, SQL Databases, Statistical Analysis, Structured Query Language (SQL)  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "compliance",
+        "Excel",
+        "data analysis"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 64,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.457Z"
     },
     {
       "source": "Workday",
@@ -6412,7 +6739,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.628Z"
     },
     {
@@ -6448,7 +6775,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.636Z"
     },
     {
@@ -6484,7 +6811,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.637Z"
     },
     {
@@ -6520,7 +6847,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.649Z"
     },
     {
@@ -6556,7 +6883,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.650Z"
     },
     {
@@ -6592,7 +6919,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.710Z"
     },
     {
@@ -6628,7 +6955,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.708Z"
     },
     {
@@ -6664,7 +6991,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.709Z"
     },
     {
@@ -6699,7 +7026,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.679Z"
     },
     {
@@ -6734,7 +7061,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.680Z"
     },
     {
@@ -6769,7 +7096,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.661Z"
     },
     {
@@ -6804,7 +7131,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.703Z"
     },
     {
@@ -6839,7 +7166,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.700Z"
     },
     {
@@ -6874,7 +7201,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.704Z"
     },
     {
@@ -6909,7 +7236,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.625Z"
     },
     {
@@ -6944,7 +7271,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.629Z"
     },
     {
@@ -6979,7 +7306,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.644Z"
     },
     {
@@ -7015,7 +7342,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.711Z"
     },
     {
@@ -7049,7 +7376,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.658Z"
     },
     {
@@ -7083,7 +7410,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.658Z"
     },
     {
@@ -7117,7 +7444,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.656Z"
     },
     {
@@ -7151,7 +7478,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.659Z"
     },
     {
@@ -7185,7 +7512,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.656Z"
     },
     {
@@ -7219,7 +7546,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.616Z"
     },
     {
@@ -7253,7 +7580,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.622Z"
     },
     {
@@ -7287,7 +7614,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.624Z"
     },
     {
@@ -7321,7 +7648,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.626Z"
     },
     {
@@ -7355,7 +7682,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.620Z"
     },
     {
@@ -7389,7 +7716,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.620Z"
     },
     {
@@ -7423,7 +7750,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.622Z"
     },
     {
@@ -7457,8 +7784,42 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.623Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Analyst – Cyber Design Assurance & Product Management (DA&PM)",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted 2 Days Ago",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Analyst---Cyber-Design-Assurance---Product-Management--DA-PM-_441465-1",
+      "reqId": "441465",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Analyst---Cyber-Design-Assurance---Product-Management--DA-PM-_441465-1",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Analyst---Cyber-Design-Assurance---Product-Management--DA-PM-_441465-1",
+      "description": "Analyst – Cyber Design Assurance & Product Management (DA&PM) \n \n The Design Assurance & Product Management (DA&PM) function supports the integration of cybersecurity into products, platforms, cloud services, and enterprise infrastructure throughout their lifecycle. DA&PM contributes to technical design assurance, governance activities, product assurance, and security enablement initiatives to help ensure secure-by-design implementation across enterprise technologies.\n \n This role works closely with architecture, engineering, cloud, infrastructure, identity, and product teams to support secure delivery, operational alignment, and continuous improvement of cybersecurity controls and practices.\n \n Key Responsibilities \n Support the integration of secure design principles into product, platform, infrastructure, and cloud environments during planning, design, and implementation phases.\n Support security design reviews, technical assessments, control validations, threat modelling activities, and architecture assurance exercises across enterprise technologies and platforms.\n Contribute to governance activities including control assessments, standards alignment, exception tracking, and lifecycle assurance across security and technology platforms.\n Assist in evaluating, onboarding, operationalizing, and reviewing cybersecurity tools across cloud, identity, application security, infrastructure, and data protection domains.\n Work with engineering, platform, cloud, hosting, and cyber defence teams to support secure implementation, remediation planning, telemetry enablement, and operational alignment.\n Support identification of security risks, control gaps, configuration issues, and exposure scenarios across enterprise systems, cloud environments, and platforms.\n Assist in preparing dashboards, assessment summaries, risk metrics, usage insights, and reporting related to security controls, product assurance, and governance activities.\n Help maintain security guidance, reusable assessment templates, design assurance checklists, and secure-by-default implementation standards.\n Contribute to initiatives related to Zero Trust, cloud security, identity security, API security, DevSecOps, and enterprise security transformation programs.\n Collaborate with product owners, architecture teams, engineering teams, operations teams, and vendors to support delivery of secure and scalable enterprise solutions.\n \n Minimum Qualifications \n Bachelor’s degree in Computer Science, Information Security, Engineering, or a related technical field.\n 2–5 years of experience in cybersecurity, cloud security, infrastructure security, application security, or security engineering functions.\n Working knowledge of cloud platforms such as Microsoft Azure and Google Cloud Platform (GCP), including security controls, identity and access management, networking, monitoring, and cloud-native security principles.\n Familiarity with cybersecurity concepts including IAM, network security, endpoint security, application security, vulnerability management, and data protection principles.\n Understanding of security standards and frameworks (e.g., NIST CSF, CIS Benchmarks, OWASP, MITRE ATT&CK, Zero Trust).\n Experience supporting security assessments, governance activities, engineering functions, or operational security processes.\n \n Preferred Skills \n Familiarity with DevSecOps practices and integrating security into CI/CD pipelines.\n Exposure to security technologies across the stack (e.g., CNAPP, CSPM, SIEM/SOAR, EDR/XDR, PAM/PIM, SAST/DAST, API Security, Data Classification/Labeling).\n Basic scripting or automation knowledge (e.g., PowerShell, Python, Bash) is beneficial.\n Strong analytical, troubleshooting, and problem-solving capabilities.\n Good communication and stakeholder collaboration skills.\n Ability to work in a fast-paced, federated environment supporting secure delivery and operational alignment.\n Interest in modern cybersecurity practices aligned to Zero Trust, secure-by-design, cloud-native security, and enterprise transformation initiatives.\n \n Skills \nAI for Cybersecurity, Application Security, Cloud Security, Computer Programming, Data Security, Identity Access Management (IAM), Information Systems, Infrastructure Security, ML Security, Operating Systems Security, Scripting, Security Engineering, Security Technologies, Security Testing, Vulnerability Management  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "labeling"
+      ],
+      "experience": "2–5 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 60,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.456Z"
     },
     {
       "source": "Workday",
@@ -7490,7 +7851,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.616Z"
     },
     {
@@ -7523,7 +7884,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.619Z"
     },
     {
@@ -7556,7 +7917,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.641Z"
     },
     {
@@ -7589,7 +7950,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.642Z"
     },
     {
@@ -7620,8 +7981,76 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.625Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Viatris",
+      "domain": "pharma",
+      "title": "Sales Reporting & Analysis Analyst",
+      "location": "United States Remote Office",
+      "postedText": "Posted 6 Days Ago",
+      "externalPath": "/job/United-States-Remote-Office/Sales-Reporting---Analysis-Analyst_R5670738",
+      "reqId": "R5670738",
+      "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Sales-Reporting---Analysis-Analyst_R5670738",
+      "applyUrl": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Sales-Reporting---Analysis-Analyst_R5670738",
+      "description": "Mylan Pharmaceuticals Inc. \n Viatris is a global healthcare company uniquely positioned to bridge the traditional divide between generics and brands, combining the best of both to more holistically address healthcare needs globally. With a mission to empower people worldwide to live healthier at every stage of life, we provide access at scale, currently supplying high-quality medicines to approximately 1 billion patients around the world annually and touching all of life s moments, from birth to the end of life, acute conditions to chronic diseases. \n \n We have been included on number of award lists that demonstrate the impact we are making. \n \n \n Every day, we rise to the challenge to make a difference and here’s how the Sales Reporting & Analysis Analyst role will make an impact:\n \n Key responsibilities for this role include:\n Responsible for calculating Sales Returns and Allowances, Gross Profit, Price Volume Variances, and Royalties on a monthly and quarterly basis which are in accordance to the guidelines of the company’s internal controls, policies, and procedures.\n Performs analytics and develops insight used to build financial models. Develop and build analytical and financial models to identify and address business issues and/or opportunities.\n Streamline the gross-to-net reporting process through increased automation, including use of Alteryx, and leverage visualization techniques to drive financial insights.\n Analyze actual versus forecasted financial results. Provide variance analysis highlighting key business drivers as required.\n Prepare product/customer profitability analysis, including but not limited to, by customer and by product reporting.\n Assist local leadership with financial analysis for special projects.  \n Serve as a resource for internal and external audit requests.\n Serve as a resource in implementing and testing new systems.\n Perform other duties as assigned.\n \n The minimum qualifications for this role are:\n Minimum of a Bachelor s degree (or equivalent) and 0-4 years of experience. However, a combination of experience and/or education will be taken into consideration. \n Must possess strong finance/accounting technical knowledge. Must have advanced technical skills with Microsoft Excel, Word and PowerPoint and strong system skills, preferably Hyperion and SAP.\n Must have the skill sets to build and maintain sound business relationships. \n Must have the ability to look beyond the data for assumptions and implications.\n Must demonstrate the ability to take initiative, respond to work demands in a flexible manner and produce timely, high-quality work products in a team environment.\n Must have a proven track record of analyzing business trends, including identification of business risks and opportunities and have the ability to present recommendations in a clear and concise manner.\n Advanced skills in developing financial models, reporting and variance analysis.\n Excellent interpersonal skills and confidence sufficient to interact with all levels of personnel within the organization and the proven ability to lead in a team environment.\n Must possess excellent ability to communicate ideas and analysis effectively to influence business decisions and display confidence and maturity in dealing with all levels of the organization. \n Must possess strong decision-making capabilities and advanced analytical skills; must be able to see the “big picture”.\n This role may have remote flexibility. The preference is for the role to be based in Morgantown, WV or from a location on the East Coast of the US.\n \n Exact compensation may vary based on items such as skills, experience and location. The salary range for this position is: $41,000 - $93,000. \n \n At Viatris, we offer competitive salaries, benefits and an inclusive environment where you can use your experiences, perspectives and skills to help make an impact on the lives of others. \n \n Viatris is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, gender expression, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. \n \n \n#LI-Remote",
+      "skills": [
+        "SAP",
+        "Excel",
+        "audit"
+      ],
+      "experience": "0–4 yrs",
+      "salary": {
+        "display": "$41,000 - $93,000",
+        "minLPA": null,
+        "maxLPA": null,
+        "actual": true,
+        "note": "overseas currency"
+      },
+      "score": 55,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "remote"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.458Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Viatris",
+      "domain": "pharma",
+      "title": "Senior Analyst, Pricing and Contracts",
+      "location": "United States Remote Office",
+      "postedText": "Posted 9 Days Ago",
+      "externalPath": "/job/United-States-Remote-Office/Senior-Analyst--Pricing-and-Contracts_R5670804",
+      "reqId": "R5670804",
+      "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Senior-Analyst--Pricing-and-Contracts_R5670804",
+      "applyUrl": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Senior-Analyst--Pricing-and-Contracts_R5670804",
+      "description": "Mylan Pharmaceuticals Inc. \n Viatris is a global healthcare company uniquely positioned to bridge the traditional divide between generics and brands, combining the best of both to more holistically address healthcare needs globally. With a mission to empower people worldwide to live healthier at every stage of life, we provide access at scale, currently supplying high-quality medicines to approximately 1 billion patients around the world annually and touching all of life s moments, from birth to the end of life, acute conditions to chronic diseases. \n \n We have been included on number of award lists that demonstrate the impact we are making. \n \n \n Every day, we rise to the challenge to make a difference and here’s how the role will make an impact:\n Work with leadership to understand and develop actionable insights from existing internal and external datasets available throughout the company to inform and drive optimal product strategies.\n Coordinate and build strong working relationships with various internal commercial and technical organizations.\n Leverage creative solutions, analytics, and visualization/reporting techniques to enhance knowledge and drive actionable insights.  This could include use of variance analysis, dashboards, reporting, and automation.\n Contribute to the development and improvement of analytics, internal reporting, and market intelligence reporting.\n Compile large datasets using tools such as Alteryx, PowerBI, AI, Python and SQL, and be able to understand, manipulate and analyze data trends.\n Serve as a subject matter expert on US product portfolios; Monitor product performance by conducting extensive numerical analysis including sales, margin, market share, volume and inventory levels. Lead conversations with other departments to ensure all necessary parties are involved in product strategy discussions. Provide executive summaries for leadership and provide recommendations where needed.\n Support the process of US price change analyses, engaging with other departments as required to create executive summaries for leadership’s review. \n Lead projects and delegate work in alignment with department objectives.\n Lead the completion of all routine and ad-hoc reporting and analyses per Management’s requests.  Review and address interdepartmental requests for product information.\n Continuously communicate with the Pricing and Contracts and Pricing Analytics cross-functionally to ensure all strategies are clearly defined and on target.\n Provide a first level data check on analysis, reports, and presentations before they are published to other departments or leadership.\n \n The minimum qualifications for this role are:\n Minimum of a Bachelor s degree (or equivalent) and 2-4 years of experience.  However, a combination of experience and/or education will be taken into consideration. \n Advanced knowledge of Microsoft Office, particularly Microsoft Excel.\n Must be able to analyze & visualize data effectively.\n Must possess knowledge of data processing and analysis.\n Experience working with large amounts of data . \n Generic pharmaceutical industry knowledge preferred.\n Ability to learn the interdependent market variables surrounding the products offered by Viatris’ subsidiaries, and the market channels in which they operate. Ability to perform business analytics relevant to the Pharmaceutical industry.\n Skilled in the areas of product profitability analysis and reporting. Able to assess complex business issues that require collaboration with multiple areas of the business, as well as articulate these business issues to management in a professional manner. Highly analytical, intellectually curious, detail-oriented, and organized. Able to manage multiple projects in a fast-paced, results-oriented business environment. Strong communication and interpersonal skills required.\n Position functions semi-autonomously. Responsibilities may include interviewing, hiring, and training employees; planning, assigning, and directing work; appraising performance; addressing complaints and resolving problems.\n Ability to read and interpret complex business and/or technical documents.  Ability to write comprehensive reports and detailed business correspondence.  Ability to work with groups of people such as other departments and communicate known concepts.  Ability to present to a group of departments.\n Ability to perform computations such as percentages, ratios, and rates. \n Ability to solve problems with complex variables through non-standardized solutions that require independent judgment and analysis.  Ability to draw inferences and use deductive reasoning with no prescribed procedures to solve complex problems.\n May be required to stand; walk; stoop; bend; kneel; and climb steps. May require use of hands and use of arms. \n Normal office situation\n Proficiency in speaking, comprehending, reading and writing English is required.\n \n Exact compensation may vary based on skills, experience, and location. The salary range for this position is: $55,000 - $105,000. \n \n At Viatris, we offer competitive salaries, benefits and an inclusive environment where you can use your experiences, perspectives and skills to help make an impact on the lives of others. \n \n Viatris is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, gender expression, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.",
+      "skills": [
+        "Excel"
+      ],
+      "experience": "2–4 yrs",
+      "salary": {
+        "display": "$55,000 - $105,000",
+        "minLPA": null,
+        "maxLPA": null,
+        "actual": true,
+        "note": "overseas currency"
+      },
+      "score": 51,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "remote"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-05T15:01:37.458Z"
     },
     {
       "source": "Workday",
@@ -7655,7 +8084,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.629Z"
     },
     {
@@ -7689,7 +8118,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.630Z"
     },
     {
@@ -7722,7 +8151,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.629Z"
     },
     {
@@ -7755,7 +8184,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.629Z"
     }
   ]
