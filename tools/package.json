@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Isolated helpers (resume parsing) — kept out of the zero-dep server.",
   "dependencies": {
+    "js-yaml": "^5.2.1",
     "pdf-parse": "^1.1.1"
   }
 }
