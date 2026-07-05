@@ -79,6 +79,44 @@ preview, `--no-scrape` to skip the refresh). Single job: `node lib/apply.js <url
 
 To remove the schedule: `schtasks /Delete /TN "JobRadar Morning Run" /F`
 
+## Always-on cloud mode (works with the laptop off)
+
+The repo doubles as a **GitHub Actions** agent (`.github/workflows/morning.yml`):
+every day at **08:30 IST** the cloud runs the scraper, publishes a mobile dashboard
+to **GitHub Pages** (`docs/`), and sends a **Telegram digest** with counts, top
+matches, and the dashboard link. The laptop is only needed for *applying*
+(sessions + Playwright live locally; the local 08:30 task also catches up if the
+laptop was off at 08:30 and boots later).
+
+One-time setup:
+
+1. **Telegram (5 min):** run `START-TELEGRAM-SETUP.bat` — create a bot via
+   @BotFather, paste the token, send /start to the bot. Saves `config/notify.json`
+   (git-ignored) and sends a test message.
+2. **GitHub (10 min):** create a github.com account → new **public** repo
+   (e.g. `job-radar`) → push this folder:
+   `git remote add origin https://github.com/<you>/job-radar.git && git push -u origin master`
+   (Git opens a browser window to sign in.)
+3. In the repo: **Settings → Pages** → Source: *Deploy from a branch* → `master` + `/docs`.
+4. **Settings → Secrets and variables → Actions → New repository secret**, add three:
+   - `TELEGRAM_BOT_TOKEN` — from `config/notify.json`
+   - `TELEGRAM_CHAT_ID` — from `config/notify.json`
+   - `RESUME_PROFILE` — the full contents of `data/resume-profile.json`
+5. **Actions** tab → *morning-radar* → *Run workflow* once to test. The dashboard
+   goes live at `https://<you>.github.io/job-radar/`.
+
+Privacy: `.gitignore` keeps resume, sessions, applications, applicant data, and the
+Telegram token out of the repo; the published `docs/jobs.json` carries no name.
+The resume profile reaches the cloud only as an encrypted Actions secret.
+
+## Update your resume
+
+Top-right **📄 Update resume** button on the local dashboard: upload a new PDF and
+everything re-scores instantly (skills auto-detected from the new resume, pharma
+gaps recomputed, apply engine repointed at the new file). After updating, also
+paste the new `data/resume-profile.json` into the `RESUME_PROFILE` GitHub secret
+so the cloud scores match.
+
 ## Tools folder
 
 `tools/` is isolated from the zero-dep server (has its own `node_modules`, `pdf-parse`):
