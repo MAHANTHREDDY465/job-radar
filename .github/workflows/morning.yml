@@ -58,24 +58,10 @@ jobs:
           git push
 
       - name: Telegram digest
+        if: always()
+        continue-on-error: true
         env:
-          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
-          OWNER: ${{ github.repository_owner }}
-          REPO: ${{ github.event.repository.name }}
-        run: |
-          if [ -z "$TG_TOKEN" ] || [ -z "$TG_CHAT" ]; then
-            echo "::warning::Telegram secrets not set — skipping notification"
-            exit 0
-          fi
-          URL="https://${OWNER}.github.io/${REPO}/"
-          MSG=$(PAGES_URL="$URL" node -e "
-            const { digest } = require('./lib/notify');
-            const data = require('./data/jobs.json');
-            process.stdout.write(digest(data, process.env.PAGES_URL));
-          ")
-          curl -s "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
-            --data-urlencode "chat_id=${TG_CHAT}" \
-            --data-urlencode "text=${MSG}" \
-            --data-urlencode "parse_mode=HTML" \
-            --data-urlencode "disable_web_page_preview=true"
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node tools/notify-digest.js
