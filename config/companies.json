@@ -10,7 +10,17 @@
     { "name": "IFF",      "tenant": "iff",      "dc": "wd5",  "site": "IFF_Careers",               "domain": "flavors / fragrances / ingredients", "enabled": true },
     { "name": "Parexel",  "tenant": "parexel",  "dc": "wd1",  "site": "Parexel_External_Careers",  "domain": "pharma / CRO", "enabled": true },
     { "name": "Lonza",    "tenant": "lonza",    "dc": "wd3",  "site": "Lonza_Careers",             "domain": "pharma / chemical", "enabled": true },
-    { "name": "Huntsman", "tenant": "huntsman", "dc": "wd1",  "site": "Huntsman",                  "domain": "chemical", "enabled": true }
+    { "name": "Huntsman", "tenant": "huntsman", "dc": "wd1",  "site": "Huntsman",                  "domain": "chemical", "enabled": true },
+
+    { "name": "Sanofi",      "tenant": "sanofi",             "dc": "wd3",   "site": "SanofiCareers",                  "domain": "pharma", "enabled": true },
+    { "name": "Novartis",    "tenant": "novartis",           "dc": "wd3",   "site": "Novartis_Careers",               "domain": "pharma", "enabled": true },
+    { "name": "AstraZeneca", "tenant": "astrazeneca",        "dc": "wd3",   "site": "Careers",                        "domain": "pharma", "enabled": true },
+    { "name": "IQVIA",       "tenant": "iqvia",              "dc": "wd1",   "site": "IQVIA",                          "domain": "pharma / CRO", "enabled": true },
+    { "name": "Amgen",       "tenant": "amgen",              "dc": "wd1",   "site": "Careers",                        "domain": "pharma", "enabled": true },
+    { "name": "Pfizer",      "tenant": "pfizer",             "dc": "wd1",   "site": "PfizerCareers",                  "domain": "pharma", "enabled": true },
+    { "name": "Accenture",   "tenant": "accenture",          "dc": "wd103", "site": "AccentureCareers",               "domain": "consulting / MDM / analytics", "enabled": true },
+    { "name": "BMS",         "tenant": "bristolmyerssquibb", "dc": "wd5",   "site": "bms",                            "domain": "pharma", "enabled": true },
+    { "name": "Syneos",      "tenant": "syneoshealth",       "dc": "wd12",  "site": "Syneos_Health_External_Site",     "domain": "pharma / CRO", "enabled": true }
   ],
 
   "greenhouse": [],
