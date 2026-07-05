@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 3 * * *'   # 03:00 UTC = 08:30 IST, daily
   workflow_dispatch: {}     # manual "Run workflow" button
+  push:
+    branches: [master]
+    paths-ignore:
+      - 'docs/**'           # the bot's own snapshot commits (docs/) must NOT re-trigger it
 
 permissions:
   contents: write
