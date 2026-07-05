@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:21:47.793Z",
+  "generatedAt": "2026-07-05T12:28:29.254Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 6,
     "overseas": 25,
-    "new": 3,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -173,7 +173,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T12:21:47.762Z"
     },
     {
@@ -885,7 +885,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T12:21:47.767Z"
     },
     {
@@ -2324,7 +2324,7 @@
       "reasons": [
         "partial title match"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-05T12:21:47.759Z"
     }
   ]
