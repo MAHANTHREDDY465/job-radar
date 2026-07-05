@@ -20,7 +20,10 @@
     { "name": "Pfizer",      "tenant": "pfizer",             "dc": "wd1",   "site": "PfizerCareers",                  "domain": "pharma", "enabled": true },
     { "name": "Accenture",   "tenant": "accenture",          "dc": "wd103", "site": "AccentureCareers",               "domain": "consulting / MDM / analytics", "enabled": true },
     { "name": "BMS",         "tenant": "bristolmyerssquibb", "dc": "wd5",   "site": "bms",                            "domain": "pharma", "enabled": true },
-    { "name": "Syneos",      "tenant": "syneoshealth",       "dc": "wd12",  "site": "Syneos_Health_External_Site",     "domain": "pharma / CRO", "enabled": true }
+    { "name": "Syneos",      "tenant": "syneoshealth",       "dc": "wd12",  "site": "Syneos_Health_External_Site",     "domain": "pharma / CRO", "enabled": true },
+    { "name": "Takeda",      "tenant": "takeda",             "dc": "wd3",   "site": "External",                       "domain": "pharma", "enabled": true },
+    { "name": "GSK",         "tenant": "gsk",                "dc": "wd5",   "site": "GSKCareers",                     "domain": "pharma", "enabled": true },
+    { "name": "Viatris",     "tenant": "viatris",            "dc": "wd5",   "site": "External",                       "domain": "pharma", "enabled": true }
   ],
 
   "greenhouse": [],
