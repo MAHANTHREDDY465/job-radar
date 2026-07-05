@@ -1,0 +1,23 @@
+{
+  "label": "Regulatory Analyst — chemical / pharma",
+  "titleKeywords": [
+    "regulatory analyst",
+    "regulatory affairs",
+    "regulatory",
+    "regulatory compliance",
+    "compliance analyst",
+    "regulatory specialist",
+    "regulatory associate",
+    "product stewardship",
+    "regulatory scientist"
+  ],
+  "domains": ["chemical", "pharma", "pharmaceutical", "life sciences", "specialty chemical", "biotech"],
+  "preferredLocations": ["India", "Hyderabad", "Mumbai", "Bangalore", "Bengaluru", "Pune", "Chennai", "Gurgaon", "Gurugram", "Noida", "Remote"],
+  "excludeKeywords": ["intern", "internship", "co-op", "graduate program", "apprentice"],
+  "salary": {
+    "currentCTC_LPA": 8,
+    "targetMin_LPA": 10,
+    "targetGoal_LPA": 15,
+    "stretchMax_LPA": 22
+  }
+}

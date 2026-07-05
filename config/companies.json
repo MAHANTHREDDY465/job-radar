@@ -1,0 +1,25 @@
+{
+  "_comment": "Target employers grouped by the ATS platform their careers site runs on. Add more freely — the Workday/Greenhouse/Lever/SmartRecruiters adapters are generic. To find a Workday tenant: open the company careers page, look for a *.myworkdayjobs.com URL; the parts are tenant.dc.myworkdayjobs.com/<locale>/<site>. Verify new tenants with: node tools/probe-workday.js",
+
+  "workday": [
+    { "name": "Dow",      "tenant": "dow",      "dc": "wd1",  "site": "ExternalCareers",           "domain": "chemical", "enabled": true },
+    { "name": "Evonik",   "tenant": "evonik",   "dc": "wd3",  "site": "External_Careers",          "domain": "specialty chemical", "enabled": true },
+    { "name": "Corteva",  "tenant": "corteva",  "dc": "wd5",  "site": "Corteva",                   "domain": "agriscience / crop chemical", "enabled": true },
+    { "name": "Ashland",  "tenant": "ashland",  "dc": "wd12", "site": "AshlandCareers1",           "domain": "specialty chemical", "enabled": true },
+    { "name": "Ecolab",   "tenant": "ecolab",   "dc": "wd1",  "site": "Ecolab_External",           "domain": "specialty chemical / water & hygiene", "enabled": true },
+    { "name": "IFF",      "tenant": "iff",      "dc": "wd5",  "site": "IFF_Careers",               "domain": "flavors / fragrances / ingredients", "enabled": true },
+    { "name": "Parexel",  "tenant": "parexel",  "dc": "wd1",  "site": "Parexel_External_Careers",  "domain": "pharma / CRO", "enabled": true },
+    { "name": "Lonza",    "tenant": "lonza",    "dc": "wd3",  "site": "Lonza_Careers",             "domain": "pharma / chemical", "enabled": true },
+    { "name": "Huntsman", "tenant": "huntsman", "dc": "wd1",  "site": "Huntsman",                  "domain": "chemical", "enabled": true }
+  ],
+
+  "greenhouse": [],
+
+  "lever": [],
+
+  "smartrecruiters": [],
+
+  "custom": [
+    { "name": "Chemours", "url": "https://chemours.wd5.myworkdayjobs.com/Chemours", "ats": "workday", "domain": "chemical", "enabled": false, "note": "Workday CXS returned HTTP 422 with site 'Chemours' — site id likely differs. Re-probe with the real site name to enable." }
+  ]
+}

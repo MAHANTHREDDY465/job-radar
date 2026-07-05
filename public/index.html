@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JOB RADAR — Regulatory Analyst</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">◎</span> JOB&nbsp;RADAR
+      <span class="sub" id="profileLabel">regulatory analyst</span>
+    </div>
+    <div class="topbar-right">
+      <span class="lastrun" id="lastRun">—</span>
+      <button id="resumeBtn" class="btn secondary" title="Upload a new resume PDF — jobs are re-scored against it instantly">📄 Update resume</button>
+      <input type="file" id="resumeFile" accept="application/pdf,.pdf" class="hidden" />
+      <button id="refreshBtn" class="btn">↻ Refresh</button>
+    </div>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="controls">
+    <input id="search" class="search" placeholder="search title, company, skill, location…" />
+    <select id="fit" class="sel">
+      <option value="">All fits</option>
+      <option value="strong">★ Strong fit</option>
+      <option value="stretch">Stretch</option>
+      <option value="reach">Reach</option>
+    </select>
+    <select id="tier" class="sel">
+      <option value="">All tiers</option>
+      <option value="goal">≥15 LPA (goal)</option>
+      <option value="target">10–15 LPA</option>
+      <option value="below">Below 10 LPA</option>
+      <option value="overseas">Overseas</option>
+    </select>
+    <select id="company" class="sel"><option value="">All companies</option></select>
+    <select id="source" class="sel"><option value="">All sources</option></select>
+    <label class="chk"><input type="checkbox" id="newOnly" /> New only</label>
+    <span class="spacer"></span>
+    <span class="resultcount" id="resultCount"></span>
+  </section>
+
+  <main id="list" class="list"></main>
+
+  <div id="errbar" class="errbar hidden"></div>
+
+  <footer class="foot">
+    Phase 2 · matched against your resume. <b>Fit</b> = how well the role suits <span id="candName">you</span>
+    (skills + experience + domain), not just salary. Green = skills you have, red = skills the posting wants that
+    you don't list (never auto-added to your resume). Salary is estimated where not posted.
+  </footer>
+
+  <!-- tailored-resume modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <div class="modal-head">
+        <span id="modalTitle">Tailored resume</span>
+        <div class="modal-actions">
+          <button id="copyBtn" class="btn ghost">Copy</button>
+          <a id="dlBtn" class="btn ghost" download>Download .md</a>
+          <button id="closeBtn" class="btn ghost">✕</button>
+        </div>
+      </div>
+      <pre id="modalBody" class="modal-body"></pre>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

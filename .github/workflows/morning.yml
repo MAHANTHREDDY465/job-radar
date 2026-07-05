@@ -1,0 +1,77 @@
+name: morning-radar
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 03:00 UTC = 08:30 IST, daily
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-radar
+  cancel-in-progress: false
+
+jobs:
+  scan-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Resume profile comes from a secret — it is never committed to the repo.
+      - name: Write resume profile (secret)
+        env:
+          RESUME_PROFILE: ${{ secrets.RESUME_PROFILE }}
+        run: |
+          mkdir -p data
+          if [ -n "$RESUME_PROFILE" ]; then
+            printf '%s' "$RESUME_PROFILE" > data/resume-profile.json
+            echo "resume profile loaded"
+          else
+            echo "::warning::RESUME_PROFILE secret not set — jobs will not be fit-scored"
+          fi
+
+      - name: Scrape + score jobs
+        env:
+          JR_PUBLIC: '1'
+        run: node lib/scrape.js
+
+      - name: Publish snapshot to Pages folder
+        run: |
+          cp data/jobs.json docs/jobs.json
+          cp public/style.css docs/style.css
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "job-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/jobs.json docs/style.css
+          git commit -m "morning snapshot $(date -u +%F)" || echo "no changes"
+          git push
+
+      - name: Telegram digest
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+        run: |
+          if [ -z "$TG_TOKEN" ] || [ -z "$TG_CHAT" ]; then
+            echo "::warning::Telegram secrets not set — skipping notification"
+            exit 0
+          fi
+          URL="https://${OWNER}.github.io/${REPO}/"
+          MSG=$(PAGES_URL="$URL" node -e "
+            const { digest } = require('./lib/notify');
+            const data = require('./data/jobs.json');
+            process.stdout.write(digest(data, process.env.PAGES_URL));
+          ")
+          curl -s "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT}" \
+            --data-urlencode "text=${MSG}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "disable_web_page_preview=true"

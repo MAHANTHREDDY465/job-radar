@@ -1,0 +1,13 @@
+# --- PERSONAL DATA — never commit (public repo) ---
+data/
+config/notify.json
+
+# docs/jobs.json IS published (public snapshot, candidate name stripped)
+!docs/jobs.json
+
+# --- dependencies / runtime ---
+node_modules/
+tools/node_modules/
+package-lock.json
+tools/package-lock.json
+*.log

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JOB RADAR — Regulatory Analyst</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">◎</span> JOB&nbsp;RADAR
+      <span class="sub" id="profileLabel">regulatory analyst</span>
+    </div>
+    <div class="topbar-right">
+      <span class="lastrun" id="lastRun">—</span>
+    </div>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="controls">
+    <input id="search" class="search" placeholder="search title, company, skill, location…" />
+    <select id="fit" class="sel">
+      <option value="">All fits</option>
+      <option value="Strong fit">★ Strong fit</option>
+      <option value="Stretch">Stretch</option>
+      <option value="Reach">Reach</option>
+    </select>
+    <select id="company" class="sel"><option value="">All companies</option></select>
+    <label class="chk"><input type="checkbox" id="newOnly" /> New only</label>
+    <span class="spacer"></span>
+    <span class="resultcount" id="resultCount"></span>
+  </section>
+
+  <main id="list" class="list"></main>
+
+  <footer class="foot">
+    Read-only snapshot, refreshed daily at 8:30 AM IST by the cloud agent.
+    Green = skills on the resume, red = posting requirements not on it.
+    Salary is estimated where not posted. Applying and resume tailoring run on the home machine.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

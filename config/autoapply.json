@@ -1,0 +1,10 @@
+{
+  "_note": "Controls the scheduled morning run. Starts SAFE: mode 'dry-run' fills each application up to the Review page and STOPS (never submits). After you've watched a few dry-runs and trust it, change mode to 'live' to actually submit.",
+
+  "mode": "dry-run",
+  "tiers": ["Strong fit", "Stretch"],
+  "minFitScore": 42,
+  "maxPerDay": 15,
+  "headless": true,
+  "windowIST": "08:30-09:30"
+}

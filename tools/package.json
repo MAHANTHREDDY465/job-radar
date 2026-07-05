@@ -1,0 +1,9 @@
+{
+  "name": "job-radar-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Isolated helpers (resume parsing) — kept out of the zero-dep server.",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
