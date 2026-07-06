@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-06T07:21:34.420Z",
+  "generatedAt": "2026-07-06T14:18:04.858Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 221,
-    "goal": 108,
+    "total": 226,
+    "goal": 109,
     "target": 0,
-    "below": 113,
+    "below": 117,
     "overseas": 0,
-    "new": 3,
+    "new": 7,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -330,7 +330,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-06T07:21:34.408Z"
     },
     {
@@ -1865,6 +1865,49 @@
     },
     {
       "source": "Workday",
+      "company": "Viatris",
+      "domain": "pharma",
+      "title": "Senior Manager, R&D and Regulatory Systems",
+      "location": "United States Remote Office",
+      "postedText": "Posted Today",
+      "externalPath": "/job/United-States-Remote-Office/Senior-Manager--R-D-and-Regulatory-Systems_R5671031",
+      "reqId": "R5671031",
+      "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Senior-Manager--R-D-and-Regulatory-Systems_R5671031",
+      "applyUrl": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Senior-Manager--R-D-and-Regulatory-Systems_R5671031",
+      "description": "Mylan Inc. \n Viatris is a global healthcare company uniquely positioned to bridge the traditional divide between generics and brands, combining the best of both to more holistically address healthcare needs globally. With a mission to empower people worldwide to live healthier at every stage of life, we provide access at scale, currently supplying high-quality medicines to approximately 1 billion patients around the world annually and touching all of life s moments, from birth to the end of life, acute conditions to chronic diseases. \n \n We have been included on number of award lists that demonstrate the impact we are making. \n \n \n Every day, we rise to the challenge to make a difference and here’s how the Senior Manager, R&D and Regulatory Systems will make an impact:\n \n We are seeking an experienced IT Project Leader with a strong background in R&D and Regulatory Affairs. The ideal candidate will manage end-to-end projects, coordinate cross-functional teams, ensure compliance with regulatory requirements, and deliver projects within scope, budget, and timeline. This position manages system enhancements and is the IT platform owner for assigned R&D and Regulatory systems. This position will manage external and internal resources.\n \n Key responsibilities for this role include:\n Manage the successful completion of IT projects from conception to implementation ensuring successful project delivery in scope, on schedule and within budget.\n Communicate project status and manage issues/risks in a timely manner and promptly escalate issues to leadership.\n Responsible for ensuring project/vendor contracts are accurate and approved in a timely manner. Ensure successful completion of project Statements of Work including keeping the project scope, budget and timelines on track.\n IT platform owner for Regulatory intelligence and publishing systems and other assigned systems, collaborating with IT teams to maintain deployed systems including managing break fixes, incident management work and system security.\n Application technical lead supporting the successful implementation, system lifecycle, evolving enhancements,  requirement analysis, design, configuration, data migration, system integration, testing and validation activities.\n Drive compliance with the IT Quality processes and Viatris SDLC processes, including the IT change management and quality/testing process for assigned projects/systems. Create/Review lifecycle documentation for assigned systems.\n Support vendor relationships for assigned systems, ensuring system issues are communicated promptly to leadership.\n Provide strong working knowledge of technical capabilities used to support R&D and regulatory business processes and deliver industry leading processes.\n Understand business processes and identify regulatory & R&D trends and policies that could impact current systems.\n Monitor emerging industry and health authority requirements to assess business and system impact and develop the requirements to ensure compliance.\n Establish and maintain strong relationships with customers.\n Collaborate with key business users to identify business needs and translate these needs to user requirements. Translate user requirements into technical requirements and implement solutions to meet these requirements.\n Provide business analysis techniques including business and functional requirements gathering, process modeling, interviewing, user stories, prototyping, data flows, and root cause analysis.\n Provide good working knowledge of data standards and conventions for Regulatory and R&D systems.\n Provide guidance to direct report(s) and perform other duties as assigned.\n \n \n The minimum qualifications for this role are:\n Bachelor s degree in science, IT, or a relatable field required. Advanced degrees are a plus.\n 5 years of previous experience as IT platform owner and people leadership required.\n 8 years of project management experience in the life science domain.\n Experience with project management methodologies such as Agile, Waterfall, and Hybrid approaches.\n Knowledge of GCP, EMA FDA regulations and other regulatory compliance standards.\n Hands-on experience with validated GxP environments including documentation and change management required.\n Broad technical knowledge, including hands on experience designing and implementing system integrations as well as working with migrations and SaaS in a regulated environment.\n Hands on experience implementing and supporting global R&D and Regulatory applications and processes for electronic lab notebooks, lab inventory & informatics solutions, regulatory solutions (eg dossier management, submissions, publishing, labeling intelligence and regulatory insights).\n Strong business analysis skills including building detailed process maps of current and future processes.\n Hands on experience supporting large transformational projects.\n Ability to operate in a challenging environment and manage multiple activities, priorities, and deadlines.\n Excellent verbal and written communication skills.\n Works well in and appreciates the value of a global diverse work environment.\n Can see the larger picture as well as identify and efficiently communicate key issues and solutions in complex situation.\n Preferred hands on experience in Agentic AI and python.\n \n \n Exact compensation may vary based on skills, experience, and location. The salary range for this position is   $95,000.00 - $193,000.00 USD. \n \n At Viatris, we offer competitive salaries, benefits and an inclusive environment where you can use your experiences, perspectives and skills to help make an impact on the lives of others. \n \n Viatris is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, gender expression, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. \n \n \n#LI-Remote",
+      "skills": [
+        "FDA",
+        "EMA",
+        "GxP",
+        "labeling",
+        "dossier",
+        "regulatory intelligence",
+        "health authority",
+        "compliance",
+        "documentation",
+        "regulatory affairs"
+      ],
+      "experience": "8 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.839Z"
+    },
+    {
+      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Global Regulatory Writing – Senior Manager",
@@ -2371,6 +2414,44 @@
     },
     {
       "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Business Analyst",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Bengaluru/Business-Analyst_R0180051",
+      "reqId": "R0180051",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Business-Analyst_R0180051",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Business-Analyst_R0180051",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet. \n Bengaluru, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.   \n At Takeda’s ICC we Unite in Diversity \n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team \n \n About the role:  \n As a Business Analyst in the Donor Information System (DIS) space within the Plasma-Derived Therapies (PDT) business unit, you will independently serve as a bridge between business stakeholders and technology teams. You will collaborate closely with multiple stakeholders, determine requirements, translate business needs into effective technical solutions, maintaining continuous dialogue with all teams to ensure robustness, accuracy and consistency.  \n \n By gathering requirements and facilitating cross-team communication between business and IT teams, this role directly contributes to PDT’s ability to harness data effectively, enhancing decision-making capabilities, and ultimately, competitive advantage in the market. You will be adopting cutting-edge technologies and methodologies which will help Takeda drive innovation, adapt to new opportunities, and continuously evolve in an ever-changing business/technological landscape.  \n This position will align to Functional Analysis chapter of the ICC and initially report to the Functional Delivery Lead for strategic direction as well as day-to-day management until the role of BA Lead is filled within Takeda ICC, post which the reporting and managerial responsibilities will be transitioned accordingly.  \n How you will contribute: \n Contribute to the execution team by proactively clarifying requirements, identifying gaps, and escalating risks.\n Collaborate closely with Product Owners, Senior Business Analysts and product stakeholders to ensure functional expectations are understood and delivered.\n Act as a reliable communication link between developers, testers, Quality, and business SMEs.\n Lead requirement‑gathering discussions for low–to–moderately complex features, including understanding user needs, non‑functional requirements, and pain points.\n Analyze requirements and document them into clear, structured artifacts such as Epics, user stories, acceptance criteria, and workflows.\n Create and maintain needed documentation as BRD/FRD, Process flows/ workflow diagrams, Data mapping, interface specifications, integration requirements (APIs, middleware, data mapping)\n Perform functional acceptance of completed user stories and validate that the testcases and overall testing coverage meet the quality standards. Support refinement sessions by validating technical feasibility with development teams.\n Support sprint planning, backlog refinement, and story grooming sessions\n Highlight/identify gaps in existing functionality/user requirements.\n Conduct gap analysis, process mapping, and impact assessments for new enhancements.\n Support and contribute to user acceptance testing (UAT) efforts, including test case development, test execution, issue resolution, and assist in triaging functional defects.\n Liaise with different stakeholders including the client/business owner, project manager, solution architect, developers, testers and validators to ensure timely delivery of items and alignment on system changes\n Understand the business justification for the product, client’s vision, and future scope.\n Create functional design documents and other documentation required as part of GxP documentation process and work closely with the Quality and Validation teams ensuring timely approvals are obtained.\n Ensure documentation remains audit‑ready, consistent, and aligned with development and Quality expectations.\n Maintain Confluence spaces with updated feature details, design notes, and process artifacts.\n Support test case preparation through creation of test scenarios and acceptance tests that align with documented requirements.\n Assist with UAT planning and coordinate with business users to validate feature readiness.\n Perform initial root‑cause assessment for functional issues by reviewing logs, data, and workflows.\n Work closely with developers and architects to define technical solutions and clarify requirements\n Use SQL queries to validate data behavior, troubleshoot inconsistencies, and verify system outputs.\n Partner with the validation team throughout the validation lifecycle to clarify functional requirements, address queries and drive timely resolution of validation findings and issues.\n Provide structured issue documentation for senior analysts and developers.\n Support creation of change rationale and impact assessments for changes within your scope.\n Ensure compliance with change control and validation requirements, especially for GxP systems.\n Collaborate extensively across the organization, keep abreast of industry trends, continuously learn and adapt to new tools and techniques, and contribute to process improvement efforts.\n \n Minimum Requirements/Qualifications: \n A Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or a related field is required\n 3-5 years of experience working as Business Analyst/Product Owner, with a focus on gathering requirements and designing solutions.\n Hands-on experience using Jira\n Confluence\n MSSQL\n MS Office (Word, Excel, PowerPoint, Teams)\n Figma\n \n Strong end-to-end BA skills: gathering, analyzing and documenting business and system requirements.\n Understanding of requirements, use cases, and specification for features\n Translation of requirements into technical specifications.\n Familiarity with project management methodologies and tools\n Expertise in Agile (incl. PI Planning, Roadmap Development, Backlog Prioritization etc) and product Mindset & Analytical Skillset\n Excellent communication and interpersonal skills, with the ability to effectively interact with stakeholders at all levels\n Strong knowledge of Agile/Scrum methodology and SDLC Experience in change management\n Self-motivated, with the ability to work independently and handle multiple tasks effectively\n Highly organized; able to break down complex problems and set priorities\n Strong relationship building and team collaboration skills\n \n Preferred requirements: \n Regulatory knowledge such as change control processes related to GXP systems including the ability to create and manage change controls to ensure compliance, GXP documentation process and experience in drafting detailed documentation for Verification and Validation cycle.\n Experience working with cloud platforms (AWS/Azure)\n Familiarity with DevOps Practices (CI/CD pipelines)\n Experience with advanced prototyping tools such as Figma\n Experience working with diverse teams including IT, product owners, Quality and external vendors to ensure successful project outcomes.\n Strong understanding of GxP requirements and documentation management. \n Hands-on experience providing support for validation testing and resolving issues that arise during the process.\n Ability to query databases for relevant data requests and evaluations\n \n BENEFITS: \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: \n Competitive Salary Performance Annual Bonus \n Flexible work environment, including hybrid working \n Comprehensive Healthcare Insurance Plans for self, spouse, and children \n Group Term Life Insurance and Group Accident Insurance programs \n Employee Assistance Program \n Broad Variety of learning platforms \n Diversity, Equity, and Inclusion Programs \n Reimbursements – Home Internet & Mobile Phone \n Employee Referral Program \n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 calendar days) \n ABOUT ICC IN TAKEDA: \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day. \n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization. \n #Li-Hybrid \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "GxP",
+        "compliance",
+        "documentation",
+        "Excel",
+        "audit"
+      ],
+      "experience": "3–5 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 89,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.833Z"
+    },
+    {
+      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "IS Organizational Effectiveness Manager – Regulatory Structured Submission",
@@ -2581,6 +2662,44 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-01T03:48:34.658Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Parexel",
+      "domain": "pharma / CRO",
+      "title": "Regulatory Affairs Associate Publishing",
+      "location": "Mexico-Remote",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Mexico-Remote/Regulatory-Affairs-Associate_R0000039539",
+      "reqId": "R0000039539",
+      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Mexico-Remote/Regulatory-Affairs-Associate_R0000039539",
+      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Mexico-Remote/Regulatory-Affairs-Associate_R0000039539",
+      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n Develop, publish, and support the publishing of regulatory submissions to global health authorities in alignment with established standards, requirements, and organizational commitments. Ensure all submissions are prepared in high-quality, compliant formats. Perform related activities as needed and provide support to both internal and external stakeholders.\n \n Required Qualifications: \n 1–3 years of experience in regulatory publishing or document management within the pharmaceutical industry.\n Experience working with XML or other structured document formats.\n Foundational knowledge of eCTD structure and electronic submission requirements for global health authorities (FDA, EMA, Health Canada, etc.)\n Proficiency with regulatory publishing systems such as Veeva, Extedo, Insight, DXC, or comparable platforms.\n Solid understanding of eCTD structure, submission standards, and applicable regulatory guidelines.\n Exceptional attention to detail with the ability to manage complex documentation and meet demanding timelines.\n \n Preferred Qualifications: \n Familiarity with end‑to‑end submission lifecycle maintenance processes.\n In-depth knowledge of FDA and international regulatory agency requirements.\n Prior experience with document control or compliance‑driven workflows.\n Strong background in document preparation and formatting.\n \n Skills: \n Proficiency in Microsoft Word and Adobe Acrobat for document formatting, hyperlinking, and submission preparation.\n Ability to work effectively in a cross-functional team environment and manage multiple tasks under tight deadlines.\n The ability to quickly learn new software tools and systems.\n Effective written and verbal communication skills.\n Excellent English skills (oral, written and comprehensive).\n \n Education: \n Bachelor s degree in Life Sciences, Pharmacy, Regulatory Affairs, or a related field (or equivalent work experience).",
+      "skills": [
+        "FDA",
+        "EMA",
+        "eCTD",
+        "compliance",
+        "documentation",
+        "regulatory affairs"
+      ],
+      "experience": "1–3 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 86,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.737Z"
     },
     {
       "source": "Workday",
@@ -3140,40 +3259,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.618Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Novartis",
-      "domain": "pharma",
-      "title": "Data Steward",
-      "location": "Hyderabad (Office)",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Hyderabad-Office/Data-Steward_REQ-10058488",
-      "reqId": "REQ-10058488",
-      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Data-Steward_REQ-10058488",
-      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Data-Steward_REQ-10058488",
-      "description": "Job Description Summary \n-Provide analytics support to Novartis internal customers (CPOs & Regional marketing and sales teams) on various low-medium complexity analytical reports. -Support and facilitate data enabled decision making for Novartis internal customers by providing and communicating qualitative and quantitative analytics. -Support GBS -GCO business in building practice by involving in various initiatives like knowledge sharing, on-boarding and training support, support team lead in all business related tasks / activities, building process documentation and knowledge repositories -To be an integral part of a comprehensive design team responsible for designing promotional marketing materials.  \n Job Description \n Major accountabilities: \n Create and deliver below customer requirements as per agreed SLAs -Deliver services through structured project management approach with appropriate documentation and communication throughout the delivery of services .\n Quality Assurance ; Ensure deliverables for quality and accuracy are of the highest order.\n On-time project delivery within stipulated deadlines -Support in creation and maintenance of standard operating procedures (SOPs) -Support in developing and maintaining knowledge repositories that captures qualitative and quantitative reports.\n Participate in various knowledge sharing sessions that\n Key performance indicators: \n - Good customer satisfaction scores - Ability to manage multiple stakeholders / projects - Delivery on time\n Minimum Requirements: Work Experience: \n Operations Management and Execution.\n Project Management.\n Working experience within the pharmaceutical industry.\n Skills: \n Advertising Campaigns.\n Alteryx.\n Analytical Thinking.\n Brand Awareness.\n Business Networking.\n Curiosity.\n Digital Marketing.\n Email Marketing.\n Marketing Communications.\n Marketing Plans.\n Marketing Strategy.\n Media Campaigns.\n Process Documentation.\n Strategic Marketing.\n Languages : \n English.\n  \n Skills Desired \nAdvertising Campaigns, Alteryx, Analytical Thinking, Brand Awareness, Business Networking, Curiosity, Digital Marketing, Email Marketing, Marketing Communications, Marketing Plans, Marketing Strategy, Media Campaigns, Process Documentation, Strategic Marketing",
-      "skills": [
-        "quality assurance",
-        "documentation"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 78,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-05T14:46:02.651Z"
     },
     {
       "source": "Workday",
@@ -4570,41 +4655,6 @@
       "source": "Workday",
       "company": "Ecolab",
       "domain": "specialty chemical / water & hygiene",
-      "title": "Sr Financial Analyst II",
-      "location": "IND - Maharashtra - Pune",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IND---Maharashtra---Pune/Sr-Financial-Analyst-II_R00289982",
-      "reqId": "R00289982",
-      "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Maharashtra---Pune/Sr-Financial-Analyst-II_R00289982",
-      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Maharashtra---Pune/Sr-Financial-Analyst-II_R00289982",
-      "description": "At Ecolab , you can help take on some of the world’s most meaningful challenges, delivering critical insights and innovative solutions to help our customers achieve clean water, safe food,  abundant energy and healthy environments. With our worldwide reach and ambitious growth plans, you will have the opportunity to own your future and impact what matters. Are you ready to make an impact?\n \n Ecolab is a global sustainability leader offering water, hygiene and infection prevention solutions and services that protect people and the resources vital to life. Building on a century of innovation, Ecolab has annual sales of $14 billion, employs more than 47,000 associates and operates in more than 170 countries around the world. The company delivers comprehensive science-based solutions, data-driven insights and world-class service to advance food safety, maintain clean and safe environments, and optimize water and energy use.\n \n The Opportunity:  The Financial Planning & Analysis Analyst will be responsible for financial planning and analysis activities of Ecolab divisional sales. This position will require partnership across multiple stakeholders within the organization and will have significant exposure and growth opportunities supported by a management team committed to associate development.\n \n What You Will Do: \n •            Analyze trends for Ecolab divisions, including volume and pricing and provide insights to the divisional teams on Key performance metrics\n •            Coordinate monthly close and forecast activities, including communicating guidance, facilitating system loads, analyzing results Salles/ Gross profit & SG&A ), and preparing content for financial reviews with senior leadership\n •            Perform Operation income reconciliation from Forecast to Actuals\n •            Prepare Daily sales variance vs forecast to arrive at month end finish estimates Vs forecast\n •            Primary owner of developing a driver-based 50/50 forecast\n •            Partner with division finance teams to understand external and internal business dynamics and their impact on results\n •            Lead the creation of annual plan by leveraging the trend based analytical model to arrive at a high-level proposal & coordinate/communicate with multiple key stakeholders\n •            Develop sustainable content for use in monthly business reviews (MBRs) and provide ad-hoc financial analytics and deep dives to facilitate decision making\n •            Partner with broader stakeholders to drive critical reporting needs and capabilities\n \n Minimum Qualifications: \n •            Chartered Accountant /MBA premier business school\n •            5 plus years of experience in financial Planning & Analysis\n \n Preferred Qualifications: \n •            Financial planning and analysis experience\n •            Ability to translate financial analysis into insights and action plans\n •            Ability to identify key metrics critical to business performance and provide easily understood and actionable management reporting\n •            Strong analytical, critical thinking and problem-solving skills\n •            Strong verbal and written communication skills and the ability to interact with senior management\n •            Strong presentation skills to communicate complex financial and performance information with a variety of audiences, including those with limited finance background\n •            Self-motivated with ability to efficiently organize and prioritize competing priorities\n •            Demonstrated attention to detail and ability to develop, implement and interpret financial models\n •            Strong PC and systems skills (Power BI, Microsoft Excel, Access, and PowerPoint) Excel, Access and PowerPoint)",
-      "skills": [
-        "REACH",
-        "Excel"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 71,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-05T14:46:02.623Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Ecolab",
-      "domain": "specialty chemical / water & hygiene",
       "title": "Sr Project Engineer (Analytics)",
       "location": "IND - Maharashtra - Pune",
       "postedText": "Posted 30+ Days Ago",
@@ -4809,6 +4859,40 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.681Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Principal RWE Scientific Research Analyst",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/Principal-RWE-Scientific-Research-Analyst_REQ-10080942",
+      "reqId": "REQ-10080942",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Principal-RWE-Scientific-Research-Analyst_REQ-10080942",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Principal-RWE-Scientific-Research-Analyst_REQ-10080942",
+      "description": "Job Description Summary \nThe Principal Real-World Evidence (RWE) Research Analyst is responsible for the scientific and methodological aspects of all RWE projects as well as providing guidance for other members of the team.  \n Job Description \n Key Responsibilities : \n Produce analytic deliverables, including full study reports for RWE or observational database analyses projects.  \n Support project management by coordinating project activities and timelines as well as issue management.    Independently draft and edit documents such as high-level research proposals, protocols, and statistical analysis plans.  \n Develop project timelines together with the Real-World Evidence (RWE) Data Scientists.  Appropriately track communications with the customer as well as project related decisions taken.  \n Provide guidance to less experienced analysts on study design and analysis activities.  \n Conduct observational data analyses involving new creative approaches and oversee data management and statistical programming activities.  \n Provide guidance to conduct data quality reviews with detailed documentation.    Present research and analysis results to customers and stakeholders.  \n Produce analysis datasets, listings, tables, and figures for research projects, according to specifications, while maintaining documentation and complying with pre-defined project / study standards.  \n Perform in-depth research and quantitative and qualitative analysis independently. Provide guidance to Associate RWE Research Analysts and RWE Research Analysts.    Seek out opportunities for the development of new RWE services and new customers within Novartis.  \n Maintain familiarity with technical developments in RWE, epidemiological and data science fields.  Support in talent identification and advancement as well as hiring of new talent and team expansion strategies.  \n Develop department-level standards, tools, and templates.    Contributor to RWDA business development.  \n \n \n Essential Requirement : \n \n Experience in the application of statistical methods to the analysis of observational data. \n Technical proficiency in analytical and visualization tools and statistical programming languages such as SQL, SAS, R, R/shiny, Tableau, Python. \n Deep knowledge of RWE data sources and standards such as CPRD, JMDC, Optum, Healthverity, PharMetrics, OMOP.  \n Expert in applied statistics. Extensive experience in the application of statistical methods for analysis of observational data including propensity scores, sensitivity analyses, etc. is a plus.  \n Good understanding of organizational processes. Extensive experience working cross-functionally with key internal stakeholders.  \n Open to experimentation and taking smart risks to support creative thinking that leads to practical solutions to healthcare and business challenges.  \n Holds a high standard on quality excellence. Continuously seeking to enhancing standards, technology through expansion of knowledge and training.  \n Support teamwork to swiftly and efficiently deliver innovative new products to patients and healthcare providers.  \n High ethical values and standards.  \n Able to speak out, challenge conventional thinking, and stand up for ideas.  \n Experienced in data visualization.  \n Excellent project management skills: can prioritize multiple tasks and goals to ensure timely completion.  \n Confident and competent when interacting with internal stakeholders.  \n Strong written/verbal communication skills. Highly effective at summarizing and presenting key considerations and evidence.   \n Strong team spirit.  \n Preferred Postgraduate qualification (Master’s or PhD) in a relevant field.  \n Preferred Publications or presentations in recognized RWE/biomedical journals/conferences highly desired.  \n \n \n Desirable Requirement : \n \n Bachelor’s degree plus 8 years conducting research in the pharma industry, contract research organization, or academic institute; or experience in a closely related discipline within the pharma industry (e.g., clinical research, statistics, epidemiology, pricing).  \n \n Commitment to Diversity & Inclusion \n We are committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve. \n   \n Accessibility and accommodation \n Novartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to diversityandincl.india novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n  \n Skills Desired \nBuilding Constructions, Clinical Research, Clinical Trials, Drug Development, Hazard Identification (HAZID), Health Sciences, Immunology, Intensive Care UnIT (Icu) (Inactive), Internal Controls, Internal Medicine, Internet Protocol Suite, Job Description (Inactive), Medical Information, Organizing, Patient Care, Stakeholder Engagement, Utilization Management (Um) (Inactive)",
+      "skills": [
+        "documentation"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 69,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.765Z"
     },
     {
       "source": "Workday",
@@ -6205,6 +6289,47 @@
     },
     {
       "source": "Workday",
+      "company": "Lonza",
+      "domain": "pharma / chemical",
+      "title": "Global Quality Compliance Professional",
+      "location": "IN - Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IN---Hyderabad/Global-Quality-Compliance-Professional_R77448",
+      "reqId": "R77448",
+      "url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Global-Quality-Compliance-Professional_R77448",
+      "applyUrl": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Global-Quality-Compliance-Professional_R77448",
+      "description": "Global Quality Compliance Professional \n Location: Hyderabad, India\n Be part of Lonza’s world-class Quality and Regulatory team. As a Global Quality Compliance Professional, you will support Lonza’s strategy to maintain its license to operate by reducing quality and compliance risks across our global supply chain. You will play a vital role in our Global Capability Center (CCG), executing remote, risk-based supplier assessments and oversight activities to ensure the uninterrupted supply of high-quality materials and services for life-changing therapies.\n What you will get \n An agile career and dynamic working culture.\n An inclusive and ethical workplace.\n Compensation programs that recognize high performance.\n Global exposure and the opportunity to work collaboratively across global quality workstreams.\n Comprehensive benefits package including medical insurance and wellness programs.\n What you will do \n Supplier Assessment Management: Execute remote, questionnaire-based supplier quality assessments and desk-based audits in accordance with the annual audit plan; act as the lead or co-assessor to identify compliance gaps.\n Risk-Based Program Design: Develop and maintain risk-based audit questionnaires and programs, incorporating regulatory trends, stakeholder inputs, and prior audit insights to ensure robust evaluation of supplier capabilities.\n CAPA & Remediation: Evaluate the adequacy of proposed CAPA and remediation plans arising from assessment findings; provide expert guidance to sites and suppliers to ensure alignment with Lonza standards.\n Internal Compliance Support: Assist in the planning and execution of questionnaire-based internal assessments for Lonza sites, focusing on desk-based evaluations of site responses to ensure global compliance.\n Performance Monitoring: Maintain audit documentation and tracking systems to monitor supplier performance, including risk ranking, KPI management, and trend analysis of complaints or deviations.\n Inspection Readiness: Support global sites during regulatory inspections by performing targeted pre-inspection questionnaire assessments and identifying potential compliance gaps.\n Regulatory Intelligence: Analyze external regulatory intelligence (e.g., Warning Letters, health authority trends) to refine assessment focus areas and prevent systemic compliance risks.\n Project Leadership: Lead or participate in global projects aimed at enhancing digital assessment platforms and standardizing questionnaire templates and assessment frameworks.\n Stakeholder Collaboration: Act as the Single Point of Contact (SPOC) for assigned global suppliers, coordinating communication and fostering a strong quality culture across the global organization.\n What we are looking for \n Experience: 5 - 10 years of Significant experience in Quality Assurance, Quality Compliance, or Auditing within a GMP-regulated Pharmaceutical or Biotech environment.\n Technical Knowledge: Deep understanding of GMP regulations (FDA, EMA, etc.) and Quality Risk Management (QRM) principles; experience in supplier qualification and remote auditing practices is highly desirable.\n Education: Degree in Life Sciences, Chemistry, Pharmacy, or a related technical field.\n Analytical Skills: Strong ability to perform critical reviews of technical documentation and identify subtle compliance risks or inconsistencies.\n Software Proficiency: Comfortable using digital audit management tools, tracking systems, and standard Microsoft Office applications.\n Communication: Business fluency in English with excellent report-writing skills and the ability to provide constructive feedback to global stakeholders.\n Mindset: A detail-oriented professional with a strong quality mindset who can work independently while managing a global portfolio of suppliers.\n About Lonza: \n At Lonza, our people are our greatest strength. With 30 sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion, and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n Innovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n Ready to shape the future of life sciences? Apply now.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "GMP",
+        "regulatory intelligence",
+        "health authority",
+        "compliance",
+        "quality assurance",
+        "documentation",
+        "audit"
+      ],
+      "experience": "5–10 yrs",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.747Z"
+    },
+    {
+      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "QA Compliance Specialist",
@@ -6355,6 +6480,42 @@
       "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
+      "title": "Analyst Data Strategy and Analytics",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad---TS---IN/Analyst-Data-Strategy-and-Analytics_R1603583",
+      "reqId": "R1603583",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst-Data-Strategy-and-Analytics_R1603583",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst-Data-Strategy-and-Analytics_R1603583",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren’t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You’ll get the chance to grow and thrive through opportunities uncommon in scale and scope, alongside high-achieving teams. Take your career farther than you thought possible.\n \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives. Read more: careers.bms.com/working-with-us .\n \n \n Roles & Responsibilities \n Own and maintain business rules for commercial and digital datasets, ensuring accuracy, consistency, and alignment with organizational data standards\n Collaborate with cross-functional teams including data engineering, forecasting, and therapeutic area stakeholders to understand business requirements and support the design of data and analytics solutions\n Support the design and development of new data products from scratch, enabling scalable and reusable solutions across the Commercialization\n Support identification, evaluation, and onboarding of US commercial and healthcare datasets (e.g., claims, sales, payer datasets).\n Apply SQL, Python, and analytical techniques to explore pharma datasets, support use case development, generate insights, and develop and maintain dashboards and reporting solutions (e.g., Power BI, Tableau) for brand performance tracking and analytics delivery.\n Collaborate with data ingestion and engineering teams to ensure proper integration of datasets (e.g., IQVIA, Symphony), including basic data validation and quality checks.\n Support automation and innovation efforts by leveraging scalable frameworks and GenAI tools to improve efficiency in analytics delivery.\n Support data governance responsibilities across commercialization and digital datasets, including documentation, stewardship, and compliance\n Contribute to enterprise data migration efforts to the Databricks platform, supporting UAT activities and validating business rules post-migration\n        Skills and Competencies\n Strong understanding of healthcare and US commercial data sources (e.g., claims, sales, payer datasets) and their application in analytics use cases\n Proficiency in data pre-processing, cleaning and transformation techniques to ensure data quality and compatibility for analysis\n Strong analytical and problem-solving skills with ability to derive meaningful insights from complex datasets\n Solid communication and presentation skills to effectively convey complex concepts and findings\n Ability to work collaboratively in cross-functional teams and manage multiple projects simultaneously\n Strong attention to detail and accuracy in data analysis and interpretation\n Experience\n A Bachelor s or Master s degree (preferred) in a relevant field, such as Data Science, AI, Engineering or a related discipline\n 1–2 years of experience in a Data Analyst or similar role, preferably in healthcare, pharma, or related industry.\n Exposure to US commercial real‑world data such as prescriptions, claims, or sales datasets. Good analytical and problem-solving skills with ability to analyze data and support actionable insights.\n Proficiency in SQL required & working knowledge basic Python for data extraction and analysis.\n Exposure to BI tools such as Power BI or Tableau for creating reports and dashboards.\n Hands on experience with data platforms such as Databricks, Redshift, or Snowflake is a plus.\n \n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Uniquely Interesting Work, Life-changing Careers With a single vision as inspiring as “Transforming patients’ lives through science™ ”, every BMS employee plays an integral role in work that goes far beyond ordinary. Each of us is empowered to apply our individual talents and unique perspectives in a supportive culture, promoting global participation in clinical trials, while our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.\n \n On-site Protocol \n BMS has an occupancy structure that determines where an employee is required to conduct their work. This structure includes site-essential, site-by-design, field-based and remote-by-design jobs. The occupancy type that you are assigned is determined by the nature and responsibilities of your role: \n \n Site-essential roles require 100% of shifts onsite at your assigned facility. Site-by-design roles may be eligible for a hybrid work model with at least 50% onsite at your assigned facility. For these roles, onsite presence is considered an essential job function and is critical to collaboration, innovation, productivity, and a positive Company culture. For field-based and remote-by-design roles the ability to physically travel to visit customers, patients or business partners and to attend meetings on behalf of BMS as directed is an essential job function. \n \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/ eeo -accessibility to access our complete Equal Employment Opportunity statement. \n \n Candidate Rights \n BMS will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area. \n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection .\n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. Inquiries related to the status of your application should be directed to Chat with Ripley. \n \n \nR1603583 : Analyst Data Strategy and Analytics",
+      "skills": [
+        "compliance",
+        "documentation",
+        "Excel",
+        "data analysis"
+      ],
+      "experience": "1–2 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 64,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.813Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
       "title": "Analyst, US Field Force Effectiveness",
       "location": "Hyderabad - TS - IN",
       "postedText": "Posted 4 Days Ago",
@@ -6456,7 +6617,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-06T07:21:34.314Z"
     },
     {
@@ -7059,7 +7220,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-06T07:21:34.350Z"
     },
     {
@@ -7096,6 +7257,41 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.644Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Takeda",
+      "domain": "pharma",
+      "title": "Analyst II",
+      "location": "IND - Bengaluru",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Bengaluru/Analyst-II_R0184018",
+      "reqId": "R0184018",
+      "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Analyst-II_R0184018",
+      "applyUrl": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/IND---Bengaluru/Analyst-II_R0184018",
+      "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n \n \n Job Description \n \n The Future Begins Here \n At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and future-ready capabilities, we are meeting the need of patients, our people, and the planet. \n Bengaluru, the city, which is India’s epicenter of Innovation, has been selected to be home to Takeda’s recently launched Innovation Capability Center. We invite you to join our digital transformation journey. In this role, you will have the opportunity to boost your skills and become the heart of an innovative engine that is contributing to global impact and improvement.   \n At Takeda’s ICC we Unite in Diversity \n Takeda is committed to creating an inclusive and collaborative workplace, where individuals are recognized for their backgrounds and abilities they bring to our company. We are continuously improving our collaborators journey in Takeda, and we welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our diverse team \n \n OBJECTIVES / PURPOSE\n We are seeking a strong Senior Analyst to join Takeda s GCC Commercial Insights & Analytics (I&A) organization in India. This role carries significant individual analytical ownership, bridging execution-level work with emerging stakeholder-facing responsibilities. The Senior Analyst is a critical analytical contributor who drives the quality and depth of insights delivered to US brand teams and begins to shape the analytical direction of assigned workstreams.\n Own and independently deliver a portfolio of mid-to-high complexity analytical workstreams that directly inform US brand strategy, performance management, and commercial execution across assigned brands and indications.\n Apply advanced proficiency in US pharmaceutical commercial data sources — including patient-level claims, EMR, specialty pharmacy, and sales data — and analytics tools to generate decision-ready insights with clear business implications.\n Design and execute patient journey analyses, HCP segmentation models, performance deep-dives, and competitive assessments that provide actionable, evidence-based recommendations to US I&A brand leads and commercial partners.\n Serve as an emerging analytical thought leader within the GCC team — contributing to methodology development, analytical best practices, and the informal mentoring of Analyst colleagues.\n ACCOUNTABILITIES\n Brand Analytics and Insight Generation\n Own end-to-end delivery of assigned performance analytics workstreams, producing reports and dashboards that track brand KPIs — including patient shares, new starts, source of business, adherence, and HCP engagement — at national and subnational levels.\n Integrate and analyze diverse US commercial data sources — including real-world data (claims, EMR), specialty pharmacy data, sales data, and channel data — to generate comprehensive patient and HCP insights that support brand strategy and launch readiness.\n Develop and maintain business rules for processing raw patient-level data, leveraging a deep understanding of data nuances, commercial context, and market knowledge to ensure analytical accuracy and consistency.\n Lead custom reporting and complex ad hoc analysis requests with independent hypothesis formulation, rigorous methodology, and well-documented, insight-rich outputs.\n Data Visualization and Reporting Excellence\n Design and maintain Tableau or Power BI dashboards and reporting tools that clearly communicate brand performance trends, patient funnel dynamics, and field force activity to US stakeholders.\n Establish KPIs and metrics — including patient shares, duration of therapy (DoT), adherence rates, source of business, and campaign effectiveness — and monitor their performance across national and subnational geographies and payer channel types.\n Proactively identify opportunities to automate and scale recurring reporting workflows using SQL, Python, or Databricks, reducing manual effort and improving analytical reproducibility.\n Stakeholder Collaboration and Communication\n Partner with GCC Managers and US I&A brand leads to clarify analytical requirements, align on deliverable scope, and communicate progress proactively.\n Synthesize findings from multiple data sources into cohesive, decision-oriented analytical stories with clear so what implications and actionable recommendations tailored to US brand and commercial audiences.\n Provide informal mentoring and quality guidance to Analyst I and Analyst II colleagues, reviewing their outputs, explaining methodological choices, and supporting their professional development.\n Contribute to team knowledge management by documenting analytical methods, data source guides, and reusable query libraries.\n KNOWLEDGE, SKILLS & EXPERIENCE\n Education:\n Bachelor s Degree required in Statistics, Data Science, Life Sciences, Computer Science, or a related quantitative field.\n Master s degree or MBA in a relevant analytical or business field is strongly preferred.\n Experience:\n 3-4 years of experience in US pharmaceutical commercial analytics or healthcare analytics, with demonstrated independent ownership of analytical deliverables.\n Deep working knowledge of US pharma commercial datasets: patient-level claims (IQVIA, Komodo Health, Symphony Health), specialty pharmacy (867), EMR, and sales data is required.\n Proficiency in coding techniques such as SQL, SAS, R, or Python for data manipulation and workflow automation; advanced Excel skills required.\n Strong experience with Tableau or Power BI for performance and brand analytics dashboard development.\n Exposure to Databricks or cloud-based analytics platforms is preferred.\n Experience supporting US brand teams or cross-functional analytics programs is strongly preferred.\n Skills & Competencies:\n Advanced US Commercial Data Analysis — Independently designs and executes complex analyses using multi-source US pharma commercial datasets; interprets results with strong domain context.\n Data Storytelling — Translates complex findings from multiple data sources into executive-ready narratives with explicit business implications and clear recommendations.\n Technical Proficiency — Advanced SQL; working Python/R; Tableau/Power BI; growing fluency in Databricks or cloud platforms.\n Stakeholder Communication — Communicates analytical findings persuasively to US I&A leads and cross-functional partners; adapts framing to both technical and commercial audiences.\n Automation and Efficiency — Proactively identifies and implements workflow improvements using code, pipelines, or process redesign.\n Informal Mentorship — Provides practical guidance to junior analysts on analytical techniques, data interpretation, and quality standards.\n Problem-Solving — Frames ambiguous business questions into structured hypotheses; comfortable navigating complexity and data limitations.\n TAKEDA LEADERSHIP BEHAVIORS\n In alignment with Takeda s Values-Based Culture, this role requires demonstration of the following leadership behaviors:\n Act with Integrity — Deliver accurate, transparent work and take full responsibility for quality.\n Collaborate Cross-Functionally — Contribute positively to GCC-US team workflows and cross-functional collaboration.\n Drive Accountability — Take ownership of all assigned tasks and deliver on commitments.\n Embrace Learning — Continuously build analytical and domain capabilities through feedback and self-driven development.\n BENEFITS: \n It is our priority to provide competitive compensation and a benefit package that bridges your personal life with your professional career. Amongst our benefits are: \n Competitive Salary Performance Annual Bonus \n Flexible work environment, including hybrid working \n Comprehensive Healthcare Insurance Plans for self, spouse, and children \n Group Term Life Insurance and Group Accident Insurance programs \n Employee Assistance Program \n Broad Variety of learning platforms \n Diversity, Equity, and Inclusion Programs \n Reimbursements – Home Internet & Mobile Phone \n Employee Referral Program \n Leaves – Paternity Leave (4 Weeks) , Maternity Leave (up to 26 weeks), Bereavement Leave (5 calendar days) \n ABOUT ICC IN TAKEDA: \n Takeda is leading a digital revolution. We’re not just transforming our company; we’re improving the lives of millions of patients who rely on our medicines every day. \n As an organization, we are committed to our cloud-driven business transformation and believe the ICCs are the catalysts of change for our global organization. \n #Li-Hybrid \n \n \n Locations \nIND - Bengaluru \n Worker Type \nEmployee \n Worker Sub-Type \nRegular \n Time Type \nFull time",
+      "skills": [
+        "IND",
+        "Excel",
+        "data analysis"
+      ],
+      "experience": "3–4 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 62,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-06T14:18:04.834Z"
     },
     {
       "source": "Workday",
