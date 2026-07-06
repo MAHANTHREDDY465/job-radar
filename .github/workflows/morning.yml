@@ -2,7 +2,10 @@ name: morning-radar
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 03:00 UTC = 08:30 IST, daily
+    # GitHub cron is best-effort and gets delayed at congested times (esp. top of hour).
+    # Off-hour minutes are picked up sooner; two early slots give a better shot at a morning delivery.
+    - cron: '35 1 * * *'   # 01:35 UTC = 07:05 IST
+    - cron: '50 2 * * *'   # 02:50 UTC = 08:20 IST
   workflow_dispatch: {}     # manual "Run workflow" button
   push:
     branches: [master]
@@ -49,19 +52,18 @@ jobs:
           cp data/jobs.json docs/jobs.json
           cp public/style.css docs/style.css
 
-      - name: Commit snapshot
-        run: |
-          git config user.name  "job-radar-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add docs/jobs.json docs/style.css
-          git commit -m "morning snapshot $(date -u +%F)" || echo "no changes"
-          git push
-
       - name: Telegram digest
-        if: always()
         continue-on-error: true
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: node tools/notify-digest.js
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "job-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          git commit -m "morning snapshot $(date -u +%F)" || echo "no changes"
+          git push
