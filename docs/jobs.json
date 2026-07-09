@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-09T05:50:54.423Z",
+  "generatedAt": "2026-07-09T06:36:59.378Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 238,
+    "total": 239,
     "goal": 111,
     "target": 0,
-    "below": 127,
+    "below": 128,
     "overseas": 0,
-    "new": 21,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -101,7 +101,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.277Z"
     },
     {
@@ -691,7 +691,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.355Z"
     },
     {
@@ -1649,7 +1649,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.354Z"
     },
     {
@@ -2309,7 +2309,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.326Z"
     },
     {
@@ -2877,7 +2877,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.282Z"
     },
     {
@@ -2987,7 +2987,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.391Z"
     },
     {
@@ -3237,6 +3237,41 @@
     },
     {
       "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Master Data Steward",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Master-Data-Steward_R2846030",
+      "reqId": "R2846030",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Steward_R2846030",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Steward_R2846030",
+      "description": "Job Title : Master Data Steward\n Location : Hyderabad\n \n About the job: \n Sanofi is a global life sciences company committed to improving access to healthcare and supporting the people we serve throughout the continuum of care. From prevention to treatment, Sanofi transforms scientific innovation into healthcare solutions, in human vaccines, rare diseases, multiple sclerosis, oncology, immunology, infectious diseases, diabetes and cardiovascular solutions. \n \n As a company with a global vision of drug development and a highly regarded corporate culture, Sanofi is recognized as one of the best pharmaceutical companies in the world and is pioneering the application of Artificial Intelligence (AI) with strong commitment to develop advanced data standards to increase reusability & interoperability and thus accelerate impact on global health. \n \n Main Responsibilities: \n Secure master data (MD) quality and availability at the Sanofi target \n Support master data quality improvement activities across all sites in the frame of M&S master data playbook\n Identify any master data quality and availability issues and propose solutions and remediation (continuous improvement spirit)\n MD operational responsibility : Ensuring data standards and data quality targets are met, suggest business rules based on recurring data issues \n Coordinating MD collection to ensure efficient e2e data maintenance processes and preparing MD extraction to support business meeting (e.g., capability review) \n Checking single / mass MD requests and performing data enrichments \n Continuous improvement responsibility : Driving continuous improvement by identifying and raising initiatives to respective team lead \n Supporting MD evolution, projects, and improvement initiatives, including cleansing initiatives and migrations \n Providing input for documentation, training materials, and knowledge management \n Master data user support and monitoring : Maintaining MD user authorizations per system and role \n Supporting MD community on site level, incl. data content owner/ MD users and conduct impact analyses for upcoming site project \n Contributing to the education of the MD community \n Monitoring the SLA of the MD creation / modification/ deactivation processes, and supporting the development of KPIs, data quality dashboards and scorecards \n   \n About you: \n   \n Preferred skills/expertise/experience: \n Experience: \n Minimum 1 year in Master Data Management with knowledge of pharma industry (e.g., GxP) \n Preferably work experience / educational background in supply chain mgmt. / logistics / pharma quality control management / pharma manufacturing \n Skills/expertise: \n Strong understanding of Master Data Management and data governance frameworks \n Work experience with SAP ERP (ECC 6.0, S/4 HANA, MM & MDG modules) / LIMS \n Mandatory English, preferably languages for key markets (French) ​\n \n Competency requirements: \n Being thorough and consistent \n Be a good communicator and team player to resolve ad-hoc issues \n Strong willingness to learn \n \n Sanofi values: \n Stretch to go beyond the level we have operated at up until now\n Act in the interest of our patients and customers\n Take action instead of waiting to be told what to do\n Put the interests of the organization ahead of my own or those of our team\n \n \n Pursue progress, discover extraordinary \n \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people. \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com! \n \n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
+      "skills": [
+        "GxP",
+        "documentation",
+        "SAP"
+      ],
+      "experience": "1+ yrs",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 80,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-09T06:36:59.254Z"
+    },
+    {
+      "source": "Workday",
       "company": "AstraZeneca",
       "domain": "pharma",
       "title": "Analyst - Sustainability Data Steward",
@@ -3266,7 +3301,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.327Z"
     },
     {
@@ -3781,7 +3816,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.329Z"
     },
     {
@@ -3929,7 +3964,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.383Z"
     },
     {
@@ -4442,7 +4477,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.321Z"
     },
     {
@@ -4514,7 +4549,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.399Z"
     },
     {
@@ -5010,7 +5045,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.295Z"
     },
     {
@@ -5252,7 +5287,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.355Z"
     },
     {
@@ -5286,7 +5321,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.283Z"
     },
     {
@@ -6775,7 +6810,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.278Z"
     },
     {
@@ -7315,7 +7350,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.402Z"
     },
     {
@@ -7932,7 +7967,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.331Z"
     },
     {
@@ -7965,7 +8000,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.332Z"
     },
     {
@@ -7998,7 +8033,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.332Z"
     },
     {
@@ -8126,7 +8161,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.282Z"
     },
     {
@@ -8454,7 +8489,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-09T05:50:54.296Z"
     }
   ]
