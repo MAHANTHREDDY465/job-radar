@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-10T05:47:47.184Z",
+  "generatedAt": "2026-07-10T06:36:15.283Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 234,
-    "goal": 103,
+    "total": 235,
+    "goal": 104,
     "target": 0,
     "below": 131,
     "overseas": 0,
-    "new": 10,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -1421,7 +1421,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:47.009Z"
     },
     {
@@ -1458,7 +1458,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:47.009Z"
     },
     {
@@ -3377,6 +3377,44 @@
     },
     {
       "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Senior Analyst, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_444494",
+      "reqId": "444494",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_444494",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_444494",
+      "description": "Key Responsibilities :   \n \n • Performs the study set-up activities and the technical development of Electronic Data capture ( eDC ) solutions   and associated tools for one or more clinical study( ies ).   \n • Assist with the technical & vendor oversight of multiple data types for one or more clinical study( ies ) .   \n • Support the delivery of one or more Clinical studies depending upon the phase, complexity, and similarity with support   of junior data acquisitions staffs as required.   \n • For studies, key   responsibilities   include:   \n Provides input to study design, the clinical protocol, study planning and review of study documents as   appropriate.   \n Coordinates review, revision, and approval of study specification documents (including operational   requirements & specifications) and/or key vendor deliverables (including translations) .   \n Understands, mediates and solves issues related to Data acquisition Develops the study   eDC   application and   associated documents including forms, data validation checks & data extraction and ensures delivery with   quality and on time .   \n Provides reports, status updates, feedback, and raises risks and advice to Study Data Manager about study   set-up and/or vendor related activities .   \n Ensures quality control of deliverables.   \n \n • Provide inputs to process improvements, new processes, training, quality assessments, audits and inspections related   to the Data Acquisition.   \n • Responsible for performing after-action reviews (success or failure) to share learnings and propose improvements for   the future.   \n • Extensive working knowledge of   GxP , ICH requirements, internal processes and external regulations that govern drug   development (where applicable).   \n Skills \nAgile Thinking, Clinical Data Management, Clinical Development, Clinical Information Systems, Clinical Trial Designs, Communication, Creativity, Data Analysis, Data Management, Data Standards, Data Validation, Influencing Without Authority, Risk Management, Stakeholder Management, Teamwork  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "ICH",
+        "GxP",
+        "data analysis",
+        "stakeholder management"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-10T06:36:15.159Z"
+    },
+    {
+      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Senior Analyst - Marketing Platform Operations",
@@ -3700,7 +3738,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.990Z"
     },
     {
@@ -7369,7 +7407,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:47.037Z"
     },
     {
@@ -7403,7 +7441,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:47.036Z"
     },
     {
@@ -7471,7 +7509,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.952Z"
     },
     {
@@ -7641,7 +7679,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.974Z"
     },
     {
@@ -7675,7 +7713,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.976Z"
     },
     {
@@ -8098,7 +8136,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.955Z"
     },
     {
@@ -8233,7 +8271,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-10T05:47:46.956Z"
     },
     {
