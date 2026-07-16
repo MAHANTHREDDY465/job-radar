@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:48:15.252Z",
+  "generatedAt": "2026-07-16T05:35:22.578Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 118,
     "overseas": 0,
-    "new": 14,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -140,7 +140,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.157Z"
     },
     {
@@ -299,7 +299,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.227Z"
     },
     {
@@ -2065,6 +2065,44 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
+      "title": "Compliance Analyst II",
+      "location": "India - Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
+      "reqId": "R0000043396",
+      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
+      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
+      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n Key Accountabilities: \n Due Diligence Screening and Investigation \n Conduct comprehensive due diligence screening of employees, contractors, investigators, vendors, and third parties prior to engagement\n Perform screening activities related to FCPA, anti-bribery, anti-corruption, sanctions, and FDA debarment requirements\n Execute open source investigations of screening hits and compile detailed findings for review\n Research and verify identity information to resolve potential matches and false positives\n Escalate complex screening results that cannot be resolved through standard procedures\n Data Management and Documentation \n Maintain accurate records of all screening activities and results in compliance systems\n Document investigation findings and rationale for screening decisions\n Generate reports on screening metrics and compliance activities using Power BI\n Update and maintain third party information in Oracle Financials and other systems\n Ensure data integrity and completeness across multiple compliance platforms\n Stakeholder Collaboration and Support \n Collaborate with Vendor Setup Group to facilitate compliant third party onboarding\n Support Investigator Payments Office with investigator screening and clearance activities\n Provide compliance guidance to Study Teams regarding third party engagement requirements\n Coordinate with Site Intelligence team on site-related compliance screening activities\n Assist with compliance inquiries and provide screening status updates to internal stakeholders\n Process Improvement and Compliance Monitoring \n Monitor regulatory updates and changes affecting screening requirements\n Participate in process improvement initiatives to enhance screening efficiency\n Support compliance audits and regulatory inspections as needed\n Maintain knowledge of current compliance regulations and industry best practices\n Contribute to training materials and documentation for compliance procedures\n Skills: \n Proficiency with compliance screening databases and investigation techniques\n Experience with Vault, Landscape, Oracle Financials, and Salesforce platforms\n Advanced Microsoft Excel skills for data analysis and reporting\n Knowledge of Power BI for dashboard creation and data visualization\n Familiarity with Databricks for data management and analysis\n Understanding of anti-bribery, anti-corruption, and sanctions regulations\n Knowledge of FDA debarment and exclusion requirements\n Research and analytical skills for open source investigations\n Attention to detail and accuracy in documentation\n Strong written and verbal communication abilities\n Ability to manage multiple priorities and meet deadlines\n Problem-solving skills for resolving screening discrepancies\n Professional judgment in escalating complex issues\n Team collaboration and stakeholder management\n Adaptability to changing regulatory requirements\n Client service orientation for internal stakeholder support\n Knowledge and Experience \n 0-2 years of experience in compliance, legal, or business environment\n Experience with due diligence screening processes preferred\n Familiarity with financial systems and vendor management processes\n Knowledge of regulatory compliance requirements in clinical research industry\n Experience with data analysis and reporting tools\n Understanding of third party risk management principles\n Education \n Bachelor s degree in Business, Finance, Legal Studies, or related field\n Compliance certifications (CAMS, CRCM) preferred but not required\n Training in anti-bribery and anti-corruption regulations beneficial\n Would you like any adjustments? If no, Click Actions (upper right) → Export to Word doc to copy the formatted output into Workday",
+      "skills": [
+        "FDA",
+        "compliance",
+        "documentation",
+        "Excel",
+        "data analysis",
+        "stakeholder management"
+      ],
+      "experience": "0–2 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 89,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-16T05:35:22.467Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Parexel",
+      "domain": "pharma / CRO",
       "title": "Senior Regulatory Affairs Consultant (Program / Client Partnership Manager)",
       "location": "United States - Remote",
       "postedText": "Posted 30+ Days Ago",
@@ -2518,7 +2556,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.140Z"
     },
     {
@@ -3566,7 +3604,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.229Z"
     },
     {
@@ -3604,7 +3642,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.230Z"
     },
     {
@@ -4606,7 +4644,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.203Z"
     },
     {
@@ -4641,7 +4679,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.205Z"
     },
     {
@@ -5171,7 +5209,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.203Z"
     },
     {
@@ -5205,7 +5243,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.204Z"
     },
     {
@@ -5273,7 +5311,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.204Z"
     },
     {
@@ -5341,7 +5379,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.211Z"
     },
     {
@@ -5477,7 +5515,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.153Z"
     },
     {
@@ -6720,42 +6758,6 @@
     },
     {
       "source": "Workday",
-      "company": "GSK",
-      "domain": "pharma",
-      "title": "Associate, HR Reporting & Analytics-1",
-      "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted Today",
-      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
-      "reqId": "441713",
-      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
-      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--HR-Reporting---Analytics-1_441713",
-      "description": "The Reporting and Analytics Analyst (GCC) is a member of the People Services Employee Life Cycle & supports global markets and plays a key role in the analysis and supply of data metrics ensuring data quality and the enablement of operationally relevant business intelligence in order for performance decisions to be made and a compliant People Services ELC organization upheld. \n This position requires an action oriented professional, who will provide essential support in the production or reports, analytics and actionable insights in support of People Services ELC Service delivery obligations. \n \n Key Responsibilities: \n \n Deliver against all compliance imperatives including support for local and global Data Audits, local legislative needs, protecting Data Privacy at all times and adhering to confidentiality requirements to promote zero breach of compliance policies.  \n Understands the use of Workday Reporting and can act as a subject matter expert on providing guidance on Workday reports \n Understands the use of on-line tools and HR systems and can act as a subject matter expert on a wide range of diverse and complex issues and provide guidance as it relates to HR transactions. \n ·   Supporting employees, managers and HR on Workday reporting request (scheduled and ad hoc). \n Possesses deep knowledge of Workday reporting serving as subject matter understanding the downstream impact of transactions. \n Generates and analyses service KPI’s when requested. \n Develop capability for sophisticated data analysis that provides both retrospective and prospective actionable insights that improves service. \n Possesses deep knowledge of Workday, ServiceNow, PowerBI reporting serving as subject matter understanding the downstream impact of transactions \n Will create appropriate global, regional and local metrics/dashboards to provide oversight and insights to performance with an expectation of driving continuous improvement.  \n Develop new Dashboards, improve existing ones in order to support People Service ELC Center metrics and performance. \n Will be partnering with the PDA, GXOTeams to create appropriate global, regional and local metrics/dashboards to provide oversight and insights to performance with an expectation of driving continuous improvement.   \n Develop capability for sophisticated data analysis that provides both retrospective and prospective actionable insights that improves service. \n \n Knowledge Management \n Uses knowledge management tools/Veevadocs effectively to ensure accuracy of information and stays abreast of changes in knowledge management content.\n Take accountability for ensuring all relevant Service Operating Procedures are fit for purpose and governed according to accepted Global standards\n \n \n Delivery Management \n Deliver services against Global Value Stream Metrics and standards utilizing Dashboards and available data analytics to ensure personal and team performance meet all agreed service standards and any CI opportunities are identified and followed up accordingly\n Ensure effective prioritization of work and appropriate workforce planning for incoming workload\n Deliver against all compliance imperatives including support for local and global Data Audits, local legislative needs, protecting Data Privacy at all times and adhering to confidentiality requirements to promote zero breach of compliance policies\n \n Skills and expertise: \n Experience working in a HR Shared Services, Support Centre or Customer Support environment. \n Workday Reporting, Analytics, ServiceNow, POWER BI Dashboarding is a Must. \n Excellent Communication Skills. \n Demonstrated Workday technical & analytical skills and experience of working with metrics. \n High level of expertise in Workday and standard MS Office Software (excel and word). \n Performance driven / Focus on results. \n Knowledge of relevant technology that aid in process improvement and governance (e.g. QlikView dashboards, Power BI, Workday, Service Now, etc.). \n Experience in the Microsoft Power Platform – MS PowerApps, Power Automate, and Power BI \n Experience with Office 365 development utilizing PowerApps, Power Automate, and Power BI, Teams and SharePoint Online \n   \n Basic Qualification: \n University Degree, bachelor s degree or equivalent experience \n Minimum 3 to 4yrs of experience. \n \n Skills \nBusiness Data Mining, Data Analysis, Data Analysis Tools, Data Mining, Data Modeling, Data Storytelling, SQL Databases, Statistical Analysis, Structured Query Language (SQL)  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
-      "skills": [
-        "REACH",
-        "compliance",
-        "Excel",
-        "data analysis"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 64,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-07-16T04:48:15.232Z"
-    },
-    {
-      "source": "Workday",
       "company": "IFF",
       "domain": "flavors / fragrances / ingredients",
       "title": "Analyst II, READI",
@@ -7700,7 +7702,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.136Z"
     },
     {
