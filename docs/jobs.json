@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:57:36.259Z",
+  "generatedAt": "2026-07-19T05:45:37.479Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 127,
     "overseas": 0,
-    "new": 66,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -101,7 +101,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.901Z"
     },
     {
@@ -299,7 +299,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.041Z"
     },
     {
@@ -338,7 +338,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.035Z"
     },
     {
@@ -615,7 +615,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.028Z"
     },
     {
@@ -1699,7 +1699,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.028Z"
     },
     {
@@ -1741,7 +1741,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.027Z"
     },
     {
@@ -1785,7 +1785,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.026Z"
     },
     {
@@ -1823,7 +1823,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.032Z"
     },
     {
@@ -1861,7 +1861,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.030Z"
     },
     {
@@ -3077,7 +3077,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.990Z"
     },
     {
@@ -3114,7 +3114,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.031Z"
     },
     {
@@ -3654,7 +3654,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.030Z"
     },
     {
@@ -3693,7 +3693,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.041Z"
     },
     {
@@ -4240,7 +4240,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.042Z"
     },
     {
@@ -4456,7 +4456,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.038Z"
     },
     {
@@ -4491,7 +4491,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.002Z"
     },
     {
@@ -4526,7 +4526,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.003Z"
     },
     {
@@ -4561,7 +4561,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.004Z"
     },
     {
@@ -4596,7 +4596,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.005Z"
     },
     {
@@ -4631,7 +4631,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.005Z"
     },
     {
@@ -4666,7 +4666,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.006Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.006Z"
     },
     {
@@ -4736,7 +4736,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.007Z"
     },
     {
@@ -4771,7 +4771,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.008Z"
     },
     {
@@ -4806,7 +4806,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.009Z"
     },
     {
@@ -4841,7 +4841,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.010Z"
     },
     {
@@ -4876,7 +4876,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.004Z"
     },
     {
@@ -4987,7 +4987,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.039Z"
     },
     {
@@ -5024,7 +5024,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.040Z"
     },
     {
@@ -5408,7 +5408,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.007Z"
     },
     {
@@ -5442,7 +5442,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.008Z"
     },
     {
@@ -5476,7 +5476,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.003Z"
     },
     {
@@ -5510,7 +5510,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.009Z"
     },
     {
@@ -5779,7 +5779,7 @@
         "title match",
         "domain fit"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.029Z"
     },
     {
@@ -5811,7 +5811,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.992Z"
     },
     {
@@ -5843,7 +5843,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.993Z"
     },
     {
@@ -5875,7 +5875,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.993Z"
     },
     {
@@ -5907,7 +5907,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.994Z"
     },
     {
@@ -5939,7 +5939,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.994Z"
     },
     {
@@ -5971,7 +5971,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.996Z"
     },
     {
@@ -6003,7 +6003,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.997Z"
     },
     {
@@ -6035,7 +6035,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.998Z"
     },
     {
@@ -6067,7 +6067,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.998Z"
     },
     {
@@ -6099,7 +6099,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.999Z"
     },
     {
@@ -6131,7 +6131,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.000Z"
     },
     {
@@ -6163,7 +6163,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.000Z"
     },
     {
@@ -6195,7 +6195,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.001Z"
     },
     {
@@ -6227,7 +6227,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.001Z"
     },
     {
@@ -6259,7 +6259,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.002Z"
     },
     {
@@ -6291,7 +6291,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.991Z"
     },
     {
@@ -6323,7 +6323,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.992Z"
     },
     {
@@ -6355,7 +6355,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.995Z"
     },
     {
@@ -6387,7 +6387,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.995Z"
     },
     {
@@ -6419,7 +6419,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.996Z"
     },
     {
@@ -6451,7 +6451,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.997Z"
     },
     {
@@ -6483,7 +6483,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.999Z"
     },
     {
@@ -6515,7 +6515,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.000Z"
     },
     {
@@ -6743,7 +6743,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.037Z"
     },
     {
@@ -6779,7 +6779,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.903Z"
     },
     {
@@ -7175,7 +7175,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.036Z"
     },
     {
@@ -7211,7 +7211,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.032Z"
     },
     {
@@ -7247,7 +7247,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.033Z"
     },
     {
@@ -7284,7 +7284,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.039Z"
     },
     {
@@ -7534,7 +7534,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.034Z"
     },
     {
@@ -7570,7 +7570,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:36.036Z"
     },
     {
@@ -8012,7 +8012,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-19T04:57:35.902Z"
     },
     {
