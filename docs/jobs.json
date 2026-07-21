@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-21T04:56:16.444Z",
+  "generatedAt": "2026-07-21T05:44:14.839Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 241,
-    "goal": 115,
+    "total": 240,
+    "goal": 114,
     "target": 0,
     "below": 126,
     "overseas": 0,
-    "new": 12,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -145,44 +145,6 @@
     },
     {
       "source": "Workday",
-      "company": "Lonza",
-      "domain": "pharma / chemical",
-      "title": "Manager, Taxation & Regulatory Compliance",
-      "location": "IN - Hyderabad",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IN---Hyderabad/Manager--Taxation---Regulatory-Compliance_R76619",
-      "reqId": "R76619",
-      "url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Manager--Taxation---Regulatory-Compliance_R76619",
-      "applyUrl": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Manager--Taxation---Regulatory-Compliance_R76619",
-      "description": "R76619 Manager, Taxation & Regulatory Compliance \n Location: Hyderabad, India\n \n Today, Lonza is a global leader in life sciences. \n We design and deliver solutions that enable scientists to accelerate innovation and improve health outcomes. We are seeking a Manager, Taxation & Regulatory Compliance to own the end‑to‑end tax lifecycle and regulatory framework for our Indian operations (IN06 and IN01). This role is pivotal in ensuring that our employee‑centric, service‑based entity remains fully compliant with Indian Direct/Indirect tax laws while managing specialized requirements like STPI and Customs. The ideal candidate will combine technical rigor with a “ready‑for‑audit” approach to support our global reporting and local statutory obligations.\n \n What you’ll do \n Lead preparation and timely filing of monthly GST returns (GSTR‑1, 3B, 6) and annual returns (GSTR‑9/9C).\n Maintain robust GST reconciliations between SAP/ERP books and government portals (GSTR‑2A/2B, E‑way bills).\n Manage end‑to‑end GST refund applications and draft technical responses to GST notices, SCNs, and appeals.\n Monitor changes in GST regulations and communicate their impact on business operations and P&L.\n Manage tax computations, advance tax calculations, and timely filing of Annual Income Tax Returns.\n Oversee monthly TDS/TCS payments, quarterly return filings, and resolution of 26AS/AIS mismatches.\n Lead preparation of annual Transfer Pricing studies and Local Files in line with Section 92‑92F and OECD guidelines.\n Manage STPI operations including monthly, quarterly, and annual filings (MPR/APR) and bonded asset movement.\n Oversee Customs compliance for import of goods and services, including documentation for cross‑border intercompany expense cross‑charges.\n Ensure full compliance with FEMA regulations for cross‑border payments, intercompany agreements, and repatriations.\n Act as primary point of contact for Statutory Audits, Tax Audits (Form 3CD), and GST Audits.\n Lead audit defense strategies, coordinate with tax consultants, and represent the company before tax authorities.\n Coordinate cross‑functionally to implement tax‑efficient strategies and maintain professional relationships with regulators.\n \n What we’re looking for \n Strong post‑qualification experience in Indian tax compliance, with significant exposure to multi‑entity or global corporate structures.\n Deep expertise in GST, Income Tax, Transfer Pricing, STPI, and FEMA.\n SAP S/4HANA experience is a plus.\n High attention to detail with an “audit‑ready” mindset.\n \n Skills & Capabilities \n Proven ability to manage complex tax and compliance frameworks end‑to‑end.\n Strong analytical and problem‑solving skills with technical rigor.\n Effective communication and stakeholder management skills.\n Ability to operate effectively in a global, matrixed environment.\n Strategic mindset with robust operational execution.\n \n What you’ll get \n A critical tax and compliance leadership role within a global life sciences organization.\n Opportunity to shape and strengthen Lonza’s tax governance and compliance frameworks.\n Exposure to global reporting standards and local statutory obligations.\n Collaboration with senior stakeholders across Finance, Legal, and Operations.\n Competitive compensation and benefits aligned with role and experience.\n \n What we offer \n An agile career and dynamic working culture.\n An inclusive and ethical workplace.\n Compensation programs that recognize high performance.\n A variety of benefits dependent on role and location.\n \n The full list of our global benefits can be found here: https://www.lonza.com/careers/benefits .\n \n \n About Lonza \n At Lonza, our people are our greatest strength. With more than 30 sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values— Collaboration, Accountability, Excellence, Passion, and Integrity —define how we work together and succeed. Everyone’s ideas, big or small, have the potential to improve millions of lives. Innovation thrives when people from all backgrounds bring their unique perspectives to the table. Lonza is committed to fostering an inclusive environment where every employee can grow and make a meaningful impact.\n Ready to shape the future of life sciences? Apply now.",
-      "skills": [
-        "compliance",
-        "documentation",
-        "SAP",
-        "audit",
-        "stakeholder management"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 100,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-01T03:48:34.671Z"
-    },
-    {
-      "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
       "title": "Senior Regulatory Affairs Associate",
@@ -299,7 +261,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.413Z"
     },
     {
@@ -1697,7 +1659,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.401Z"
     },
     {
@@ -1737,7 +1699,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.402Z"
     },
     {
@@ -3080,7 +3042,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.322Z"
     },
     {
@@ -4167,7 +4129,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.332Z"
     },
     {
@@ -4386,7 +4348,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.337Z"
     },
     {
@@ -4494,7 +4456,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.335Z"
     },
     {
@@ -5653,7 +5615,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.365Z"
     },
     {
@@ -5687,7 +5649,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.340Z"
     },
     {
@@ -7607,7 +7569,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.313Z"
     },
     {
@@ -7781,7 +7743,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.388Z"
     },
     {
@@ -7883,7 +7845,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-21T04:56:16.301Z"
     },
     {
