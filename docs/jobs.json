@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T04:55:46.781Z",
+  "generatedAt": "2026-07-22T05:43:41.769Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 121,
     "overseas": 0,
-    "new": 10,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -142,7 +142,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.650Z"
     },
     {
@@ -489,7 +489,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.699Z"
     },
     {
@@ -527,7 +527,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.691Z"
     },
     {
@@ -729,7 +729,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.708Z"
     },
     {
@@ -2072,7 +2072,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.666Z"
     },
     {
@@ -4195,7 +4195,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.753Z"
     },
     {
@@ -4869,7 +4869,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.728Z"
     },
     {
@@ -5537,7 +5537,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.728Z"
     },
     {
@@ -5741,7 +5741,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.681Z"
     },
     {
@@ -8200,7 +8200,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-22T04:55:46.708Z"
     },
     {
