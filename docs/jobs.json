@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-23T05:01:33.090Z",
+  "generatedAt": "2026-07-23T05:48:02.944Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 238,
+    "total": 239,
     "goal": 120,
     "target": 0,
-    "below": 118,
+    "below": 119,
     "overseas": 0,
-    "new": 12,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -143,7 +143,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.072Z"
     },
     {
@@ -735,7 +735,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.057Z"
     },
     {
@@ -775,7 +775,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.056Z"
     },
     {
@@ -1249,7 +1249,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.016Z"
     },
     {
@@ -1354,7 +1354,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.070Z"
     },
     {
@@ -1731,7 +1731,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.011Z"
     },
     {
@@ -1806,7 +1806,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.012Z"
     },
     {
@@ -1840,7 +1840,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:32.994Z"
     },
     {
@@ -2440,7 +2440,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:32.986Z"
     },
     {
@@ -3500,7 +3500,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.046Z"
     },
     {
@@ -3764,7 +3764,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:33.060Z"
     },
     {
@@ -4313,7 +4313,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-23T05:01:32.978Z"
     },
     {
@@ -7964,6 +7964,40 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-14T04:36:50.169Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Analyst - Data Science",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/Sr-Analyst---Data-Science_REQ-10071324",
+      "reqId": "REQ-10071324",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Sr-Analyst---Data-Science_REQ-10071324",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Sr-Analyst---Data-Science_REQ-10071324",
+      "description": "Job Description Summary \nJob Description Summary: The AI and Data Science Operations team at BSI Insights supports better decision making at Novartis by using data to generate actionable insights and improve performance. We work with international business units to solve complex problems, develop analytical strategies, apply engineering and machine learning methods, and automate processes for efficiency. Our team values collaboration and continuous learning, partnering closely with stakeholders across diverse regions to ensure our solutions align with specific business needs. Our work not only drives innovation but also empowers teams throughout Novartis to make informed, impactful decisions based on real-world data.  \n Job Description \n Key Responsibilities \n Deliver predictive and classification models using machine learning and statistical algorithms as an individual contributor for various projects related to commercial pharma, in close collaboration with senior associates in the team.\n Analyze large datasets from various sources (Claims, Sales, Promotions, etc.) to uncover insights and drive decision-making processes\n Bring in operational efficiencies in the existing processes by closely working with senior associates in the team.\n Deliver through a structured project management approach with appropriate documentation and communication throughout the project delivery cycle.\n Support the creation and maintenance of standard operating procedures and quality checklists to ensure excellent quality outputs within the function.\n Deliver projects and manage internal customer expectations across multi-channel marketing analytics, targeting and segmentation, predictive analytics, resource allocation and optimization, and ad-hoc requests.\n Support the exploration and integration of cutting-edge AI technologies, particularly in the field of generative AI and LLM technologies.\n Essential Requirements \n Minimum 2 years of experience in data Science, Python, SQL, Excel, time series, Machine learning\n Strong foundation in statistics, predictive analytics, machine learning, and deep learning algorithms\n Proficiency in Python; familiarity with R is a plus\n Proven ability to solve complex problems with creative, data-driven solutions\n Comfortable working across time zones and collaborating with global teams\n Excellent verbal and written communication skills for stakeholder engagement\n Bachelor’s degree in a related field\n Demonstrated ability to balance strategic thinking with operational execution\n Desirable Requirements \n Experience collaborating with senior leadership and cross-functional teams across Marketing, Sales, and Data Enablement\n Ability to thrive in a dynamic environment and adapt quickly to evolving business priorities\n  \n Skills Desired \nBayesian Models, Bayesian Models, Bayesian Statistics, Clustering Models, Communication, Cross-Functional Teamwork, Data Clustering, Data Science, Deep Learning, Gradient Boosting, Image Processing, K-Means Clustering, Logistic Regression Model (Inactive), Machine Learning (ML), Natural Language Processing (NLP), Operations Research, Predictive Algorithms, Predictive Analysis, Predictive Analytics, Predictive Modeling, Python (Programming Language), Regression Analysis of Time Series (RATS), R Programming, Statistical Analysis, Statistical Data Modeling {+ 2 more}",
+      "skills": [
+        "documentation",
+        "Excel"
+      ],
+      "experience": "2+ yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 60,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-23T05:48:02.698Z"
     },
     {
       "source": "Workday",
