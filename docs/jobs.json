@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-25T04:53:10.701Z",
+  "generatedAt": "2026-07-25T05:38:35.458Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 238,
+    "total": 236,
     "goal": 115,
     "target": 0,
-    "below": 123,
+    "below": 121,
     "overseas": 0,
-    "new": 6,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -53,56 +53,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.664Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Ashland",
-      "domain": "specialty chemical",
-      "title": "Manager Product Stewardship",
-      "location": "IN-HYDERABAD-DIVYASHREE",
-      "postedText": "Posted 16 Days Ago",
-      "externalPath": "/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
-      "reqId": "2026 - 0391",
-      "url": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
-      "applyUrl": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
-      "description": "Ashland India Private Ltd \n \n Job Description \n \n Are you the kind of person that is always thinking, sketching, seeking, and adjusting? Who needs to understand how things work and then figure out how they can work better? Are you a passionate, tenacious, solver who loves to work with others who share your drive? Are you positive, constructive, and ingenious? Are you always solving?\n Then we’d like to meet you and bet you’d like to meet us.\n Ashland has an exciting opportunity for a Manager Product Stewardship to join our ( Ashland LLC, Specialty ingredients G.P., ISP Chemicals etc .) business at our Hyderabad Office. This is a very visible, significant role within the Company and the Product Stewardship function. This position will report to Manager Product Safety and Regulatory Affairs (South Asia)  \n Manager EHS Product Safety : \n Lead global product safety and regulatory compliance across GHS, REACH, CLP, OSHA, and Chemical inventory frameworks.\n Oversee end-to-end SDS lifecycle management, ensuring accuracy, compliance, and audit readiness.\n Manage and optimize SAP EHS (Product Safety, DG, Label Management) systems.\n Drive regulatory implementation initiatives including PCN/UFI submissions and region-specific compliance.\n Perform and review hazard classification and labeling in line with GHS standards.\n Ensure compliance with Dangerous Goods regulations (ADR, IATA, IMDG, 49 CFR).\n Lead SDS authoring, review, and approval processes across global markets.\n Develop and enforce standard operating procedures (SOPs) for product safety workflows.\n Drive process improvement and automation initiatives to increase efficiency and reduce manual effort.\n Support SAP EHS rollouts, upgrades, and data migration from legacy systems.\n Collaborate with R&D, supply chain, regulatory, IT, and commercial teams for compliance integration.\n Provide regulatory guidance during New Product Introduction (NPI) and commercialization stages.\n Manage audit readiness, compliance reviews, and corrective action plans.\n Lead and mentor teams, ensuring capability development and knowledge sharing.\n Monitor and improve KPIs such as SDS quality, turnaround time, compliance adherence, and system efficiency.\n Support eSDS generation process for Ashland products placed on EU market.\n    \n \n \n \n \n \n Education/Experience: \n \n Graduate or post Graduate (Science – Chemical engineering, BSc Chemistry, B Pharma, MSc Chemistry, M Pharma)\n 15 years of experience in MSDS authoring\n 10 years of experience managing groups\n \n Technical Competencies (Knowledge, Skills and Abilities) \n \n Skills: \n Expertise in GHS classification and global chemical regulations (REACH, CLP, OSHA,)\n Strong experience in SDS authoring, review, and lifecycle management\n Hands-on knowledge of SAP EHS ECC (Product Safety, DG, Label Management)\n Proficiency in Dangerous Goods classification (ADR, IATA, IMDG)\n Ability to interpret and implement regulatory compliance requirements\n Strong analytical and problem-solving skills for compliance and system issues\n Experience in process improvement, SOP development, and audit readiness\n Effective stakeholder management and cross-functional collaboration\n Proven team leadership and mentoring capabilities\n Excellent communication and project management skills.\n Good to have S4Hana experience.\n \n \n \n In more than 100 countries, the people of Ashland LLC. (NYSE: ASH) provide the specialty chemicals, technologies and insights to help customers create new and improved products for today and sustainable solutions for tomorrow. Our chemistry is at work every day in a wide variety of markets and applications, including architectural coatings, automotive, construction, energy, personal care and pharmaceutical. Visit www.ashland.com to see the innovations we offer. At Ashland our vision is to be a leading, global specialty chemicals company whose inspired and engaged employees add value to all we touch. In fact our people, employees, customers and vendors define who we are. They are the driving force behind everything we do. Not only do we value our customers but we value our employees, and we work to offer them a dynamic and challenging environment. We hold ourselves to high standards at Ashland, and we value integrity and honesty. Ashland has a history of attracting the best people and keeping them. The reasons are simple: industry competitive salary and benefits, pay-for-performance incentive plans and a diverse work environment where employees feel challenged and valued. People come to Ashland and stay. As a growing Fortune 500 specialty chemicals company, we offer opportunities for development and advancement throughout our global organization. Our values define who we are and what we care about as a company. If you are looking for a relationship with a company instead of simply a job, this may be a great fit. \n Ashland is proud to be an Equal Opportunity Employer Minorities/Women/Veterans/Disabled/Gender Identity/Sexual Orientation. \n \n All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, or protected veteran status and will not be discriminated against on the basis of disability. NOTE: We do not accept resumes from external staffing agencies or independent recruiters for any of our openings unless we have a signed recruiting agreement in place to fill a specific position.",
-      "skills": [
-        "REACH",
-        "CLP",
-        "GHS",
-        "SDS",
-        "MSDS",
-        "product stewardship",
-        "hazard classification",
-        "chemical inventory",
-        "PCN",
-        "OSHA",
-        "labeling",
-        "lifecycle management",
-        "compliance",
-        "SAP",
-        "audit",
-        "stakeholder management",
-        "regulatory affairs"
-      ],
-      "experience": "15 yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 100,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-19T04:57:35.901Z"
     },
     {
       "source": "Workday",
@@ -1025,7 +975,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.588Z"
     },
     {
@@ -1319,7 +1269,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.622Z"
     },
     {
@@ -1764,6 +1714,40 @@
     },
     {
       "source": "Workday",
+      "company": "Ashland",
+      "domain": "specialty chemical",
+      "title": "Manager Product Stewardship",
+      "location": "IN-HYDERABAD-DIVYASHREE",
+      "postedText": "Posted 16 Days Ago",
+      "externalPath": "/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
+      "reqId": "2026 - 0391",
+      "url": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
+      "applyUrl": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/Manager-Product-Stewardship_2026-0391",
+      "description": null,
+      "skills": [
+        "product stewardship"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": false,
+      "firstSeen": "2026-07-19T04:57:35.901Z"
+    },
+    {
+      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Mgr/Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have",
@@ -2068,7 +2052,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.567Z"
     },
     {
@@ -5394,7 +5378,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.683Z"
     },
     {
@@ -6848,42 +6832,6 @@
     },
     {
       "source": "Workday",
-      "company": "Ashland",
-      "domain": "specialty chemical",
-      "title": "HR Systems Analyst",
-      "location": "IN-HYDERABAD-DIVYASHREE",
-      "postedText": "Posted 16 Days Ago",
-      "externalPath": "/job/IN-HYDERABAD-DIVYASHREE/HR-Systems-Analyst_2026-0386",
-      "reqId": "2026 - 0386",
-      "url": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/HR-Systems-Analyst_2026-0386",
-      "applyUrl": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-HYDERABAD-DIVYASHREE/HR-Systems-Analyst_2026-0386",
-      "description": "ISP India Private Limited \n \n Are you the kind of person that is always thinking, sketching, seeking, and adjusting? Who needs to understand how things work and then figure out how they can work better? Are you a passionate, tenacious solver who loves to work with others who share your drive? Are you positive, constructive, and ingenious? \n Are you always solving? \n Then we d like to meet you and bet you d like to meet us.\n Ashland has an exciting opportunity for an HCM Analyst to join our Ashland Inc business. This is a highly visible and impactful role within the Company and the Human Resources Information Systems (HRIS) function. This position will report to the HRIS Manager .\n \n The responsibilities of the position include, but are not limited to, the following:\n Serve as a functional analyst and subject matter expert for Workday and other HR technology platforms.\n Configure, test, troubleshoot, and support business processes, reports, security, and system enhancements across the HCM ecosystem.\n Partner with HR, Payroll, Compensation, Benefits, Talent Acquisition, and IT teams to gather requirements and deliver scalable solutions.\n Develop and maintain custom reports, dashboards, and analytics that support business decision-making.\n Support Workday releases, system updates, and enhancement projects, including testing and validation activities.\n Investigate and resolve system issues while maintaining data integrity and compliance with internal controls.\n Assist with HR system integrations and coordinate with internal stakeholders and third-party vendors.\n Document business processes, system configurations, testing results, and support procedures.\n Work alongside a team of HR technology professionals focused on innovation, process improvement, and delivering a world-class employee experience.\n Bring forward new ideas, automation opportunities, and creative solutions to improve efficiency and reduce manual work.\n Actively contribute to the organizational goals by taking initiative, executing on goals and focusing on performance and safety.\n Improve the organization capacity and capabilities through building collaborative relationships, optimizing diverse talent and utilizing positive communications and influence with others.\n \n What This Role Is Not:\n Not a management position – this is an individual contributor role with no direct reports.\n Not a help desk role – while support activities are involved, a significant portion of the role focuses on analysis, configuration, projects, and continuous improvement.\n Not a purely technical developer position – success requires balancing technical system knowledge with business process understanding.\n Not an entry-level position – candidates should be able to quickly contribute to projects, enhancements, and system support activities.\n \n In order to be qualified for this role, you must possess the following:\n Bachelor s degree in Human Resources, Information Systems, Business Administration, Computer Science, or a related field, or equivalent experience.\n Minimum of 4 years of experience supporting Workday, HRIS, HCM, or related enterprise systems.\n Experience gathering business requirements and translating them into system solutions.\n Experience creating reports, dashboards, and data analysis using HR systems.\n Experience troubleshooting production issues and coordinating resolution activities.\n Experience testing system enhancements, upgrades, and new functionality.\n Strong knowledge of HR business processes and employee lifecycle transactions.\n Advanced proficiency with Microsoft Excel and Microsoft 365 applications.\n Demonstrated responsible and ethical behavior at all times.\n The ability to help the company drive greater value through understanding the business, making complex decisions and creating the new and different.\n \n The following skill sets are preferred by the business unit:\n Workday certification or advanced Workday experience.\n Experience with Workday business processes, reporting, security, or integrations.\n Experience supporting Payroll, Compensation, Benefits, Talent Management, or Recruiting modules.\n Experience with EIBs\n Knowledge of SOX controls, audit requirements, or HR data governance.\n Experience supporting a global workforce and HR organization.\n \n \n In more than 100 countries, the people of Ashland LLC. (NYSE: ASH) provide the specialty chemicals, technologies and insights to help customers create new and improved products for today and sustainable solutions for tomorrow. Our chemistry is at work every day in a wide variety of markets and applications, including architectural coatings, automotive, construction, energy, personal care and pharmaceutical. Visit www.ashland.com to see the innovations we offer. At Ashland our vision is to be a leading, global specialty chemicals company whose inspired and engaged employees add value to all we touch. In fact our people, employees, customers and vendors define who we are. They are the driving force behind everything we do. Not only do we value our customers but we value our employees, and we work to offer them a dynamic and challenging environment. We hold ourselves to high standards at Ashland, and we value integrity and honesty. Ashland has a history of attracting the best people and keeping them. The reasons are simple: industry competitive salary and benefits, pay-for-performance incentive plans and a diverse work environment where employees feel challenged and valued. People come to Ashland and stay. As a growing Fortune 500 specialty chemicals company, we offer opportunities for development and advancement throughout our global organization. Our values define who we are and what we care about as a company. If you are looking for a relationship with a company instead of simply a job, this may be a great fit. \n Ashland is proud to be an Equal Opportunity Employer Minorities/Women/Veterans/Disabled/Gender Identity/Sexual Orientation. \n \n All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, or protected veteran status and will not be discriminated against on the basis of disability. NOTE: We do not accept resumes from external staffing agencies or independent recruiters for any of our openings unless we have a signed recruiting agreement in place to fill a specific position.",
-      "skills": [
-        "compliance",
-        "Excel",
-        "audit",
-        "data analysis"
-      ],
-      "experience": "4+ yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 64,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-19T04:57:35.903Z"
-    },
-    {
-      "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
       "title": "Analyst Data Strategy and Analytics",
@@ -7167,7 +7115,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.584Z"
     },
     {
@@ -7453,7 +7401,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-25T04:53:10.652Z"
     },
     {
@@ -8012,39 +7960,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-17T04:50:44.961Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Ashland",
-      "domain": "specialty chemical",
-      "title": "Analyst - Global Customer Request Team LS-I",
-      "location": "IN-MUMBAI-GHATKOPAR",
-      "postedText": "Posted 22 Days Ago",
-      "externalPath": "/job/IN-MUMBAI-GHATKOPAR/Analyst---Global-Customer-Request-Team-LS-I_2026-0375",
-      "reqId": "2026 - 0375",
-      "url": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-MUMBAI-GHATKOPAR/Analyst---Global-Customer-Request-Team-LS-I_2026-0375",
-      "applyUrl": "https://ashland.wd12.myworkdayjobs.com/en-US/AshlandCareers1/job/IN-MUMBAI-GHATKOPAR/Analyst---Global-Customer-Request-Team-LS-I_2026-0375",
-      "description": "Ashland India Private Ltd \n \n Position:  Analyst - Global Regulatory Request Team LS-I \n \n Job Description \n \n Are you detail-oriented, customer-focused, and passionate about regulatory compliance? Do you enjoy solving complex customer inquiries and collaborating with global teams to deliver timely and accurate responses? Are you driven by continuous learning and effective communication in a fast-paced environment?\n \n If you thrive on managing customer requests, navigating regulatory requirements, and working across regions to support business needs, we would like to meet you.\n \n The Analyst - Global Regulatory Request Team LS-I :  is responsible for:\n \n Coordinate customer requests related to product regulatory inquiries.\n Complete customer questionnaires and coordinate responses with regional and global Product Regulatory and Quality team members.\n Work closely with internal and external customers to communicate the status of requests and ensure timely resolution.\n Serve as the first point of contact for customer questionnaires and provide accurate and appropriate responses.\n Take ownership of assigned requests, proactively following up on each case to ensure completion in a timely and high-quality manner.\n Develop an understanding of customer regulatory requirements in both industrial and consumer product environments.\n Maintain accurate records of customer requests and support continuous process improvement initiatives.\n Collaborate with cross-functional teams to ensure regulatory information is current, consistent, and compliant with customer requirements.\n Support global business objectives by delivering excellent customer service and regulatory guidance.\n \n Education / Experience \n \n Bachelor’s Degree or equivalent in Chemistry, Physical Chemistry, Analytical Chemistry, or a related technical discipline.\n Minimum 2 years of experience in Product Regulatory functions within the chemical industry.\n Experience with pharmaceutical-grade products and knowledge of solvent-based chemistry is preferred.\n Proficient in speaking, reading, and writing English. Additional Asian or European language skills are an advantage.\n Ability to work with global teams and support activities across European and U.S. business hours as required.\n \n Key Interactions:             \n Internal: Internal stakeholders, Ashland Teams\n External: Customers, suppliers, vendors\n \n \n In more than 100 countries, the people of Ashland LLC. (NYSE: ASH) provide the specialty chemicals, technologies and insights to help customers create new and improved products for today and sustainable solutions for tomorrow. Our chemistry is at work every day in a wide variety of markets and applications, including architectural coatings, automotive, construction, energy, personal care and pharmaceutical. Visit www.ashland.com to see the innovations we offer. At Ashland our vision is to be a leading, global specialty chemicals company whose inspired and engaged employees add value to all we touch. In fact our people, employees, customers and vendors define who we are. They are the driving force behind everything we do. Not only do we value our customers but we value our employees, and we work to offer them a dynamic and challenging environment. We hold ourselves to high standards at Ashland, and we value integrity and honesty. Ashland has a history of attracting the best people and keeping them. The reasons are simple: industry competitive salary and benefits, pay-for-performance incentive plans and a diverse work environment where employees feel challenged and valued. People come to Ashland and stay. As a growing Fortune 500 specialty chemicals company, we offer opportunities for development and advancement throughout our global organization. Our values define who we are and what we care about as a company. If you are looking for a relationship with a company instead of simply a job, this may be a great fit. \n Ashland is proud to be an Equal Opportunity Employer Minorities/Women/Veterans/Disabled/Gender Identity/Sexual Orientation. \n \n All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, or protected veteran status and will not be discriminated against on the basis of disability. NOTE: We do not accept resumes from external staffing agencies or independent recruiters for any of our openings unless we have a signed recruiting agreement in place to fill a specific position.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "2+ yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 58,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-19T04:57:35.902Z"
     },
     {
       "source": "Workday",
