@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-28T04:51:31.110Z",
+  "generatedAt": "2026-07-28T05:41:35.233Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 229,
+    "total": 227,
     "goal": 109,
     "target": 0,
-    "below": 120,
+    "below": 118,
     "overseas": 0,
-    "new": 7,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -2134,44 +2134,6 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
-      "title": "Compliance Analyst II",
-      "location": "India - Hyderabad",
-      "postedText": "Posted 11 Days Ago",
-      "externalPath": "/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
-      "reqId": "R0000043396",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Compliance-Analyst-II_R0000043396",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n Key Accountabilities: \n Due Diligence Screening and Investigation \n Conduct comprehensive due diligence screening of employees, contractors, investigators, vendors, and third parties prior to engagement\n Perform screening activities related to FCPA, anti-bribery, anti-corruption, sanctions, and FDA debarment requirements\n Execute open source investigations of screening hits and compile detailed findings for review\n Research and verify identity information to resolve potential matches and false positives\n Escalate complex screening results that cannot be resolved through standard procedures\n Data Management and Documentation \n Maintain accurate records of all screening activities and results in compliance systems\n Document investigation findings and rationale for screening decisions\n Generate reports on screening metrics and compliance activities using Power BI\n Update and maintain third party information in Oracle Financials and other systems\n Ensure data integrity and completeness across multiple compliance platforms\n Stakeholder Collaboration and Support \n Collaborate with Vendor Setup Group to facilitate compliant third party onboarding\n Support Investigator Payments Office with investigator screening and clearance activities\n Provide compliance guidance to Study Teams regarding third party engagement requirements\n Coordinate with Site Intelligence team on site-related compliance screening activities\n Assist with compliance inquiries and provide screening status updates to internal stakeholders\n Process Improvement and Compliance Monitoring \n Monitor regulatory updates and changes affecting screening requirements\n Participate in process improvement initiatives to enhance screening efficiency\n Support compliance audits and regulatory inspections as needed\n Maintain knowledge of current compliance regulations and industry best practices\n Contribute to training materials and documentation for compliance procedures\n Skills: \n Proficiency with compliance screening databases and investigation techniques\n Experience with Vault, Landscape, Oracle Financials, and Salesforce platforms\n Advanced Microsoft Excel skills for data analysis and reporting\n Knowledge of Power BI for dashboard creation and data visualization\n Familiarity with Databricks for data management and analysis\n Understanding of anti-bribery, anti-corruption, and sanctions regulations\n Knowledge of FDA debarment and exclusion requirements\n Research and analytical skills for open source investigations\n Attention to detail and accuracy in documentation\n Strong written and verbal communication abilities\n Ability to manage multiple priorities and meet deadlines\n Problem-solving skills for resolving screening discrepancies\n Professional judgment in escalating complex issues\n Team collaboration and stakeholder management\n Adaptability to changing regulatory requirements\n Client service orientation for internal stakeholder support\n Knowledge and Experience \n 5 years of experience in compliance, legal, or business environment\n Experience with due diligence screening processes preferred\n Familiarity with financial systems and vendor management processes\n Knowledge of regulatory compliance requirements in clinical research industry\n Experience with data analysis and reporting tools\n Understanding of third party risk management principles\n Education \n Bachelor s degree in Business, Finance, Legal Studies, or related field\n Compliance certifications (CAMS, CRCM) preferred but not required\n Training in anti-bribery and anti-corruption regulations beneficial\n Would you like any adjustments? If no, Click Actions (upper right) → Export to Word doc to copy the formatted output into Workday",
-      "skills": [
-        "FDA",
-        "compliance",
-        "documentation",
-        "Excel",
-        "data analysis",
-        "stakeholder management"
-      ],
-      "experience": "5 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 89,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-16T05:35:22.467Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
       "title": "Senior Regulatory Affairs Consultant (Program / Client Partnership Manager)",
       "location": "United States - Remote",
       "postedText": "Posted 30+ Days Ago",
@@ -2237,7 +2199,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:31.091Z"
     },
     {
@@ -4810,7 +4772,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:31.011Z"
     },
     {
@@ -5090,7 +5052,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:30.975Z"
     },
     {
@@ -5366,7 +5328,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:31.061Z"
     },
     {
@@ -5670,7 +5632,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:31.010Z"
     },
     {
@@ -6356,7 +6318,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:30.962Z"
     },
     {
@@ -7306,41 +7268,6 @@
     },
     {
       "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
-      "title": "Financial Analyst I",
-      "location": "India - Hyderabad",
-      "postedText": "Posted 7 Days Ago",
-      "externalPath": "/job/India---Hyderabad/Financial-Analyst-I_R0000043707",
-      "reqId": "R0000043707",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Financial-Analyst-I_R0000043707",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Financial-Analyst-I_R0000043707",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n Key Accountabilities : \n \n Analysis & Reporting \n Create accurate, transparent, and timely financial analysis to support project leadership in project decision making process; clearly articulate financial implications of business decisions / choices, and provide retrospective analysis as well as drive forward looking actions on simpler projects / contract types\n For less complex projects facilitate the monthly revenue cycle and support project analysis requirements, including a review of units, forecast, unit prices, and revenue recognition.  Ensure appropriate supporting documentation is available and that the forecast is aligned with operational plans.  Complete all required variance analyses for the set of projects, with insight.  Identify risks in the project forecast and opportunities to improve revenue outlook. \n Communicate, document and manage these on an ongoing message. \n Understand alternative finance scenarios within a project with a degree of technical knowledge and business acumen.\n Provide updates on financial status for assigned projects and create information in response to any client financial reporting needs for assigned projects in the area of project reporting, forecasting, or transactional details for the projects within the portfolio.  \n \n Budgeting \n For less complex projects, actively monitor the balance sheet positions of projects within the portfolio.  Initiate action as needed with project teams to keep balances current, improving DSO and cash flow.  \n Put steps in place with project teams to ensure pass-thrus are managed within project budgets, including appropriate to trigger change in scope as needed.  \n \n Metrics \n Maintain, produce and communicate a relevant and impactful set of project financial metrics designed to support evaluation of financial performance consistent with the project and contract types being managed.  In partnership with PLs and project teams, prepare and conduct a monthly project review of performance, operational status, and outlook.  The review will focus on revenue forecast, labor and margin, billing status, assumptions, special contract items.  The review should capture potential improvement opportunities and actions will be taken.  \n \n Scope of Work \n Play a key role in initiating, building, and reviewing change in scope activity on assigned projects.  Work with the project teams on an appropriate budget for the scope of work.    Maintain/update simpler project budgets within relevant tools from post-award onwards including analysis and understanding on any subsequent changes in scope\n \n Resourcing \n Review labor assumptions on assigned projects, both volume and mix.  Build discipline in our project teams in charging time accurately.  Understands project resource planning support, monitor resource levels on ongoing projects and identify and communicate project/portfolio margin implications.\n \n Testing \n As required, complete all revenue control testing, SOX or audit related.  \n \n Competencies \n \n Communication \n As Finance Business Partner, communicates, builds rapport and understands/address needs of project leadership.\n Engages project leadership to achieve financial and business goals; work closely with them to meet financial goals and supports financially sound decision making\n Develops business partner relationships with project leadership in order to facilitate proper project performance information flow\n Engages within various levels of internal functions, including clients if necessary.\n Identifies and communicates ways to improve project financial analysis process and metrics\n \n Analytics & Problem Solving  \n Determines data requirements and sources of information, conducts analysis under supervision.\n \n Drive for Results \n Consistently delivers timely and quality results.   With supervisory support, develops recommendations regarding project profitability\n \n Financial Acumen & Controls \n Applies current financial and accounting standards, policies and controls.\n \n Partnering for Business Success \n Understands Parexel’s business, different lines of business and industry trends related to your area of expertise\n Developing an understanding of partners priorities\n \n Process & Project Management \n Prioritizes, sets expectations and works in an efficient and disciplined manner.\n \n Skills: \n Prioritizes, sets expectations and works in an efficient and disciplined manner.\n Thrives in a complex, fast-paced, matrix environment\n Strong experience with Excel and PowerPoint applications; experience with financial performance systems (e.g., Hyperion)\n Ability to manage multiple and varied tasks with enthusiasm and prioritize workload with attention to detail\n Interpersonal skills\n Strong command of the English language, both written and verbal\n \n Education & Experience \n BA in Finance or Accounting, or relevant experience preferred\n Relevant and progressive Finance roles with strong analytical and partnering track record.",
-      "skills": [
-        "documentation",
-        "Excel",
-        "audit"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 62,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-21T04:56:16.313Z"
-    },
-    {
-      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Project Financial Analyst II",
@@ -7610,7 +7537,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-28T04:51:31.017Z"
     },
     {
