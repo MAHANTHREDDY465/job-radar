@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T04:56:22.437Z",
+  "generatedAt": "2026-07-29T05:46:02.292Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 231,
-    "goal": 115,
+    "total": 232,
+    "goal": 116,
     "target": 0,
     "below": 116,
     "overseas": 0,
-    "new": 13,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -139,7 +139,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.398Z"
     },
     {
@@ -1532,7 +1532,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.359Z"
     },
     {
@@ -1689,7 +1689,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.359Z"
     },
     {
@@ -2385,7 +2385,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.394Z"
     },
     {
@@ -3304,7 +3304,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.369Z"
     },
     {
@@ -3670,6 +3670,43 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.699Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Senior Analyst, US Commercialization Decision Intelligence & KDA Solutions",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--US-Commercialization-Decision-Intelligence---KDA-Solutions_R1604374",
+      "reqId": "R1604374",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--US-Commercialization-Decision-Intelligence---KDA-Solutions_R1604374",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--US-Commercialization-Decision-Intelligence---KDA-Solutions_R1604374",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren’t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You’ll get the chance to grow and thrive through opportunities uncommon in scale and scope, alongside high-achieving teams. Take your career farther than you thought possible.\n \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives. Read more: careers.bms.com/working-with-us .\n \n \n Roles & Responsibilities  \n Analytics Delivery & AI Enablement  \n Hands-on build:  Develop, prototype, and code analytical models, datasets, and automation workflows—translating business questions into analytical approaches, executing analyses, and synthesizing findings into actionable recommendations. \n Platform contribution:  Contribute reusable components (dashboards, always-on insights, scenario/measurement pipelines) to team self-service analytics hubs such as the Agentic MMx / Always-On Insights (AOI) platform, maximizing reuse and reducing manual effort. \n Agile Delivery & Project Management  \n Sprint-based delivery:  Work within an agile, sprint-based development cycle—participating in sprint planning, backlog refinement, daily stand-ups, reviews, and retrospectives—to deliver analytical and AI product features iteratively and predictably.  \n Story ownership:  Break down requirements into well-defined user stories, tasks, and acceptance criteria; provide effort estimates and track progress using collaboration and backlog tools (e.g., Jira, Azure DevOps).  \n Delivery coordination:  Manage the end-to-end delivery of assigned workstreams—tracking timelines, dependencies, risks, and blockers, and proactively communicating status to the Manager/Team Lead and stakeholders.  \n Release readiness:  Support release planning and deployment activities, ensuring features are demo-ready, documented, and aligned to the definition of done. \n Quality Assurance, Testing & UAT  \n Quality ownership:  Take strong ownership of quality across the analytics and AI product lifecycle—embedding validation, peer code reviews, and best-practice standards into everyday delivery.  \n Testing:  Design and execute test plans, test cases, and validation checks (data quality, logic, model output, and reconciliation), including unit, integration, and regression testing of analytical assets and pipelines.  \n UAT:  Plan, coordinate, and support User Acceptance Testing with business stakeholders—preparing UAT scripts and test data, triaging and resolving defects, capturing sign-offs, and ensuring solutions meet business requirements before go-live.  \n Documentation & traceability:  Maintain clear documentation, defect logs, and traceability from requirements through testing to release, ensuring reproducibility and auditability \n Agentic & AI Capability Development  \n Support the design, development, and testing of autonomous and semi-autonomous analytics agents using multi-agent frameworks, helping progress from descriptive analytics to causal analysis, root-cause insights, and predictive recommendations. \n Contribute to the AI product lifecycle—proof-of-concept, pilot, and rollout—while following governance standards for safety, security, ethics, and privacy. \n Apply and help operationalize LLMs for commercial use cases such as knowledge retrieval, summarization, generative analytics, and automation of insight generation. \n Stakeholder Partnership & Strategic Support  \n Partner closely with US Commercial stakeholders, Global Analytics, OCx, Marketing, and BI&T to understand business needs and contribute to solution design. \n Act as a trusted analytical partner—clearly explaining insights, assumptions, and limitations, and supporting decision-making discussions. \n Support prioritization of business requests by providing effort estimates, impact assessments, and analytical recommendations. \n Contribute to stakeholder presentations, readouts, and working sessions with clear, structured storytelling. \n Technical Execution, Governance & Data Stewardship  \n Build and maintain analytical assets including datasets, models, dashboards, and automation workflows. \n Work closely with BI&T and data engineering teams to troubleshoot data issues and ensure reliable, timely, and scalable data availability. \n Ensure analytical outputs are reproducible, well-documented, explainable, and aligned with data/AI governance and compliance standards—applying privacy-by-design and human-in-the-loop practices where required. \n Required Qualifications  \n Education & Experience  \n BA/BS required; advanced degree preferred, especially in life sciences, computer science, mathematics, statistics, data science, or engineering. \n 3 years of professional experience in advanced analytics, decision science, or AI-driven roles. \n Proven experience delivering end-to-end analytics projects, from problem framing to insight delivery. \n Demonstrated ability to partner with business stakeholders and support data-driven decision-making. \n Experience in pharmaceutical, biotech, or healthcare industries preferred; familiarity with pharmaceutical data (claims, APLD, specialty pharmacy, digital signals, promotional data) is a plus. \n Understanding of how data, analytics, and AI can be applied to solve commercial business problems. \n Core Competencies  \n Strong written and verbal communication skills, with the ability to translate complex analytics into clear business insights. \n Solid project execution and organizational skills, with the ability to manage multiple analyses in parallel. \n Strong analytical thinking and problem-solving skills, with attention to detail and data quality. \n Hands-on expertise in applied statistics, analytics, and AI/ML techniques. \n Collaborative mindset with the ability to work effectively in a matrixed, stakeholder-driven environment. \n Curiosity and passion for learning, innovation, and continuous improvement in analytics. \n Technical Skills (Preferred)  \n Predictive and statistical analytics using Python and/or R; exposure to AI/ML and text analytics (e.g., NLP, clustering, propensity models, uplift modeling) and to LLMs. \n Exposure to causal inference and incrementality methods (geo-experiments, matched markets, uplift modeling); awareness of MMx/adstock/response-curve concepts is a plus. \n Data visualization and dashboarding tools (e.g., R Shiny, Dash, or similar platforms). \n Experience working in collaborative analytics environments (e.g., Databricks, SharePoint, Git-based workflows); familiarity with cloud analytics platforms (Snowflake, Spark) is a plus. \n Familiarity with omnichannel, digital marketing, and commercial data sources, including CRM (e.g., Veeva) and multi-touch attribution (MTA). \n Awareness of AI governance and regulatory standards (model monitoring, privacy, human-in-the-loop; HIPAA, GDPR/CCPA) in regulated environments. \n \n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Uniquely Interesting Work, Life-changing Careers With a single vision as inspiring as “Transforming patients’ lives through science™ ”, every BMS employee plays an integral role in work that goes far beyond ordinary. Each of us is empowered to apply our individual talents and unique perspectives in a supportive culture, promoting global participation in clinical trials, while our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.\n \n On-site Protocol \n BMS has an occupancy structure that determines where an employee is required to conduct their work. This structure includes site-essential, site-by-design, field-based and remote-by-design jobs. The occupancy type that you are assigned is determined by the nature and responsibilities of your role: \n \n Site-essential roles require 100% of shifts onsite at your assigned facility. Site-by-design roles may be eligible for a hybrid work model with at least 50% onsite at your assigned facility. For these roles, onsite presence is considered an essential job function and is critical to collaboration, innovation, productivity, and a positive Company culture. For field-based and remote-by-design roles the ability to physically travel to visit customers, patients or business partners and to attend meetings on behalf of BMS as directed is an essential job function. \n \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/ eeo -accessibility to access our complete Equal Employment Opportunity statement. \n \n Candidate Rights \n BMS will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area. \n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection .\n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. Inquiries related to the status of your application should be directed to Chat with Ripley. \n \n \nR1604374 : Senior Analyst, US Commercialization Decision Intelligence & KDA Solutions",
+      "skills": [
+        "compliance",
+        "quality assurance",
+        "documentation",
+        "Excel"
+      ],
+      "experience": "3 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 75,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-29T05:46:02.073Z"
     },
     {
       "source": "Workday",
@@ -4076,7 +4113,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.405Z"
     },
     {
@@ -4184,7 +4221,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.342Z"
     },
     {
@@ -5173,7 +5210,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.420Z"
     },
     {
@@ -5313,7 +5350,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.326Z"
     },
     {
@@ -5756,7 +5793,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.335Z"
     },
     {
@@ -5791,7 +5828,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.340Z"
     },
     {
@@ -6584,7 +6621,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.340Z"
     },
     {
@@ -7308,7 +7345,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-29T04:56:22.392Z"
     },
     {
