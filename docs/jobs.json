@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-31T05:10:32.028Z",
+  "generatedAt": "2026-07-31T06:00:00.374Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 224,
+    "total": 222,
     "goal": 111,
     "target": 0,
-    "below": 113,
+    "below": 111,
     "overseas": 0,
-    "new": 16,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -766,7 +766,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.977Z"
     },
     {
@@ -1531,7 +1531,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.969Z"
     },
     {
@@ -2320,7 +2320,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:32.006Z"
     },
     {
@@ -2460,7 +2460,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.952Z"
     },
     {
@@ -2710,6 +2710,46 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-16T04:48:15.140Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Regulatory Coordinator",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/Regulatory-Coordinator_REQ-10084807-1",
+      "reqId": "REQ-10084807",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Regulatory-Coordinator_REQ-10084807-1",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Regulatory-Coordinator_REQ-10084807-1",
+      "description": "Job Description Summary \nThe Regulatory Coordinator (RC) works under close supervision to provide operational and compliance support for assigned development, line extension, and lifecycle management projects, including registrations, approvals, post‑approval commitments, and production transfer initiatives driven by Novartis Technical Operations (NTO). The RC collaborates closely with RA GDD Development and CMC teams, regional stakeholders (MoW, LACan, EU, China, Japan), NTO, and Quality Assurance to align planning, execution, communication, and successful completion of assigned projects.  \n Job Description \n Major Accountabilities \n \n Ensure timely procurement of critical regulatory components (e.g., CPP, GMP certificates, registration samples, CoAs, and other regulatory documents) to support marketing authorization and lifecycle maintenance, in collaboration with internal functions (NTO, Reg CMC, RA Ops, Global Labelling, SCM, Tech Ops) and external stakeholders (Health Authorities, Consular Services, service providers).\n Coordinate regulatory readiness with line functions, Country Organizations, and Regions to enable on‑time submissions and approvals.\n Act as single point of contact for Regulatory Affairs in projects and governance forums (eg. NTO project teams and global/regional forums)\n Provide regulatory input on requirements, timelines, and risks for submissions and transfers.\n Proactively identify, manage, and communicate regulatory risks and mitigations.\n Track and manage project progress, including timelines, dossier deliverables, and regulatory milestones.\n Ensure quality and compliance with global and country‑specific regulatory requirements, and adherence to internal policies and processes.\n Demonstrate contribution to strengthen country intelligence, stakeholder alignment, and knowledge sharing within RA.\n \n Minimum Requirement \n \n Minimum of 2 years of experience in Regulatory Affairs, related areas of the pharmaceutical Industry\n Strong communication, interpersonal, negotiation, and problem‑solving skills\n Proactive, delivery‑focused, with flexibility to meet stretch targets\n Demonstrates speed and agility while delivering timely outcomes\n Effectively plans, prioritizes, and manages workload\n Works confidently in a global matrix environment\n Builds strong, effective cross‑functional relationship\n  \n Skills Desired \nClinical Trials, Collaboration, Detail-Oriented, Project Planning, Regulatory Compliance",
+      "skills": [
+        "CMC",
+        "GMP",
+        "labelling",
+        "dossier",
+        "lifecycle management",
+        "compliance",
+        "quality assurance",
+        "regulatory affairs"
+      ],
+      "experience": "2+ yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 84,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-07-31T06:00:00.299Z"
     },
     {
       "source": "Workday",
@@ -2993,39 +3033,6 @@
     },
     {
       "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Software Engineer I - Scrum Master & Business Analyst",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887",
-      "reqId": "R1604887",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887",
-      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren’t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You’ll get the chance to grow and thrive through opportunities uncommon in scale and scope, alongside high-achieving teams. Take your career farther than you thought possible.\n \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives. Read more: careers.bms.com/working-with-us .\n \n \n At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology, and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.   \n Position Summary   \n At BMS, digital innovation and Information Technology are central to our vision of transforming patients’ lives through science. To accelerate our ability to serve patients around the world, we must unleash the power of technology.  We are committed to being at the forefront of transforming the way medicine is made and delivered by harnessing the power of computer and data science, artificial intelligence, and other technologies to promote scientific discovery, faster decision making, and enhanced patient care.      \n As a Scrum Master I for the Commercialization Content Capabilities team based out of our BMS Hyderabad you are part of the Commercialization IT team that builds best in class marketing solutions to help our customers with the capabilities that help accelerate the solutions for marketers to use. \n The ideal candidate will have a strong background in managing the agile development process of products by facilitating communication and collaboration between the development team, stakeholders, and product owners. The role involves working with cross-functional teams to ensure that marketing tool / products are delivered on time and within budget.   \n Key Responsibilities   \n Facilitating agile processes: Facilitating agile processes for the development team, including daily stand-ups, sprint planning, sprint reviews, and retrospectives.   \n Managing the backlog: Managing the product backlog, ensuring that it is up-to-date and prioritized based on stakeholder needs and requirements.   \n Removing impediments: Identifying and removing impediments that may prevent the development team from completing their work on time and within budget.   \n Facilitating communication: Facilitating communication and collaboration between the development team, stakeholders, and product owners to ensure that everyone is aligned on project goals, timelines, and requirements   \n Managing risks: Identifying and managing risks that may impact project delivery and proactively communicating these risks to stakeholders.   \n Coaching and mentoring: Coaching and mentoring the development team on agile methodologies and best practices to ensure that they are continuously improving their skills and knowledge.   \n Performance tracking: Tracking project performance metrics, including velocity, burn-down rate, and team capacity, to ensure that projects are delivered on time and within budget.   \n Comfortable working in a fast-paced environment with minimal oversight   \n Prior experience working in an Agile/Product based environment   \n Provides strategic feedback to vendors on service delivery and balances workload with vendor teams   \n Qualifications & Experience   \n   \n 3 years proven working experience as a scrum master or as an agile Project Manager    \n Hands on experience in managing, timelines, issue, risks is a must.   \n 1-2 years of technology product development exposure is preferred.   \n Familiarity with cloud-based data technologies on AWS, Azure, or Google Cloud Platform would be a plus.   \n Must also have a strong attention to detail and be able to manage multiple priorities in a fast-paced environment.   \n Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy   \n Excellent communication and collaboration skills Functional knowledge or prior experience in Lifesciences Research and Development domain is a plus   \n Experience and expertise in establishing agile and product-oriented teams that work effectively with teams in US and other global BMS site.      \n Initiates challenging opportunities that build strong capabilities for self and team   \n Demonstrates a focus on improving processes, structures, and knowledge within the team. Leads in analyzing current states, deliver strong recommendations in understanding complexity in the environment, and the ability to execute to bring complex solutions to completion.   \n   \n Why You Should Apply   \n Around the world, we are passionate about making an impact on the lives of patients with serious diseases. Empowered to apply our individual talents and diverse perspectives in an inclusive culture, our shared values of passion, innovation, urgency, accountability, inclusion, and integrity bring out the highest potential of each of our colleagues.   \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives.   \n Our company is committed to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace adjustments and ongoing support in their roles. Applicants can request an accommodation prior to accepting a job offer. If you require reasonable accommodation in completing this application, or any part of the recruitment process direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/eeo-accessibility to access our complete Equal Employment Opportunity statement. \n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Uniquely Interesting Work, Life-changing Careers With a single vision as inspiring as “Transforming patients’ lives through science™ ”, every BMS employee plays an integral role in work that goes far beyond ordinary. Each of us is empowered to apply our individual talents and unique perspectives in a supportive culture, promoting global participation in clinical trials, while our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.\n \n On-site Protocol \n BMS has an occupancy structure that determines where an employee is required to conduct their work. This structure includes site-essential, site-by-design, field-based and remote-by-design jobs. The occupancy type that you are assigned is determined by the nature and responsibilities of your role: \n \n Site-essential roles require 100% of shifts onsite at your assigned facility. Site-by-design roles may be eligible for a hybrid work model with at least 50% onsite at your assigned facility. For these roles, onsite presence is considered an essential job function and is critical to collaboration, innovation, productivity, and a positive Company culture. For field-based and remote-by-design roles the ability to physically travel to visit customers, patients or business partners and to attend meetings on behalf of BMS as directed is an essential job function. \n \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/ eeo -accessibility to access our complete Equal Employment Opportunity statement. \n \n Candidate Rights \n BMS will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area. \n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection .\n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. Inquiries related to the status of your application should be directed to Chat with Ripley. \n \n \nR1604887 : Software Engineer I - Scrum Master & Business Analyst",
-      "skills": [
-        "Excel"
-      ],
-      "experience": "1–2 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 81,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-30T04:44:14.439Z"
-    },
-    {
-      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Associate IS Business Systems Analyst - Regulatory Structured Submissions",
@@ -3126,7 +3133,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.912Z"
     },
     {
@@ -3891,7 +3898,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.998Z"
     },
     {
@@ -4076,7 +4083,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.942Z"
     },
     {
@@ -4259,7 +4266,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.912Z"
     },
     {
@@ -4893,7 +4900,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.994Z"
     },
     {
@@ -5555,7 +5562,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.995Z"
     },
     {
@@ -5691,7 +5698,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.994Z"
     },
     {
@@ -7180,7 +7187,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:32.009Z"
     },
     {
@@ -7252,74 +7259,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-30T04:44:14.391Z"
-    },
-    {
-      "source": "Workday",
-      "company": "AstraZeneca",
-      "domain": "pharma",
-      "title": "Associate/Analyst – Commercial Pharma Analytics",
-      "location": "India - Chennai",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/India---Chennai/Associate-Analyst---Commercial-Pharma-Analytics_R-255023",
-      "reqId": "R-255023",
-      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Associate-Analyst---Commercial-Pharma-Analytics_R-255023",
-      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Associate-Analyst---Commercial-Pharma-Analytics_R-255023",
-      "description": "Job Title: Associate/Analyst – Commercial Pharma Analytics\n Career Level: C2/C3\n Introduction to role: \n Are you ready to turn sophisticated brand data into decisions that help more patients receive the right medicines, as an Analyst in Brand Analytics, your role involves translating local customer signals and performance metrics into mentorship that advises brand strategy, resourcing, and customer engagement models.\n You will join a connected, digitally minded team that partners across markets and functions to raise the bar on how decisions get made. You will test new methods, introduce better tools, and create analytical practices that scale—so the enterprise can operate smarter today and be ready for tomorrow. Ready to be the voice of the customer in every strategic discussion?\n Accountabilities: \n Customer Insight Leadership: Advocate for the application of local customer insight to inform brand strategy, prioritisation, and customer engagement models across markets.\n Analytic Capability Development: Determine and rank improvements and new analytic capabilities; lead the development, deployment, and embedding of these capabilities to elevate decision quality at pace.\n Advanced Methods and Technology: Continuously evaluate emerging quantitative methods, data assets, and technologies; bring in what works and retire what does not to keep the toolkit modern.\n Data Storytelling and Decision Influence: Convert raw data into significant conclusions and compelling narratives; present recommendations that build investment, targeting, and channel strategy.\n Data Access and Foundations: Access and integrate information from various tools and sources. Maintain a detailed understanding of critical data sets, governance, and modeling approaches to strengthen analytical foundations.\n Teamwork and Integration: Map and lead integration points with adjacent teams; align roadmaps and ensure analytics are embedded where decisions happen.\n Continuous Improvement: Instill a culture of testing, learning, and rapid deployment; measure impact and scale what delivers competitive advantage.\n Market and Competitive Scanning: Monitor external analytics trends within and beyond pharma; selectively embrace leading practices to sustain differentiation.\n Essential Skills/Experience: \n The candidate will also be required to continuously evaluate new quantitative analysis methods and technologies.\n Develop a deep understanding of internal customers data and analytical needs focusing on the customer-facing model leadership.\n Foster the use of local customer knowledge in strategic and resourcing decisions across the business.\n Identify and prioritize improvements along with additional data analysis functions. Can coordinate the creation, rollout, and integration of such capabilities across the organization.\n Instills a culture of continuous improvement, testing, and deployment of new capabilities for the business.\n Develop innovative analytical practices to build and sustain competitive advantage.\n Access appropriate information through a variety of methods and channels\n Summarize the data in a much more data storytelling way and to present findings by redefining the raw metrics into actionable insights.\n Capability in applying deeper technical skills and knowledge that is shared across the functional area (e.g., deep knowledge of key data sets, modeling capabilities, etc.)\n Demonstrate a high level of understanding of the points of integration of our work and that of our colleagues.\n Monitors the external environment to stay up to date on leading analytic capabilities, both within and outside of pharma, which can be applied within the organization.\n Desirable Skills/Experience: \n Experience in brand or commercial analytics within pharmaceuticals, healthcare, or another highly regulated industry.\n Proficiency with SQL and either Python or R; hands-on experience with visualization tools such as Power BI or Tableau.\n Background in marketing science, including segmentation, targeting, MMM/MTA, CRM analytics, and next-best-action use cases.\n Shown experience operationalizing analytics into field force, omnichannel, or marketing platforms.\n Track record of working in agile settings dedicated to delivering analytics capabilities at scale.\n Strong communication and collaborator engagement skills, with the ability to influence senior decision-makers.\n Advanced degree in a quantitative field (e.g., statistics, economics, data science, engineering) is a plus.\n When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That s why we work, on average, a minimum of three days per week from the office. But that doesn t mean we re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n Why AstraZeneca: \n Here, your analysis does more than track performance—it accelerates how medicines reach people who need them. You will work shoulder to shoulder with diverse experts across the enterprise, using the latest digital tools and design-led approaches to improve how decisions get made. We bring unexpected teams together to test ideas quickly, take smart risks, and turn insight into action, while valuing kin\n \n \n Date Posted \n29-Jul-2026 \n Closing Date \n \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
-      "skills": [
-        "REACH",
-        "data analysis"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 60,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-30T04:44:14.393Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Data Engineer II, Data & Analytics",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Today",
-      "externalPath": "/job/Hyderabad---TS---IN/Data-Engineer-II--Data---Analytics_R1604377",
-      "reqId": "R1604377",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Data-Engineer-II--Data---Analytics_R1604377",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Data-Engineer-II--Data---Analytics_R1604377",
-      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren’t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You’ll get the chance to grow and thrive through opportunities uncommon in scale and scope, alongside high-achieving teams. Take your career farther than you thought possible.\n \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives. Read more: careers.bms.com/working-with-us .\n \n \n Position: Data Engineer II, Data & Analytics \n Location: Hyderabad, India \n \n At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology, and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference. \n      \n Position Summary \n The ideal candidate will have a strong background in data engineering, and data systems and data governance and will be comfortable working with both structured and unstructured data. Prior domain experience with enterprise functions (HR/ Finance/ Compliance/ Procurement) is a big plus. Experience In building production-grade applications and APIs that expose data and AI capabilities to enterprise users. Exposure to Generative AI and LLM-powered solutions in an enterprise or cloud environment is highly desirable\n If you want an exciting and rewarding career that is meaningful, consider joining our diverse team!\n \n Key Responsibilities \n Accountable for enhancing and delivering high quality, data products and analytic ready data solutions for Enabling Functions\n Working with stakeholders to define the overall strategy for the organization s data products and new features. This involves understanding business goals, identifying data sources, and determining the appropriate technology stack and making recommendations/ building enhancements.\n Developing and implementing data engineering solutions that support the organization s business needs. This may involve working with various technologies, including data warehouses, data lakes, data marts, and data APIs.\n Understand and collaborate with data architect to maintain data models to support our reporting and analysis needs.\n Optimize data storage and retrieval to ensure efficient performance and scalability.\n Implement standard data governance policies and procedures to ensure that data is accurate, consistent, and secure. This includes defining data quality standards data security protocols, and data privacy policies.\n Close partnering with the Enterprise Data and Analytics Platform team, other functional data pods and Data Community lead to shape and adopt data and technology strategy.\n Staying up to date with industry trends: Keeping up to date with the latest trends and advancements in data architecture/ data engineering and technology and applying this knowledge to enhance the organization s data systems and processes.        \n Comfortable working in a fast-paced environment with minimal oversight\n Prior experience working in an Agile/Product based environment.\n Design and develop RESTful APIs to expose data products and analytics capabilities to business applications\n Build reusable API frameworks to accelerate development across multiple enterprise use cases\n Integrate LLM APIs (OpenAI, AWS Bedrock, Anthropic Claude) into enterprise workflows for use cases like natural language querying, document summarization, and conversational AI\n Build RAG (Retrieval-Augmented Generation) pipelines using vector databases (pgvector, Pinecone, OpenSearch) combined with LLM APIs\n Leverage orchestration frameworks such as LangChain or LlamaIndex to build multi-step AI agents and automated workflows\n Proficiency in SQL and Python for data transformation, validation, and pipeline development.\n Experience building ETL/ELT pipelines and working with lakehouse concepts (e.g., medallion architecture; bronze/silver/gold layers).\n Hands-on experience with Databricks (notebooks/jobs/workflows) and Delta Lake concepts (ACID tables, incremental processing, upserts/merge).\n \n Qualifications & Experience \n 3-5 years of experience in information technology field in developing AWS cloud native data lakes and ecosystems including some production support experience\n Hands on experience with programming and analytics capabilities using some AWS.\n (Amazon Web Services) Native Services (Glue Studio, Athena, Redshift, Postgres DB etc.) is required. Cloudera Data Platform (CDP) is a plus.\n Programming skills in languages such as Python, Pyspark, etc.\n At least 1-2 years of experience in an onshore offshore delivery model\n Solid programming skills in Python and Spark and strong proficiency in Cloud – AWS\n Knowledge of data security and privacy best practices\n Experience with SQL and database technologies such as MySQL, PostgreSQL etc.\n Comfortable working in a dynamic global environment\n Excellent communication and collaboration skills. Functional knowledge or prior experience in Enterprise Functions is a plus.\n Demonstrates a focus on improving processes, structures, and knowledge within the team.\n Familiarity with LLM APIs and prompt engineering best practices\n Experience with vector databases (pgvector, Pinecone, or OpenSearch) is a plus\n Hands-on experience building and consuming RESTful APIs using Python frameworks (FastAPI, Flask, or Django)\n Knowledge of API security standards — OAuth 2.0, JWT, RBAC, and OWASP guidelines\n Preferred: experience with Databricks and Delta Lake concepts.\n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Uniquely Interesting Work, Life-changing Careers With a single vision as inspiring as “Transforming patients’ lives through science™ ”, every BMS employee plays an integral role in work that goes far beyond ordinary. Each of us is empowered to apply our individual talents and unique perspectives in a supportive culture, promoting global participation in clinical trials, while our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.\n \n On-site Protocol \n BMS has an occupancy structure that determines where an employee is required to conduct their work. This structure includes site-essential, site-by-design, field-based and remote-by-design jobs. The occupancy type that you are assigned is determined by the nature and responsibilities of your role: \n \n Site-essential roles require 100% of shifts onsite at your assigned facility. Site-by-design roles may be eligible for a hybrid work model with at least 50% onsite at your assigned facility. For these roles, onsite presence is considered an essential job function and is critical to collaboration, innovation, productivity, and a positive Company culture. For field-based and remote-by-design roles the ability to physically travel to visit customers, patients or business partners and to attend meetings on behalf of BMS as directed is an essential job function. \n \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/ eeo -accessibility to access our complete Equal Employment Opportunity statement. \n \n Candidate Rights \n BMS will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area. \n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection .\n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. Inquiries related to the status of your application should be directed to Chat with Ripley. \n \n \nR1604377 : Data Engineer II, Data & Analytics",
-      "skills": [
-        "compliance",
-        "Excel"
-      ],
-      "experience": "3–5 yrs",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 60,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-07-31T05:10:31.996Z"
     },
     {
       "source": "Workday",
@@ -7791,7 +7730,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:32.021Z"
     },
     {
@@ -7822,7 +7761,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.977Z"
     },
     {
@@ -7956,7 +7895,7 @@
         "partial title match",
         "domain fit"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-07-31T05:10:31.910Z"
     },
     {
