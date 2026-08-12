@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-12T03:46:29.414Z",
+  "generatedAt": "2026-08-12T04:35:35.404Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
     "total": 226,
-    "goal": 120,
+    "goal": 119,
     "target": 0,
-    "below": 106,
+    "below": 107,
     "overseas": 0,
-    "new": 15,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -380,43 +380,6 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
-      "title": "Senior Regulatory Affairs Consultant",
-      "location": "India-Bengaluru-Remote",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Consultant_R0000043023",
-      "reqId": "R0000043023",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Consultant_R0000043023",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Consultant_R0000043023",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n Senior Regulatory Affairs Consultant- CMC Biologics \n \n Extensive experience in managing new registrations, life cycle maintenance, and renewals for biological products including vaccines, recombinant proteins, monoclonal antibodies, and plasma‑derived therapies across major markets such as the US, EU, Japan, Canada, Switzerland and Australia.\n Contribute to preparation (including authoring where relevant) and delivery of regulatory submissions from a global and regional perspective.\n Preparation and review of Marketing Authorization Applications & Variations for filing in US, EU, Japan, Canada Switzerland, Australia.\n Good understanding of regulatory framework, including regional trends, for various types of applications and procedures for small and large molecules across all regions as well as knowledge of global pharmaceutical legislation and guidance specifically linked to regulatory CMC aspects in the ICH countries.\n Strong communication and collaboration skills, ability to work independently.\n The role is for a team lead with expectations to guide/mentor team members on technical aspects including regulatory filings to global markets\n \n Experience level: 10 to 14 years of relevant experience\n Location: India Remote\n \n Education: \n Minimum of a bachelor’s degree in a Scientific or Technical Discipline, Advanced Degree preferred",
-      "skills": [
-        "ICH",
-        "CMC",
-        "variations",
-        "regulatory affairs"
-      ],
-      "experience": "10–14 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 98,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-01T03:48:34.652Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
       "title": "Regulatory Affairs Clinical Consultant / 開発薬事(シニア)コンサルタント （フルリモート）",
       "location": "Japan-Tokyo-Remote",
       "postedText": "Posted 30+ Days Ago",
@@ -692,7 +655,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.159Z"
     },
     {
@@ -908,7 +871,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.126Z"
     },
     {
@@ -1133,7 +1096,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.112Z"
     },
     {
@@ -2499,7 +2462,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.109Z"
     },
     {
@@ -2709,7 +2672,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.131Z"
     },
     {
@@ -3523,7 +3486,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.112Z"
     },
     {
@@ -3625,7 +3588,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.112Z"
     },
     {
@@ -3818,7 +3781,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.161Z"
     },
     {
@@ -4325,7 +4288,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.120Z"
     },
     {
@@ -5463,7 +5426,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.206Z"
     },
     {
@@ -5669,7 +5632,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.180Z"
     },
     {
@@ -5771,7 +5734,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.179Z"
     },
     {
@@ -6625,7 +6588,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.179Z"
     },
     {
@@ -7333,7 +7296,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.196Z"
     },
     {
@@ -7370,6 +7333,41 @@
       ],
       "isNew": false,
       "firstSeen": "2026-07-05T14:46:02.680Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Analyst, Market Access Analytics",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad---TS---IN/Analyst--Market-Access-Analytics_R1604601",
+      "reqId": "R1604601",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst--Market-Access-Analytics_R1604601",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst--Market-Access-Analytics_R1604601",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren’t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You’ll get the chance to grow and thrive through opportunities uncommon in scale and scope, alongside high-achieving teams. Take your career farther than you thought possible.\n \n Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives. Read more: careers.bms.com/working-with-us .\n \n \n Roles & Responsibilities \n Market Access Analytics - \n Work with therapeutic area-specific team, delivering analytics and reporting on time, and to high analytical quality standards.\n Stakeholder Partnership & Strategic Support .\n Partner with US Market Access counterparts, Pricing & Contracting, HEOR, and Commercial teams to align on priorities, shape analytical roadmaps, and scope key deliverables.\n Serve as strategic analytics partner for access strategy, launch readiness, pricing, and contracting decisions\n \n Advanced Analytics, AI & Insights to Action - \n Guide use of statistical modelling, trend analysis, predictive analytics, and scenario modelling to uncover access dynamics and drivers; apply LLMs and AI to enhance insight generation.\n Drive adoption of automation and AI-enabled techniques using Claude, Databricks, Copilot, etc., to accelerate insights.\n \n Team Player & Capability Building –\n Build a culture of innovation, collaboration, and meaningful work.\n Contribute in workload planning to ensure sustainable delivery and strong engagement\n \n Data Infrastructure & Governance – \n Oversee dashboards, business rules, metric definitions, documentation, and automated reporting.\n Partner with BIT and data teams to ensure reliable, compliant, scalable data pipelines for payer, claims, and formulary data\n \n ​Skills and competencies \n Strong grounding in machine learning and predictive analytics, applied to solve complex business problems.\n Proficient in Python, SQL & MS Office with experience handling large datasets on modern platforms (e.g., Databricks, Spark).\n Hands-on experience using LLMs and AI techniques for analytics like Claude, Data Bricks, Copilot, etc..\n Strong understanding of US Market Access, pricing, reimbursement, and payer dynamics.\n Sharp analytical and problem-solving skills, with ability to interpret complex secondary datasets and policy information.\n Excellent communication skills, translating complex analytics into clear, actionable insights for non-technical stakeholders\n \n Experience \n BA/BS required; advanced degree preferred with special consideration for degrees in life/physical sciences, applied sciences (computer science, mathematics, data science), or engineering.\n 1 to 3 years of professional experience in US Market Access and/or Pricing Analytics.\n Experience working with US healthcare datasets including IQVIA/SHS national & subnational data, claims, formulary, and policy data.\n Demonstrated success partnering with senior Market Access, Pricing, and Commercial stakeholders.\n Strong familiarity with US reimbursement, regulatory, and compliance requirements\n \n Technical Skills (Preferred) \n Proficiency in analytics and statistical tools such as SQL, Python, and R.\n Experience with data visualization and reporting tools (e.g., Power BI or similar).\n Experience applying AI/ML, NLP, and text analytics to extract insights from structured and unstructured data.\n Ability to integrate new tools, AI capabilities like Claude, Databricks, Copilot, etc., and advanced analytics techniques into complex environments.\n Experience working in collaborative analytics platforms (e.g., SharePoint, Domino or similar)\n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Uniquely Interesting Work, Life-changing Careers With a single vision as inspiring as “Transforming patients’ lives through science™ ”, every BMS employee plays an integral role in work that goes far beyond ordinary. Each of us is empowered to apply our individual talents and unique perspectives in a supportive culture, promoting global participation in clinical trials, while our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.\n \n On-site Protocol \n BMS has an occupancy structure that determines where an employee is required to conduct their work. This structure includes site-essential, site-by-design, field-based and remote-by-design jobs. The occupancy type that you are assigned is determined by the nature and responsibilities of your role: \n \n Site-essential roles require 100% of shifts onsite at your assigned facility. Site-by-design roles may be eligible for a hybrid work model with at least 50% onsite at your assigned facility. For these roles, onsite presence is considered an essential job function and is critical to collaboration, innovation, productivity, and a positive Company culture. For field-based and remote-by-design roles the ability to physically travel to visit customers, patients or business partners and to attend meetings on behalf of BMS as directed is an essential job function. \n \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport bms.com . Visit careers.bms.com/ eeo -accessibility to access our complete Equal Employment Opportunity statement. \n \n Candidate Rights \n BMS will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area. \n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection .\n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. Inquiries related to the status of your application should be directed to Chat with Ripley. \n \n \nR1604601 : Analyst, Market Access Analytics",
+      "skills": [
+        "compliance",
+        "documentation",
+        "Excel"
+      ],
+      "experience": "1–3 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 62,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-08-12T04:35:35.339Z"
     },
     {
       "source": "Workday",
@@ -7653,7 +7651,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-12T03:46:29.087Z"
     },
     {
