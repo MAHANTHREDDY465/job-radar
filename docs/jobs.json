@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T03:50:38.202Z",
+  "generatedAt": "2026-08-13T04:38:43.226Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
     "total": 231,
-    "goal": 121,
+    "goal": 120,
     "target": 0,
-    "below": 110,
+    "below": 111,
     "overseas": 0,
-    "new": 13,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -180,7 +180,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.084Z"
     },
     {
@@ -220,7 +220,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.084Z"
     },
     {
@@ -2402,7 +2402,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.084Z"
     },
     {
@@ -3932,7 +3932,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.098Z"
     },
     {
@@ -5435,7 +5435,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.097Z"
     },
     {
@@ -5816,40 +5816,6 @@
       "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
-      "title": "Manager,  QA Compliance",
-      "location": "Indianapolis - RayzeBio - IN",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
-      "reqId": "R1600399",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
-      "description": null,
-      "skills": [
-        "compliance"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 69,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-11T04:51:26.485Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
       "title": "Senior Analyst I - Trial Analytics, Insights & Planning (TAIP)",
       "location": "Hyderabad - TS - IN",
       "postedText": "Posted 6 Days Ago",
@@ -6109,7 +6075,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.156Z"
     },
     {
@@ -7051,7 +7017,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.093Z"
     },
     {
@@ -7123,7 +7089,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.048Z"
     },
     {
@@ -7416,6 +7382,45 @@
     },
     {
       "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Manager,  QA Compliance",
+      "location": "Indianapolis - RayzeBio - IN",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
+      "reqId": "R1600399",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager---QA-Compliance_R1600399",
+      "description": "At RayzeBio, every day is an opportunity to ignite meaningful change. As a wholly-owned subsidiary of Bristol Myers Squibb, RayzeBio blends the nimble, pioneering spirit of an emergent biotech with the global expertise and resources of a leading innovator in oncology. Our mission is to develop transformative radiopharmaceutical therapies that offer new hope for patients living with cancer. Here, you’ll join a multidisciplinary team where your ideas are valued, your expertise is amplified, and collaboration is at the heart of everything we do. From day one, expect to make an immediate impact—on our science, on our teams, and most importantly, on patients. Learn more about RayzeBio: https://careers.bms.com/rayzebio/ \n \n The Manager for QA Compliance provides management of activities for Site Quality Operations in accordance with RayzeBio policies, standards, procedures and global cGMPs.  In addition, the role will be responsible for the Change Controls Review Board, Complaints, Data Integrity, Quality Council, and other Quality metrics \n \n Job Responsibilities \n Essential duties and responsibilities include the following.  Other duties may be assigned as required.\n Implements and Manages the Change Control Quality System for all GMP activities and works with responsible cross functional areas ensure timely completion.\n Run the Change Control Review Boards, generate meeting minutes, follow up on action items and facilitate resolution when required.\n Communicates effectively with cross functional stakeholders on matters related to change control process.\n Implements and manages the necessary investigations and CAPA review boards at a timely manner.\n Responsible for the site Quality Council program and acts as Quality Council Lead\n Develops and Maintains Quality Metrics to monitor compliance\n Collaborates with stakeholders to develop appropriate actions to resolve quality system issues\n Leads site Data Integrity Program\n Responsible for complaints\n Participates as a core team member in any corporate or health authority inspections.\n Identifies and reports discrepancies from required work practices or procedures to management.\n Makes sound decisions by exercising judgment within generally defined practices and policies and applies appropriate notification to management as appropriate.\n Leads teams and cross-functional project teams and drives team performance and results. Contributes highly to departmental performance and quality initiatives; able to conceptualize impact of Quality initiatives in terms of cross-functional teams.\n Other QA specific responsibilities as assigned by QA management\n Applies AI to improve team execution and decision‑making\n   \n Education and Experience: \n At minimum, a bachelor s degree in engineering or a life or physical science related field (including biology, biochemistry, chemistry) is required. \n Minimum 5 years of work experience in Quality Assurance\n Strong background and demonstrated effectiveness in quality assurance operation and compliance of clinical/commercial manufacturing is desired.\n Knowledge of US, EU and rest-of-world cGMP regulations and guidance.\n Demonstrated leadership, interpersonal, communication, and motivation skills.\n Excellent writing and oral communication skills are required.\n Previous work responsibility, which required a high degree of attention to detail.\n Well-practiced in exercising sound judgment in decision-making. \n Demonstrated prioritization and organization skills.\n   \n Physical Demands \n While performing the duties of this job, the employee is regularly required to sit, reach with hands and arms, and talk or hear. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this job include close vision and distance vision.  \n   \n This is a position that requires working in a laboratory environment, protective clothing, gloves, and safety glasses are required while working in a laboratory environment with radioactive materials .\n The position may require occasional travel, but not more than 5%. \n   \n Work Environment \n The noise level in the work environment is usually moderate. \n \n If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from work that will transform your life and career. \n \n Compensation Overview: \nIndianapolis - RayzeBio - IN: $124,449 - $150,803&#xa; \n The starting compensation range(s) for this role are listed above for a full-time employee (FTE) basis. Additional incentive cash and stock opportunities (based on eligibility) may be available. The starting pay rate takes into account characteristics of the job, such as required skills, where the job is performed, the employee’s work schedule, job-related knowledge, and experience. Final, individual compensation will be decided based on demonstrated experience.  Eligibility for specific benefits listed on our careers site may vary based on the job and location. For more on benefits, please visit https://careers.bms.com/life-at-bms/.  \n Benefit offerings are subject to the terms and conditions of the applicable plans in effect at the time and may require enrollment. Our benefits include: \n Health Coverage: Medical, pharmacy, dental, and vision care.\n Wellbeing Support: Programs such as BMS Well-Being Account, BMS Living Life Better, and Employee Assistance Programs (EAP). \n Financial Well-being and Protection: 401(k) plan, short- and long-term disability, life insurance, accident insurance, supplemental health insurance, business travel protection, personal liability protection, identity theft benefit, legal support, and survivor support. \n \n ​ Work-life benefits include: \n Paid Time Off \n US Exempt Employees: flexible time off (unlimited, with manager approval, 11 paid national holidays (not applicable to employees in Phoenix, AZ, Puerto Rico or Rayzebio employees) \n Phoenix, AZ, Puerto Rico and Rayzebio Exempt, Non-Exempt, Hourly Employees: 160 hours annual paid vacation for new hires with manager approval, 11 national holidays, and 3 optional holidays \n \n Based on eligibility*, additional time off for employees may include unlimited paid sick time, up to 2 paid volunteer days per year, summer hours flexibility, leaves of absence for medical, personal, parental, caregiver, bereavement, and military needs and an annual Global Shutdown between Christmas and New Years Day. \n \n All global employees full and part-time who are actively employed at and paid directly by BMS at the end of the calendar year are eligible to take advantage of the Global Shutdown.\n \n *Eligibility Disclosure: T he summer hours program is for United States (U.S.) office-based employees due to the unique nature of their work. Summer hours are generally not available for field sales and manufacturing operations and may also be limited for the capability centers. Employees in remote-by-design or lab-based roles may be eligible for summer hours, depending on the nature of their work, and should discuss eligibility with their manager. Employees covered under a collective bargaining agreement should consult that document to determine if they are eligible. Contractors, leased workers and other service providers are not eligible to participate in the program. \n \n RayzeBio and Bristol Myers Squibb \n RayzeBio was acquired by Bristol Myers Squibb (BMS) in 2024 and is a wholly-owned subsidiary of BMS; however, RayzeBio will continue to operate as a standalone organization.\n \n Supporting People with Disabilities \n BMS and RayzeBio are dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/ eeo -accessibility  to access our complete Equal Employment Opportunity statement.\n \n Candidate Rights \n BMS and RayzeBio will consider for employment qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n \n If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection/ \n \n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n \n If you believe that the job posting is missing information required by local law or incorrect in any way, please contact BMS at TAEnablement bms.com . Please provide the Job Title and Requisition number so we can review. Communications related to your application should not be sent to this email and you will not receive a response. \n \nR1600399 : Manager, QA Compliance",
+      "skills": [
+        "REACH",
+        "GMP",
+        "cGMP",
+        "health authority",
+        "compliance",
+        "quality assurance",
+        "Excel"
+      ],
+      "experience": "5+ yrs",
+      "salary": {
+        "display": "$124,449 - $150,803",
+        "minLPA": null,
+        "maxLPA": null,
+        "actual": true,
+        "note": "overseas currency"
+      },
+      "score": 62,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": false,
+      "firstSeen": "2026-07-11T04:51:26.485Z"
+    },
+    {
+      "source": "Workday",
       "company": "Dow",
       "domain": "chemical",
       "title": "Implementation Analyst (IT Analyst)",
@@ -7551,7 +7556,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.098Z"
     },
     {
@@ -7621,7 +7626,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.090Z"
     },
     {
@@ -7727,7 +7732,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.105Z"
     },
     {
@@ -7761,7 +7766,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.160Z"
     },
     {
@@ -7795,7 +7800,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-13T03:50:38.160Z"
     },
     {
