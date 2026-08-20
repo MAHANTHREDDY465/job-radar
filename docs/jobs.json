@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:46:49.091Z",
+  "generatedAt": "2026-08-20T03:39:37.139Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 117,
     "overseas": 0,
-    "new": 15,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -454,7 +454,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.862Z"
     },
     {
@@ -2129,7 +2129,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.818Z"
     },
     {
@@ -2779,7 +2779,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.828Z"
     },
     {
@@ -2992,7 +2992,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.847Z"
     },
     {
@@ -3314,7 +3314,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.779Z"
     },
     {
@@ -3634,7 +3634,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.927Z"
     },
     {
@@ -4617,7 +4617,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.845Z"
     },
     {
@@ -4689,7 +4689,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.902Z"
     },
     {
@@ -4725,7 +4725,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.784Z"
     },
     {
@@ -5293,7 +5293,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.903Z"
     },
     {
@@ -5363,7 +5363,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.788Z"
     },
     {
@@ -6120,7 +6120,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.873Z"
     },
     {
@@ -7397,7 +7397,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.830Z"
     },
     {
@@ -7577,7 +7577,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.923Z"
     },
     {
@@ -8800,7 +8800,7 @@
         "partial title match",
         "domain fit"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-20T02:46:48.783Z"
     },
     {
