@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T02:44:17.841Z",
+  "generatedAt": "2026-08-22T03:34:11.186Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 250,
+    "total": 251,
     "goal": 129,
     "target": 0,
-    "below": 121,
+    "below": 122,
     "overseas": 0,
-    "new": 11,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -535,7 +535,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.588Z"
     },
     {
@@ -2240,7 +2240,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.660Z"
     },
     {
@@ -2648,7 +2648,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.638Z"
     },
     {
@@ -2754,6 +2754,42 @@
       ],
       "isNew": false,
       "firstSeen": "2026-08-07T04:18:50.637Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Business Analyst, Creative Production & Process Optimization",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted 22 Days Ago",
+      "externalPath": "/job/Hyderabad-Office/Business-Analyst--Creative-Production---Process-Optimization_REQ-10082011-1",
+      "reqId": "REQ-10082011",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Business-Analyst--Creative-Production---Process-Optimization_REQ-10082011-1",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Business-Analyst--Creative-Production---Process-Optimization_REQ-10082011-1",
+      "description": "Job Description Summary \n#LI-Hybrid Location: 3 days work from office at Novartis' Hyderabad location is mandatory. Join Novartis as a Business Analyst, Creative Production & Process Optimization, where you'll play a pivotal role in transforming how marketing content is planned, produced, and delivered across the organization. In this highly visible role, you'll partner with business, operations, and technology teams to design scalable processes, implement innovative automation solutions, and drive operational excellence within Studio Operations. This is an exciting opportunity for a strategic problem-solver who thrives at the intersection of business transformation, digital innovation, and cross-functional collaboration.  \n Job Description \n ​ Key Responsibilities: \n Lead business transformation Initiatives by analyzing current-state workflows, identifying inefficiencies, and designing scalable future-state processes that improve speed, quality, and operational effectiveness.\n Facilitate discovery and stakeholder workshops to gather insights, align priorities, and uncover opportunities for process optimization, standardization, and innovation.\n Drive end-to-end business analysis through requirements gathering, process mapping, gap analysis, root-cause analysis, and impact assessments across Studio Operations and related functions.\n Translate business needs into solutions by developing clear business requirements, functional specifications, user stories, and acceptance criteria that enable successful technology delivery.\n Partner across functions with Marketing, Studio Operations, Product Owners, Digital, Data & IT (DDIT), and agency partners to ensure alignment and execution of strategic initiatives.\n Identify automation and AI opportunities by evaluating processes for GenAI, workflow automation, and digital transformation solutions that enhance productivity and user experience.\n Own business validation and UAT execution by defining UAT strategies, developing test scenarios and test cases aligned to business requirements, establishing requirements-to-test traceability, coordinating business user testing, managing defect triage and resolution workflows, and ensuring solutions meet business objectives prior to deployment. Support pilot programs, continuous improvement efforts, and successful adoption of new tools and capabilities. \n Champion change management by developing SOPs, playbooks, training materials, and communications that drive adoption and operational readiness for new ways of working.\n Establish performance measures by defining KPIs, success metrics, dashboards, and reporting mechanisms to monitor transformation outcomes and business impact.\n Ensure compliance and governance excellence by integrating MLR, quality, regulatory, and operational governance requirements into processes, solutions, and ongoing performance management.\n \n Essential Requirements: \n Bachelor’s degree in business, operations, or related field; Master’s preferred \n 6 years of experience in business analysis, process transformation, or marketing operations preferably in the pharmaceutical industry \n Strong expertise in process mapping (As-Is/To-Be), requirements documentation (BRDs, user stories, acceptance criteria), UAT planning and test case development, and stakeholder management across cross-functional teams. \n Familiarity with content approval workflows (MLR/CAPE), DAM platforms (Veeva Promomats, Aprimo, etc.), and CMS / Martech platforms (AEM, Drupal, SFMC, etc.) \n Exposure to automation/GenAI/workflow tools·       \n Ability to translate business problems into scalable solutions \n Excellent communication and stakeholder influence skills \n Ability to operate in fast-paced transformation environments \n \n Desirable Requirements: \n Strong knowledge of agile methodologies, change-management, and documentation best practices. \n Strong analytical and structured problem-solving mindset \n \n Commitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n \n Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to diversityandincl.india novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n \n Why Novartis: Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture \n   \n You’ll receive: You can find everything you need to know about our benefits and rewards in the Novartis Life Handbook. https://www.novartis.com/careers/benefits-rewards \n \n Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network .\n  \n Skills Desired \nAnalytical Thinking, Brand Awareness, Business Analytics, Cross-Functional Collaboration, Digital Marketing, Media Campaigns, Project Management, Project Planning, Sales, Stakeholder Engagement, Stakeholder Management, Waterfall Model",
+      "skills": [
+        "REACH",
+        "compliance",
+        "documentation",
+        "stakeholder management"
+      ],
+      "experience": "6 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 87,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-08-22T03:34:10.938Z"
     },
     {
       "source": "Workday",
@@ -3603,7 +3639,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.594Z"
     },
     {
@@ -4623,7 +4659,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.668Z"
     },
     {
@@ -4695,7 +4731,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.559Z"
     },
     {
@@ -4731,7 +4767,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.559Z"
     },
     {
@@ -5405,7 +5441,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.558Z"
     },
     {
@@ -7441,7 +7477,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.688Z"
     },
     {
@@ -7621,7 +7657,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.691Z"
     },
     {
@@ -7909,7 +7945,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-22T02:44:17.555Z"
     },
     {
