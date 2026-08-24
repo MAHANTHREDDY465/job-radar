@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T02:54:41.220Z",
+  "generatedAt": "2026-08-24T03:46:36.840Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
     "total": 248,
-    "goal": 127,
+    "goal": 126,
     "target": 0,
-    "below": 121,
+    "below": 122,
     "overseas": 0,
-    "new": 2,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -1311,41 +1311,6 @@
     },
     {
       "source": "Workday",
-      "company": "Amgen",
-      "domain": "pharma",
-      "title": "Sr. Manager, Data Governance Lead – Domain Specific",
-      "location": "India - Hyderabad",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/India---Hyderabad/Sr-Manager--Data-Governance-Lead---Domain-Specific_R-217747",
-      "reqId": "R-217747",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Sr-Manager--Data-Governance-Lead---Domain-Specific_R-217747",
-      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Sr-Manager--Data-Governance-Lead---Domain-Specific_R-217747",
-      "description": "Career Category \nInformation Systems \n Job Description \n ABOUT AMGEN \n Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today.\n \n ABOUT THE ROLE \n Role Description: \n The Data Strategy and Governance Lead will operationalize the Enterprise Data Council vision across specific domains (Research, Clinical Trials, Commercial, etc.).  He/She will coordinate activities at the tactical level, interpreting Enterprise Data Council direction and defining operational level impact deliverables and actions to build data foundations in specific domains​. The Data Strategy and Governance Lead will partner with senior leadership and other Data Governance functional leads to align data initiatives with business goals. He/she will establish and enforce data governance policies and standards to provide high-quality data, easy to reuse and connect to accelerate AI innovative solutions to better serve patients​.   \n \n Roles & Responsibilities: \n Responsible for data governance and data management for a given domain of expertise (Research, Development, Supply Chain, etc.). ​\n Manage a team of Data Governance Specialists and Data Stewards for a specific domain.​​\n Responsible for operationalizing the Enterprise data governance framework and aligning broader stakeholder community with their data governance needs, including data quality, data access controls, compliance with privacy and security regulations, foundational master data management, data sharing, communication and change management. ​\n Works with Enterprise MDM and Reference Data to enforce standards and data reusability.​\n Drives cross functional alignment in his/her domain(s) of expertise to ensure adherence to Data Governance principles. ​\n Provides expert guidance on business process and system design to support data governance and data/information modelling objectives. ​​\n Maintain documentation and act as an expert on data definitions, data standards, data flows, legacy data structures / hierarchies, common data models, data harmonization etc. for assigned domains. ​\n Ensure compliance with data privacy, security, and regulatory policies for the assigned domains ​\n Publish metrics to measure effectiveness and drive adoption of Data Governance policy and standards, that will be applied to mitigate identified risks across the data lifecycle (e.g., capture / production, aggregation / processing, reporting / consumption). ​\n Establish enterprise level standards on the nomenclature, content, and structure of information (structured and unstructured data), metadata, glossaries, and taxonomies. ​\n Jointly with Technology teams, business functions, and enterprise teams (e.g., MDM, Enterprise Data Architecture, Enterprise Data Fabric, etc.) define the specifications shaping the development and implementation of data foundations​.\n ​\n Functional Skills: \n Must-Have Skills: \n Technical skills with in-depth knowledge of Pharma processes with preferred specialization in a domain (e.g., Research, Clinical, Commercial, Supply Chain, Finance, etc.).\n Aware of industry trends and priorities and can apply to governance and policies.\n In-depth knowledge and experience with data governance principles and technology; can design and implement Data Governance operating models to drive Amgen’s transformation to be a data driven organization. ​\n In-depth knowledge of data management, common data models, metadata management, data quality, reference & master data management, data stewardship, data protection, etc.​\n Experience with data products development life cycle, including the enablement of data dictionaries, business glossary to increase data products reusability and data literacy.\n Good-to-Have Skills: \n Experience adopting industry standards in data products.\n Experience managing industry external data assets (e.g. Claims, EHR, etc.)\n Ability to successfully execute complex projects in a fast-paced environment and in managing multiple priorities effectively.\n Ability to manage projects or departmental budgets.\n Experience with modelling tools (e.g., Visio).\n Basic programming skills, experience in data visualization and data modeling tools.\n Experience working with agile development methodologies such as Scaled Agile.\n \n \n Soft Skills: \n Ability to build business relationships and understand end-to-end data use and needs.\n Excellent interpersonal skills (team player). People management skills either in matrix or direct line function.\n Strong verbal and written communication skills\n Ability to work effectively with global, virtual teams\n High degree of initiative and self-motivation.\n Ability to manage multiple priorities successfully.\n Team-oriented, with a focus on achieving team goals\n Good presentation and public speaking skills.\n Strong attention to detail, quality, time management and customer focus.\n \n Basic Qualifications: \n 12 to 15 years of Information Systems experience \n 4 years of managerial experience directly managing people and leadership experience leading teams, projects, or programs. ​\n \n EQUAL OPPORTUNITY STATEMENT \n Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.\n We will ensure that individuals with disabilities are provided with reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request and accommodation.\n \n \n \n.",
-      "skills": [
-        "compliance",
-        "documentation"
-      ],
-      "experience": "12–15 yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 94,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-08-24T02:54:41.032Z"
-    },
-    {
-      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Manager Data Governance",
@@ -2611,6 +2576,42 @@
       ],
       "isNew": false,
       "firstSeen": "2026-08-04T04:52:50.472Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Amgen",
+      "domain": "pharma",
+      "title": "Business Analyst",
+      "location": "India - Hyderabad",
+      "postedText": "Posted 12 Days Ago",
+      "externalPath": "/job/India---Hyderabad/QMS-Tester--BA_R-250982",
+      "reqId": "R-250982",
+      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/QMS-Tester--BA_R-250982",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/QMS-Tester--BA_R-250982",
+      "description": "Career Category \nQuality \n Job Description \n Role Overview \n We are looking for an experienced L3 Tester with 3–5 years of experience in Quality Management Systems , preferably with hands-on exposure to Veeva Vault QMS , to support functional testing, regression testing, defect validation, integration testing, release testing, and production support activities in a regulated life sciences environment.\n This is a hands-on testing role focused on validating QMS business processes, system configurations, integrations, reports, workflows, and controlled releases . The ideal candidate should be able to understand business requirements, prepare and execute test cases, document evidence, identify defects, perform retesting, and collaborate with functional, configuration, integration, and validation teams.\n The role requires strong understanding of QMS processes, testing fundamentals, defect lifecycle management, documentation discipline, and the ability to work effectively within Agile and GxP-compliant delivery models.\n \n Key Responsibilities \n QMS Functional Testing & Release Validation \n Analyze business requirements, user stories, acceptance criteria, and configuration design documents to prepare effective test scenarios and test cases for QMS processes.\n Execute functional, regression, integration, smoke, sanity, and user acceptance testing for Veeva Vault QMS or equivalent Quality Management Systems.\n Validate QMS workflows and business processes including deviations, CAPA, change control, audits, complaints, quality events, effectiveness checks, and related quality records.\n Perform end-to-end testing across configured objects, fields, layouts, lifecycles, roles, permissions, notifications, reports, and dashboards.\n Support integration testing by validating source-to-target data flows, interface outputs, error scenarios, and downstream reporting impacts.\n Log defects with clear reproduction steps, expected results, actual results, screenshots, evidence, severity, and business impact.\n Coordinate with configuration, development, integration, validation, and business teams for defect triage, retesting, closure, and release readiness.\n Agile Delivery & Collaboration \n Work closely with Business Analysts, Product Owners, Configuration Leads, Developers, Integration Teams, Validation Teams, and Business SMEs to understand testing scope and quality expectations.\n Participate in Agile ceremonies including sprint planning, backlog refinement, test planning, daily stand-ups, defect triage, and release readiness discussions.\n Support root cause analysis by providing clear test evidence, defect history, and scenario-level observations.\n Collaborate effectively with global teams across multiple time zones while maintaining strong documentation and communication discipline.\n \n Required Qualifications \n Required Experience \n Bachelor’s degree in Computer Science, Information Systems, Engineering, Life Sciences, Pharmacy, or a related field.\n 3–5 years of hands-on testing experience in enterprise applications, preferably within Quality Management Systems or regulated life sciences platforms.\n Experience testing QMS processes such as deviations, CAPA, change control, audits, complaints, investigations, and quality events.\n Working knowledge of Veeva Vault QMS, TrackWise, ETQ, MasterControl, or equivalent QMS applications is preferred.\n Experience preparing test scenarios, test cases, test execution evidence, defect reports, traceability matrices, and test summary reports.\n Experience with functional testing, regression testing, integration testing, UAT support, and release validation.\n Exposure to GxP, CSV, change control, validation documentation, and audit-ready testing practices is preferred.\n \n Required Technical Skills \n Strong hands-on testing experience with: QMS functional testing and business process validation\n Test case design, test execution, defect logging, retesting, and regression testing\n Veeva Vault QMS or comparable enterprise QMS platforms\n Workflow, lifecycle, role, permission, notification, report, and dashboard validation\n Integration testing, data validation, interface checks, and error scenario testing\n ALM, Jira, Veeva VM or equivalent test management tools\n Test evidence documentation, traceability, and audit-ready execution practices\n \n Good understanding of QMS processes including deviations, CAPA, change control, audits, complaints, and quality events.\n Ability to understand configuration changes and assess testing impact across related QMS workflows and downstream processes.\n Working knowledge of SQL or basic data validation techniques is preferred.\n Understanding of GxP validation, controlled documentation, traceability, and release testing expectations.\n \n Preferred Skills \n Experience testing Veeva Vault Quality/QMS workflows, records, reports, dashboards, and controlled configuration changes.\n Experience in Life Sciences, Pharmaceutical, Biotechnology, or GxP-regulated environments.\n Exposure to CSV validation deliverables, requirement traceability, test protocols, and audit support.\n Basic understanding of integrations, API testing concepts, data mapping, and interface validation.\n Familiarity with Agile delivery, release management, change control, and production support processes.\n \n Preferred Certifications \n Veeva Vault certification or training preferred.\n GxP, CSV, or computer system validation training preferred.\n \n Soft Skills \n Strong attention to detail and commitment to quality documentation.\n Analytical mindset with strong defect investigation and troubleshooting skills.\n Clear written and verbal communication skills for defect reporting, test status updates, and stakeholder coordination.\n Ability to work independently while collaborating effectively with cross-functional global teams.\n Organized, process-oriented, and comfortable working in Agile and regulated delivery environments.\n Ability to manage multiple testing priorities across sprint, release, and production support timelines.\n \n \n \n \n \n.",
+      "skills": [
+        "GxP",
+        "lifecycle management",
+        "documentation",
+        "audit"
+      ],
+      "experience": "3–5 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 87,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-08-24T03:46:36.313Z"
     },
     {
       "source": "Workday",
@@ -5982,7 +5983,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-24T02:54:41.067Z"
     },
     {
