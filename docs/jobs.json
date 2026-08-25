@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:49:03.538Z",
+  "generatedAt": "2026-08-25T03:40:54.673Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
@@ -9,7 +9,7 @@
     "target": 0,
     "below": 120,
     "overseas": 0,
-    "new": 7,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -1301,7 +1301,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.247Z"
     },
     {
@@ -1559,7 +1559,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.241Z"
     },
     {
@@ -4365,7 +4365,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.246Z"
     },
     {
@@ -7472,7 +7472,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.302Z"
     },
     {
@@ -7756,7 +7756,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.181Z"
     },
     {
@@ -7940,7 +7940,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.299Z"
     },
     {
@@ -8491,7 +8491,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-08-25T02:49:03.303Z"
     },
     {
