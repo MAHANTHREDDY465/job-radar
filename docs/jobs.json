@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T07:34:15.447Z",
+  "generatedAt": "2026-09-09T06:37:57.186Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 209,
-    "goal": 132,
+    "total": 204,
+    "goal": 128,
     "target": 0,
-    "below": 77,
+    "below": 76,
     "overseas": 0,
-    "new": 1,
+    "new": 5,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -788,42 +788,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-06T06:31:28.462Z"
-    },
-    {
-      "source": "Workday",
-      "company": "AstraZeneca",
-      "domain": "pharma",
-      "title": "IT Senior Business Analyst",
-      "location": "India - Chennai",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "reqId": "R-257487",
-      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "description": "GCL: D1 Introduction to role:  \n Are you ready to turn complex business needs into clear, result technology outcomes that help bring vital medicines to patients faster? Do you flourish with translating ambiguity into critical action while partnering across business and IT to unlock measurable value?\n In this role, you will be a central connector between diverse partners and technical groups, crafting the requirements that drive high-impact solutions across our global enterprise. You will help set analysis approaches, ensure traceability from ideas to benefits, and influence decisions that modernize how we operate. Your work will power smarter ways of working today while laying the foundations for tomorrow’s growth.  \n Accountabilities:  \n Analysis Strategy and Planning: Define the right analysis approach for each initiative, balancing complexity, risk, and dependencies. Scope work optimally and lead your plan to deliver to deadlines without losing sight of value.\n Stakeholder Engagement and Influence: Identify and engage collaborators at all levels. Build trust-based relationships, tailor communication to influence outcomes, and chip in to plans that drive informed decisions and adoption.\n Requirements Leadership: Lead end-to-end requirements management from discovery to validation. Translate business objectives into clear functional and technical requirements, ensuring robust traceability and alignment with Functional Build, User Interface Compose, and Business Process Develop.\n Architecture Partnership: Work closely with architecture and engineering teams to assure that the proposed technical solution delivers the agreed business benefits, adheres to standards, and scales for future needs.\n Solution Assessment and Value Focus: Evaluate solution options, challenge assumptions, and articulate the reasoning behind recommendations. Assess business readiness and guide teams to improve value versus spend.\n Business Case and Benefits Realization: Support the creation of cases, collecting justification including return on investment and benefits measures. Track value realization through delivery and into operation.\n Apply AI-assisted techniques to speed up discovery and documentation. Use LLMs to coordinate and prioritize ambiguous inputs and identify business rules from interviews. Improve the consistency and completeness of documentation related to requirements.\n Change and Communications: Chip in to change plans and communication strategies to ensure alignment, understanding, and adoption across functions and geographies.\n Governance and Compliance: Operate effectively within regulated environments, ensuring requirements and testing practices meet compliance needs and stand up to audit.\n Collaboration and Coaching: Partner with IT leaders, service managers, and multi-functional project teams. Share standard processes and support team development to improve on analysis quality.  \n Essential Skills/Experience:\n 5-7 years Experience of using business analysis tools/techniques to design and deliver business change\n Strong engagement, communication and facilitation skills, including presentation and influencing skills\n Demonstrated involvement in a regulated environment\n Background in collaborating with third party suppliers/vendor  \n Desirable Skills/Experience:\n Degree in a relevant subject area or formal certification in business analysis practice\n Exposure to Agile methodology and familiarity with both Agile and Waterfall delivery models\n Experience of working in a global organisation\n Pharmaceutical business awareness/business domain knowledge\n Excellent documentation skills and proficiency with MS Visio\n Hands-on experience producing Business Requirements Documents (BRD or equivalent experience), Functional Requirements Documents (FRD), Functional Requirement Specifications (FRS), Requirement Traceability Matrices (RTM), and handling product backlogs\n Experience collaborating with external consultants and vendors, with strong written and oral communication\n Background working with pharma clients and understanding of regulated processes\n Experience employing LLMs and AI assistants to analyze interview transcripts, extract business rules, and translate findings into functional requirements, user stories, and acceptance criteria\n Applied AI-enhanced requirements engineering and prompt engineering to accelerate documentation and improve quality and consistency of requirement artifacts  \n Why AstraZeneca:  \n Join a high-performing, collaborative team that sits at the heart of how our business runs, where bright minds and practical problem solvers bring technology and operations together to deliver for patients. You will work on intellectually stimulating, complex challenges that require creativity, rigor, and pace—often with engineers, architects, and business leaders in the same room, turning ideas into outcomes. We champion digital innovation, thoughtful risk-taking, and data-driven decisions, and we value understanding alongside ambition.\n Call to Action:\n Make your next move count—bring your analysis leadership to a place where your work accelerates science and creates real-world impact today!\n \n Date Posted \n02-Sept-2026 \n Closing Date \n15-Sept-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
-      "skills": [
-        "compliance",
-        "documentation",
-        "audit"
-      ],
-      "experience": "5–7 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 96,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-06T06:31:28.496Z"
     },
     {
       "source": "Workday",
@@ -2607,40 +2571,6 @@
     },
     {
       "source": "Workday",
-      "company": "Dow",
-      "domain": "chemical",
-      "title": "EHS&S Data Engineer (Senior IT Analyst)",
-      "location": "Navi Mumbai (IND)",
-      "postedText": "Posted 4 Days Ago",
-      "externalPath": "/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "reqId": "R2068094",
-      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role     \n   \n Dow has an exciting and challenging opportunity for a Data Engineer , based in Navi Mumbai (India) . This role will be a member of the Environment, Health, Safety and Sustainability (EHS&S) Information Technology team. \n As a Data Engineer specializing in EHS&S solutions, you will work with a cross-functional team whose objective is to deliver solutions that drive business value for Dow. The Data Engineer will focus on ingestion / persistence / curation of data as defined by specific EHS&S projects.   \n   \n Responsibilities   \n Own the development and deployment of EHS&S solutions enabling data ingestion, storage, and consumption across Dow s enterprise data platforms (Azure based).\n Create data pipelines for EHS&S projects and projects in the Azure environment. Develop and deploy scalable and efficient data processing pipelines using Azure Data Factory, Azure Databricks, and other relevant technologies.\n Collaborate with data scientists and analysts to support their data needs.\n Continuously monitor, test, and improve data architecture and performance, and identify opportunities for innovating with digital capabilities aiming to accelerate Dow’s digital transformation. \n Deployment of Azure services using Infrastructure as Code and Azure DevOps.\n Design, develop, test, and implement EHS&S analytic and reporting solutions. This includes the curation and ingestion of data from different source systems, driving end-to-end data flow for multiple solutions.\n Work across multiple initiatives in the Environmental, Health, Safety and Sustainability space. \n \n   \n Qualifications   \n Bachelor’s degree in computer science, Computer Information Systems, related IT field, or EHS&S area.    \n \n 5 years of work experience.  \n A minimum of 2 years of relevant data platform experience (data ingestion, pipeline orchestration). \n \n Advanced English Level Skills.    \n \n   \n Your Skills   \n Strong knowledge of data modeling, data warehousing, and ETL processes, data ingestion , and various data types like streaming data, structured, and unstructured data. \n Knowledge of and Experience with DevOps / MLOps, Infrastructure as Code (e.g. scripting, ADF), Pipelining (data and MLOps), data modeling and concepts of Data Architecture. \n Proficiency in SQL and experience with big data technologies such as Spark, Hive and has excellent problem-solving and analytical skills and strong communication and collaboration skills.\n Also has multi-application and cross-platform design experience.\n \n Proficient knowledge of various cloud services from Microsoft Azure and has general understanding of digital industry trends. \n Experience with Azure data services, Azure Data Factory, DataBricks, Python (other programming language) and has experience developing in the Azure environment. \n Ability to thrive in challenging situations and solve complex problems, manage own work effort in multiple projects with little supervision, is interested in emerging technologies with the ability to quickly learn and exploit cutting edge offerings to achieve business objectives. \n Environment, Health, Safety and Sustainability data knowledge is strongly desired.\n \n \n Additional notes \n The ability to accommodate a flexible schedule aligned with international time zones is essential.   \n Relocation assistance is not available with this position.\n This position does not have people leadership responsibility. \n This position is an independent contributor; however, you may act as coach and mentor to junior resources. \n \n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
-      "skills": [
-        "REACH"
-      ],
-      "experience": "2+ yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 87,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-06T06:31:28.438Z"
-    },
-    {
-      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Senior Analyst - Provider MDM",
@@ -3365,44 +3295,6 @@
     },
     {
       "source": "Workday",
-      "company": "GSK",
-      "domain": "pharma",
-      "title": "Manager/Senior Manager - External Supplier Quality – Digitalization & Analytics, GCC",
-      "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439670",
-      "reqId": "439670",
-      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439670",
-      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439670",
-      "description": "Job Purpose \n \n The Senior Manager, External Supplier Quality Digitalization & Analytics leads the digital and analytics agenda for external quality oversight across the external supplier and CMO network, combining quality-compliance expertise with hands-on digital and analytics capability.\n \n Rather than building every solution personally, the role holder guides the External Quality team’s digital transformation – identifying opportunities to simplify and accelerate quality processes, delivering lighter-weight analytics and automation directly where the team can self-serve (for example Power BI dashboards and AI/Copilot Studio agents), and, for solutions that need dedicated engineering (for example bots and autonomous agents), preparing process maps and business evaluations and partnering with the Technology organization to build, validate, and deploy them.\n \n The aim is to improve external quality visibility, reduce manual effort, accelerate decisions, and surface quality and compliance risks earlier.\n \n Key Responsibilities \n \n Digital Transformation & Analytics\n Guide the External Quality team’s digital agenda: identify opportunities to simplify, automate, and accelerate quality processes, priorities them, and shape a practical delivery roadmap.\n Design and build lighter-weight solutions the team can own directly – Power BI dashboards, AI and Copilot Studio agents, and Power Platform automations – using available low-code / no-code tooling.\n For solutions that require dedicated engineering (for example bots, autonomous agents, or full production deployment), prepare process maps, requirements, and business evaluations, and partner with the Technology organization to build, validate, and deploy them.\n Develop and maintain Power BI dashboards and KPI reporting for supplier performance, Quality Agreements, compliance documentation, overdue actions, inspection readiness, and supplier risk indicators.\n Automate recurring reports, data consolidation, reminders, escalations, and workflow tracking using Microsoft Power Platform (Power Automate, Power Query, Power Apps, Copilot Studio) and SQL, or equivalent tools available in the business.\n Consolidate, cleanse, analyze, and interpret external quality data to identify trends, recurring risks, compliance gaps, process bottlenecks, and improvement opportunities.\n Support or lead digitalization and continuous improvement projects, driving adoption of new tools across the External Quality organization.\n \n External Supplier Quality\n Own process ownership and KPI oversight for Quality Agreements and Product Requirement Specifications with suppliers and CMOs.\n Initiate, negotiate, complete, review, and maintain Quality Agreements within the assigned supplier s scope.\n Maintain supplier information, External Auditee Records, Quality Agreement data, Product Requirement Specifications, and compliance-document information in the applicable company quality systems.\n Collect, review, track, and maintain supplier compliance documentation, including Compliance Documentation Questionnaires, BSE/TSE documentation, Nitrosamine Questionnaires, and other required records.\n Identify, communicate, escalate, and support the management of supplier quality and compliance risks.\n Support GSK sites during regulatory or customer inspections, as required.\n Contribute to the development and maintenance of internal External Quality procedures, guidelines, and processes in line with the Quality Management System.\n \n Ways of Working\n Partner with Quality, Technology, Procurement, Site Quality, SQAC, R&D, the wider External Quality organization, and external suppliers to deliver governed, secure, validated, and user-focused digital solutions.\n \n Essential Experience and Capabilities \n 8-14 years of professional experience\n Experience in External / Supplier Quality, Operational Quality, Quality Systems, Quality Compliance, or related regulated-quality function.\n Experience working with suppliers, CMOs, or external manufacturing partners in pharmaceuticals, biotechnology, medical devices, healthcare, or another highly regulated industry.\n Hands-on experience creating AI and Copilot Studio agents, Power BI dashboards, and Power Platform automations – with the judgement to know what can be delivered within the business and what is better scoped and handed to the Technology organization to build.\n Strong capability in data extraction, cleansing, transformation, modelling, KPI development, visualization, interpretation, and insight generation.\n Experience automating recurring reports and business processes using Microsoft Power Platform (Power Automate, Power Query, Power Apps, Copilot Studio) and SQL; familiarity with additional tools such as Python or RPA platforms is useful but not essential.\n Ability to translate quality-process requirements into practical digital solutions – including process mapping and business evaluation for the Technology organization – and to communicate insights clearly to senior and cross-functional stakeholders.\n Understanding data governance, information security, access management, validation, documentation, and controlled change in regulated environments.\n \n Education & Selection \n Bachelor s or master s degree in pharmacy, Chemistry, Biology, Biotechnology, Engineering, Computer Science, Data Science, Information Systems, Statistics, or related discipline. Equivalent professional experience will be considered where it demonstrates the ability to perform the role effectively.\n Selection focuses on a demonstrable portfolio of delivered digital and analytics solutions, relevant experience from comparable roles, and practical skills assessed during interviews, rather than on formal certification.\n Certification or formal learning in Power BI, Power Platform, Copilot Studio, Azure AI, data analytics, SQL, Lean Six Sigma, or project / change management is a plus, but not required.\n \n Success Measures \n Adoption of AI / Copilot Studio agents, automated workflows, and Power BI dashboards within External Quality processes.\n Reduced manual reporting effort and improved timeliness, consistency, accuracy, and traceability of external quality reporting.\n Earlier visibility of external quality and compliance risks, with better tracking of Quality Agreements, compliance documents, and other obligations.\n A clear, prioritized digital roadmap, with solutions either delivered within the team or successfully scoped and delivered together with the Technology organization.\n Positive stakeholder adoption of dashboards, automated reports, and AI-enabled tools.\n \n \n \n Skills \nArtificial Intelligence (AI), Data Integrity, Digital Fluency, GxP Regulations, Influencing Without Authority, Pharmaceutical Regulatory Compliance, Problem Solving, Quality Assurance (QA), Risk Awareness, Supplier Auditing, Supplier Quality Management  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
-      "skills": [
-        "REACH",
-        "GxP",
-        "compliance",
-        "quality assurance",
-        "documentation"
-      ],
-      "experience": "8–14 yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-06T06:31:28.566Z"
-    },
-    {
-      "source": "Workday",
       "company": "IFF",
       "domain": "flavors / fragrances / ingredients",
       "title": "Senior SAP FICO Systems Business Analyst",
@@ -3472,6 +3364,45 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-06T06:31:28.489Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Senior Manager - CE compliance & Field Inquiries",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
+      "reqId": "REQ-10087243",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
+      "description": "Job Description Summary \n-Explore, develop, implement and evaluate Digital innovation solutions that address customer needs. Co-create with key stakeholders to build partnerships and collaborations. -Leads the delivery of multiple projects across a variety of creative and marketing channels, including print and digital media. Develop and coordinate project plans across the design, development and production stages of a project to support the successful delivery within set KPI's. -Works in collaboration with brand teams, technical teams and all functions to maximize value. -Provides consultancy, advice and assistance on strategy for commercialization of products, and influence marketing/Marketing Sales Operation team through delivery of proven analytics based projects. -Provide analytics support to Novartis internal customers  \n Job Description \n Senior Manager - CE compliance & Field Inquiries \n Location – Hyderabad #LI Hybrid  \n \n Major Accountabilities: \n Operations and Quality: Oversee audit queues in Concur to ensure reports are reviewed within agreed SLAs, with clear documentation of findings and rationale for approvals/rejections and daily FIS ticket queue, ensuring timely triage, assignment, resolution, and closure.\n Creative Consulting : Serve as a creative consultant, translating stakeholder needs into tangible, innovative learning solutions. You’ll be a true partner, able to envision and articulate what success looks like for every ask\n Strategic Execution : Be a strategic thinker and executor, driving initiatives from concept to launch and ensuring flawless execution. Act as the first line of support for sales and business teams to clarify inaccurate or incomplete entries\n Stakeholder Partnership: Build strong partnerships with key stakeholders, fostering collaboration and trust to deliver best-in-class learning experiences\n Project Management & Impact : Demonstrate strong project management skills, coordinating boards and cross-functional teams to drive measurable impact\n Technological Adaptability: Demonstrated ability to quickly learn and integrate emerging technologies into solutions, ensuring continuous innovation and relevance\n Knowledge Management & Process Control: Identify gaps in article coverage and collaborate with SMEs to enhance content, decision trees, and troubleshooting guidelines. Ensure team members follow standardized workflows and documentation protocols.\n People Leadership : Lead, coach, and develop a team. Conduct quality audits, calibrations, and feedback sessions to ensure consistency and accuracy. Manage staffing, performance reviews, training plans, and knowledge-upskilling initiatives.\n \n Educational Requirement: \n Bachelor’s degree in business, technology, life sciences, engineering, or a related field is required; MBA or relevant master’s degree preferred.\n \n Minimum Experience: \n 6–8 years’ experience in operations, service delivery, or ticketing environments.\n Experience with ServiceNow/SNOW or inquiry management systems preferred.\n Familiarity with SAP Concur or similar expense management tools or experience in a compliance or audit-related role\n Strong problem-solving, communication, and stakeholder-management skills.\n Proficiency in Microsoft Excel, BI Reporting for data handling and reporting\n Willingness to learn and adapt in a dynamic, team-oriented environment\n  \n Skills Desired \nAnalytical Thinking, Brand Awareness, Business Analytics, Cross-Functional Collaboration, Digital Marketing, Media Campaigns, Project Management, Project Planning, Sales, Stakeholder Engagement, Stakeholder Management, Waterfall Model",
+      "skills": [
+        "compliance",
+        "documentation",
+        "SAP",
+        "Excel",
+        "audit",
+        "stakeholder management"
+      ],
+      "experience": "6–8 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-09T06:37:56.721Z"
     },
     {
       "source": "Workday",
@@ -5062,41 +4993,6 @@
     },
     {
       "source": "Workday",
-      "company": "GSK",
-      "domain": "pharma",
-      "title": "Sr. Analyst - SD Performance",
-      "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "reqId": "445111",
-      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "description": "Business Introduction At GSK, we have bold ambitions for patients, aiming to positively impact the health of 2.5 billion people by the end of the decade. Our R&D focuses on discovering and delivering vaccines and medicines, combining our understanding of the immune system with cutting-edge technology to transform people’s lives. GSK fosters a culture ambitious for patients, accountable for impact, and committed to doing the right thing, making sure that we focus our efforts on accelerating significant assets that meet patients’ needs and have the highest probability of success. We’re uniting science, technology, and talent to get ahead of disease together. Find out more: Our approach to R&D  \n Position Summary \n The Study Data Analyst is responsible for the strategic, contractual and relationship management activities with respect to outsourcing, preferred service suppliers and performance/resource monitoring within Data Science and Clinical Systems. This role involves interaction with a team of performance and outsourcing experts to ensure that the resourcing model and performance monitoring tools are at the top of industry standards with respect to quality, performance, cost, and timelines.\n Responsibilities: Support Sr. Director, Service Delivery in developing an outsourcing and performance management strategy, with a particular focus on the areas of Data Management and Clinical Systems.\n Approving access and account provisioning request for CROs as N 1 manager\n Managing on-boarding, off-boarding and change request for CROs\n Maintaining global CRO staff list for Data strategy and management centrally\n Assigning training curricula to the CRO staff as role and requirement\n Running monthly training compliance report for CROs and publish the same.\n Conducting quarterly meetings with CRO managers to discuss training compliance and gaps.\n \n Basic Qualification \n We are looking for professionals with the required skills to achieve our goals:\n 6-8 Years of experience Clinical Research, information Systems or Business Administration experience including 2 years of vendor management responsibilities.\n Biotechnology/ Life Science Graduate / Medical / Paramedical / Pharmacy Degree Excellent problem-solving and communication skills – ability to articulate technical decisions and trade-offs to non-technical clinical and business stakeholders.\n Location and Working Model - Role located in India- Bengaluru - This role is hybrid, combining on-site collaboration and remote work. Exact hybrid pattern will be discussed during hiring. What to expect next We look for people who bring curiosity, collaboration, and a commitment to quality. If you want to grow technical and project leadership skills while contributing to important clinical programs, we would like to hear from you. Please apply to join us and help get ahead of disease together.\n Skills \n  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
-      "skills": [
-        "REACH",
-        "compliance"
-      ],
-      "experience": "6–8 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 71,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-08T06:31:52.143Z"
-    },
-    {
-      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Senior Analyst - Agentforce",
@@ -5468,6 +5364,41 @@
     },
     {
       "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Specialist I, QMDM",
+      "location": "Chennai (Guindy), India",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Chennai-Guindy-India/Specialist-I--QMDM_R21084-1",
+      "reqId": "R21084",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Specialist-I--QMDM_R21084-1",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Specialist-I--QMDM_R21084-1",
+      "description": "Job Summary \nAre you passionate about service excellence? Would you love to work for a global organization that is doing more good for people and planet? IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences, we deliver sustainable innovations that elevate everyday products. Global Business Services: Delivering streamlined, scalable support—enhancing efficiency, compliance and service excellence across the company. The role is based in Chennai, India(hybrid role). Be part of a creative, solution-oriented team where together we can achieve greatness and make a real impact. Your potential is our inspiration. \n \n Where You ll Make a Difference \n Ensure the accuracy, consistency, and integrity of Material and Quality Master Data across global manufacturing sites.\n Support critical business operations by maintaining high-quality master data that enables product creation, manufacturing, regulatory compliance, and customer satisfaction.\n Contribute to new product development by managing quality documentation, specifications, statements, and reports required by customers.\n Drive continuous improvement initiatives and support global master data transition projects across multiple regions.\n Collaborate with cross-functional stakeholders to resolve data issues, improve processes, and enhance operational efficiency.\n Play a key role in ensuring compliance with internal quality standards, regulatory requirements, and global business policies.\n What Makes You the Right Fit \n Bachelor s degree in Science, Chemistry, Food Technology, Engineering, Supply Chain, Business Administration, or a related field.\n Experience in Master Data Management, Quality Management, Supply Chain, Manufacturing Operations, or related business functions.\n Knowledge of SAP Material Master, Quality Management processes, and enterprise data management principles.\n Strong analytical and problem-solving skills with a high attention to detail.\n Ability to manage multiple priorities while maintaining accuracy and meeting service level agreements (SLAs).\n Excellent communication and stakeholder management skills with the ability to work across global teams and functions.\n Customer-focused mindset with a commitment to delivering high-quality service and support.\n How Would You Stand Out? \n Experience working with SAP Master Data Governance (MDG), Material Master, or Quality Management modules.\n Exposure to global manufacturing environments and cross-regional master data operations.\n Knowledge of regulatory documentation, religious certifications, tariff codes, trade compliance, or product compliance processes.\n Experience supporting data migration, system implementations, or master data transition projects.\n Proven track record of driving process improvements, automation initiatives, and data quality enhancements.\n Ability to train users, develop documentation, and support continuous improvement initiatives across the organization.\n Why Choose Us? \n At IFF, you ll be part of a global team that is shaping the future of food, beverage, health, biosciences, and consumer products. We foster a culture of innovation, collaboration, and continuous learning where every contribution matters. You ll have the opportunity to work on impactful global projects, collaborate with diverse teams across regions, and develop expertise in master data, quality management, and business operations while contributing to solutions that touch millions of lives every day.\n \n IFF is an Equal Opportunity Employer. \n   \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability. Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more \n   \n \n \n \n \n \n \n \n \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability.\n \n Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more",
+      "skills": [
+        "compliance",
+        "documentation",
+        "SAP",
+        "stakeholder management"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-09T06:37:56.683Z"
+    },
+    {
+      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "SSU & Regulatory Coordinator (Contract Management Assistant)",
@@ -5503,35 +5434,41 @@
     },
     {
       "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Data Governance Practitioner",
-      "location": "Bengaluru",
-      "postedText": "Posted 26 Days Ago",
-      "externalPath": "/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689859-S2064201",
-      "reqId": "ATCI-5689859-S2064201",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689859-S2064201",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689859-S2064201",
-      "description": "Project Role : Data Governance Practitioner Project Role Description : Establish and enforce data governance policies to ensure the accuracy, integrity, and security of organizational data. Collaborate with key stakeholders to define data standards, facilitate effective data collection, storage, access, and usage; and drive data stewardship initiatives for comprehensive and effective data governance. Must have skills : Microsoft Dynamics 365 Commerce Functional Good to have skills : NA Minimum 5 year(s) of experience is required Educational Qualification : 15 years full time education Summary: Responsibilities – D365 FO - - - - - - - - Define, design and lead the architecture needed to enable data management capabilities. Execute the design and implement processes, tools and architecture. Define and design import sequence schedules and data projects. Automate export and import of defined data projects between environments with defined data import/export sequence schedules. Troubleshoot issues within the data management area. Act as a leader to support data management questions with other teams. Manual execution of import and export, to and from D365FO when it is needed. Lead the definition and execution of data strategies for D365 Commerce, including retail stores, point-of-sale (POS) systems, and call centers. Oversee the migration of critical commerce data entities such as products, assortments, pricing, discounts, promotions, customer master data (retail-specific attributes), loyalty programs, POS profile, receipt profiles and store configurations. Design and implement data quality standards and validation rules specifically for retail data within D365 Commerce. Manage data synchronization and integration efforts between D365 Commerce and other external commerce-related systems (e.g., payment gateways). Develop and optimize data import/export routines using D365 Commerce Data Exchange (CDX) and other relevant tools to ensure seamless data flow between head office and retail stores/online channels. Work closely with retail operations and product teams to identify data needs, resolve data discrepancies, and ensure data readiness for go-live and ongoing operations. Implement robust data governance and security measures for sensitive commerce data. Provide expertise in troubleshooting data-related issues specific to D365 Commerce functionalities. Microsoft Dynamics 365 Operations, Microsoft Dynamics 365 Finance As a Data Governance Practitioner, a typical day involves establishing and enforcing data governance policies that uphold the accuracy, integrity, and security of organizational data. The role requires close collaboration with various stakeholders to define and maintain data standards, ensuring that data collection, storage, access, and usage processes are efficient and compliant. Driving data stewardship initiatives is a key part of the daily activities, fostering a culture of responsibility and accountability around data management across the organization. This position plays a vital role in supporting the organization s data governance framework through continuous engagement and coordination with multiple teams. Roles & Responsibilities: - Expected to be an SME, collaborate and manage the team to perform. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Provide solutions to problems for their immediate team and across multiple teams. - Lead efforts to develop and implement data governance frameworks that align with organizational goals. - Facilitate communication and collaboration between technical and business teams to ensure data governance objectives are met. - Monitor compliance with data governance policies and recommend improvements to enhance data quality and security. - Support junior team members by providing guidance and fostering professional development opportunities. Professional & Technical Skills: - Must To Have Skills: Proficiency in Microsoft Dynamics 365 Commerce Functional. - Strong knowledge of data governance principles and best practices related to data accuracy, integrity, and security. - Experience in collaborating with cross-functional teams to define and implement data standards and policies. - Ability to analyze complex data management challenges and develop practical solutions. - Familiarity with data stewardship concepts and the ability to drive initiatives that promote data accountability. - Excellent communication skills to effectively engage with stakeholders at various organizational levels. Additional Information: - The candidate should have minimum 5 years of experience in Microsoft Dynamics 365 Commerce Functional. - This position is based at our Bengaluru office. - A 15 years full time education is required. \n \n \n15 years full time education \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "company": "Amgen",
+      "domain": "pharma",
+      "title": "Specialist IS Analyst",
+      "location": "India - Hyderabad",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "reqId": "R-236618",
+      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "description": "Career Category \nInformation Systems \n Job Description \n Let’s do this. Let’s change the world.\n \n In this vital role, you will work as part of a Product Team focusing on the Electronic Lab Notebook (ELN) and Instrument Data Acquisition Platform , accelerating Amgen’s product development and commercial manufacturing. You will collaborate with a dynamic, globally distributed team of technical product owners, business analysts, test/validation engineers , project managers, and scrum masters on the design, development, validation, support, and continuous optimization of Amgen Operations’ ELN ecosystem. This role requires strong hands-on experience with enterprise platform and application testing in a GxP-regulated environment , including CSV/CSA activities , to ensure systems meet regulatory, quality, and data integrity standards. In addition, the role demands significant experience in Application Support and Maintenance (AMS) , including incident management, release support, upgrades, patches, and operational stability of mission-critical laboratory platforms. The ideal candidate brings deep expertise in ELN applications, enterprise application integration, end-to-end data and process harmonization , and the seamless integration of laboratory instrument data with enterprise systems (e.g., LIMS, CDS, MES, data platforms). Success in this role requires comfort working in a matrixed, global organization , balancing innovation with compliance, operational excellence, and system reliability.\n \n Software Engineering & Platform Ownership\n Possess strong software development skills and rapidly translate concepts into working, production-ready solutions\n Conduct code reviews to ensure quality, security, performance, and adherence to enterprise standards\n Create and maintain documentation for architecture, design, validation, deployment, disaster recovery, and operations \n Identify, troubleshoot, and resolve complex technical challenges across integrated enterprise platforms\n Stay current with emerging technologies, industry best practices, and regulated system development trends\n \n GxP Testing, Validation & Quality\n Lead and contribute to enterprise application testing in GxP environments , ensuring compliance with FDA, EMA, and global regulatory requirements\n Own and execute CSV/CSA activities , including risk assessments, test strategy, IQ/OQ/PQ (or equivalent), traceability, and validation documentation\n Develop and maintain test plans, test scenarios, and test scripts for system enhancements, patches, upgrades, and vendor releases\n Perform functional, regression, integration, and user acceptance testing (UAT) to ensure changes do not negatively impact validated functionality\n Partner with Quality, Validation, and Business teams to support audits, inspections, and validation lifecycle activities\n \n Application Support & Maintenance (AMS)\n Provide Level 2 / Level 3 application support for ELN and associated enterprise platforms\n Manage incident, problem, and change processes , including P1/P2 incident response and root cause analysis\n Support production releases, vendor upgrades, hotfixes, and patches , ensuring minimal disruption to business operations\n Work within ITIL-based processes using ServiceNow for incident, change, and problem management\n Collaborate with infrastructure, vendor, and business partners to resolve operational bottlenecks and systemic issues\n Ensure platform stability, performance monitoring, and operational readiness in regulated environments\n \n Cross-Functional Collaboration & Delivery\n Work closely with product teams, business partners, validation, quality, data scientists, and vendors\n Drive system enhancements, bug fixes, and continuous improvements across the platform landscape\n Develop and implement business process improvements to increase efficiency and effectiveness\n Effectively operate within large, diverse, and globally dispersed teams in a matrixed organization\n Leverage AI and automation to streamline testing, support workflows, and operational processes\n \n Basic Qualifications\n Bachelor s OR Master’s degree with 8–12 years of experience in Software Engineering, Data Science, or Machine Learning Engineering\n \n Functional Skills\n \n Must-Have Skills\n Strong experience with enterprise application testing in GxP-regulated environments \n Hands-on experience with CSV/CSA validation methodologies and documentation \n Software engineering best practices: Git, CI/CD (Jenkins, Maven), automated testing\n Experience supporting enterprise platforms with issue ticketing and customer-facing support models \n Proven experience in Application Support & Maintenance (AMS) for regulated systems\n Experience with cloud platforms (AWS, Azure, GCP)\n Incident response experience, including P1/P2 production incidents \n Experience with ServiceNow, ITIL processes, and change management workflows \n Ability to translate vendor capabilities and constraints into business-aligned solutions\n Scripting and automation for server and operational task automation\n Familiarity with AI tools (ChatGPT, Copilot, etc.) to improve productivity and workflows\n \n Good-to-Have Skills\n Strong customer focus with the ability to partner closely with business stakeholders\n Experience supporting 200 servers or large-scale enterprise platforms\n Experience with Smartsheets, Excel, Tableau, Spotfire\n Ability to work independently with strong analytical and written communication skills\n \n \n Professional Certifications\n SAFe for Teams certification (preferred)\n \n Soft Skills\n Strong leadership, transformation, and change management capabilities\n Ability to work effectively with global, virtual teams\n Excellent analytical, troubleshooting, and decision-making skills\n Ability to manage multiple priorities in a fast-paced, regulated environment\n Strong presentation, communication, and stakeholder engagement skills\n High degree of initiative, accountability, and self-motivation\n \n \n \n \n.",
       "skills": [
-        "compliance"
+        "FDA",
+        "EMA",
+        "GxP",
+        "compliance",
+        "documentation",
+        "Excel"
       ],
-      "experience": "5+ yrs",
+      "experience": "8–12 yrs",
       "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
       "score": 66,
       "tier": "below",
       "reasons": [
-        "title match",
+        "partial title match",
+        "domain fit",
         "India"
       ],
-      "isNew": false,
-      "firstSeen": "2026-09-07T07:40:23.686Z"
+      "isNew": true,
+      "firstSeen": "2026-09-09T06:37:56.754Z"
     },
     {
       "source": "Workday",
@@ -5750,38 +5687,8 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
-      "firstSeen": "2026-09-08T07:34:15.348Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Data Governance Practitioner",
-      "location": "Bengaluru",
-      "postedText": "Posted 26 Days Ago",
-      "externalPath": "/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689824-S2064202-1",
-      "reqId": "ATCI-5689824-S2064202",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689824-S2064202-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Governance-Practitioner_ATCI-5689824-S2064202-1",
-      "description": "Project Role : Data Governance Practitioner Project Role Description : Establish and enforce data governance policies to ensure the accuracy, integrity, and security of organizational data. Collaborate with key stakeholders to define data standards, facilitate effective data collection, storage, access, and usage; and drive data stewardship initiatives for comprehensive and effective data governance. Must have skills : Microsoft Dynamics 365 Operations Functional Good to have skills : NA Minimum 5 year(s) of experience is required Educational Qualification : 15 years full time education Summary: Responsibilities – D365 FO - - - - - - - - Define, design and lead the architecture needed to enable data management capabilities. Execute the design and implement processes, tools and architecture. Define and design import sequence schedules and data projects. Automate export and import of defined data projects between environments with defined data import/export sequence schedules. Troubleshoot issues within the data management area. Act as a leader to support data management questions with other teams. Manual execution of import and export, to and from D365FO when it is needed. Lead the definition and execution of data strategies for D365 Commerce, including retail stores, point-of-sale (POS) systems, and call centers. Oversee the migration of critical commerce data entities such as products, assortments, pricing, discounts, promotions, customer master data (retail-specific attributes), loyalty programs, POS profile, receipt profiles and store configurations. Design and implement data quality standards and validation rules specifically for retail data within D365 Commerce. Manage data synchronization and integration efforts between D365 Commerce and other external commerce-related systems (e.g., payment gateways). Develop and optimize data import/export routines using D365 Commerce Data Exchange (CDX) and other relevant tools to ensure seamless data flow between head office and retail stores/online channels. Work closely with retail operations and product teams to identify data needs, resolve data discrepancies, and ensure data readiness for go-live and ongoing operations. Implement robust data governance and security measures for sensitive commerce data. Provide expertise in troubleshooting data-related issues specific to D365 Commerce functionalities As a Data Governance Practitioner, a typical day involves establishing and enforcing data governance policies that uphold the accuracy, integrity, and security of organizational data. The role requires close collaboration with various stakeholders to define and maintain data standards. Throughout the day, the practitioner facilitates effective processes for data collection, storage, access, and usage. Additionally, they lead initiatives that promote data stewardship, ensuring comprehensive and consistent governance practices across the organization. This position demands a proactive approach to managing data assets and fostering a culture of accountability and quality in data management. Roles & Responsibilities: - Expected to be an SME, collaborate and manage the team to perform. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Provide solutions to problems for their immediate team and across multiple teams. - Lead efforts to develop and implement data governance frameworks that align with organizational goals. - Facilitate communication and coordination among cross-functional teams to ensure adherence to data policies. - Mentor and support junior team members to enhance their understanding and execution of data governance practices. Professional & Technical Skills: - Must To Have Skills: Proficiency in Microsoft Dynamics 365 Operations Functional. - Strong knowledge of data governance principles and best practices. - Experience in defining and implementing data standards and policies. - Ability to collaborate effectively with diverse teams and stakeholders. - Skilled in managing data stewardship initiatives and promoting data quality. - Competence in analyzing data processes to identify risks and recommend improvements. Additional Information: - The candidate should have minimum 5 years of experience in Microsoft Dynamics 365 Operations Functional. - This position is based at our Bengaluru office. - A 15 years full time education is required. \n \n \n15 years full time education \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [],
-      "experience": "5+ yrs",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 64,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "India"
-      ],
       "isNew": false,
-      "firstSeen": "2026-09-07T07:40:23.687Z"
+      "firstSeen": "2026-09-08T07:34:15.348Z"
     },
     {
       "source": "Workday",
@@ -5854,6 +5761,42 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-06T06:31:28.548Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Dow",
+      "domain": "chemical",
+      "title": "WWI Developer - SAP ECC Label Management - IT Analyst",
+      "location": "Navi Mumbai (IND)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Navi-Mumbai-IND/Sr-IT-Analyst---SAP-ECC-Global-Label-Management---Auto-ID_R2065892",
+      "reqId": "R2065892",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Sr-IT-Analyst---SAP-ECC-Global-Label-Management---Auto-ID_R2065892",
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Sr-IT-Analyst---SAP-ECC-Global-Label-Management---Auto-ID_R2065892",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role \n \n As a Information Technology Analyst within DOW, you are expected to be a professional expertise is Industrial Labels, Prints, Auto-ID, and Digital Print technologies and be able to identify systems used in industrial and commercial applications to help in the successful delivery of implementation or to support Dow’s projects.\n As part of these high-performing projects, you will be challenged with designing, developing, and supporting digital solutions to achieve customer satisfaction at the speed of business. You will work to apply your knowledge to assist senior team members on a diverse range of innovative, high-value projects with the opportunity to grow your career.   Responsibilities \n Execute the technical deliverables (e.g., logical system design, detailed security design) on industrial labeling and Auto-ID solutions for the projects installing or upgrading applications.\n Work with Senior Solution Manager and Solution Manager and cross functional teams in the project planning process.\n Provide guidance and coaching for junior members on the team.\n Provide expert level support to the teams that provide run-the-business support for Integrated Supply Chain team.\n Participate in timely implementations of strategic solutions.\n Drive skill and knowledge transfer within the team.\n Responsibility for delivering solutions in an independent manner.\n Ability to lead overall project phases.\n Provide on-call coverage and provide subject matter expertise that may be required 24x7 by the run-the-business teams.\n Limited off hours work to support upgrades and implementations as needed.\n \n Qualifications \n A minimum of 3-7 years of relevant experience.\n Degree in Bachelor s discipline in Computer Science, Computer Information Systems, or related field. \n \n Your Skills \n Knowledge and experience with Integrated Supply Chain processes and technologies.\n Familiarity with SAP ECC and logistics module. \n Experience in SAP EHS Product Safety such as Dangerous Goods, Global Label Management (GLM), or Safety Data Sheets.\n Familiarity with Windows Wordprocessor Integration (WWI) - SAP’s tool for EHS document creation.\n General knowledge of product labeling and barcoding.\n Awareness of printing technologies such as thermal transfer printers and laser printers.\n Awareness of logistics labelling requirements such as VDA4994 (GTL), Galia, AIAG.\n Auto-ID (Automatic Identification) Systems:\n Understanding of Auto-ID technologies like barcode, QR codes, RFID (Radio Frequency Identification).\n Awareness of best practices for data security in Auto-ID and RFID systems. \n \n Additional notes \n Relocation assistance is not available with this position.​ \n Ability to build and foster relationships to drive integration and cross-team decisions.\n Strong analytical and problem-solving skills.\n Ability to manage multiple initiatives and prioritize and manage workload.\n Ability to lead and resolve complex problem situations and technical issues.\n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
+      "skills": [
+        "REACH",
+        "labeling",
+        "labelling",
+        "SAP"
+      ],
+      "experience": "3–7 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 64,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-09T06:37:56.665Z"
     },
     {
       "source": "Workday",
@@ -6580,42 +6523,6 @@
       "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
-      "title": "IMS Specialist I - Payments Analyst for Clin Trials (Sponsor dedicated) with English advanced - Hybrid, twice a week in Nuñez, Buenos Aires",
-      "location": "ARG-Remote",
-      "postedText": "Posted 15 Days Ago",
-      "externalPath": "/job/ARG-Remote/IMS-Specialist-I---Payments-Analyst-for-Clin-Trials--Sponsor-dedicated--with-English-advanced---Hybrid--twice-a-week-in-Nuez--Buenos-Aires_25110903-1",
-      "reqId": "25110903",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/ARG-Remote/IMS-Specialist-I---Payments-Analyst-for-Clin-Trials--Sponsor-dedicated--with-English-advanced---Hybrid--twice-a-week-in-Nuez--Buenos-Aires_25110903-1",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/ARG-Remote/IMS-Specialist-I---Payments-Analyst-for-Clin-Trials--Sponsor-dedicated--with-English-advanced---Hybrid--twice-a-week-in-Nuez--Buenos-Aires_25110903-1",
-      "description": "IMS Specialist I - Payments Analyst for Clin Trials (Sponsor dedicated) with English advanced - Hybrid, twice a week in Nuñez, Buenos Aires \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.   Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.   Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n The Investigator Management Solutions Specialist I administers payments to Investigators & Institutions participating in clinical trials in accordance with sponsor and Organization’s requirements. Works with internal teams to ensure appropriate funding prior to administering payments, keeps internal and external team members aware of site payment status and issues.\n \n Core Responsibilities \n \n Processes investigator payments by:\n • Managing the investigator payment portion in various CTMS Tools like IMPACT, Medidata, and Clinpay etc. • Reviewing data with project manager for quality and completeness • Processing and creating approved grant payment requests via the CTMS Tools and forwarding or interfacing with A/P; and • Distributing investigator payments to respective sites • Facilitates site payments with internal groups such as clinical operations, project management, accounts payable, accounts receivable, and site contracts teams. Coordinates with regional colleagues to ensure holistic global view of project payment/funding status. • Collaborates with accounts receivable and project management to ensure advance funding is received from sponsors on a timely basis for global project needs and deposits are available before site payments are processed.• Creates, maintains, and reconciles MS Excel Project Grant Tracker as necessary. • Reviews and interrogates Clinical Trial Agreements (CTAs) and CTA amendments to ensure payments are made according to the documented payment terms and schedule. Discrepancies should be escalated to their line manager or the appropriate project team member as needed. • Prompts project teams through grants payment process and system navigation, as needed. • Research, compiles, and creates necessary information as required in support of sponsor invoicing. • Identifies and works with clinical team to follow up on invoice discrepancies, past due invoices and to request refunds from sites. • Ensures proper account and project coding are applied to third party invoices as it relates to investigator payments. • Creates project reports as requested from sponsors, operations, accounting and/or upper management to support Sunshine Act reporting & various other statutory reports, monthly close process and ad hoc financial analysis. • Assists Investigator Payments Manager with Audits of site payments and sponsor deposits. • Minimal travel may be required (up to 25%). • Workswith sponsor systems and applications as required by the project.\n \n Qualifications \n • BA/BS degree in Business, Accounting, Finance, plus some financial experience; or equivalent combination of education and experience. • Strong proficiency in using Excel for spreadsheet analysis. Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint), email, and voicemail. • Oracle experience preferred but not mandatory. • Foreign language proficiency preferred. • Ability to organize and prioritize work to meet deadlines in a dynamic environment. • Above average attention to detail, and interpersonal skills with a team-oriented approach.\n \n Get to know Syneos Health \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n \n http://www.syneoshealth.com \n \n Additional Information \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description.  The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms.  Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
-      "skills": [
-        "FDA",
-        "EMA",
-        "compliance",
-        "Excel"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 61,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "remote"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-08-25T02:49:03.299Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
       "title": "Project Financial Analyst II",
       "location": "GBR-Remote",
       "postedText": "Posted 30+ Days Ago",
@@ -6683,40 +6590,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-08-06T04:52:17.525Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "S&C GN - Data&AI - Life Sciences - Analyst",
-      "location": "Bengaluru, BDC7C",
-      "postedText": "Posted 21 Days Ago",
-      "externalPath": "/job/Bengaluru-BDC7C/S-C-GN---Data-AI---Life-Sciences---Consultant_R00272741",
-      "reqId": "R00272741",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC7C/S-C-GN---Data-AI---Life-Sciences---Consultant_R00272741",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC7C/S-C-GN---Data-AI---Life-Sciences---Consultant_R00272741",
-      "description": "Management Level: Ind&Func AI Decision Science Consultant \n Job Location: Bangalore / Gurgaon  \n \n Must-have Skills: Excellent understanding of Pharma data sets – commercial, clinical, Leverage one’s hands on experience of working across one or more of these areas such as real-world evidence data, Statistical Models/Machine Learning including Segmentation & predictive modeling, hypothesis testing, multivariate statistical analysis, time series techniques, and optimization .\n \n  Good-to-have Skills: Programming languages such as R, Python, SQL, Spark, AWS, Azure, or Google Cloud for deploying and scaling language models, Data Visualization tools like Tableau, Power BI .\n  \n Job Summary \n This role involves driving strategic initiatives, managing business transformations, and leveraging industry expertise to create value-driven solutions. Provide strategic advisory services, conduct market research, and develop data-driven recommendations to enhance business performance.\n \n Key Responsibilities \n An opportunity to work on high-visibility projects with top Pharma clients around the globe. \n Personalized training modules to develop your strategy & consulting acumen to grow your skills, industry knowledge, and capabilities. \n Provide Subject matter expertise in various sub-segments of the LS industry. \n Support delivery of small to medium-sized teams to deliver consulting projects for global clients. \n Responsibilities may include strategy, implementation, process design, and change management for specific modules. \n Work with the team or as an Individual contributor on the project assigned which includes a variety of skills to be utilized from Data Engineering to Data Science\n Develop assets and methodologies, point-of-view, research, or white papers for use by the team and the larger community. \n Acquire new skills that have utility across industry groups.\n Support strategies and operating models focused on some business units and assess likely competitive responses. Also, assess implementation readiness and points of greatest impact.\n \n \n Additional Information \n Proficient in Excel, MS Word, PowerPoint, etc.\n Ability to solve complex business problems and deliver client delight.\n Strong writing skills to build points of view on current industry trends.\n Good communication, interpersonal, and presentation skills\n \n About Our Company | Accenture (do not remove the hyperlink)\n \n \n \n \n Experience: Proven experience (4 years) in working on Life Sciences/Pharma/Healthcare projects and delivering successful outcomes. \n \n Educational Qualification: Bachelor’s or Master’s degree in Statistics, Data Science, Applied Mathematics, Business Analytics, Computer Science, Information Systems, or other Quantitative field. \n \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "IND",
-        "Excel"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 60,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-07T07:40:23.684Z"
     },
     {
       "source": "Workday",
@@ -7034,39 +6907,6 @@
     },
     {
       "source": "Workday",
-      "company": "Amgen",
-      "domain": "pharma",
-      "title": "Data Scientist - Data Modeling/analytics",
-      "location": "India - Hyderabad",
-      "postedText": "Posted 13 Days Ago",
-      "externalPath": "/job/India---Hyderabad/Sr-Associate-Data-Analytics_R-240017",
-      "reqId": "R-240017",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Sr-Associate-Data-Analytics_R-240017",
-      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Sr-Associate-Data-Analytics_R-240017",
-      "description": "Career Category \nInformation Systems \n Job Description \n Job Description \n ABOUT AMGEN  \n Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today. \n ABOUT THE ROLE  \n Role Description:  \n As the Senior Associate Data Scientist at Amgen, you will be responsible for developing and deploying advanced machine learning models. This role will support the development of statistical, Bayesian, causal, and machine learning models that enhance forecasting capabilities and quantify uncertainty to guide decision-making across the company. The position is well suited to a curious and collaborative problem solver who is excited about applying forecasting methods, complex datasets, and modern analytical tools to build decision-support solutions that inform planning and business decision-making.\n Roles & Responsibilities:   \n Analyze large, complex datasets using statistical modeling, forecasting, and analytics techniques to generate insights that support business decision-making.\n Support the development of simulation and scenario-analysis capabilities to better understand the data\n Contribute across the modeling lifecycle, including business problem framing, exploratory data analysis, feature engineering, model development, validation, deployment support, monitoring, and explainability.\n Collaborate with senior team members to evaluate and apply new tools and methodologies in forecasting, data science, and AI to business problems.\n Communicate analytical findings and model results clearly to technical and non-technical stakeholders.\n Ensure models are trained with the latest data and meet the SLA expectations \n Work with a global cross functional team on the AI tool’s road map\n Work in technical teams in development, deployment, and application of applied analytics, predictive analytics, and prescriptive analytics.\n Utilize technical skills such as hypothesis testing, machine learning and retrieval processes to apply statistical and data mining techniques to identify trends, create figures, and analyze other relevant information.\n Perform exploratory and targeted data analyses using descriptive statistics and other methods.\n Model/analytics experiment and development pipeline leveraging MLOps.\n Collaborate with technical teams to translate the business needs into technical specifications, particularly focusing on AI-driven automation and insights.\n Develop and integrate custom applications, intelligent dashboards, and automated workflows that incorporate AI capabilities to enhance decision-making and efficiency.\n Basic Qualifications:  \n Master’s OR Bachelor’s degree in computer science, statistics or STEM majors with a minimum of 4 years and maximum of 7 years of Information Systems experience. \n Must-Have Skills\n Strong Python and SQL skills for data analysis, statistical modeling, and automation.\n Hands-on experience with machine learning, predictive analytics, and forecasting models.\n Solid knowledge of statistics, including hypothesis testing, descriptive statistics, and experimental analysis.\n Experience across the end-to-end model lifecycle: data exploration, feature engineering, model development, validation, deployment, monitoring, and explainability.\n Ability to work with large and complex datasets using data-mining and analytical techniques.\n Familiarity with MLOps practices, including model pipelines, versioning, deployment support, retraining, and performance monitoring.\n Experience building simulation or scenario-analysis models.\n Ability to translate business problems into technical requirements and analytical solutions.\n Experience developing AI-enabled dashboards, automated workflows, or data applications.\n Strong stakeholder communication skills—able to explain insights and model outcomes to both technical and business audiences.\n Experience working in cross-functional, global technical teams.\n \n Good-to-Have Skills:  \n Experience in MLOps practices and tools (e.g., MLflow, Kubeflow, Airflow); Experience in DevOps tools (e.g., Docker, Kubernetes, CI/CD) \n Proficiency in Python and relevant ML libraries (e.g., TensorFlow, PyTorch, Scikit-learn) \n Outstanding analytical and problem-solving skills; Ability to learn quickly; Excellent communication and interpersonal skills \n Experience with data engineering and pipeline development \n Knowledge of NLP techniques for text analysis and sentiment analysis \n Experience in analyzing time-series data for forecasting and trend analysis \n Experience with AWS, Azure, or Google Cloud \n Experience with Databricks platform for data analytics and MLOps \n Professional Certifications :  \n Any AWS Developer certification (preferred) \n Any Python and ML certification (preferred) \n Soft Skills:  \n Initiative to explore alternate technology and approaches to solving problems. \n Skilled in breaking down problems, documenting problem statements, and estimating efforts. \n Excellent analytical and troubleshooting skills. \n Strong verbal and written communication skills \n Ability to work effectively with global, virtual teams \n High degree of initiative and self-motivation. \n Ability to manage multiple priorities successfully.  \n Team-oriented, with a focus on achieving team goals \n \n EQUAL OPPORTUNITY STATEMENT  \n Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status. \n We will ensure that individuals with disabilities are provided with reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation. \n \n \n \n.",
-      "skills": [
-        "data analysis"
-      ],
-      "experience": "4+ yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 58,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-08T06:31:52.094Z"
-    },
-    {
-      "source": "Workday",
       "company": "Ashland",
       "domain": "specialty chemical",
       "title": "Analyst - Global Customer Request Team LS-I",
@@ -7200,36 +7040,34 @@
     },
     {
       "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Compliance & Ethics Counsel Manager",
-      "location": "Bengaluru",
-      "postedText": "Posted 21 Days Ago",
-      "externalPath": "/job/Bengaluru/Compliance---Ethics-Counsel-Manager_R00348738",
-      "reqId": "R00348738",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Compliance---Ethics-Counsel-Manager_R00348738",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Compliance---Ethics-Counsel-Manager_R00348738",
-      "description": "This role underpins the firm’s strategies in Greece in response to the rapidly evolving compliance environment. You will work in close alignment with our colleagues across Legal, and reports to Greece Legal Lead.\n It is a role that will be filled by an experienced professional able to demonstrate expertise and experience in the areas of corporate law, corporate governance and compliance.\n The successful candidate is expected to demonstrate leadership behaviours, which include adhering to Accenture’s Core Values. The successful candidate is also expected to promote and practise all aspects of Accenture’s Leadership DNA.\n The successful candidate will be a graduate in law in Greece with strong background in compliance matters, namely data privacy, competition, anti-corruption, , anti-money laundering (AML), AI and environmental, social, and governance (ESG) regulations. This role will support business and corporate functions in a wide array of legal matters, and will involve providing legal advice, ensuring regulatory compliance, and developing and implementing compliance programs.\n Key Responsibilities: \n Provide expert legal advice on a wide array of compliance matters, namely data privacy, anti-corruption, competition, AML, and ESG matters.\n Review of leasing agreements.\n First level of support for litigation issues and employment law issues.\n Responsible for all legal corporate matters (eg shareholders meetings, BoD resolutions etc)\n Develop, implement, and maintain compliance programs and policies.\n Monitor and interpret relevant laws, regulations, and industry standards, in particular in the digital market or in regulated sectors.\n Conduct risk assessments and compliance audits.\n Support Legal contracting in assessing requirements in RFPs, preparing legal documents necessary for participation.\n \n Collaborate with internal teams to promote a culture of compliance in line with Accenture Code of Business Ethics.\n Collaborate with global and local teams in conducting internal investigations in cases of policy violations, and collaborate with other functions in liaising with regulatory authorities and external stakeholders.\n \n \n \n Legal Degree of Greek University .\n Admission to the Athens bar.\n Minimum of 8 years of experience in-house or in private practice, having gained experience in a multi-national corporate or law firm setting specialized in compliance and corporate legal matters.\n Familiarity with international compliance standards and ability to work in an international environment\n Strong knowledge of relevant laws and regulations.\n Excellent analytical and communication skills.\n Ability to work independently and as part of a team.\n High ethical standards and integrity.\n Strong attention to detail and organizational skills\n Proficiency in English both in speaking and writing.\n What’s in it for you? \n All of our Legal professionals receive comprehensive training covering business acumen, technical and professional skills development. We offer a variety of formal and informal training programs at every level to help you acquire and build specialised skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with others. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.\n \n \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "8+ yrs",
+      "company": "IQVIA",
+      "domain": "pharma / CRO",
+      "title": "India- Software Devl Analyst 2",
+      "location": "Kolkata, West Bengal, India",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Kolkata-West-Bengal-India/India--Software-Devl-Analyst-2_R1564583",
+      "reqId": "R1564583",
+      "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kolkata-West-Bengal-India/India--Software-Devl-Analyst-2_R1564583",
+      "applyUrl": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kolkata-West-Bengal-India/India--Software-Devl-Analyst-2_R1564583",
+      "description": "database processing problems considering computer equipment capacity and limitations, operating time and form of desired results.\n Essential Functions • Designs or modifies database designs to solve database processing problems considering computer equipment capacity and limitations, operating time and form of desired results. • Performs database analysis and database design tasks ofdatabases in the production environment. • Ensures that databases meet required operational standards and performance levels (as measured by reliability, response time, query execution time, etc.). • Participates in database consultations and database design reviews. • Develops and implements backup and recovery strategies. • Activities include: denormalization, developing data archival schemes, sizing, creation of data definition language and database objects, referential integrity and security enforcement and application optimization. • Performs the administration, monitoring, tuning and support of databases in the production environment.\n Qualifications • Bachelor s Degree Computer Science, a related field, or equivalent experience  Req • Two (2) years of information technology experience Req • One (1) year experience in the database administration area Req • Ability to proactively identify complex problems and needs and develop solutions/recommendations to solve problems.\n \n IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com \n \n IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+      "skills": [],
+      "experience": "—",
       "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
-      "score": 54,
-      "tier": "goal",
+      "score": 56,
+      "tier": "below",
       "reasons": [
         "partial title match",
-        "India",
-        "≥15 LPA"
+        "domain fit",
+        "India"
       ],
-      "isNew": false,
-      "firstSeen": "2026-09-07T07:40:23.677Z"
+      "isNew": true,
+      "firstSeen": "2026-09-09T06:37:56.728Z"
     },
     {
       "source": "Workday",
