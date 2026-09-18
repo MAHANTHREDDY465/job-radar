@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T08:07:31.183Z",
+  "generatedAt": "2026-09-18T06:34:15.536Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 222,
-    "goal": 125,
+    "total": 217,
+    "goal": 121,
     "target": 0,
-    "below": 97,
+    "below": 96,
     "overseas": 0,
-    "new": 3,
+    "new": 9,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -470,47 +470,6 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
-      "title": "Regulatory Affairs Consultant - FSP (CMC)",
-      "location": "Australia-North Ryde-Remote",
-      "postedText": "Posted 16 Days Ago",
-      "externalPath": "/job/Australia-North-Ryde-Remote/Regulatory-Affairs-Consultant---FSP--CMC-_R0000045388",
-      "reqId": "R0000045388",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Australia-North-Ryde-Remote/Regulatory-Affairs-Consultant---FSP--CMC-_R0000045388",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Australia-North-Ryde-Remote/Regulatory-Affairs-Consultant---FSP--CMC-_R0000045388",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n This role requires 3 days a week at the client office in Melbourne.\n \n Key Responsibilities:\n Strategic Leadership:\n Provide strategic direction and oversight for CMC aspects of late-stage and marketed products\n Deliver strategic input on critical cross-project topics, ensuring alignment with overall business objectives\n Develop comprehensive CMC strategies to support product development, registration, and lifecycle management\n \n Regulatory Strategy and Submissions:\n Develop and oversee CMC strategies for complex regulatory submissions, including: Investigational New Drug (IND) applications\n Investigational Medicinal Product Dossiers (IMPDs)\n Biologics License Applications (BLAs)\n Marketing Authorization Applications (MAAs)\n Post-approval variations/supplements\n Responses to health authority questions\n \n Author and review high-level regulatory submissions\n Ensure all submissions conform to relevant health authority guidelines and regulations\n Lead submission preparation meetings and coordinate cross-functional input\n \n Health Authority Interactions:\n Lead regulatory CMC discussions and interactions with Health Authorities\n Represent the company in high-level meetings with regulatory agencies\n Develop strategies for addressing complex regulatory questions and issues\n Build and maintain positive relationships with key regulatory stakeholders\n \n Regulatory Assessment and Change Management:\n Oversee regulatory assessments of manufacturing changes\n Establish data requirements and strategies for regulatory submissions related to manufacturing changes\n Provide expert guidance on CMC-related regulatory implications of proposed changes\n \n Project Management and Leadership:\n Represent Regulatory CMC at high-level project team meetings and governance committees\n Lead critical submission preparation meetings and regulatory strategy discussions\n Address complex reviewer comments and manage sensitive regulatory correspondence\n Provide regular updates to senior management on project status, risks, and key milestones\n Mentor and develop team members in Regulatory CMC practices and strategic thinking\n \n Cross-functional Collaboration:\n Work closely with senior leaders across various departments, including R&D, Manufacturing, Quality Assurance, and Clinical Development\n Facilitate effective communication between internal teams, external partners, and regulatory authorities\n Provide expert CMC regulatory guidance to support critical business decisions and product lifecycle management\n \n Regulatory Intelligence and Innovation:\n Stay at the forefront of evolving CMC regulations, guidelines, and industry best practices\n Drive the development and implementation of innovative CMC regulatory strategies\n Participate in and potentially lead relevant industry groups and regulatory authority initiatives\n \n Qualifications:\n Advanced degree in Pharmaceutical Sciences, Chemistry, Chemical Engineering, or a related field (Ph.D. preferred)\n Minimum of 15 years of experience in Regulatory Affairs, with a strong focus on CMC for late-stage and marketed products\n Extensive knowledge of global CMC regulatory requirements, submission processes, and health authority expectations\n Proven track record of successful regulatory submissions and positive health authority interactions\n Deep understanding of pharmaceutical development, manufacturing processes, and quality systems\n Experience with both small molecules and biologics is highly desirable\n Excellent project management skills with the ability to oversee multiple complex projects simultaneously\n Strong analytical and problem-solving skills\n Outstanding written and verbal communication skills\n Demonstrated ability to influence and lead at senior levels within an organization\n \n Desired Qualities:\n Visionary leader with the ability to anticipate and navigate complex regulatory challenges\n Strategic thinker with a talent for innovative problem-solving and risk management\n Strong leadership skills with the ability to influence cross-functional teams and senior management\n Proactive and self-motivated with a commitment to regulatory excellence\n Adaptable to changing priorities and evolving regulatory landscapes\n Excellent interpersonal skills with the ability to build strong relationships with internal and external stakeholders\n Detail-oriented with a focus on quality and accuracy, while maintaining a big-picture perspective\n Ability to thrive in a fast-paced environment and manage competing priorities",
-      "skills": [
-        "IND",
-        "CMC",
-        "regulatory intelligence",
-        "variations",
-        "health authority",
-        "lifecycle management",
-        "quality assurance",
-        "regulatory affairs"
-      ],
-      "experience": "15+ yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 97,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "remote",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-13T06:46:16.875Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
       "title": "Regulatory Affairs Consultant – Germany & Austria (Munich on-site)",
       "location": "Germany-Berlin-Remote",
       "postedText": "Posted 2 Days Ago",
@@ -832,6 +791,47 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-13T06:46:16.859Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Accenture",
+      "domain": "consulting / MDM / analytics",
+      "title": "LifeScience Regulatory Svs Manager",
+      "location": "Bengaluru, BDC9A",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Bengaluru-BDC9A/LifeScience-Regulatory-Svs-Manager_AIOC-S01660221-1",
+      "reqId": "AIOC-S01660221",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/LifeScience-Regulatory-Svs-Manager_AIOC-S01660221-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/LifeScience-Regulatory-Svs-Manager_AIOC-S01660221-1",
+      "description": "Skill required: Regulatory Services - Life Sciences Regulatory Affairs Designation: LifeScience Regulatory Svs Manager Qualifications: MSc Years of Experience: 13 to 18 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? You will be aligned with our Life Sciences R&D vertical. Our services span across the entire life sciences enterprise, from research laboratories, clinical trials support, and regulatory services, to pharmacovigilance and patient services solutions. Employees under this span will be a part of one of the sub-offerings - Clinical, Pharmacovigilance & Regulatory, helping the worldâ€™s leading biopharma companies bring their vision to life â€“ enabling them to improve outcomes by converging around the patient, connecting scientific expertise with unique insights into the patient experience.\nRegulatory Services involves helping organizations comply with laws and regulations. This role includes providing guidance on regulatory requirements, preparing necessary documentation, and submitting reports to regulatory authorities. It also involves staying updated on regulatory changes and conducting compliance audits. The goal is to ensure the organization meets all legal and regulatory obligations efficiently.\nCollect, collate and evaluate the scientific data gathered as part of R & D. Advise on legal and scientific restraints and requirements. Ensure the organization`s products comply with current regulations. Example; Build regulatory submission strategy, author CMC documents, and health authority packages etc. What are we looking for? •Adaptable and flexible\n•Ability to perform under pressure\n•Problem-solving skills\n•Detail orientation\n•Ability to establish strong client relationship Roles and Responsibilities: Gather, review, analyze, and evaluate pertinent data to prepare, develop, and finalize clinical documents for submission to regulatory authorities, including but not limited to: clinical study reports (CSRs), patient narratives, protocols, investigator’s brochures, CTD Modules, DSURs, PBRERs, PADERs, etc. The tasks, to a large extent, will have to be performed independently. \n \n \nMSc \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "skills": [
+        "CTD",
+        "CMC",
+        "pharmacovigilance",
+        "regulatory submission",
+        "health authority",
+        "compliance",
+        "documentation",
+        "regulatory affairs"
+      ],
+      "experience": "13–18 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 95,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.494Z"
     },
     {
       "source": "Workday",
@@ -1352,49 +1352,8 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
-      "firstSeen": "2026-09-17T08:07:31.108Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Amgen",
-      "domain": "pharma",
-      "title": "Senior Associate - United States Regulatory Professional – Obesity and Related Conditions",
-      "location": "United States - Remote",
-      "postedText": "Posted 17 Days Ago",
-      "externalPath": "/job/United-States---Remote/Senior-Associate---United-States-Regulatory-Professional---Obesity-and-Related-Conditions_R-253729",
-      "reqId": "R-253729",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Senior-Associate---United-States-Regulatory-Professional---Obesity-and-Related-Conditions_R-253729",
-      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Senior-Associate---United-States-Regulatory-Professional---Obesity-and-Related-Conditions_R-253729",
-      "description": "Career Category \nRegulatory \n Job Description \n Join Amgen’s Mission of Serving Patients\n At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do.\n Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions of patients each year. Amgen is advancing a broad and deep pipeline of medicines to treat cancer, heart disease, inflammatory conditions, rare diseases, and obesity and obesity-related conditions. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives.\n Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career.\n Senior Associate, United States Regulatory Professional – Obesity and Related Conditions \n What you will do \n Let’s do this. Let’s change the world. Amgen is seeking a United States Regulatory Professional (USRP) supporting products in the Obesity and Related Conditions Therapeutic Area (TA). Global Regulatory Affairs (GRA) provides global regulatory leadership, expertise, and execution for the development, registration, and lifecycle management of Amgen molecules. In this product-facing role, you will support the creation and submission of regulatory documents under the supervision of a more experienced regulatory lead.\n The USRP provides operational support for U.S. regulatory execution by coordinating submission deliverables, maintaining compliant documentation, and partnering cross-functionally to enable effective health authority engagement.\n Key responsibilities \n Coordinate and execute U.S. regulatory submissions in compliance with Amgen corporate standards and FDA requirements.\n Drive submission readiness by coordinating inputs, tracking timelines, and ensuring deliverables are complete, accurate, and submitted on time.\n Maintain regulatory documentation and records, including preparation, delivery, and electronic archiving of submission content and agency communications.\n Create and maintain product regulatory history documentation (e.g., IMR, as applicable).\n Support U.S. labeling activities, including review of source text to enable U.S. labeling updates.\n Support review of promotional and non-promotional materials as applicable and in accordance with internal requirements.\n Coordinate and QC briefing documents and other materials for meetings with regulatory agencies.\n Under general supervision, support FDA interactions and act as a point of contact as appropriate to fulfill product-specific obligations.\n Support responses to health authority questions by coordinating inputs, tracking actions, and ensuring document readiness.\n Collate and communicate regulatory information across regulatory colleagues and cross-functional teams; provide timely updates on U.S.-specific considerations.\n Maintain awareness of emerging U.S. legislation, guidance, and regulatory policy; escalate and disseminate relevant updates to appropriate stakeholders.\n Participate in cross-functional and team governance (e.g., GRT support including agendas/minutes) as needed.\n What expect of you \n We are all different, yet we all use our unique contributions to serve patients. The dynamic professional we seek is a self-starter with these qualifications.\n Basic Qualifications: \n Master’s degree in biology, life science, health science, or regulatory science with a biology curriculum OR Bachelor’s degree in a science discipline (biology, life science, health science) and 2 years of directly related experience OR Associate’s degree in a science discipline (biology, life science, health science) and 6 years of directly related experience OR  High school diploma / GED in a science discipline (biology, life science, health science) and 8 years of directly related experience\n \n Preferred Qualifications: \n Experience in a regulated industry (e.g., biotech/pharma, medical device, clinical research, healthcare)\n Experience supporting programs in Obesity, Diabetes, or related metabolic diseases through scientific or clinical work\n Strong written and oral communication skills\n Strong organizational skills; ability to manage multiple activities, timelines, and stakeholders\n Demonstrated attention to detail and document quality mindset\n Ability to identify, communicate, and escalate risks/issues appropriately\n Experience with document management and archiving practices in a regulated setting\n What you can expect of us \n As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way.\n The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is posted. Actual salary will vary based on several factors including but not limited to, relevant skills, experience, and qualifications.\n In addition to the base salary, Amgen offers a Total Rewards Plan, based on eligibility, comprising of health and welfare plans for staff and eligible dependents, financial plans with opportunities to save towards retirement or other goals, work/life balance, and career development opportunities that may include:\n A comprehensive employee benefits package, including a Retirement and Savings Plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts\n A discretionary annual bonus program, or for field sales representatives, a sales-based incentive plan\n Stock-based long-term incentives\n Award-winning time-off plans\n Flexible work models where possible. Refer to the Work Location Type in the job posting to see if this applies.\n Apply now and make a lasting impact with the Amgen team.\n careers.amgen.com \n In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n Application deadline\n Amgen does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for the position.\n Sponsorship\n Sponsorship for this role is not guaranteed.\n \n As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.\n Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other basis protected by applicable law.\n We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.\n \n #obesity\n \n \n \n. Salary Range \n83,974.90USD -113,613.10 USD",
-      "skills": [
-        "REACH",
-        "FDA",
-        "labeling",
-        "health authority",
-        "lifecycle management",
-        "compliance",
-        "documentation",
-        "regulatory affairs"
-      ],
-      "experience": "8 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 92,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "remote",
-        "≥15 LPA"
-      ],
       "isNew": false,
-      "firstSeen": "2026-09-13T06:46:16.916Z"
+      "firstSeen": "2026-09-17T08:07:31.108Z"
     },
     {
       "source": "Workday",
@@ -2407,45 +2366,8 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
-      "firstSeen": "2026-09-17T08:07:31.077Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "Tech Compliance Analyst II",
-      "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 7 Days Ago",
-      "externalPath": "/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
-      "reqId": "25106369",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
-      "description": "Tech Compliance Analyst II \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Every day we perform better because of how we work together, as one team, each the best at what we do. We bring together talented experts across a broad spectrum of business critical corporate functions. Every role plays an essential part in enabling our customers to achieve their goals. Our teams are agile, collaborative, and committed to delivering—for each other, for our customers, and ultimately for the people who rely on the services we support. Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n  \n •   Manage and/or coordinate the writing and execution of validation protocols, specifications, change controls and/or scripts related to software, instruments and/or equipment according to the organization s compliance requirements and industry regulations.\n •    Provide support for Information Technology’s project portfolio within assigned projects, ensuring that technology solutions are classified in accordance with set standards, implemented to support those standards within agreed upon timelines.\n •    Coordinate assigned project deliverables with external consultants and suppliers concerning the implementation, validation, support and maintenance to ensure these activities are completed in alignment with standard compliance principles.\n •    Serve as subject matter expert in specialized project area to support client and regulatory agency audits and inspections for Information Technology activities.\n •    Lead compliance efforts for any corrective or preventative actions plans supporting assigned Information Technology solutions.\n •    Execute harmonization of compliance activities to support mergers, acquisitions and internal expansion of the compliance program.\n •    Act as a compliance resource expert to other groups.\n •    Assist internal clients with requests and problem resolution, participate in the maintenance of documentation and make recommendations for greater effectiveness in functional area of compliance\n •    Make recommendations for continued improvement in the area of compliance for Information Technology.\n •    Perform training in the principles of computerized systems validation for internal personnel.\n •    Conduct periodic reviews of validation documentation to ensure systems continue to operate in a validated state, and perform impact assessments on planned GxP and Business Critical Change Management requests.  \n •    Perform quality reviews of validation deliverables. \n   \n Qualifications \n \n What we’re looking for \n •  4 Yrs of Experience, with  Bachelor s Degree in Computer Science or related science field or equivalent.\n •    Experience with 21 CFR Part 11 required\n •    Experience in computer systems validation/software development life cycle approaches. \n •    Experience in working in a clinical trials environment, including a comprehensive knowledge of GCP regulations guidelines\n •    Effective verbal and written communication\n \n Get to know Syneos Health \n \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.  \n http://www.syneoshealth.com \n \n Additional Information \n \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
-      "skills": [
-        "FDA",
-        "EMA",
-        "GxP",
-        "compliance",
-        "documentation"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 89,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
       "isNew": false,
-      "firstSeen": "2026-09-11T06:39:22.615Z"
+      "firstSeen": "2026-09-17T08:07:31.077Z"
     },
     {
       "source": "Workday",
@@ -2694,80 +2616,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-17T06:39:11.223Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance Senior Analyst",
-      "location": "Gurugram",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652704-1",
-      "reqId": "AIOC-S01652704",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652704-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652704-1",
-      "description": "Skill required: Control Testing - Agile testing Designation: Regulatory Compliance Senior Analyst Qualifications: B.B.M/Bachelor of Information systems and Management/Bachelor’s degree with Finance specialization Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Senior Analyst role leading operational execution of 1LoD activities with increased accountability for quality, compliance, reporting and stakeholder engagement.\nControl Testing involves evaluating the effectiveness of internal controls within an organization. This process checks whether controls are working as intended to prevent errors, fraud, and ensure compliance with regulations. The goal is to identify weaknesses and improve the reliability of financial reporting, operational & ITGC processes to ensure audit readiness.\nConduct testing tasks within Agile models and integration processes and manage development sprints. What are we looking for? Qualification: Graduate\n\"• Advanced risk assessment skills\n• Audit coordination expertise\n• Policy interpretation\n• Trend analysis and reporting\n• Financial crime/compliance knowledge\n• Stakeholder management\n• Quality assurance mindset\n• Sound verbal and written communication skills\n• Experience with IT and Automation would be added advantage\n• Strong MS Excel skills\n• Strong Presentation skills\n• Willingness to work flexible hours, as necessary, to meet monthly and quarterly deliverable deadlines and to provide extended-hour customer service support\n• A willingness to challenge status quo and drive continuous improvement through change\" Roles and Responsibilities: •\"• Lead risk event investigation and root cause analysis\n• Ability to perform audits on the makers output to identify errors, control gaps and compliance breaches. Provide feedback to analysts and Team leaders. Track quality trends and recurring issues. Support calibration sessions and quality governance. Ensure adherence to regulatory and internal standards.\n• Coordinate audit evidence validation\n• Execute conformance reviews\n• Produce trend analysis and hotspot reports\n• Support client/trustee engagement activities\n• Review and validate financial crime controls\n• Mentor junior team members\n• Data proficiency visualization and BI\n• Strong analytical & investigation skills \n• Ability to identify errors, gaps and process deviations\n• Change management \n• Responsible for updating / upgrade of training manuals and DTPs/SOPs\" \n \n \nB.B.M,Bachelor of Information systems and Management,Bachelor’s degree with Finance specialization \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance",
-        "quality assurance",
-        "Excel",
-        "audit",
-        "stakeholder management"
-      ],
-      "experience": "5–8 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 85,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T06:21:20.822Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance Senior Analyst",
-      "location": "Gurugram",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652716-1",
-      "reqId": "AIOC-S01652716",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652716-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Analyst_AIOC-S01652716-1",
-      "description": "Skill required: Control Testing - Agile testing Designation: Regulatory Compliance Senior Analyst Qualifications: B.B.M/Bachelor of Information systems and Management/Bachelor’s degree with Finance specialization Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Senior Analyst role leading operational execution of 1LoD activities with increased accountability for quality, compliance, reporting and stakeholder engagement.\nControl Testing involves evaluating the effectiveness of internal controls within an organization. This process checks whether controls are working as intended to prevent errors, fraud, and ensure compliance with regulations. The goal is to identify weaknesses and improve the reliability of financial reporting, operational & ITGC processes to ensure audit readiness.\nConduct testing tasks within Agile models and integration processes and manage development sprints. What are we looking for? Qualification: Graduate\n\"• Advanced risk assessment skills\n• Audit coordination expertise\n• Policy interpretation\n• Trend analysis and reporting\n• Financial crime/compliance knowledge\n• Stakeholder management\n• Quality assurance mindset\n• Sound verbal and written communication skills\n• Experience with IT and Automation would be added advantage\n• Strong MS Excel skills\n• Strong Presentation skills\n• Willingness to work flexible hours, as necessary, to meet monthly and quarterly deliverable deadlines and to provide extended-hour customer service support\n• A willingness to challenge status quo and drive continuous improvement through change\" Roles and Responsibilities: •\"• Lead risk event investigation and root cause analysis\n• Ability to perform audits on the makers output to identify errors, control gaps and compliance breaches. Provide feedback to analysts and Team leaders. Track quality trends and recurring issues. Support calibration sessions and quality governance. Ensure adherence to regulatory and internal standards.\n• Coordinate audit evidence validation\n• Execute conformance reviews\n• Produce trend analysis and hotspot reports\n• Support client/trustee engagement activities\n• Review and validate financial crime controls\n• Mentor junior team members\n• Data proficiency visualization and BI\n• Strong analytical & investigation skills \n• Ability to identify errors, gaps and process deviations\n• Change management \n• Responsible for updating / upgrade of training manuals and DTPs/SOPs\" \n \n \nB.B.M,Bachelor of Information systems and Management,Bachelor’s degree with Finance specialization \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance",
-        "quality assurance",
-        "Excel",
-        "audit",
-        "stakeholder management"
-      ],
-      "experience": "5–8 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 85,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T06:21:20.822Z"
     },
     {
       "source": "Workday",
@@ -3209,6 +3057,41 @@
     },
     {
       "source": "Workday",
+      "company": "Accenture",
+      "domain": "consulting / MDM / analytics",
+      "title": "Regulatory Compliance Senior Manager",
+      "location": "Gurugram",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Gurugram/Regulatory-Compliance-Senior-Manager_AIOC-S01660670-1",
+      "reqId": "AIOC-S01660670",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Manager_AIOC-S01660670-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Senior-Manager_AIOC-S01660670-1",
+      "description": "Skill required: Control Testing - Agile testing Designation: Regulatory Compliance Senior Manager Qualifications: Any Graduation Years of Experience: 16 to 25 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\nControl Testing involves evaluating the effectiveness of internal controls within an organization. This process checks whether controls are working as intended to prevent errors, fraud, and ensure compliance with regulations. The goal is to identify weaknesses and improve the reliability of financial reporting, operational & ITGC processes to ensure audit readiness.\nConduct testing tasks within Agile models and integration processes and manage development sprints. What are we looking for? Qualification: \n- ACA or ACCA fully qualified or\n- COSO (Internal Controls Framework Expertise)\n- CIA (Certified internal auditor)\nMinimum requirements\n- 10–12 years in financial controls, SOX/internal controls frameworks, or internal audit\n- Led a controls framework build or major controls remediation programme end-to-end\n- Financial services industry experience (asset management, wealth platforms, banking, or insurance) \n- Experience designing risk registers, control taxonomies, RCMs, and minimum control standards\n- Experience with IFRS reporting environments and multi-entity group structures\n- Experience drafting finance controls policies and procedures\nDesirable:\n- Experience in a platform-as-a-service, fintech, or wealth management technology company\n- Experience establishing a controls function or team for the first time (greenfield)\n- Big 4 external audit or internal audit background\n- Experience with SOX 404 compliance programmes\n- Experience working across multiple jurisdictions\n• Controls Framework Design: deep expertise in building risk & controls frameworks (COSO, SOX, UK Corporate Governance Code)\n• Technical Accounting Knowledge: strong understanding of IFRS and financial reporting processes\n• Analytical Rigour: ability to assess control design adequacy and identify gaps across complex process areas\n• Stakeholder Engagement: ability to work effectively with Finance Controllers, FP&A, Treasury, and senior leadership\n• Team Leadership: experience managing and developing junior controls professionals\n• Written Communication: ability to produce high-quality policy documents, frameworks, and board-level papers\n• Pragmatic Problem-Solving: ability to design fit-for-purpose controls in a fast-growing, evolving organization\n• Attention to Detail: meticulous approach to control documentation and process mapping\n• Independence & Challenge: comfortable providing independent challenge to senior Finance stakeholders\n• Pace of Delivery: ability to deliver high-quality foundational artefacts within compressed timelines (4–8 weeks per workstream) Roles and Responsibilities: • Lead the design, development and implementation of the Finance Risk & Controls Framework across FNZ Group as part of the Finance Controls Improvement Plan.\n• Act as the technical anchor for the Controls Office, building the foundational artefacts that will underpin FNZ’s financial controls environment, including the risk register, control taxonomy, RCM standards, control design standards and governance framework.\n• After the build phase, transition into the BAU Senior Controls Manager role, serving as deputy to the Global Head and owning framework maintenance, independent challenge, policy governance and continuous improvement.\n• Lead delivery of the Finance Risk & Controls Framework, control design standards, governance model and accountability arrangements.\n• Design and build the Finance Risk Universe, Risk Catalogue, standard control taxonomy and Risk & Control Matrix standards.\n• Define the control ownership model and risk assessment methodology for Finance processes globally.\n• Develop minimum control standards, including preventive and detective control principles, documentation requirements and standard control templates.\n• Establish the Finance Controls Committee, escalation framework, governance calendar and issue management process.\n• Strengthen first-line accountability by defining control owner responsibilities and embedding consistent governance across Finance.\n• Act as deputy to the Global Head of Finance Controls & Governance, providing cover for strategic decisions, senior stakeholder engagement and framework-related challenge.\n• Transition to the BAU Senior Controls Manager role from January 2027, owning framework maintenance, annual policy reviews, independent challenge and ongoing validation\nKey Deliverables (not exclusive list)\n• Finance Risk and Controls Framework \no Finance Controls Policy \no Risk Register \no Risk & Control Matrix Framework \no Control Standards Library \n• Control Design & Standardisation \no Control Design Standards \no Segregation of Duties Framework \no Standard Control Catalogue \no Control Documentation Templates \n• Governance & Accountability \no Governance Framework \no Control Ownership Register \no Escalation Framework \no Control Attestation Process \n \n \nAny Graduation \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "skills": [
+        "compliance",
+        "documentation",
+        "audit"
+      ],
+      "experience": "16–25 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 81,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.496Z"
+    },
+    {
+      "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
       "title": "Software Engineer I - Scrum Master & Business Analyst",
@@ -3355,6 +3238,41 @@
     },
     {
       "source": "Workday",
+      "company": "Parexel",
+      "domain": "pharma / CRO",
+      "title": "Clinical Data Analyst I",
+      "location": "India - Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Hyderabad/Clinical-Data-Analyst-I_R0000045318",
+      "reqId": "R0000045318",
+      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Clinical-Data-Analyst-I_R0000045318",
+      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India---Hyderabad/Clinical-Data-Analyst-I_R0000045318",
+      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n The Clinical Data Analyst I (CDA I) works under guidance and supervision of their Line Manager and/or Subject Matter Experts to perform some of the clinical data cleaning activities on assigned projects, commensurate with experience and/or project role. Further responsibilities shall include support on data processing activities, Data Management documents and data cleaning matrices e.g. Data Validation specification, CRF Completion Guidelines, Protocol Deviation Specification, Mock Shell for Off-line listing, etc.\n All tasks should be performed in accordance to corporate quality standards, SOPs/Work Instructions/Guidelines, ICH-GCP and/or other international regulatory requirements.\n \n Key Accountabilities : \n \n Data Validation (cleaning) \n Responsible for/start to lead data cleaning and data review activities (Co-Primary CDA/Primary CDA), e.g. query management and manual/SAS listing reviews.\n Support/start to lead data processing activities from database setup to database lock, e.g. external vendor data reconciliation.\n \n Data Management Documents/Plans (Trial Master File) \n Perform and/or support the setup of DM documents and ensure proper documentation as per Standard Operating Procedures, ICH/GCP Guidelines. \n \n Study Start-Up Activities and User Acceptance Testing (UAT) \n Start to lead/perform user acceptance testing on clinical database setups.\n Start to review protocols and EDC Entry Screens if required.\n \n Data Tracking and Entry \n Track and review CRFs. Support data entry where required.\n \n Project Quality Management & Compliance Training \n Ensure compliance to Standard Operating Procedures, ICH/GCP Guidelines.\n Support/start to lead functional QC activities on databases and/or patient data, as per business needs.\n Maintain training compliance as per Job Roles assigned, including On-the-Job training.\n Address training needs, as per Development Goal/s identified.\n \n Skills:   \n Evidence of strong problem-solving skills and logical reasoning\n Commitment to first time quality, including a methodical, analytical and accurate approach to work activities (attention to detail)\n Time management and prioritization skills in order to meet objectives and timelines\n Evidence of ability to work collaboratively within a team environment\n Good interpersonal, oral and written communication skills\n Learning ability and knowledge sharing approach; swift understanding of technologies and new processes\n A flexible attitude with respect to work assignments and new learning; ability to adjust rapidly to changing technical environments\n Evidence of accountability relative to Key Accountabilities in Job Description\n Written and oral fluency in English\n \n Knowledge and Experience : \n Demonstrates technical aptitude with awareness/potential prior experience in Microsoft Office Products (basic computer skills).\n Basic understanding of data management processes and data validation flow (e.g. Data cleaning, DB lock)\n Basic understanding of relevant ICH-GCP Guidelines, local regulatory requirements and PAREXEL SOPs and study specific procedures\n Basic knowledge of Clinical Data Management Systems (e.g. InForm, Rave, Veeva, Datalabs, ClinBase.)\n Basic understanding of Clinical Study Team roles within Data Management\n Experience in clinical research industry\n Basic knowledge of medical terminology and coding dictionaries (e.g. MedDRA & WHODRUG)\n Basic knowledge of Data Management Operational processes and tasks during study start-up, conduct and close-out\n Basic knowledge of Database set-up activities, including but not limited to Database Configuration Specifications and setup of Data Validation\n \n Education:   \n Bachelor’s degree and/or other medical qualifications or relevant industry experience.",
+      "skills": [
+        "ICH",
+        "compliance",
+        "documentation"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 80,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.431Z"
+    },
+    {
+      "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
       "title": "Data Analyst II, Incentive Compensation",
@@ -3490,39 +3408,6 @@
     },
     {
       "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance Senior Analyst",
-      "location": "Gurugram",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Gurugram/Regulatory-Compliance-Analyst_AIOC-S01652674-1",
-      "reqId": "AIOC-S01652674",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Analyst_AIOC-S01652674-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Regulatory-Compliance-Analyst_AIOC-S01652674-1",
-      "description": "Skill required: Control Testing - Agile testing Designation: Regulatory Compliance Senior Analyst Qualifications: B.B.M,Bachelor of Information systems and Management,Bachelor’s degree with Finance specialization Years of Experience: 5- 7 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Senior Analyst role leading operational execution of 1LoD activities with increased accountability for quality, compliance, reporting and stakeholder engagement. What are we looking for? Advanced risk assessment skills Roles and Responsibilities: Lead risk event investigation and root cause analysis \n \n \nB.B.M,Bachelor of Information systems and Management,Bachelor’s degree with Finance specialization \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "5–7 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T06:21:20.821Z"
-    },
-    {
-      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Sr Associate Data Analytics & Reporting",
@@ -3559,6 +3444,46 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-13T06:46:16.920Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Senior Analyst- Skills and learning operation",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
+      "reqId": "444869",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
+      "description": "We are looking for a digitally savvy and operations-focused Learning Operations Associate to support the administration, governance, and continuous improvement of GSK’s enterprise learning ecosystem, including SuccessFactors Learning, Degreed, ServiceNow, and connected learning technologies.\n This role is critical in ensuring seamless governance, learner experiences, operational excellence, data accuracy, compliance, and scalable learning operations across global teams. The ideal candidate combines LMS expertise, analytical thinking, stakeholder management, and problem-solving skills with an ability to operate in a fast-paced digital environment.\n The incumbent is expected to demonstrate a high degree of ownership and accountability, leading end-to-end delivery of learning solutions from needs identification through deployment, adoption, and continuous improvement\n \n Key Responsibilities \n \n Learning Administration & Analytics (≈50%) \n Manage end-to-end learning administration activities across SuccessFactors Learning (including myLearning/myLesson) and Degreed/Blend LXP platforms.\n Configure and maintain LMS entities including items, curricula, assessments, instructors, user accounts, and user access, ensuring data integrity and compliance with standards.\n Execute learning assignments, removals, completions, governance transactions, and bulk learning operations (including connector files) with high accuracy and adherence to defined SLAs and quality criteria.\n Support deployment and lifecycle management of digital learning content, including multilingual course launches, external learning offerings, and Global Mandatory learning modules; provide hyper care and handle related learner queries.\n Own service tickets in ServiceNow for training administration activities, ensuring timely resolution of learner and stakeholder requests and effective management.\n Create, maintain, and enhance reports and dashboards (e.g., compliance, periodic and customized reports) via myLearning, ServiceNow, and GLMS ODS report views to provide actionable insights to business units and leadership.\n Support quality assurance, release testing, and validation activities across learning technologies, integrations, and governance transaction processes.\n Monitor automation and bot performance, identify operational risks/issues, and coordinate resolution with technical teams; record and track learning history through standardized processes\n \n Governance, Operations & Delivery Excellence (≈50%) \n Ensure compliance with defined learning standards, governance frameworks, and reporting requirements across all supported platforms and processes.\n Establish and manage structured workflows (intake, review, deployment, governance cycles) aligned to defined SLAs; ensure turnaround timelines are met and communicated effectively to stakeholders.\n Own end-to-end delivery of learning deployments and global launches, coordinating across curation, content creation, pathway build, technology, and vendor teams to ensure timely, high-quality outcomes.\n Take accountability for delivery outcomes, ensuring alignment to SLAs, quality standards, risk management requirements, and business impact; handle escalations and drive corrective and preventive actions (CAPA).\n Perform quality checks of missed VOC and SLA tickets in line with the QC framework and use findings to drive continuous improvement.\n Identify, support, and drive process optimization and automation opportunities in partnership with COE/Technology Managers and other global stakeholders.\n \n Learner Experience & Stakeholder Partnership \n Embed learner-centric design principles and design thinking methodologies to enhance usability, engagement, and effectiveness of learning journeys and pathways.\n Gather and incorporate learner and stakeholder feedback (e.g., via 5Di or equivalent frameworks) to continuously improve learning experiences and service quality.\n Optimize content structuring, tagging, and user journeys within learning platforms to make learning more discoverable and intuitive.\n Stay updated on emerging trends in digital learning, including AI in L&D, and recommend practical applications for Skills & Learning Operations.\n Provide consultations to business stakeholders for setting up learning journeys for new joiners, tool access, and other onboarding needs; partner with global stakeholders to improve processes and operational efficiency.\n \n People Leadership & Community Support \n Upskill Training Coordinator (TC) teams to enable businesses to be more self-sufficient in managing their learning operations.\n Assist the TC community with daily queries and organize / facilitate regular TC drop-in sessions to share updates, best practices, and guidance.\n \n Basic Qualifications \n Bachelor’s degree in a relevant discipline (e.g., Business, HR, Learning & Development, Information Systems, or related field) or equivalent experience.\n 5 - 8 years of experience in Learning Operations, LMS Administration, or Learning Support.\n Experience supporting enterprise learning platforms in a global environment.\n Proficiency in Microsoft Office tools.\n \n Preferred Qualifications \n SuccessFactors Learning Administration experience or certification.\n Exposure to myLearning, Degreed, or Learning Experience Platforms (LXPs).\n Experience in reporting, governance operations, or learning analytics.\n Understanding of digital learning ecosystems.\n Experience working in global, matrixed environments.\n \n Technical & Digital Skills \n Hands-on experience with LMS/LXP platforms such as SuccessFactors Learning , Degreed , or equivalent enterprise learning technologies.\n Experience working with ServiceNow or ticket-based support environments.\n Strong reporting and data management skills using Excel , LMS reporting tools, and dashboards.\n Understanding digital learning operations, governance, compliance, and learning lifecycle management.\n Familiarity with automation, system testing, and release validation processes is preferred.\n \n Core Professional Skills \n Strong analytical and problem-solving capability with attention to detail.\n Ability to manage high-volume operational activities with accuracy and speed.\n Excellent stakeholder communication and coordination skills.\n Strong prioritization and time management in a fast-paced environment.\n Ability to identify operational risks and implement practical solutions/workarounds.\n Continuous improvement mindset with focus on learner experience and operational excellence.\n #LI-GSK\n Skills \nCase Management Software, Continual Improvement Process, Data Analysis, Digital Fluency, Employee Experience, Learning Management Systems (LMS), Problem Solving, Program Delivery Management, Project Management  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "lifecycle management",
+        "compliance",
+        "quality assurance",
+        "Excel",
+        "data analysis",
+        "stakeholder management"
+      ],
+      "experience": "5–8 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.519Z"
     },
     {
       "source": "Workday",
@@ -3631,45 +3556,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-14T08:14:36.853Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Novartis",
-      "domain": "pharma",
-      "title": "Senior Manager - CE compliance & Field Inquiries",
-      "location": "Hyderabad (Office)",
-      "postedText": "Posted 9 Days Ago",
-      "externalPath": "/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
-      "reqId": "REQ-10087243",
-      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
-      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
-      "description": "Job Description Summary \n-Explore, develop, implement and evaluate Digital innovation solutions that address customer needs. Co-create with key stakeholders to build partnerships and collaborations. -Leads the delivery of multiple projects across a variety of creative and marketing channels, including print and digital media. Develop and coordinate project plans across the design, development and production stages of a project to support the successful delivery within set KPI's. -Works in collaboration with brand teams, technical teams and all functions to maximize value. -Provides consultancy, advice and assistance on strategy for commercialization of products, and influence marketing/Marketing Sales Operation team through delivery of proven analytics based projects. -Provide analytics support to Novartis internal customers  \n Job Description \n Senior Manager - CE compliance & Field Inquiries \n Location – Hyderabad #LI Hybrid  \n \n Major Accountabilities: \n Operations and Quality: Oversee audit queues in Concur to ensure reports are reviewed within agreed SLAs, with clear documentation of findings and rationale for approvals/rejections and daily FIS ticket queue, ensuring timely triage, assignment, resolution, and closure.\n Creative Consulting : Serve as a creative consultant, translating stakeholder needs into tangible, innovative learning solutions. You’ll be a true partner, able to envision and articulate what success looks like for every ask\n Strategic Execution : Be a strategic thinker and executor, driving initiatives from concept to launch and ensuring flawless execution. Act as the first line of support for sales and business teams to clarify inaccurate or incomplete entries\n Stakeholder Partnership: Build strong partnerships with key stakeholders, fostering collaboration and trust to deliver best-in-class learning experiences\n Project Management & Impact : Demonstrate strong project management skills, coordinating boards and cross-functional teams to drive measurable impact\n Technological Adaptability: Demonstrated ability to quickly learn and integrate emerging technologies into solutions, ensuring continuous innovation and relevance\n Knowledge Management & Process Control: Identify gaps in article coverage and collaborate with SMEs to enhance content, decision trees, and troubleshooting guidelines. Ensure team members follow standardized workflows and documentation protocols.\n People Leadership : Lead, coach, and develop a team. Conduct quality audits, calibrations, and feedback sessions to ensure consistency and accuracy. Manage staffing, performance reviews, training plans, and knowledge-upskilling initiatives.\n \n Educational Requirement: \n Bachelor’s degree in business, technology, life sciences, engineering, or a related field is required; MBA or relevant master’s degree preferred.\n \n Minimum Experience: \n 6–8 years’ experience in operations, service delivery, or ticketing environments.\n Experience with ServiceNow/SNOW or inquiry management systems preferred.\n Familiarity with SAP Concur or similar expense management tools or experience in a compliance or audit-related role\n Strong problem-solving, communication, and stakeholder-management skills.\n Proficiency in Microsoft Excel, BI Reporting for data handling and reporting\n Willingness to learn and adapt in a dynamic, team-oriented environment\n  \n Skills Desired \nAnalytical Thinking, Brand Awareness, Business Analytics, Cross-Functional Collaboration, Digital Marketing, Media Campaigns, Project Management, Project Planning, Sales, Stakeholder Engagement, Stakeholder Management, Waterfall Model",
-      "skills": [
-        "compliance",
-        "documentation",
-        "SAP",
-        "Excel",
-        "audit",
-        "stakeholder management"
-      ],
-      "experience": "6–8 yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T07:25:33.122Z"
     },
     {
       "source": "Workday",
@@ -3967,43 +3853,6 @@
       "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
-      "title": "Manager, Clinical Trial Risk Analyst",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Today",
-      "externalPath": "/job/Hyderabad---TS---IN/Manager--Clinical-Trial-Risk-Analyst_R1606176",
-      "reqId": "R1606176",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Manager--Clinical-Trial-Risk-Analyst_R1606176",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Manager--Clinical-Trial-Risk-Analyst_R1606176",
-      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Duties/Responsibilities \n Mgr CTRA to contribute to Protocol De-risking process, support identification of critical to success factors, critical to quality factors - including critical data, critical processes  Collaborate with the Data Management Lead (DML), Statistician, Global Trial Lead (GTL), Quality Lead, Clinical Trial Physician, Clinical Scientist and other study team members to put together an initial proposal on KRIs (standard and study specific) and Quality Tolerance Limits (QTLs). Proposal to include information on critical data, data source, data flow, data review frequency, external data transfer frequency etc. Individuals printing or viewing a BMS controlled document from a source other than the Electronic Document Management System are responsible for ensuring that they are printing or viewing the current version. Page 2 of 3  Responsible to lead and collaborate with the study team in the development of specifications to set up the KRIs, Data Quality Assessments (DQA) and QTLs.  Partners with the DML and other data review functions to determine the holistic data review strategy for the study and determines the function specific review objectives/analytics. Documents the Risk Monitoring data analysis responsibilities in the relevant functional plan.  Responsible for regular risk monitoring at study level for and providing a holistic risk report at the agreed frequency. Ensure appropriate escalations of emerging risks (including QTL deviations) to the CTRL to be discussed at relevant governance bodies (e.g. Quality Council/Therapeutic Area leadership) and proactively shares knowledge and insights across the TRIM group.  Triages new and previously open signals in preparation for the Risk Review Meetings (RRM) to prioritize the signals for discussion and prepare a list of recommended actions  Contribute to the Risk Review discussion to determine if newly opened signals reveal potential risks and require follow-up investigation and if previously opened signals can be closed or need further investigation/monitoring/action. Relates the insights from the CM analysis back to the original risk discussions to share a compelling ‘risk story’.  Drives or contributes to ongoing risk discussions within the study team throughout the lifecycle of the trial and ensures the risk management plan is updated and remains current  Contribute to the development and maintenance of metrics that inform the evaluation of risk monitoring performance and effectiveness.  Participation in initiatives / continuous improvement opportunities within the TRIM and broader organizations  Supports the strategic direction of Risk Based Management within the business to include leadership of RBM innovation, education and embedding  Ensure effective quality oversight and management of external partners (e.g. Function Service Providers, CROs, technology providers, etc.) performing Risk Management or Risk Monitoring activities on behalf of BMS  Takes on additional responsibilities as directed by leadership\n Reporting Relationship \n This role will report to a Clinical Trial Risk Analyst Line Manager within the TRIM organization.\n \n Qualifications \n A minimum of a bachelor’s degree in one of the following disciplines or related field: Life Sciences (preferred); Analytics; Data Science; Statistics; Business; is required. At least 3 years in the pharmaceutical industry with sound understanding of drug development and 3 years of experience in clinical trial operations and/or Good Clinical Practice is required. Robust understanding of Risk-Based Monitoring principles (Quality by Design, Risk Assessment & Control) and relevant tools (e.g. RACT, risk analytics platforms, Veeva and other quality systems) Individuals printing or viewing a BMS controlled document from a source other than the Electronic Document Management System are responsible for ensuring that they are printing or viewing the current version. Page 3 of 3 Technical expert in data analysis and interpretation using data visualizations to derive meaningful insights; and an ability to effectively tell the story of the data findings Ability to contribute to the development and implementation of data visualizations and analyses to support Risk Management / Risk Monitoring business needs. Robust understanding of GCP, compliance and regulatory expectations. Experience of audits and health authority inspections, root cause analysis and CAPA is desirable. Strong leadership skills with an ability to influence and manage key internal stakeholders Excellent communication, collaboration and teamwork skills with an ability to drive cross-functional stakeholders to consensus. An ability to create a compelling story based on data insights which is meaningful to the target audience. An ability to make the connection between organizational strategy and departmental objectives, and utilize this understanding to drive priorities Open mindset with an ability to be flexible, responsive, and proactive in addressing new challenges, opportunities, and demands. Ability to quickly adapt to changes while maintaining effectiveness and staying aligned with business goals\n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1606176 : Manager, Clinical Trial Risk Analyst",
-      "skills": [
-        "health authority",
-        "compliance",
-        "Excel",
-        "data analysis"
-      ],
-      "experience": "3+ yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 75,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-09-17T08:07:31.144Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
       "title": "Senior Analyst II, Identity Governance & Administration",
       "location": "Hyderabad - TS - IN",
       "postedText": "Posted 6 Days Ago",
@@ -4295,6 +4144,43 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-12T07:25:33.112Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Principal Product Ops Analyst- Veeva Vault Clinical",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "reqId": "25103316",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "description": "Principal Product Ops Analyst- Veeva Vault Clinical \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Every day we perform better because of how we work together, as one team, each the best at what we do. We bring together talented experts across a broad spectrum of business critical corporate functions. Every role plays an essential part in enabling our customers to achieve their goals. Our teams are agile, collaborative, and committed to delivering—for each other, for our customers, and ultimately for the people who rely on the services we support. Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n Core Responsibilities\n Configuration of Syneos Health Unified Clinical Veeva Vault platform\n Provide expertise in Veeva Vault configuration as a certified Vault platform administrator and configuration specialist\n Manage configuration changes for Syneos Health Unified Clinical Vault per agreed priority backlog items\n Collaborate across the Clinical IT teams and work closely with Program Manager, Product Manager, IT Architects, and Syneos Health Vault Clinical Implementation team\n Complete Certified Vault Training and stay up to date.  This knowledge will be used on a daily basis as part of configuration work and change requests\n Deliver product enhancements through agreed backlog process to ensure Syneos Health Unified Clinical Veeva Vault Platform follows best practices, while evolving to meet business needs\n Participate in impact assessment activities, reviewing proposed changes, and ensuring impact understood across all functions\n Experience in solution delivery with GXP systems\n \n Qualifications\n Bachelor’s degree in Life Science, Computer Science or related field. \n Documented Veeva certification and experience in working in a GxP environment.\n Problem solving skills are required to solve business process issues. \n The role will understand the current configuration, but also look to best practices for enhancements without impact to other objects or workflows. \n Written and verbal skills and the ability to communicate with business and technical audiences.\n Demonstrated ability to solve problems with innovation and enthusiasm\n \n Get to know Syneos Health \n \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.  \n http://www.syneoshealth.com \n \n Additional Information \n \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "GxP",
+        "compliance"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 75,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.516Z"
     },
     {
       "source": "Workday",
@@ -4948,42 +4834,6 @@
     },
     {
       "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "Cyber Resiliency Senior Technical Analyst",
-      "location": "IND-Hyderabad",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IND-Hyderabad/Cyber-Resiliency-Senior-Technical-Analyst_25108138-1",
-      "reqId": "25108138",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/Cyber-Resiliency-Senior-Technical-Analyst_25108138-1",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/Cyber-Resiliency-Senior-Technical-Analyst_25108138-1",
-      "description": "Cyber Resiliency Senior Technical Analyst \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Every day we perform better because of how we work together, as one team, each the best at what we do. We bring together talented experts across a broad spectrum of business critical corporate functions. Every role plays an essential part in enabling our customers to achieve their goals. Our teams are agile, collaborative, and committed to delivering—for each other, for our customers, and ultimately for the people who rely on the services we support. Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n Cyber Security Resiliency Technical Analyst \n Join the Office of the CISO as a member of the Cyber Resiliency Team at Syneos Health. This role is responsible for ensuring the organization can effectively respond to and recover from disruptive events and cyber threats.\n You will execute analysis of data, telemetry, and technical configurations to identify weaknesses in operational and process controls. Using a data-driven approach, you ll assess risks, uncover coverage gaps, and prioritize actions that strengthen resiliency across the enterprise.\n Key Responsibilities: \n Support the Cyber Resiliency and Exposure Management program\n Develop reports and dashboards tracking key resiliency metrics, exposure trends, and control performance\n Evaluate vulnerability, configuration, and operational telemetry to identify exposure or resiliency weaknesses\n Correlate vulnerability and threat data to prioritize remediation of likely exploitations\n Partner with security architects, engineers, and operational teams to define resiliency metrics and validate risks\n Identify missing technology or scanning coverage areas and recommend action\n Support security reviews against common attack vectors and recommend improvements\n Qualifications: \n 2–5 years of experience in cybersecurity operations, vulnerability management, or cyber risk analysis\n 1 year of data analytics experience with visualization tools (e.g., Power BI)\n Strong familiarity with NIST CSF, HITRUST, and CCM frameworks\n Understanding of CVSS, EPSS, KEV, and other threat prioritization methods\n High-level understanding of AWS, Azure, and OCI\n Bachelor s degree in Cybersecurity, Information Systems, or related field preferred (or equivalent experience)\n Competencies: Analytical & Critical Thinking · Data-Driven Risk Awareness · Cyber Resilience Insight · Collaboration & Communication · Process & Continuous Improvement\n \n Get to know Syneos Health \n \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.  \n http://www.syneoshealth.com \n \n Additional Information \n \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
-      "skills": [
-        "FDA",
-        "EMA",
-        "compliance"
-      ],
-      "experience": "2–5 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 73,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-07-19T04:57:36.038Z"
-    },
-    {
-      "source": "Workday",
       "company": "Accenture",
       "domain": "consulting / MDM / analytics",
       "title": "Regulatory Compliance Analyst",
@@ -5499,40 +5349,6 @@
     },
     {
       "source": "Workday",
-      "company": "Sanofi",
-      "domain": "pharma",
-      "title": "Senior Analyst Technical Customer Facing Effectiveness",
-      "location": "Hyderabad",
-      "postedText": "Posted 2 Days Ago",
-      "externalPath": "/job/Hyderabad/Senior-Analyst-Technical-Customer-Facing-Effectiveness_R2866821",
-      "reqId": "R2866821",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst-Technical-Customer-Facing-Effectiveness_R2866821",
-      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst-Technical-Customer-Facing-Effectiveness_R2866821",
-      "description": "Job title: Senior Analyst - Technical Customer Facing Effectiveness \n Hiring Manager: Group Lead \n Location: Hyderabad  \n   \n About the job  \n   \n Strategic context:   \n   \n Sanofi has currently the best and most robust pipeline of R&D and consequent new launches of our history. As new phase of Play-To-Win strategy, funding this pipeline and new launches is key to materialize the miracles of the science to improve people lives. Thus, as we enter the next phase, modernization of Sanofi is required as per the recent announcements on DRIVE, and in this respect, we are in the beginning stages of organizing the Go-to-Market Capabilities (GTMC) team at global level.  \n    \n The GTMC organization will help us to drive best-in-class capabilities across the board and bring value and excellence in our commercial operations. This move is a key part of the aimed modernization of Sanofi and will allow us to focus on our priorities across our products, market and pipeline through the reallocation of resources and realizing the efficiencies of removing silos that exist between our business units, avoiding the duplication and overlapping of resources, standardizing our processes and tools, operating with a One Sanofi approach to accelerate our key capabilities development, and fostering the entrepreneurial spirit by speeding up the decision making.  \n \n As a  Senior Analyst – Customer Facing Effectiveness  within our Global Go-to-Market Capabilities (GTMC) team, you will support multiple products within the ZAIDYN portfolio. You will be responsible for enhancing, maintaining, and supporting existing solutions to enable ongoing business operations and recurring market requirements.  \n \n In this role, you will work closely with business stakeholders, operations teams, and backend engineers to deliver product enhancements, resolve production issues, support system integrations, and identify opportunities for automation and continuous improvement.  \n \n Product Enhancement & Operation Ownership   \n Support day-to-day product operations by troubleshooting product-related issues, resolving defects, and responding to operational queries.  \n Implement and validate cycle-over-cycle product enhancements and configuration changes.  \n Analyze business requirements and translate them into clear functional specifications for the engineering team.  \n Support backlog refinement by documenting enhancement requests, defects, and business priorities.  \n Maintain product configurations, business rules, and technical documentation.  \n Track issues through Jira and ensure timely resolution in collaboration with engineering and business teams.  \n Participate in testing activities, including functional, regression, and UAT support for product releases.  \n   \n Integration & Technical Delivery   \n Support integrations between ZAIDYN products and upstream systems such as Workday, Salesforce alignment tools, and HR data sources.  \n Investigate and resolve data discrepancies, integration failures, and production issues.  \n Perform data validation and root cause analysis to ensure data accuracy and system reliability.  \n Collaborate with backend teams during product upgrades and production deployments.  \n Process Improvement & Operational Excellence   \n Identify opportunities to improve product functionality, automate manual activities, and enhance operational efficiency.  \n Contribute to process documentation, knowledge sharing, and continuous improvement initiatives.  \n Support the adoption of standard operating procedures and best practices across the team.  \n   \n About you   \n   \n 3–4 years of experience supporting enterprise applications, preferably within the ZAIDYN product suite (ZICO, ZDL, ZFIR, Awards, etc.).  \n Strong understanding of incentive compensation, sales operations, or commercial processes, ideally within the pharmaceutical or life sciences industry.  \n Hands-on experience with SQL, including writing complex queries and stored procedures, along with experience configuring ZICO custom plans and ZFIR reports.  \n Good understanding of system integrations, data feeds, APIs, and enterprise application support. (Python, VBA, BI - good to have) \n Strong analytical, problem-solving, and communication skills, with experience working collaboratively across technical and business teams using Agile methodologies and tools such as Jira.  \n   \n Why choose us?   \n   \n Bring the miracles of science to life alongside a supportive, future-focused team.  \n Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.  \n Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.  \n Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention and wellness programs and at least 14 weeks’ gender-neutral parental leave.  \n Play an instrumental part in creating best practice within our Go-to-Market Capabilities.  \n   \n Pursue progress, discover extraordinary  \n   \n Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.  \n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.   \n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com ! \n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
-      "skills": [
-        "documentation"
-      ],
-      "experience": "3–4 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 69,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-16T06:40:04.987Z"
-    },
-    {
-      "source": "Workday",
       "company": "Accenture",
       "domain": "consulting / MDM / analytics",
       "title": "Regulatory Compliance Analyst",
@@ -5667,13 +5483,13 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
-      "title": "Senior Project Specialist (Medical Affairs&Compliance) - Romania - FSP",
+      "title": "Global Professional Engagement Coordinator / Senior Project Specialist (Medical Affairs&Compliance) - Romania - FSP",
       "location": "Romania-Remote",
-      "postedText": "Posted 8 Days Ago",
-      "externalPath": "/job/Romania-Remote/Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045626",
-      "reqId": "R0000045626",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Romania-Remote/Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045626",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Romania-Remote/Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045626",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Romania-Remote/Global-Professional-Engagement-Coordinator---Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045987",
+      "reqId": "R0000045987",
+      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Romania-Remote/Global-Professional-Engagement-Coordinator---Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045987",
+      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Romania-Remote/Global-Professional-Engagement-Coordinator---Senior-Project-Specialist--Medical-Affairs-Compliance----Romania---FSP_R0000045987",
       "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n At Parexel FSP , you will be joining a team with a wide variety of experiences and knowledge. We’re looking for people like you to take the initiative to do things better and smarter people who want to grow personally and professionally. We recognize and uphold the importance of all people, the way we do things, our quest for innovation, and most importantly, our patients.\n \n We are looking for a Global Professional Engagement Coordinator (Senior Project Specialist) 100% home based in Romania .\n Sponsor dedicated. Your tasks will be  \n • Responsible for finalizing all required documentation for a compliant engagement of scientific leader under CSAs.\n • Uses internal processes, templates, and system for submission to obtain all required approvals.\n • Uses company document repository to maintain all required documentation for CSAs.\n • Provides all necessary information to requesting business area and communicates the administrative details to the scientific leader.\n • Aligns scientific leader and external vendor to manage logistic.\n • Align with EMEAC GMAC GEIME team for administrative support needed in Input and Medical Education meetings.\n • Provides oversight to vendor/agencies involved in the planning and execution of activity.\n • Accountable for ensuring that assigned system and data repository complies with internal policy and compliance metrics.\n \n From you we expect :  \n • Minimum 3 - 5 years experience in administrative support to medical affairs and compliance, scientific / medical leader meeting management in pharma (being Medical Associate or similar) - not background clinical trials-focused but medical affairs/KOL engagement is a must. \n • Contracting process knowledge. • Strong written and verbal communication skills in English, demonstrated project management skills, and compliance knowledge including knowledge of industry compliance rules and requirements.\n • Expertise in managing medical/scientific leader engagements and meetings is required. \n • Experience using Veeva Vault \n • Education required: BA/BS in science, business, administration, healthcare, or related field.\n • The ability to travel (intermittent 10 - 20%).\n \n We will offer you \n Premium salary.\n Attractive benefits.\n Medical care plan: Health, Dental & Vision.\n Life Assurance.\n Excellent work environment.\n Culture of teamwork and collaboration.\n People who motivate and face challenges together.\n Innovative technology.\n Excellent training.\n \n Join a global community where you can transform your career into a life-changing achievement.\n Apply directly or contact us via email at marta.kuniewicz parexel.com",
       "skills": [
         "compliance",
@@ -5695,8 +5511,8 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": false,
-      "firstSeen": "2026-09-13T06:46:16.881Z"
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.432Z"
     },
     {
       "source": "Workday",
@@ -5729,6 +5545,38 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-13T06:46:16.862Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Senior Manager-Business Intelligence & PMO – GSC Performance",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Business-Intelligence---PMO---GSC-Performance_447508",
+      "reqId": "447508",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Business-Intelligence---PMO---GSC-Performance_447508",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Business-Intelligence---PMO---GSC-Performance_447508",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.518Z"
     },
     {
       "source": "Workday",
@@ -6476,38 +6324,6 @@
       "title": "Regulatory Compliance New Associate",
       "location": "Bengaluru",
       "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Bengaluru/Regulatory-Compliance-Associate_AIOC-S01647376-1",
-      "reqId": "AIOC-S01647376",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Regulatory-Compliance-Associate_AIOC-S01647376-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Regulatory-Compliance-Associate_AIOC-S01647376-1",
-      "description": "Skill required: AML fraud mgmt. - Anti-Money Laundering (AML) Designation: Regulatory Compliance New Associate Qualifications: Any Graduation Years of Experience: 1-2years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent What are we looking for? •Written and verbal communication Roles and Responsibilities: In this role you are required to solve routine problems, largely through precedent and referral to general guidelines \n \n \nAny Graduation \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "1–2 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 66,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T06:21:20.820Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance New Associate",
-      "location": "Bengaluru",
-      "postedText": "Posted 30+ Days Ago",
       "externalPath": "/job/Bengaluru/Regulatory-Compliance-New-Associate_AIOC-S01651986-1",
       "reqId": "AIOC-S01651986",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Regulatory-Compliance-New-Associate_AIOC-S01651986-1",
@@ -6596,6 +6412,76 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-14T06:58:21.295Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Accenture",
+      "domain": "consulting / MDM / analytics",
+      "title": "Regulatory Compliance New Associate",
+      "location": "Bengaluru",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Bengaluru/Regulatory-Compliance-New-Associate_AIOC-S01660327-1",
+      "reqId": "AIOC-S01660327",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Regulatory-Compliance-New-Associate_AIOC-S01660327-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Regulatory-Compliance-New-Associate_AIOC-S01660327-1",
+      "description": "Skill required: KYC Screening - Sanctions Screening Designation: Regulatory Compliance New Associate Qualifications: Any Graduation Years of Experience: 0 to 1 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\nKYC Screening involves checking customers against various databases to identify potential risks such as fraud, money laundering, or terrorist financing. This includes verifying personal information and cross-referencing it with watchlists, sanctions lists, and other sources. The goal is to ensure compliance with regulations and protect the organization from financial crimes. Key tasks involve Customer Identity verification, Risk Assessment & Screening, Compliance & regulatory adherance, alert managment & escalation and data management & reporting\nAbility to effectively and efficiently conduct the process of screening individuals, entities, or transactions against lists of sanctioned or restricted parties. Sanctions screening involves using specialized software, understanding relevant regulations, and maintaining a proactive approach to mitigate the risk of engaging with sanctioned entities. What are we looking for? •Ability to work well in a team\n•Adaptable and flexible\n•Written and verbal communication Roles and Responsibilities: •In this role you are required to solve routine problems, largely through precedent and referral to general guidelines\n• Your primary interaction is within your own team and your direct supervisor\n• In this role you will be given detailed instructions on all tasks\n• The decisions that you make impact your own work and are closely supervised\n• You will be an individual contributor as a part of a team with a predetermined, narrow scope of work\n• Please note that this role may require you to work in rotational shifts \n \n \nAny Graduation \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "skills": [
+        "compliance"
+      ],
+      "experience": "0–1 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.495Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Amgen",
+      "domain": "pharma",
+      "title": "Specialist IS Analyst",
+      "location": "India - Hyderabad",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "reqId": "R-236618",
+      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Specialist-IS-Analyst_R-236618",
+      "description": "Career Category \nInformation Systems \n Job Description \n Let’s do this. Let’s change the world.\n \n In this vital role, you will work as part of a Product Team focusing on the Electronic Lab Notebook (ELN) and Instrument Data Acquisition Platform , accelerating Amgen’s product development and commercial manufacturing. You will collaborate with a dynamic, globally distributed team of technical product owners, business analysts, test/validation engineers , project managers, and scrum masters on the design, development, validation, support, and continuous optimization of Amgen Operations’ ELN ecosystem. This role requires strong hands-on experience with enterprise platform and application testing in a GxP-regulated environment , including CSV/CSA activities , to ensure systems meet regulatory, quality, and data integrity standards. In addition, the role demands significant experience in Application Support and Maintenance (AMS) , including incident management, release support, upgrades, patches, and operational stability of mission-critical laboratory platforms. The ideal candidate brings deep expertise in ELN applications, enterprise application integration, end-to-end data and process harmonization , and the seamless integration of laboratory instrument data with enterprise systems (e.g., LIMS, CDS, MES, data platforms). Success in this role requires comfort working in a matrixed, global organization , balancing innovation with compliance, operational excellence, and system reliability.\n \n Software Engineering & Platform Ownership\n Possess strong software development skills and rapidly translate concepts into working, production-ready solutions\n Conduct code reviews to ensure quality, security, performance, and adherence to enterprise standards\n Create and maintain documentation for architecture, design, validation, deployment, disaster recovery, and operations \n Identify, troubleshoot, and resolve complex technical challenges across integrated enterprise platforms\n Stay current with emerging technologies, industry best practices, and regulated system development trends\n \n GxP Testing, Validation & Quality\n Lead and contribute to enterprise application testing in GxP environments , ensuring compliance with FDA, EMA, and global regulatory requirements\n Own and execute CSV/CSA activities , including risk assessments, test strategy, IQ/OQ/PQ (or equivalent), traceability, and validation documentation\n Develop and maintain test plans, test scenarios, and test scripts for system enhancements, patches, upgrades, and vendor releases\n Perform functional, regression, integration, and user acceptance testing (UAT) to ensure changes do not negatively impact validated functionality\n Partner with Quality, Validation, and Business teams to support audits, inspections, and validation lifecycle activities\n \n Application Support & Maintenance (AMS)\n Provide Level 2 / Level 3 application support for ELN and associated enterprise platforms\n Manage incident, problem, and change processes , including P1/P2 incident response and root cause analysis\n Support production releases, vendor upgrades, hotfixes, and patches , ensuring minimal disruption to business operations\n Work within ITIL-based processes using ServiceNow for incident, change, and problem management\n Collaborate with infrastructure, vendor, and business partners to resolve operational bottlenecks and systemic issues\n Ensure platform stability, performance monitoring, and operational readiness in regulated environments\n \n Cross-Functional Collaboration & Delivery\n Work closely with product teams, business partners, validation, quality, data scientists, and vendors\n Drive system enhancements, bug fixes, and continuous improvements across the platform landscape\n Develop and implement business process improvements to increase efficiency and effectiveness\n Effectively operate within large, diverse, and globally dispersed teams in a matrixed organization\n Leverage AI and automation to streamline testing, support workflows, and operational processes\n \n Basic Qualifications\n Bachelor s OR Master’s degree with 8–12 years of experience in Software Engineering, Data Science, or Machine Learning Engineering\n \n Functional Skills\n \n Must-Have Skills\n Strong experience with enterprise application testing in GxP-regulated environments \n Hands-on experience with CSV/CSA validation methodologies and documentation \n Software engineering best practices: Git, CI/CD (Jenkins, Maven), automated testing\n Experience supporting enterprise platforms with issue ticketing and customer-facing support models \n Proven experience in Application Support & Maintenance (AMS) for regulated systems\n Experience with cloud platforms (AWS, Azure, GCP)\n Incident response experience, including P1/P2 production incidents \n Experience with ServiceNow, ITIL processes, and change management workflows \n Ability to translate vendor capabilities and constraints into business-aligned solutions\n Scripting and automation for server and operational task automation\n Familiarity with AI tools (ChatGPT, Copilot, etc.) to improve productivity and workflows\n \n Good-to-Have Skills\n Strong customer focus with the ability to partner closely with business stakeholders\n Experience supporting 200 servers or large-scale enterprise platforms\n Experience with Smartsheets, Excel, Tableau, Spotfire\n Ability to work independently with strong analytical and written communication skills\n \n \n Professional Certifications\n SAFe for Teams certification (preferred)\n \n Soft Skills\n Strong leadership, transformation, and change management capabilities\n Ability to work effectively with global, virtual teams\n Excellent analytical, troubleshooting, and decision-making skills\n Ability to manage multiple priorities in a fast-paced, regulated environment\n Strong presentation, communication, and stakeholder engagement skills\n High degree of initiative, accountability, and self-motivation\n \n \n \n \n.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "GxP",
+        "compliance",
+        "documentation",
+        "Excel"
+      ],
+      "experience": "8–12 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-18T06:34:15.478Z"
     },
     {
       "source": "Workday",
@@ -7812,39 +7698,6 @@
     },
     {
       "source": "Workday",
-      "company": "Lonza",
-      "domain": "pharma / chemical",
-      "title": "Business Intelligence/Data Analytics Specialist",
-      "location": "IN - Hyderabad",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IN---Hyderabad/Business-Intelligence--Data-Analytics-Specialist_R75264",
-      "reqId": "R75264",
-      "url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Business-Intelligence--Data-Analytics-Specialist_R75264",
-      "applyUrl": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Business-Intelligence--Data-Analytics-Specialist_R75264",
-      "description": "BUSINESS INTELLIGENCE/DATA ANALYTICS SPECIALIST     \n LOCATION: Hyderabad  \n \n INTRO SUMMARY OF THE ROLE    \n At Lonza, we are looking for a Business Intelligence Analyst to join our Group Intelligence team. This role supports the technical delivery and day-to-day operation of Lonza’s Business Intelligence platforms, with a primary focus on Commercial, Sales, and Marketing use cases. You will contribute across the full BI lifecycle—from data ingestion and modelling through to analytics, applications, and user-facing reporting—ensuring BI products are reliable, scalable, and aligned to business needs. \n \n WHAT YOU WILL GET    \n At Lonza, we offer a collaborative environment guided by our core values: Collaboration, Accountability, Excellence, Passion, and Integrity. You will benefit from professional growth opportunities, exposure to global teams, and the chance to shape BI solutions that directly impact business performance. (Region-specific benefits such as healthcare, retirement plans, and relocation support should be added here per the regional template.) \n \n WHAT YOU WILL DO \n Act as an active member of the Omni BI project team, supporting delivery and evolution of BI products. \n Gather business requirements and scope solutions with a strong focus on end users. \n Develop ETL processes, manage data integration and pipelines. \n Design and deliver user-centric reports and dashboards with strong storytelling and usability principles. \n Generate analytics and insights to support commercial decision-making. \n Strengthen data foundations by improving data quality, availability, and traceability. \n Provide operational support for BI platforms, including monitoring, issue resolution, and performance optimization. \n Contribute to data governance through standards, metadata management, and access controls. \n Identify opportunities for BI, analytics, or automation to deliver additional value, primarily within Marketing. \n Encourage innovation through proof-of-concept development and continuous improvement of tools and processes. \n \n WHAT WE ARE LOOKING FOR \n Education: Bachelor’s degree in Data, IT, Digital, or related fields. \n Experience: Entry-level (0–4 years) in Data Analysis, Business Intelligence, or related areas. \n Technical Skills:\n Strong BI and data skills, with experience in database-driven environments. \n Hands-on ETL experience with tools such as Snaplogic, SSIS, Azure Data Factory. \n Awareness of data governance concepts (quality, lineage, controlled access). \n Experience designing reports/dashboards using Power BI, Qlik, Tableau, Spotfire, Looker, or equivalent. \n Advantageous: Experience with JavaScript frameworks (React, Angular, Vue, Node.js), containerized environments (Docker), CI/CD practices. \n \n \n About Lonza At Lonza, our people are our greatest strength. With 30 sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of. \n Innovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board. \n Ready to shape the future of life sciences? Apply now.",
-      "skills": [
-        "data analysis"
-      ],
-      "experience": "0–4 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 58,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-12T07:25:33.110Z"
-    },
-    {
-      "source": "Workday",
       "company": "IFF",
       "domain": "flavors / fragrances / ingredients",
       "title": "Senior Analyst, GBS Data Analytics",
@@ -7909,42 +7762,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-13T06:46:16.975Z"
-    },
-    {
-      "source": "Workday",
-      "company": "IFF",
-      "domain": "flavors / fragrances / ingredients",
-      "title": "Analyst- Inventory & Cost Accounting",
-      "location": "Hyderabad GBS, India",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/Hyderabad-GBS-India/Senior-Analyst---Senior-Analyst--Inventory---Cost-Accounting_R20420",
-      "reqId": "R20420",
-      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-Analyst---Senior-Analyst--Inventory---Cost-Accounting_R20420",
-      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-Analyst---Senior-Analyst--Inventory---Cost-Accounting_R20420",
-      "description": "Job Summary \nAre you passionate about service excellence? Would you love to work for a global organization that is doing more good for people and planet? IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences. We deliver sustainable innovations that elevate everyday products. Food Ingredients: Innovating improved nutritional profiles, better taste and texture, and greater cost efficiency to meet the needs of global food and beverage manufacturers. The role is based in Hyderabad, India(hybrid role). Be part of a creative, solution-oriented team where together we can achieve greatness and make a real impact. Your potential is our inspiration. \n \n \n Where You ll Make a Difference \n Drive accurate inventory accounting and valuation processes that directly impact financial reporting.\n Support month-end and year-end close activities, ensuring timely and compliant reporting.\n Partner with manufacturing, supply chain, and finance teams to improve inventory visibility and control.\n Key Responsibilities\n \n Record financial transactions accurately in the ERP system in accordance with established guidelines.\n Prepare and review account reconciliations to ensure accuracy and completeness.\n Analyze financial data and provide meaningful insights to support decision-making.\n Prepare reports and presentations to support financial analysis and reporting.\n Support supervisors and senior team members on projects and ongoing tasks.\n Monitor and analyze inventory volume drivers including production settlements, WBS, and internal order allocations.\n Support allocation cycles and cost flow impacting inventory and cost of goods sold.\n Execute and support actual costing runs and inventory valuation activities.\n Analyze purchase price variances (PPV) and production variances, identifying root causes.\n Process and validate manual inventory postings (goods in transit, accruals, corrections).\n Perform inventory reconciliations (subledger vs GL) and manage backlog resolution.\n Investigate inventory discrepancies including quantity/value mismatches and negative stock.\n Support period-end close activities including settlements, variance analysis, and reporting.\n Ensure proper documentation and support for audit requirements related to inventory.\n Support allocation cycle governance and closing cockpit activities.\n Identify and support process improvements in inventory accounting and reporting.\n Analyze inventory cost drivers, variances, and reconciliations to identify improvement opportunities.\n Contribute to process optimization initiatives that enhance efficiency, compliance, and data accuracy.\n Support audit readiness by maintaining robust documentation and controls.\n What Makes You the Right Fit? \n Bachelor s degree in Accounting, Finance, Business Administration, or a related field.\n 2-5 years of experience in accounting, inventory accounting, cost accounting, or shared services environments.\n Strong knowledge of accounting principles, reconciliations, financial reporting, and inventory processes.\n Analytical mindset with the ability to identify trends, variances, and process gaps.\n Excellent attention to detail and commitment to accuracy.\n Strong communication and stakeholder management skills.\n Ability to work independently while collaborating effectively across teams.\n How Would You Stand Out? \n Experience supporting manufacturing or supply chain finance environments.\n Hands-on experience with inventory valuation, actual costing, standard costing, and variance analysis.\n Knowledge of SAP or other ERP platforms.\n Experience with process improvement, automation, or continuous improvement initiatives.\n Familiarity with audit support, compliance controls, and financial governance processes.\n Proven ability to manage multiple priorities in a fast-paced global environment.\n Why Choose Us? \n Opportunity to build expertise in inventory accounting and costing within a global organization.\n Collaborative environment with exposure to Finance, Operations, and Supply Chain teams.\n Diverse career growth and learning opportunities.\n Chance to work on impactful projects that improve financial processes and controls.\n Inclusive culture focused on innovation, continuous improvement, and professional development.\n Meaningful role contributing to business performance and operational excellence.\n \n Important Information Regarding This Position For your awareness, IFF has announced its intention to sell its Food Ingredients Business to CVC Capital Partners. The sale is presently expected to close in the first half of 2027, pending regulatory approvals and other closing conditions. The Food Ingredient business unit will remain a part of IFF until close and, at such time, it will transition to CVC Capital Partners. In applying for this position, you acknowledge your awareness that the position is a part of the Food Ingredient business unit and has been identified to transition to CVC Capital Partners. We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability. Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more\n \n \n \n \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability.\n \n Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more",
-      "skills": [
-        "compliance",
-        "documentation",
-        "SAP",
-        "audit",
-        "stakeholder management"
-      ],
-      "experience": "2–5 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 51,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-13T06:46:16.869Z"
     },
     {
       "source": "Workday",
