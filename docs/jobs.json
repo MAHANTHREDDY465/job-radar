@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-30T07:23:25.780Z",
+  "generatedAt": "2026-09-30T09:11:34.394Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
     "total": 200,
-    "goal": 113,
+    "goal": 114,
     "target": 0,
-    "below": 87,
+    "below": 86,
     "overseas": 0,
-    "new": 7,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -292,7 +292,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.710Z"
     },
     {
@@ -626,6 +626,42 @@
     },
     {
       "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "IT Senior Business Analyst",
+      "location": "India - Chennai",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
+      "reqId": "R-257487",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
+      "description": "GCL: D1 Introduction to role:  \n Are you ready to turn complex business needs into clear, result technology outcomes that help bring vital medicines to patients faster? Do you flourish with translating ambiguity into critical action while partnering across business and IT to unlock measurable value?\n In this role, you will be a central connector between diverse partners and technical groups, crafting the requirements that drive high-impact solutions across our global enterprise. You will help set analysis approaches, ensure traceability from ideas to benefits, and influence decisions that modernize how we operate. Your work will power smarter ways of working today while laying the foundations for tomorrow’s growth.  \n Accountabilities:  \n Analysis Strategy and Planning: Define the right analysis approach for each initiative, balancing complexity, risk, and dependencies. Scope work optimally and lead your plan to deliver to deadlines without losing sight of value.\n Stakeholder Engagement and Influence: Identify and engage collaborators at all levels. Build trust-based relationships, tailor communication to influence outcomes, and chip in to plans that drive informed decisions and adoption.\n Requirements Leadership: Lead end-to-end requirements management from discovery to validation. Translate business objectives into clear functional and technical requirements, ensuring robust traceability and alignment with Functional Build, User Interface Compose, and Business Process Develop.\n Architecture Partnership: Work closely with architecture and engineering teams to assure that the proposed technical solution delivers the agreed business benefits, adheres to standards, and scales for future needs.\n Solution Assessment and Value Focus: Evaluate solution options, challenge assumptions, and articulate the reasoning behind recommendations. Assess business readiness and guide teams to improve value versus spend.\n Business Case and Benefits Realization: Support the creation of cases, collecting justification including return on investment and benefits measures. Track value realization through delivery and into operation.\n Apply AI-assisted techniques to speed up discovery and documentation. Use LLMs to coordinate and prioritize ambiguous inputs and identify business rules from interviews. Improve the consistency and completeness of documentation related to requirements.\n Change and Communications: Chip in to change plans and communication strategies to ensure alignment, understanding, and adoption across functions and geographies.\n Governance and Compliance: Operate effectively within regulated environments, ensuring requirements and testing practices meet compliance needs and stand up to audit.\n Collaboration and Coaching: Partner with IT leaders, service managers, and multi-functional project teams. Share standard processes and support team development to improve on analysis quality.  \n Essential Skills/Experience:\n 5-7 years Experience of using business analysis tools/techniques to design and deliver business change\n Strong engagement, communication and facilitation skills, including presentation and influencing skills\n Demonstrated involvement in a regulated environment\n Background in collaborating with third party suppliers/vendor  \n Desirable Skills/Experience:\n Degree in a relevant subject area or formal certification in business analysis practice\n Exposure to Agile methodology and familiarity with both Agile and Waterfall delivery models\n Experience of working in a global organisation\n Pharmaceutical business awareness/business domain knowledge\n Excellent documentation skills and proficiency with MS Visio\n Hands-on experience producing Business Requirements Documents (BRD or equivalent experience), Functional Requirements Documents (FRD), Functional Requirement Specifications (FRS), Requirement Traceability Matrices (RTM), and handling product backlogs\n Experience collaborating with external consultants and vendors, with strong written and oral communication\n Background working with pharma clients and understanding of regulated processes\n Experience employing LLMs and AI assistants to analyze interview transcripts, extract business rules, and translate findings into functional requirements, user stories, and acceptance criteria\n Applied AI-enhanced requirements engineering and prompt engineering to accelerate documentation and improve quality and consistency of requirement artifacts  \n Why AstraZeneca:  \n Join a high-performing, collaborative team that sits at the heart of how our business runs, where bright minds and practical problem solvers bring technology and operations together to deliver for patients. You will work on intellectually stimulating, complex challenges that require creativity, rigor, and pace—often with engineers, architects, and business leaders in the same room, turning ideas into outcomes. We champion digital innovation, thoughtful risk-taking, and data-driven decisions, and we value understanding alongside ambition.\n Call to Action:\n Make your next move count—bring your analysis leadership to a place where your work accelerates science and creates real-world impact today!\n \n Date Posted \n30-Sept-2026 \n Closing Date \n13-Oct-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+      "skills": [
+        "compliance",
+        "documentation",
+        "audit"
+      ],
+      "experience": "5–7 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 96,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-09-30T09:11:34.307Z"
+    },
+    {
+      "source": "Workday",
       "company": "Ecolab",
       "domain": "specialty chemical / water & hygiene",
       "title": "Sr Business Analyst – Indirect",
@@ -889,7 +925,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.752Z"
     },
     {
@@ -1789,7 +1825,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.764Z"
     },
     {
@@ -2126,48 +2162,6 @@
     },
     {
       "source": "Workday",
-      "company": "Sanofi",
-      "domain": "pharma",
-      "title": "Safety Data Sheets Expert",
-      "location": "Hyderabad",
-      "postedText": "Posted 13 Days Ago",
-      "externalPath": "/job/Hyderabad/Safety-Data-Sheets-Expert_R2871185",
-      "reqId": "R2871185",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Safety-Data-Sheets-Expert_R2871185",
-      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Safety-Data-Sheets-Expert_R2871185",
-      "description": "Job title: Safety Data Sheets expert \n \n Location: Hyderabad \n \n About the job \n \n Sanofi is a global life sciences company committed to improving access to healthcare and supporting the people we serve throughout the continuum of care. From prevention to treatment, Sanofi transforms scientific innovation into healthcare solutions, in human vaccines, rare diseases, multiple sclerosis, oncology, immunology, infectious diseases, diabetes and cardiovascular solutions. As a company with a global vision of drug development and a highly regarded corporate culture, Sanofi is recognized as one of the best pharmaceutical companies in the world and is pioneering the application of Artificial Intelligence (AI) with strong commitment to develop advanced data standards to increase reusability & interoperability and thus accelerate impact on global health.\n The Global M&S Services acts as a cornerstone to this effort. Our team is responsible for delivering and supporting M&S teams in the area of regulatory compliance, maintenance of product licenses and technical writing of CMC documents. The team members of the global M&S Services Hub will act as partners in carrying out tasks and fulfilling responsibilities to support quality activities with a focus on technical writing.\n \n Main responsibilities: \n Provision of strategic advice to the businesses with regards to regulatory compliance linked to substances including biological products, infectious agents etc (e.g. safety data sheets, classification, packaging & labelling, transport classification, local regulations). This includes monitoring of regulations.\n Act with efficiency with the Global Product Stewardship team.\n Edit and maintain Safety Data Sheets using our IT tools.\n Independent evaluation and validation of substance data for classification and labelling according to international regulations e.g., GHS/CLP, Seveso, and transport regulations.\n Documents all product stewardship information including references, reports to track and to justify any modification in the versioning of the documents used by Product Stewardship (SDSs, Hazard Classification Sheets & data).\n Conducting substance data searches and evaluating the results. Collecting, documenting and providing data in internal substance databases.\n Communicating effectively in written and oral ways, results and conclusions with contacts of sites and business units.\n \n About you: \n Experience : 5 years of industry experience including 2 years experience in Product Stewardship.\n Soft skills: Be able to work effectively in a team and on your own initiative. Self-starter with the ability to perform under rapidly evolving contexts. Data-based decision maker and methodical in the analysis. Ability to provide clear concise explanations. Able to work independently, team player and networker. Important sense for transversal impact. Ability to communicate effectively, orally and in writing. Knowledge in biologicals is required not a plus\n Technical skills : Professional experience in the field of product safety/product stewardship, chemical / biological laws, classification and labelling of hazardous substances. Experience in writing and reading Material Safety Data sheets .  SDS-Writing - Certified competent person according to §18 (4) Hazard Substance Ordinance (Germany) Ability to rank relative compliance risks, high sense of responsibility and compliance and prioritize resulting actions. Ability to keep abreast of compliance changes. Strong proficiency in common chemical regulations. Have critical thinking, problem solving & planning skills. Proficiency in SAP-EHS module is needed. Proven experience of interactions of SAP-EHS with SAP based ERP is needed.\n Proven experience of SERC – SAP EHS Regulatory Content (now 3E ERC EHS Regulatory Content) is needed. Certified IATA training for Dangerous Goods Transportation is needed. Proven knowledge on toxicological / pharma toxicological backgrounds would be a plus. Knowledge in the use of Artificial Intelligence for the use of designing SDSs would be a plus(e.g. tool from Opesus). Experience on Extended SDS would be a plus. Knowledge on Biocides and Biological agents\n Education : Bachelor’s degree in Biological Science (biology, microbiology, Molecular Biology) or technical discipline at minimum.\n Languages : Good coordination and communication skills.​\n \n Why choose us? \n Bring the miracles of science to life alongside a supportive, future-focused team.\n Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.\n Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.\n Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention, and wellness programs and at least 14 weeks’ gender-neutral parental leave.\n Opportunity to work in an international environment, collaborating with diverse business teams and vendors, working in a dynamic team, and fully empowered to propose and implement innovative ideas. \n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
-      "skills": [
-        "CLP",
-        "GHS",
-        "SDS",
-        "product stewardship",
-        "hazard classification",
-        "biocides",
-        "CMC",
-        "labelling",
-        "compliance",
-        "SAP"
-      ],
-      "experience": "5 yrs",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 89,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-26T08:10:08.158Z"
-    },
-    {
-      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Senior Manager, Master Data Management & Reference Data",
@@ -2409,7 +2403,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.760Z"
     },
     {
@@ -3222,7 +3216,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.738Z"
     },
     {
@@ -4274,7 +4268,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.741Z"
     },
     {
@@ -6866,7 +6860,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-09-30T07:23:25.658Z"
     },
     {
