@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T07:34:18.752Z",
+  "generatedAt": "2026-10-02T09:11:42.423Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
     "total": 213,
-    "goal": 119,
+    "goal": 118,
     "target": 0,
-    "below": 94,
+    "below": 95,
     "overseas": 0,
-    "new": 7,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -331,7 +331,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.671Z"
     },
     {
@@ -2079,6 +2079,41 @@
     },
     {
       "source": "Workday",
+      "company": "Amgen",
+      "domain": "pharma",
+      "title": "Seniorr Associate Regulatory Writing",
+      "location": "India - Hyderabad",
+      "postedText": "Posted 16 Days Ago",
+      "externalPath": "/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
+      "reqId": "R-255150",
+      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
+      "description": "Career Category \nRegulatory \n Job Description \n ABOUT AMGEN \n Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today.\n \n Roles & Responsibilities \n Independently author routine to moderately complex documents, including:  ICFs and ICF amendments\n PLPS and Amendments\n Sections of CSRs (synoptic, abbreviated and standard; pivotal CSRs with support)\n Protocol Amendments and Country Specific Protocol Supplement\n IB updates (minor / focused updates)\n \n Manage document versions, reviewer comments, and approval flows end to end for assigned documents.\n Ensure assigned documents are scientifically accurate, consistent across sections and aligned with source data and program intent\n Prepare documents to be QC and inspection ready, adhering to Guidance documents/SOPs\n Support audits or inspections by providing documentation history and rationale when needed.\n Engage with Clinical, Safety, Regulatory and Study teams to clarify inputs, resolve comments and incorporate feedback efficiently\n Participate in document related meetings as required.\n Escalate risks, scope changes, or timeline pressures early to Managers.\n Track assigned deliverables and timelines.\n Participate in internal trainings, KT sessions, and process improvements.\n Consistent on time delivery\n Collaboration Skills: \n Cross-functional stakeholder management\n Communication and presentation skills\n Negotiation and conflict resolution\n Strategic thinking and decision making\n Ownership and accountability\n . Project Management & Operational Skills \n Timeline planning and execution\n Managing multiple deliverables simultaneously\n Risk identification and mitigation\n Review coordination and comment resolution\n Working effectively with document management systems, RIM tools, SharePoint, and authoring platforms\n \n EQUAL OPPORTUNITY STATEMENT \n Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.\n We will ensure that individuals with disabilities are provided with reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.\n \n \n \n.",
+      "skills": [
+        "documentation",
+        "stakeholder management"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 89,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": false,
+      "firstSeen": "2026-09-26T08:10:08.172Z"
+    },
+    {
+      "source": "Workday",
       "company": "Lonza",
       "domain": "pharma / chemical",
       "title": "Regulatory Affairs Specialist",
@@ -2393,38 +2428,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-09-26T08:10:08.173Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Amgen",
-      "domain": "pharma",
-      "title": "Seniorr Associate Regulatory Writing",
-      "location": "India - Hyderabad",
-      "postedText": "Posted 16 Days Ago",
-      "externalPath": "/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
-      "reqId": "R-255150",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
-      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Seniorr-Associate-Regulatory-Writing_R-255150",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 85,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-26T08:10:08.172Z"
     },
     {
       "source": "Workday",
@@ -3182,44 +3185,6 @@
     },
     {
       "source": "Workday",
-      "company": "AstraZeneca",
-      "domain": "pharma",
-      "title": "Senior Analyst - Forecasting",
-      "location": "India - Bangalore",
-      "postedText": "Posted 7 Days Ago",
-      "externalPath": "/job/India---Bangalore/Senior-Analyst---Forecasting_R-260632",
-      "reqId": "R-260632",
-      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Senior-Analyst---Forecasting_R-260632",
-      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Senior-Analyst---Forecasting_R-260632",
-      "description": "GCL: D1 \n Introduction to role: \n Are you prepared to transform uncertainty into clarity—turning data into evidence-based forecasts that guide investment and accelerate access for patients. In this role, you will build and sustain patient, volume, and revenue forecasts for strategic brands and early assets, partnering closely with Forecast Leaders and Commercial, Finance, and Market Access teams to set performance expectations and influence brand strategy for priority markets. Your work will directly shape how we plan, invest, and mobilize to bring medicines to patients faster.\n Based at Manyata Tech Park, Bangalore, this hybrid role (three days a week in office) operates 2 PM–11 PM IST to collaborate seamlessly across global time zones. From day one, you will calibrate patient-based models, document clear assumptions, and surface the drivers that change growth trajectories. Can you translate complex market signals into critical guidance that leadership relies on. \n Accountabilities:\n Forecast Ownership: Deliver robust, open demand forecasts for strategic brands and key markets, with clear documentation of assumptions and confidence levels to inform decisions.\n Methodology and Defense: Authoritatively and confidently defend forecast approaches, models, assumptions, and outputs to cross-functional collaborators.\n Data and Modelling Excellence: Ensure objectivity and difficulty by selecting the right data sources and applying industry-leading modelling techniques; run sensitivity analyses to quantify risks and opportunities.\n Launch and NPI Forecasting: Build short- and long-term new product introduction volume forecasts that feed strategic and operational planning.\n Cross-functional Integration: Align forecast assumptions across Marketing, Sales, Market Access and Pricing, Finance, and Sales Operations; demonstrate a deep understanding of integration points to drive cohesive plans.\n Business Planning Support: Lead forecasting and business planning workstreams, including sales bridges and ad-hoc analytics supporting Finance, to connect analytics to financial outcomes.\n Primary Research Integration: Incorporate insights from primary and secondary research into models to reflect real-world dynamics, risks, and upside.\n Continuous Improvement: Advance forecasting capabilities through statistical and predictive methods, simulations/Monte Carlo, scenario ranges, and automation; proactively leverage diverse tools and data sources.\n Global/US Processes: For global needs, develop new models for pipeline, lifecycle management, and business development; for US needs, participate in monthly S&OP, submit volumes, and develop weekly/monthly/yearly models and conversions. \n Essential Skills/Experience: \n Bachelor’s Degree or equivalent experience in relevant field\n 6 years of direct Pharmaceutical forecasting experience with an in-depth knowledge of forecasting techniques, models and approaches\n Good understanding of multiple disease areas, with experience in rare diseases/ OBU including how patients move through their respective diagnosis and treatment pathways, including treatment dynamics\n Experience integrating insights from market research and secondary data analysis into forecast assumptions\n Experience using various data sources and analytics involving standard data in the Pharmaceutical industry – e.g. IQVIA (MIDAS, DDD NPA, Monthly Xponent), claims data (Truven, Marketscan), epidemiological data, etc. For US forecasting, experience with TRx / NBRx / NRx data and methodologies\n Strong analytical expertise; excellent Excel, financial modelling and forecasting skills\n Ability to build trusted relationships across a range of partner groups including Marketing, Analytics, Operations, and Technology\n Proven experience in problem solving and continuous improvement\n Strong written and verbal communication \n Desirable Skills/Experience: \n Advanced degree preferred (e.g., PhD, MBA, Masters)\n Early asset forecasting, portfolio/Asset prioritization, Business development & licensing opportunity assessment\n Knowledge and experience in sophisticated statistical forecast methodologies and applied AI / ML / automation\n Experience working with Power Apps, specifically PowerBI\n For US forecasting, confirmed understanding of US reimbursement pathways and gross-to- net \n Why AstraZeneca: \n Join a high-performing, digitally savvy team that partners across the enterprise to unlock the power of science and deliver for patients. Here, unexpected teams sit in the same room to unleash bold thinking, combining data-driven decision-making with an ambitious spirit to move quickly and take balanced risks. We are trusted to do the right thing—ethics, compliance, and clarity are front and center—so your analyses become actions that matter. You will shape how the business plans and invests, while growing your craft alongside supportive colleagues who value patience as much as ambition and who share a clear line of sight from your work to patients’ lives. \n Call to Action: \n Ready to transform meticulous analysis into decisions that help deliver medicines faster? Apply now and make your impact from Bangalore on a global stage!\n We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.\n \n Date Posted \n25-Sept-2026 \n Closing Date \n08-Oct-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
-      "skills": [
-        "lifecycle management",
-        "compliance",
-        "documentation",
-        "Excel",
-        "data analysis"
-      ],
-      "experience": "6 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-09-26T08:10:08.163Z"
-    },
-    {
-      "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
       "title": "Senior Analyst, Identity Governance & Administration",
@@ -3926,7 +3891,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.736Z"
     },
     {
@@ -5226,7 +5191,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.656Z"
     },
     {
@@ -6413,8 +6378,40 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.706Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Accenture",
+      "domain": "consulting / MDM / analytics",
+      "title": "Regulatory Compliance New Associate",
+      "location": "Bengaluru, BDC9A",
+      "postedText": "Posted Yesterday",
+      "externalPath": "/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
+      "reqId": "AIOC-S01668628",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
+      "description": "Skill required: AML fraud mgmt. - Anti-Money Laundering (AML) Designation: Regulatory Compliance New Associate Qualifications: BCom Years of Experience: 0 to 1 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? • Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\n• Looking for someone with AML and Fraud mgmt experience\n• Understand & implement laws, and regulations designed to stop the practice of generating income through illegal actions during transfer of funds.\n• Anti Money Laundering law covers limited number of transactions and criminal behaviors to prevent terrorist financing and money laundering and compliance programs, including know-your-customer (KYC) rules. What are we looking for? • Primary skill - Anti-Money Laundering (AML) - P2 Roles and Responsibilities: • In this role you are required to solve routine problems, largely through precedent and referral to general guidelines.\n• Your primary interaction is within your own team and your direct supervisor.\n• In this role you will be given detailed instructions on all tasks.\n• The decisions that you make impact your own work and are closely supervised.\n• You will be an individual contributor as a part of a team with a predetermined, narrow scope of work.\n• Please note that this role may require you to work in rotational shifts \n \n \nBCom \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "skills": [
+        "compliance"
+      ],
+      "experience": "0–1 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-02T09:11:42.373Z"
     },
     {
       "source": "Workday",
@@ -6995,7 +6992,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.729Z"
     },
     {
@@ -7588,7 +7585,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.644Z"
     },
     {
@@ -7724,7 +7721,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-02T07:34:18.630Z"
     }
   ]
