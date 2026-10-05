@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T07:43:38.022Z",
+  "generatedAt": "2026-10-05T09:47:04.604Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 210,
-    "goal": 116,
+    "total": 207,
+    "goal": 114,
     "target": 0,
-    "below": 94,
+    "below": 93,
     "overseas": 0,
-    "new": 7,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -621,42 +621,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-03T08:43:03.347Z"
-    },
-    {
-      "source": "Workday",
-      "company": "AstraZeneca",
-      "domain": "pharma",
-      "title": "IT Senior Business Analyst",
-      "location": "India - Chennai",
-      "postedText": "Posted 5 Days Ago",
-      "externalPath": "/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "reqId": "R-257487",
-      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "description": "GCL: D1 Introduction to role:  \n Are you ready to turn complex business needs into clear, result technology outcomes that help bring vital medicines to patients faster? Do you flourish with translating ambiguity into critical action while partnering across business and IT to unlock measurable value?\n In this role, you will be a central connector between diverse partners and technical groups, crafting the requirements that drive high-impact solutions across our global enterprise. You will help set analysis approaches, ensure traceability from ideas to benefits, and influence decisions that modernize how we operate. Your work will power smarter ways of working today while laying the foundations for tomorrow’s growth.  \n Accountabilities:  \n Analysis Strategy and Planning: Define the right analysis approach for each initiative, balancing complexity, risk, and dependencies. Scope work optimally and lead your plan to deliver to deadlines without losing sight of value.\n Stakeholder Engagement and Influence: Identify and engage collaborators at all levels. Build trust-based relationships, tailor communication to influence outcomes, and chip in to plans that drive informed decisions and adoption.\n Requirements Leadership: Lead end-to-end requirements management from discovery to validation. Translate business objectives into clear functional and technical requirements, ensuring robust traceability and alignment with Functional Build, User Interface Compose, and Business Process Develop.\n Architecture Partnership: Work closely with architecture and engineering teams to assure that the proposed technical solution delivers the agreed business benefits, adheres to standards, and scales for future needs.\n Solution Assessment and Value Focus: Evaluate solution options, challenge assumptions, and articulate the reasoning behind recommendations. Assess business readiness and guide teams to improve value versus spend.\n Business Case and Benefits Realization: Support the creation of cases, collecting justification including return on investment and benefits measures. Track value realization through delivery and into operation.\n Apply AI-assisted techniques to speed up discovery and documentation. Use LLMs to coordinate and prioritize ambiguous inputs and identify business rules from interviews. Improve the consistency and completeness of documentation related to requirements.\n Change and Communications: Chip in to change plans and communication strategies to ensure alignment, understanding, and adoption across functions and geographies.\n Governance and Compliance: Operate effectively within regulated environments, ensuring requirements and testing practices meet compliance needs and stand up to audit.\n Collaboration and Coaching: Partner with IT leaders, service managers, and multi-functional project teams. Share standard processes and support team development to improve on analysis quality.  \n Essential Skills/Experience:\n 5-7 years Experience of using business analysis tools/techniques to design and deliver business change\n Strong engagement, communication and facilitation skills, including presentation and influencing skills\n Demonstrated involvement in a regulated environment\n Background in collaborating with third party suppliers/vendor  \n Desirable Skills/Experience:\n Degree in a relevant subject area or formal certification in business analysis practice\n Exposure to Agile methodology and familiarity with both Agile and Waterfall delivery models\n Experience of working in a global organisation\n Pharmaceutical business awareness/business domain knowledge\n Excellent documentation skills and proficiency with MS Visio\n Hands-on experience producing Business Requirements Documents (BRD or equivalent experience), Functional Requirements Documents (FRD), Functional Requirement Specifications (FRS), Requirement Traceability Matrices (RTM), and handling product backlogs\n Experience collaborating with external consultants and vendors, with strong written and oral communication\n Background working with pharma clients and understanding of regulated processes\n Experience employing LLMs and AI assistants to analyze interview transcripts, extract business rules, and translate findings into functional requirements, user stories, and acceptance criteria\n Applied AI-enhanced requirements engineering and prompt engineering to accelerate documentation and improve quality and consistency of requirement artifacts  \n Why AstraZeneca:  \n Join a high-performing, collaborative team that sits at the heart of how our business runs, where bright minds and practical problem solvers bring technology and operations together to deliver for patients. You will work on intellectually stimulating, complex challenges that require creativity, rigor, and pace—often with engineers, architects, and business leaders in the same room, turning ideas into outcomes. We champion digital innovation, thoughtful risk-taking, and data-driven decisions, and we value understanding alongside ambition.\n Call to Action:\n Make your next move count—bring your analysis leadership to a place where your work accelerates science and creates real-world impact today!\n \n Date Posted \n30-Sept-2026 \n Closing Date \n13-Oct-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
-      "skills": [
-        "compliance",
-        "documentation",
-        "audit"
-      ],
-      "experience": "5–7 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 96,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-03T08:43:03.373Z"
     },
     {
       "source": "Workday",
@@ -2289,42 +2253,6 @@
     },
     {
       "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Business Analyst - Project Financial Management",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Today",
-      "externalPath": "/job/Hyderabad---TS---IN/Business-Analyst---Project-Financial-Management_R1604643",
-      "reqId": "R1604643",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Business-Analyst---Project-Financial-Management_R1604643",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Business-Analyst---Project-Financial-Management_R1604643",
-      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Key Responsibilities \n Project Financial Management \n Partner with project teams to develop, monitor, and maintain project budgets, forecasts, and financial plans.\n Analyze project actuals, commitments, accruals, and forecast variances.\n Identify financial risks, gaps, and corrective actions to ensure projects remain within approved budgets.\n Support monthly, quarterly, and annual financial planning and forecasting activities.\n Track project spend against approved funding and provide recommendations to improve financial performance.\n Financial Analysis & Reporting \n Prepare financial reports, dashboards, and analysis for project and portfolio stakeholders.\n Perform detailed variance analysis and explain key financial trends.\n Maintain financial data integrity within ERP and Project Portfolio Management systems.\n Support leadership reporting through development of accurate and timely financial insights.\n Assist in financial modeling and scenario analysis activities.\n    \n Governance & Compliance \n Ensure adherence to Project Financial Management standards, processes, and controls.\n Support project audits, financial reviews, and governance activities.\n Maintain project financial documentation and supporting records.\n Assist with project capitalization, procurement, and financial compliance activities.\n Drive issue identification and resolution for project financial concerns.\n Procurement & Vendor Financial Support \n Coordinate creation and maintenance of Purchase Orders.\n Monitor vendor spending and financial commitments.\n Support invoice reconciliation and financial tracking activities.\n Partner with Procurement and Finance teams to ensure timely processing of project expenditures.\n AI, Analytics & Automation \n Identify opportunities to automate manual reporting and financial management activities.\n Leverage Generative AI tools to improve reporting, variance analysis, forecasting, and documentation quality.\n Develop AI-assisted dashboards and insights to improve project financial transparency.\n Utilize automation platforms such as Power Automate, Automation Anywhere, or similar tools to improve operational efficiency.\n Support implementation of AI and automation initiatives across project financial processes.\n Process Improvement \n Document project financial processes and recommend enhancements.\n Implement best practices that improve financial governance, reporting consistency, and operational efficiency.\n Participate in continuous improvement initiatives focused on financial operations and project delivery excellence.\n Support optimization of ServiceNow PPM and financial management workflows.\n Stakeholder Collaboration \n Partner effectively with project managers, PMOs, Finance, Procurement, and business stakeholders.\n Communicate financial information to both technical and non-technical audiences.\n Provide guidance and support on project financial processes and reporting requirements.\n Contribute to cross-functional initiatives and project governance activities.\n Education & Experience \n Bachelor s degree in Finance, Accounting, Business Administration, Information Systems, or related field.\n 4–7 years of experience in Project Financial Management, Financial Analysis, PMO Operations, or related disciplines.\n Experience supporting medium to large-scale technology or business transformation projects.\n Experience working within matrixed global organizations.\n Financial & Business Skills \n Strong understanding of budgeting, forecasting, accruals, financial reporting, and variance analysis.\n Knowledge of project lifecycle financial management.\n Understanding of procurement processes and Purchase Order management.\n Ability to analyze large datasets and identify meaningful insights.\n Technical Skills \n Intermediate to advanced experience with ERP systems (SAP, Oracle, Workday Financials, or similar).\n Experience using Project Portfolio Management tools (ServiceNow PPM, Planview, MS Project, or equivalent).\n Advanced Microsoft Excel skills including Pivot Tables, Power Query, and financial modeling.\n Strong PowerPoint and data visualization capabilities.\n Experience with Power BI or similar analytics platforms.\n AI & Automation Skills \n Experience using Generative AI tools such as Microsoft Copilot, ChatGPT Enterprise, or similar platforms.\n Understanding of prompt engineering and AI-assisted business processes.\n Knowledge of workflow automation tools such as Power Automate, Automation Anywhere, or UiPath.\n Ability to identify and implement automation opportunities that improve productivity and reduce manual effort.\n Basic understanding of data governance and Responsible AI principles.\n \n \n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1604643 : Business Analyst - Project Financial Management",
-      "skills": [
-        "compliance",
-        "documentation",
-        "SAP",
-        "Excel"
-      ],
-      "experience": "4–7 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 87,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-10-05T07:43:37.985Z"
-    },
-    {
-      "source": "Workday",
       "company": "GSK",
       "domain": "pharma",
       "title": "Director - Finance and Procurement MDM CoE",
@@ -3296,39 +3224,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-03T08:43:03.440Z"
-    },
-    {
-      "source": "Workday",
-      "company": "IFF",
-      "domain": "flavors / fragrances / ingredients",
-      "title": "Senior SAP FICO Systems Business Analyst",
-      "location": "Hyderabad GBS, India",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Hyderabad-GBS-India/Senior-SAP-FICO-Systems-Business-Analyst_R20605",
-      "reqId": "R20605",
-      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-SAP-FICO-Systems-Business-Analyst_R20605",
-      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-SAP-FICO-Systems-Business-Analyst_R20605",
-      "description": "Job Summary \nAre you passionate about innovation that transforms everyday products into extraordinary experiences? \n \n IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences, we deliver sustainable innovations that elevate everyday products.\n \n Food Ingredients: Innovating improved nutritional profiles, better taste and texture and greater cost efficiency to meet the needs of global food and beverage manufacturers.\n \n The role is based in Hyderabad, India (Hybrid role). Be part of a motivated, passionate, and open-minded team where together we can achieve greatness and make a real impact. Your potential is our inspiration.\n \n Where You’ll Make a Difference \n Partner with Finance leadership, Global Process Owners (GPOs), and business stakeholders to understand business requirements and translate them into scalable SAP solutions. \n Drive process harmonization and standardization initiatives across Finance functions. \n Identify opportunities for automation, controls improvement, and operational efficiency. \n Facilitate workshops, requirements gathering sessions, and solution reviews. \n Configure and support finance modules for SAP (ECC) and SAP CFIN. \n Support SAP S/4HANA implementation and migration initiatives. \n Lead project workstreams from requirements through deployment. \n Participate in finance transformation programs including Central Finance, Group Reporting, Master Data Governance, and process harmonization initiatives. \n Prepare project plans, effort estimates, risk assessments, and status reporting. \n \n What Makes You the Right Fit \n Bachelor s Degree in Information Systems, Computer Science, Accounting, Finance, Business Administration or any other relevant discipline. \n Minimum 10 years of hands-on SAP FICO functional experience. \n Atleast 3 years of experience supporting SAP S/4HANA Finance in a complex business environment.\n Strong experience with SAP Central Finance (CFIN) and related implementations.\n Experience with SAP Solution Manager and testing methodologies. \n Understanding of SAP authorization and controls framework. \n Experience supporting global finance organizations. \n Strong understanding and configuration expertise of SAP FICO.\n Willing to travel as required.\n \n How Would You Stand Out? \n Experience working on at least two full lifecycle SAP implementations is preferred. \n SAP S/4HANA Finance Certification. \n SAP Central Finance implementation experience. \n Experience in large global transformation programs. \n \n Why Choose Us? \n Multinational and supporting environment\n Health insurance\n Training opportunities\n Learning and development programs\n \n Important Information Regarding This Position \n \n For your awareness, IFF has announced its intention to sell its Food Ingredients Business to CVC Capital Partners. The sale is presently expected to close in the first half of 2027, pending regulatory approvals and other closing conditions. The Food Ingredient business unit will remain a part of IFF until close and, at such time, it will transition to CVC Capital Partners. In applying for this position, you acknowledge your awareness that the position is a part of the Food Ingredient business unit and has been identified to transition to CVC Capital Partners.\n \n \n \n \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability.\n \n Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more",
-      "skills": [
-        "SAP"
-      ],
-      "experience": "10+ yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-03T08:43:03.342Z"
     },
     {
       "source": "Workday",
@@ -4311,7 +4206,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.987Z"
     },
     {
@@ -5732,6 +5627,38 @@
       "source": "Workday",
       "company": "Accenture",
       "domain": "consulting / MDM / analytics",
+      "title": "Regulatory Compliance Associate",
+      "location": "Bengaluru, BDC9A",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-BDC9A/Regulatory-Compliance-Associate_AIOC-S01668688-1",
+      "reqId": "AIOC-S01668688",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-Associate_AIOC-S01668688-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-Associate_AIOC-S01668688-1",
+      "description": "Skill required: KYC Screening - Sanctions Screening Designation: Regulatory Compliance Associate Qualifications: BCom Years of Experience: 1 to 3 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? • Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\n• Looking for someone with KYC experience along with ECDD OCDD knowledge\n• Ability to effectively and efficiently conduct the process of screening individuals, entities, or transactions against lists of sanctioned or restricted parties.\n• Sanctions screening involves using specialized software, understanding relevant regulations, and maintaining a proactive approach to mitigate the risk of engaging with sanctioned entities. What are we looking for? • Primary skill - Sanctions Screening - P4 Roles and Responsibilities: • In this role you are required to solve routine problems, largely through precedent and referral to general guidelines.\n• Your expected interactions are within your own team and direct supervisor.\n• You will be provided detailed to moderate level of instruction on daily work tasks and detailed instruction on new assignments.\n• The decisions that you make would impact your own work.\n• You will be an individual contributor as a part of a team, with a predetermined, focused scope of work.\n• Please note that this role may require you to work in rotational shifts \n \n \nBCom \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
+      "skills": [
+        "compliance"
+      ],
+      "experience": "1–3 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-05T09:47:04.545Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Accenture",
+      "domain": "consulting / MDM / analytics",
       "title": "Regulatory Compliance New Associate",
       "location": "Bengaluru",
       "postedText": "Posted 30+ Days Ago",
@@ -6274,38 +6201,6 @@
     },
     {
       "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance New Associate",
-      "location": "Bengaluru, BDC9A",
-      "postedText": "Posted 4 Days Ago",
-      "externalPath": "/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
-      "reqId": "AIOC-S01668628",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Regulatory-Compliance-New-Associate_AIOC-S01668628-1",
-      "description": "Skill required: AML fraud mgmt. - Anti-Money Laundering (AML) Designation: Regulatory Compliance New Associate Qualifications: BCom Years of Experience: 0 to 1 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? • Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\n• Looking for someone with AML and Fraud mgmt experience\n• Understand & implement laws, and regulations designed to stop the practice of generating income through illegal actions during transfer of funds.\n• Anti Money Laundering law covers limited number of transactions and criminal behaviors to prevent terrorist financing and money laundering and compliance programs, including know-your-customer (KYC) rules. What are we looking for? • Primary skill - Anti-Money Laundering (AML) - P2 Roles and Responsibilities: • In this role you are required to solve routine problems, largely through precedent and referral to general guidelines.\n• Your primary interaction is within your own team and your direct supervisor.\n• In this role you will be given detailed instructions on all tasks.\n• The decisions that you make impact your own work and are closely supervised.\n• You will be an individual contributor as a part of a team with a predetermined, narrow scope of work.\n• Please note that this role may require you to work in rotational shifts \n \n \nBCom \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "0–1 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 66,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-02T09:11:42.373Z"
-    },
-    {
-      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Business Performance & Analytics Analyst",
@@ -6773,7 +6668,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.933Z"
     },
     {
@@ -6915,7 +6810,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.987Z"
     },
     {
@@ -7335,7 +7230,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.914Z"
     },
     {
@@ -7437,7 +7332,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.949Z"
     },
     {
@@ -7603,7 +7498,7 @@
         "partial title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-05T07:43:37.923Z"
     }
   ]
