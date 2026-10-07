@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-07T07:46:28.911Z",
+  "generatedAt": "2026-10-07T09:30:37.443Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 200,
+    "total": 201,
     "goal": 121,
     "target": 0,
-    "below": 79,
+    "below": 80,
     "overseas": 0,
-    "new": 8,
+    "new": 3,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -176,7 +176,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.874Z"
     },
     {
@@ -451,7 +451,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.783Z"
     },
     {
@@ -1377,7 +1377,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.805Z"
     },
     {
@@ -1985,42 +1985,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-03T08:43:03.382Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Sanofi",
-      "domain": "pharma",
-      "title": "Master Data Manager",
-      "location": "Hyderabad",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/Hyderabad/Master-Data-Manager_R2871652",
-      "reqId": "R2871652",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Manager_R2871652",
-      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Manager_R2871652",
-      "description": "Job Title: Master Data Manager\n Hiring Manager: Team Lead Master Data Management\n Location: Hyderabad\n Job Type: Permanent\n   \n About the job  \n   \n Job purpose   \n Secure master data (MD) quality and availability at the Sanofi target  \n Support master data quality improvement activities across all sites in the frame of M&S master data playbook  \n Identify any master data quality and availability issues and propose solutions and remediation (continuous improvement spirit)  \n   \n   Key accountabilities   \n Represent your teams and report to respective leads   \n Collect and raise continuous improvement (CI) measures to improve collaboration between business operations and business stakeholders, prepare relevant materials to obtain senior leadership buy-in  \n Understand and put in place effective governance mechanism \n Regular performance reviews of team  \n To motivate team members to improve everyday  \n To ensure required skills of team members and increase retention rate  \n Identify and leverage synergies across the different teams within MD business operations  \n Be the first level of escalation for your team   \n Liaise with key business stakeholders (e.g. Business Process / System Owner)  \n Lead a team performing the following MD activities:   \n Ensuring data standards and data quality targets are met, suggest business rules based on recurring data issues  \n Coordinating MD collection to ensure efficient e2e data maintenance processes and preparing MD extraction to support business meeting (e.g., capability review)  \n Checking single / mass MD requests and performing data enrichments  \n Driving continuous improvement by identifying and raising initiatives to respective team lead  \n Supporting MD evolution, projects, and improvement initiatives, including cleansing initiatives and migrations  \n Providing input for documentation, training materials, and knowledge management   \n Maintaining MD user authorizations per system and role  \n Supporting MD community on site level, incl. data content owner/ MD users and conduct impact analyses for upcoming site project  \n Contributing to the education of the MD community   \n Monitoring the SLA of the MD creation / modification/ deactivation processes, and supporting the development of KPIs, data quality dashboards and scorecards  \n   \n About you   \n   \n Preferred Skills/Expertise/Experience:   \n Experience:    \n Minimum 3 years as team leader in Master Data Management with knowledge of pharma industry (e.g., GxP)  \n Work experience / educational background in supply chain mgmt. / logistics  \n   \n Skills/Expertise:   \n Strong understanding of Master Data Management and data governance frameworks   \n Work experience with SAP ERP (ECC 6.0, S/4H, MM & MDG modules)  \n Mandatory English, preferably languages for key markets (French, Spanish)​  \n   \n Competency requirements:   \n Lead and motivate the team to get better everyday  \n Be a good communicator and leader to resolve ad-hoc issues  \n Strong willingness to learn  \n   \n Sanofi values   \n Stretch to go beyond the level we have operated at up until now  \n Act in the interest of our patients and customers   \n Take action instead of waiting to be told what to do   \n Put the interests of the organization ahead of my own or those of our team  \n   \n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
-      "skills": [
-        "GxP",
-        "documentation",
-        "SAP"
-      ],
-      "experience": "3+ yrs",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 91,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-03T08:43:03.359Z"
     },
     {
       "source": "Workday",
@@ -2901,44 +2865,6 @@
     },
     {
       "source": "Workday",
-      "company": "Sanofi",
-      "domain": "pharma",
-      "title": "Master Data Expert",
-      "location": "Hyderabad",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/Hyderabad/Master-Data-Expert_R2871509-1",
-      "reqId": "R2871509",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Expert_R2871509-1",
-      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Master-Data-Expert_R2871509-1",
-      "description": "Job title: Master Data Expert \n Job Purpose \n Ensure high-quality, accurate, and compliant master data across systems and business processes\n Act as the functional expert for Master Data Management, supporting data governance, data quality, and process standardization initiatives\n Provide expert guidance to business stakeholders, data owners, and operational teams on master data-related topics\n Key Accountabilities : \n Master Data Governance & Quality \n Ensure compliance with master data standards, governance policies, and business rules\n Monitor and recommend data quality rules based on recurring data issues and business requirements\n Drive root cause analysis and corrective actions for master data quality issues\n Review and validate complex master data requests and ensure data accuracy and completeness\n Support creation, modification, enrichment, and deactivation of master data according to established procedures\n Coordinate data collection activities and support end-to-end master data maintenance processes\n Support mass maintenance, cleansing activities, data migrations, and system enhancements\n Stakeholder Engagement & Advisory \n Serve as the primary subject matter expert for Material Master and related master data domains\n Partner with Business Process Owners, System Owners, Site Teams, Supply Chain, Manufacturing, and Quality stakeholders\n Provide expert guidance on master data requirements, governance standards, and business impacts\n Support audits and compliance activities by providing master data expertise and documentation\n Continuous Improvement & Innovation \n Identify opportunities to improve data quality, governance, process efficiency, and user experience\n Lead or contribute to continuous improvement initiatives and automation opportunities\n Participate in master data transformation projects, process harmonization initiatives, and system implementations\n Recommend best practices and innovative solutions to improve master data effectiveness\n Support KPI development, scorecards, dashboards, and reporting mechanisms\n Knowledge Management & Capability Building \n Develop and maintain process documentation, work instructions, and governance standards\n Support training and education programs for the master data community and business users\n Act as a knowledge resource for complex master data issues and process-related queries\n Share best practices and lessons learned across business units and sites\n Support system testing activities including UAT, validation, and process verification\n About You : \n Experience \n Minimum 5-7 years of experience in Master Data Management\n Strong understanding of Material Master processes and data governance principles\n Experience working within the pharmaceutical, life sciences, manufacturing, or supply chain environment\n Background in Supply Chain Management, Logistics, Manufacturing Operations, or related disciplines is preferred\n Technical Skills \n Hands-on experience with SAP ECC 6.0 and/or SAP S/4HANA\n Strong knowledge of SAP MM and SAP MDG modules\n Experience with data quality tools, reporting, and dashboard solutions\n Advanced Excel and data analysis skills\n Competencies \n Ability to influence stakeholders through expertise and credibility\n Strong analytical and problem-solving mindset\n Excellent communication and stakeholder management skills\n Strong attention to detail and commitment to data quality\n Continuous improvement mindset with a focus on operational excellence.\n Ability to work independently and manage complex issues.\n Strong learning agility and willingness to embrace change.\n Customer-focused and committed to delivering business value.\n Takes ownership and proactively drives solutions.\n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
-      "skills": [
-        "compliance",
-        "documentation",
-        "SAP",
-        "Excel",
-        "data analysis",
-        "stakeholder management"
-      ],
-      "experience": "5–7 yrs",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 84,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-03T08:43:03.360Z"
-    },
-    {
-      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Data Analyst I",
@@ -3047,7 +2973,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.847Z"
     },
     {
@@ -4177,7 +4103,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.798Z"
     },
     {
@@ -5053,6 +4979,41 @@
     },
     {
       "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Senior Analyst, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
+      "reqId": "446851",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
+      "description": "Position Summary You will design, build and validate clinical data acquisition solutions. You will work closely with clinical operations, statistics, IT and external vendors to ensure high quality and compliant data for studies. We value clear communication, technical curiosity and continuous improvement. This role offers growth, real impact and the chance to help unite science, technology and talent to get ahead of disease together.\n \n Key Responsibilities \n Design, develop, validate, and maintain complex clinical data review solutions and reporting assets.\n Lead implementation of CDB Checks, Listings, Reconciliations, Medical/Safety Reviews, PD Reviews, and CDMS reporting solutions.\n Translate protocol and business requirements into scalable, automated review workflows and visualizations.\n Provide technical oversight for solution architecture, coding standards, validation practices, and quality compliance.\n Develop reusable libraries, frameworks, and automation capabilities to improve efficiency and standardization.\n Support complex data reconciliations across EDC, laboratory, safety, imaging, and other external data sources.\n Mentor and provide technical guidance to programmers and study teams.\n Partner with Data Management and cross-functional stakeholders to deliver study milestones and inspection-ready outputs.\n Drive continuous improvement, innovation, and adoption of emerging technologies within clinical data review programming.\n \n Basic Qualification \n Advanced experience in Clinical Data Management, Clinical Data Review Programming, or related clinical systems roles.\n Strong expertise in Veeva CDB, Veeva CDMS Reports, Domino, R, Python, SQL, and clinical data standards.\n Deep understanding of clinical trial processes, data review methodologies, reconciliation processes, and regulatory requirements.\n Demonstrated ability to lead complex technical initiatives and influence cross-functional stakeholders.\n \n Basic Education/Experience \n Bachelor’s degree in engineering, Life Sciences, Computer Sciences, Mathematics and Physics or equivalent.\n 4 years of data acquisition experience or related job experience in Clinical Research or Information Systems and/or relevant scientific experience.\n Skills \nClinical Data, Python (Programming Language), R Programming, Veeva  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "compliance"
+      ],
+      "experience": "4 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 71,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-07T09:30:37.424Z"
+    },
+    {
+      "source": "Workday",
       "company": "Lonza",
       "domain": "pharma / chemical",
       "title": "Senior Business Intelligence Analyst",
@@ -5319,7 +5280,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.800Z"
     },
     {
@@ -6201,7 +6162,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.810Z"
     },
     {
@@ -6599,7 +6560,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-07T07:46:28.799Z"
     },
     {
@@ -7028,6 +6989,40 @@
     },
     {
       "source": "Workday",
+      "company": "Dow",
+      "domain": "chemical",
+      "title": "SAP SD IT Analyst",
+      "location": "Navi Mumbai (IND)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Navi-Mumbai-IND/SAP-SD-IT-Analyst_R2068590",
+      "reqId": "R2068590",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/SAP-SD-IT-Analyst_R2068590",
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/SAP-SD-IT-Analyst_R2068590",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role \n As an Information Technology Analyst you will design, develop, and support solutions and processes to meet business needs and requirements. Work in a business process, enabling, or implementation team, and applies general knowledge of Information Systems, which is typically developed through formal education. \n In this role, you will require conceptual knowledge of theories, practices, and procedures as well as having general business knowledge developed through education or prior experience related to your discipline and functional area. You will need to have the ability to exchange straightforward information with others and ask questions to check for understanding. \n It is your responsibility to use established procedures and practice to analyze and resolve standard problems. You will be accountable for assigned contributions with no direct supervisory responsibilities. Your performance impacts your own work with limited impact on your team. You will need to use established procedures and practices to achieve objectives and meet deadlines.  \n Responsibilities \n Duties, projects, tasks, and activities you would be responsible for in this role. \n Gathers and analyzes business requirements for assigned functional and technical areas. \n Works closely with business process teams, technical teams and other stakeholders to design and build objects which meet requirements. \n Documents detailed designs.\n Builds, tests and implements application objects. \n Assists with issue resolution. \n Helps ensure that functional and technical designs meet business requirements, conform to Dow architecture standards, and optimize productivity and long-term product/system vision.\n Qualifications \n Bachelor degree in IT discipline preferred or a minimum of 3 years of relevant experience.  \n Your skills \n Experience with SAP ECC with a focus in Sales & Distribution (SD) configuration and processes .\n Experience with design and configuration of  SAP ERP (SD module) , and/or  Microsoft Dynamics CRM technology platforms .\n Experience with order to cash  and  customer service  business processes (order management, case management, etc.) \n Experience with  system integrations, configuration, data management, and troubleshooting complex application issues. \n SAP S4 HANA is good to have.\n Additional notes  \n This position does not offer relocation assistance.\n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
+      "skills": [
+        "REACH",
+        "SAP"
+      ],
+      "experience": "3+ yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 60,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-07T09:30:37.355Z"
+    },
+    {
+      "source": "Workday",
       "company": "IFF",
       "domain": "flavors / fragrances / ingredients",
       "title": "Senior Analyst, Accounting",
@@ -7094,6 +7089,39 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-03T08:43:03.391Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Analyst Customer Facing Effectiveness",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2870406",
+      "reqId": "R2870406",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2870406",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2870406",
+      "description": "Job Title: Analyst - Customer Facing Effectiveness\n Job Location: Hyderabad\n About the job \n  \n Strategic context: \n  \n Sanofi has currently the best and most robust pipeline of R&D and consequent new launches of our history. As new phase of Play-To-Win strategy, funding this pipeline and new launches is key to materialize the miracles of the science to improve people lives. Thus, as we enter the next phase, modernization of Sanofi is required as per the recent announcements on DRIVE, and in this respect, we are in the beginning stages of organizing the Go-to-Market Capabilities (GTMC) team at global level.\n  \n The GTMC organization will help us to drive best-in-class capabilities across the board and bring value and excellence in our commercial operations. This move is a key part of the aimed modernization of Sanofi and will allow us to focus on our priorities across our products, market and pipeline through the reallocation of resources and realizing the efficiencies of removing silos that exist between our business units, avoiding the duplication and overlapping of resources, standardizing our processes and tools, operating with a One Sanofi approach to accelerate our key capabilities development, and fostering the entrepreneurial spirit by speeding up the decision making.\n  \n As a Customer Effectiveness Analyst within our global Go-To-Market-Capabilities (GTMC) Team, you’ll design, manage, and analyze data-driven incentive plans, support localization by allocating sales targets, manage incentive simulations based on global policies, track performance using KPIs for sales effectiveness, and ensure global alignment of incentive processes, customer profiling and segmentation analysis, assist in resource allocation and call planning efforts based on segmentation insights, and track sales targets and KPIs within the Customer Facing Hub.\n  \n Main responsibilities: \n  \n Provide support in managing and analyzing incentive plans, ensuring they are effective and aligned with business objectives.\n Assist in developing data-driven sales targets to drive performance and achieve organizational goals.\n Support creation of dashboards, creation and analysis of KPIs, to track and monitor sales force effectiveness and efficiency\n Refresh report on frequency/cycle basis (weekly/monthly/quarterly/annually), along with QC checks for each refresh.\n Assist in customer profiling, segmentation and targeting exercise that align with strategic business goals.\n Contribute to setting up call plans to enhance sales force efficiency and effectiveness based on segmentation and targeting approaches.\n undefined\n About you   \n Experience : 2 years of experience within commercial operations (preferable within the healthcare and pharmaceutical industry).\n Soft and Technical skills : Knowledge of IC and tools like Javelin, Zaidyn, SalesIQ, SQL, SAS etc.; Experience of using analytical tools like Power BI, Qliksense, Tableau, Smartsheet, and Alteryx etc is a plus ; High persistency and resilience.;Proficient of Excel/word/powerpoint; Ability to work collaboratively in a fast-paced environment, effectively communicating complex technical concepts to non-technical stakeholders.; Knowledge of industry-specific trends and market dynamics is a plus.; Strong numeracy, analytical skills and financial acumen.\n Education : Higher education in Business Administration, Finance or a similar field.\n Languages : Excellent knowledge of English language (spoken and written). \n Why chose us?   \n Bring the miracles of science to life alongside a supportive, future-focused team.\n Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.\n Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.\n Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention and wellness programs and at least 14 weeks’ gender-neutral parental leave.\n Play an instrumental part in creating best practice within our Go-to-Market Capabilities.   \n \n Pursue progress, discover extraordina ry  \n Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !\n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
+      "skills": [
+        "Excel"
+      ],
+      "experience": "2 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 58,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-07T09:30:37.379Z"
     },
     {
       "source": "Workday",
