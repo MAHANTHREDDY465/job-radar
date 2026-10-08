@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T08:02:43.168Z",
+  "generatedAt": "2026-10-08T09:39:43.751Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 201,
-    "goal": 117,
+    "total": 203,
+    "goal": 118,
     "target": 0,
-    "below": 84,
+    "below": 85,
     "overseas": 0,
-    "new": 11,
+    "new": 2,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -935,7 +935,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.078Z"
     },
     {
@@ -2119,6 +2119,41 @@
     },
     {
       "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Senior Analyst - Data Quality",
+      "location": "India - Chennai",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Chennai/Senior-Analyst---Data-Quality_R-261419-1",
+      "reqId": "R-261419",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Analyst---Data-Quality_R-261419-1",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Analyst---Data-Quality_R-261419-1",
+      "description": "Job Title: Senior Analyst - Data Quality\n Career Level: D1\n Introduction to role:\n Are you ready to turn raw data into trusted intelligence that accelerates decisions and improves patient outcomes? As a Senior Analyst - Data Quality based in Chennai, you will build the enterprise-grade controls that make our global data products accurate, reliable and ready for advanced analytics and AI. Your work will unlock confident decisions at scale across science, operations and markets.\n You will join a high-performing, digitally savvy team that thrives on inclusive collaboration and fast learning. By designing reusable validation frameworks, automation utilities and scalable monitoring, you will reduce data risk, speed up delivery and create transparency for customers. How will you translate complex pipelines into simple, measurable quality signals that teammates and leaders can act on fast?\n Accountabilities:\n Data Quality Engineering: Design, develop and implement SQL and Databricks validations aligned to business rules and quality standards, ensuring completeness, consistency and reliability across shared data platforms.\n Reusable Frameworks and Automation: Build modular scripts, utilities and reusable components in Python to scale data validation and monitoring across multiple pipelines and products.\n Monitoring and Reporting: Create and maintain Power BI dashboards, critical metric scorecards and reports that give customers self-service insight into data quality performance, SLA alignment and data health trends; provide clear narratives and alerts that drive action.\n Issue Triage and Root Cause Analysis: Lead investigations across source systems, ingestion pipelines and transformation layers to identify anomalies and systemic issues; partner with engineering and upstream teams to implement remediation and preventative controls.\n Data Governance and Documentation: Maintain robust documentation for data quality rules, validation logic, data contracts and critical metric definitions; support metadata tagging, taxonomy and ontology alignment to enable AI-ready data products.\n Customer Partnership and Enablement: Work closely with data product \n managers and multi-functional teams to embed quality by design, prioritize backlogs and communicate outcomes that influence decision-making.\n Continuous Improvement and Standards: Standardize guidelines for data quality across cloud platforms, continuously improve performance and cost efficiency, and help set enterprise-wide quality benchmarks that scale with growth.\n Essential Skills/Experience:\n Education: Quantitative bachelor’s degree (Engineering, Statistics, Applied Math, Computer Science, Data Science, Economics, or related).\n 5 years of experience in data quality management, ETL data management systems, or data analytics roles.\n Solid experience implementing data quality controls, data validation rules, or data integrity monitoring frameworks.\n Demonstrated experience in ETL pipeline operations and management, with handson knowledge of modern data warehouse and data lake architectures.\n Advanced SQL development skills including CTEs, window functions, complex joins, and performance optimization.\n Experience working with distributed data processing platforms such as Databricks, Apache Spark, or PySpark.\n Strong Python programming skills for automation, scripting, data processing.\n Experience working with cloud data platforms such as AWS, MS-Azure, Snowflake, or Amazon Redshift.\n Strong documentation, communication, and customer collaboration skills.\n Desirable Skills/Experience:\n Experience with data observability tools or monitoring frameworks.\n Experience with metadata driven validation or data contracts.\n Familiarity with enterprise data governance platforms such as Collibra.\n Experience working in large global organizations or regulated industries.\n Exposure to pharmaceutical, healthcare, or commercial analytics datasets.\n Experience with Power BI, Excel, or BI tools for data quality monitoring and reporting.\n When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That s why we work, on average, a minimum of three days per week from the office. But that doesn t mean we re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n Why AstraZeneca:\n Here, your expertise in data quality fuels decisions that matter—pairing cutting-edge cloud technologies with a culture that values curiosity, collaboration and momentum. You will work where diverse perspectives meet to solve complex problems, building AI-ready data products that strengthen how we operate and ultimately serve patients. We combine ambition with support, valuing kindness alongside high standards, so you can take smart risks, learn quickly and see your impact ripple across a global enterprise.\n Call to Action:\n Take the lead in shaping trusted, AI-ready data at scale and accelerate your impact—submit your application and help us turn scientific insight into better outcomes, faster.\n \n Date Posted \n08-Oct-2026 \n Closing Date \n13-Oct-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+      "skills": [
+        "documentation",
+        "Excel"
+      ],
+      "experience": "5 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 89,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-08T09:39:43.660Z"
+    },
+    {
+      "source": "Workday",
       "company": "Dow",
       "domain": "chemical",
       "title": "Product Stewardship Specialist",
@@ -2154,7 +2189,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.030Z"
     },
     {
@@ -3158,6 +3193,40 @@
     },
     {
       "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Analyst - Data Quality",
+      "location": "India - Chennai",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Chennai/Analyst---Data-Quality_R-261427",
+      "reqId": "R-261427",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Analyst---Data-Quality_R-261427",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Analyst---Data-Quality_R-261427",
+      "description": "Analyst - Data Quality\n Career Level: C3\n Introduction to role:\n Are you ready to turn raw enterprise data into trusted insights that accelerate decisions impacting patients worldwide? As an Analyst - Data Quality based in Chennai, you will strengthen the backbone of our global data platforms, ensuring our data products are accurate, complete, and reliable for analytics and reporting that matter.\n You will implement and monitor data quality controls across shared data platforms, working closely with data engineers and business partners. Can you see yourself diagnosing issues at their source and partnering with teams to deliver fixes that stick? Your work will directly improve the performance of dashboards and critical metrics used across the enterprise, enabling faster, better decisions.\n In this role, you will sharpen your SQL, Python, and cloud data skills while contributing to AI-ready data products. You will join a collaborative, fast paced environment where diverse perspectives and digital innovation drive meaningful outcomes.\n Accountabilities:\n Data Quality Management: Implement data validation and quality rules using SQL to ensure completeness, accuracy, and consistency; develop reusable scripts and queries to automate checks and improve coverage.\n Monitoring and Reporting: Build and maintain Power BI dashboards, critical metric scorecards, and monitoring reports that track data health trends, SLA adherence, and issue backlogs; help customers access and interpret quality metrics to drive action.\n Issue Triage and Root Cause Analysis: Investigate issues across source systems, ingestion pipelines, and transformation layers; collaborate with data engineering and upstream teams to validate fixes and prevent recurrence.\n Documentation and Governance: Maintain clear documentation for rules, validation logic, benchmark definitions, and monitoring processes; support metadata tagging, taxonomy and ontology alignment to enable AI-ready data products in partnership with product managers and governance teams.\n Customer Collaboration: Partner with senior team members, Data Product Managers, Market squads, and central governance teams to align on quality standards, prioritize remediation, and improve data trust at scale.\n Continuous Improvement: Find opportunities to optimize queries, streamline ETL/ELT quality controls, and automate routine checks to improve efficiency and reduce defects over time.\n Business Impact: Translate technical findings into business-relevant recommendations that enhance downstream analytics, reporting reliability, and decision-making speed.\n Essential Skills/Experience:\n Education: Quantitative bachelor’s degree or equivalent experience (Engineering, Statistics, Applied Math, Computer Science, Data Science, Economics, or related).\n Experience in data quality, data analytics, data management, or related data roles.\n Experience implementing data validation checks, data profiling, or data quality monitoring.\n Experience with ETL pipeline operations and management, as well as hands-on experience working on a data warehouse, data lake, and Databricks.\n Strong SQL skills including joins, aggregations, and query optimization.\n Basic to intermediate experience with Python for scripting, automation, or data processing.\n Strong documentation, communication, and customer collaboration skills.\n Desirable Skills/Experience:\n Experience with data observability tools or monitoring frameworks.\n Exposure to cloud data platforms such as AWS, Microsoft Azure, Snowflake, or Amazon Redshift.\n Experience working with data pipelines, ETL/ELT processes, or data transformation workflows.\n Experience with metadata driven validation or data contracts.\n Familiarity with enterprise data governance platforms such as Collibra.\n Experience working in large global organizations or regulated industries.\n Exposure to pharmaceutical, healthcare, or commercial analytics datasets.\n Experience with Power BI, Excel, or BI tools for data quality monitoring and reporting.\n When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That s why we work, on average, a minimum of three days per week from the office. But that doesn t mean we re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n Why AstraZeneca:\n Join a high-performing, digitally savvy team where data precision fuels real-world impact. We bring diverse specialists together to solve complex problems, using modern platforms and innovations to streamline how the enterprise operates and to prepare for what’s next. Here, you will sit shoulder-to-shoulder with engineers, product managers, and analysts, using design thinking and data-driven decision-making to build trusted, AI-ready data products that speed better outcomes for patients. We value curiosity and ambition as much as kindness and collaboration, offering the freedom to own your ideas and the support to grow in new directions.\n Call to Action:\n Step into a role where your craft turns data into decisive action—join us to build the trusted data foundation that advances science, accelerates decisions, and elevates your career!\n \n Date Posted \n08-Oct-2026 \n Closing Date \n13-Oct-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+      "skills": [
+        "documentation",
+        "Excel"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 78,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-08T09:39:43.659Z"
+    },
+    {
+      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Specialist EDM Data Quality",
@@ -3375,7 +3444,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.142Z"
     },
     {
@@ -3832,7 +3901,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.074Z"
     },
     {
@@ -3943,7 +4012,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.067Z"
     },
     {
@@ -4675,7 +4744,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.123Z"
     },
     {
@@ -5348,7 +5417,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.112Z"
     },
     {
@@ -5380,7 +5449,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.113Z"
     },
     {
@@ -5412,7 +5481,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.113Z"
     },
     {
@@ -6067,7 +6136,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.079Z"
     },
     {
@@ -7129,7 +7198,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-08T08:02:43.045Z"
     },
     {
