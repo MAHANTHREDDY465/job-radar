@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-28T07:24:14.502Z",
+  "generatedAt": "2026-10-28T09:10:36.775Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 211,
-    "goal": 118,
+    "total": 213,
+    "goal": 120,
     "target": 0,
     "below": 93,
     "overseas": 0,
-    "new": 30,
+    "new": 3,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -493,7 +493,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.184Z"
     },
     {
@@ -612,6 +612,42 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-24T07:42:43.087Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Ecolab",
+      "domain": "specialty chemical / water & hygiene",
+      "title": "Sr Business Analyst – Indirect",
+      "location": "IND - Maharashtra - Pune",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Maharashtra---Pune/Sr-Business-Analyst---Indirect_R00304058",
+      "reqId": "R00304058",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Maharashtra---Pune/Sr-Business-Analyst---Indirect_R00304058",
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Maharashtra---Pune/Sr-Business-Analyst---Indirect_R00304058",
+      "description": "Senior Business Analyst – Indirect Procurement \n Ecolab has an opening for a Senior Business Analyst – Procurement (Indirect) in Pune, India. If you are a passionate professional that is seeking opportunity, advancement, and a rewarding career we invite you to apply. This is a fantastic opportunity to join a recognized global growth company offering competitive compensation and benefits in addition to career growth.\n In our Global Supply Chain Analytics and Digital Solutions organization, you will be a senior analyst in the Procurement Analytics group for indirect sourcing. Your role will drive the change and bring new capabilities to the organization. You will be responsible for driving value across indirect spend categories by combining strategic sourcing expertise with data, analytics, and digital enablement . This role partners closely with global procurement, finance, supply chain, and business stakeholders to improve spend visibility, sourcing effectiveness, supplier performance, and decision-making speed through modern digital tools and analytics platforms.\n Key Responsibilities \n Indirect Procurement, Digital & Analytics \n Drive data‑led cost savings, value creation, and risk mitigation projects across global indirect spend categories (e.g., IT, marketing, logistics, CapEx, services), ensuring compliance with procurement policies and governance.\n Own and advance digital procurement and analytics platforms (e.g., spend analytics, sourcing tools, contract repositories, GEP Quantum), acting as product owner/business analyst.\n Deliver end‑to‑end Total Delivered Cost (TDC) analytics solutions including dashboards, KPIs, and self‑service insights across spend, savings, supplier performance, contracts, and market trends.\n Translate ERP, sourcing platform and procurement data into actionable insights and executive‑ready narratives to support faster, better decisions.\n Stakeholder & Change Enablement \n Partner with global stakeholders as a trusted advisor, converting insights into clear procurement recommendations.\n Lead cross‑functional improvements to procurement processes, taxonomy, and master data governance.\n Support senior leadership engagement, global forums, training, and change management for new digital and analytics capabilities.\n \n Required Qualifications \n Bachelor’s degree in Supply Chain, Engineering, Business, Finance, or Analytics .\n 6 years’ experience in indirect procurement, sourcing, supply chain analytics, or procurement transformation.\n Proven ability to lead cross‑functional , multi‑geography teams and use data & analytics to drive sourcing and savings outcomes.\n Strong business acumen with excellent stakeholder management , communication, and problem‑solving skills.\n Preferred Digital & Technical Skills \n Experience with BI and visualization tools (Power BI preferred; ThoughtSpot, Tableau good-to-have skills) and working knowledge of ERP and procurement platforms (e.g., spend analytics, sourcing tools).\n Ability to structure, analyze, and interpret large datasets related to spend, suppliers, and contracts to generate insights.\n Exposure to automation, data governance, or digital product ownership within procurement environments.\n Proven project and portfolio management skills, with ability to deliver multiple initiatives simultaneously (certification a plus).\n \n Ecolab’s commitment to diversity, equity and inclusion (DE&I) reflects our longstanding value of working together to integrate diverse perspectives to challenge ourselves, reach our goals and do what’s right.",
+      "skills": [
+        "REACH",
+        "compliance",
+        "stakeholder management"
+      ],
+      "experience": "6 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 96,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-28T09:10:36.636Z"
     },
     {
       "source": "Workday",
@@ -762,7 +798,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.285Z"
     },
     {
@@ -1090,7 +1126,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.278Z"
     },
     {
@@ -1278,7 +1314,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.183Z"
     },
     {
@@ -1719,7 +1755,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.279Z"
     },
     {
@@ -1755,7 +1791,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.281Z"
     },
     {
@@ -1791,7 +1827,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.282Z"
     },
     {
@@ -3070,7 +3106,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.188Z"
     },
     {
@@ -3289,7 +3325,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.213Z"
     },
     {
@@ -3652,7 +3688,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.279Z"
     },
     {
@@ -3690,7 +3726,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.210Z"
     },
     {
@@ -3961,7 +3997,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.196Z"
     },
     {
@@ -4155,21 +4191,21 @@
       "source": "Workday",
       "company": "Sanofi",
       "domain": "pharma",
-      "title": "Senior Analyst - Customer Facing Effectiveness",
+      "title": "Senior Analyst - Reporting Solutions",
       "location": "Hyderabad",
-      "postedText": "Posted 7 Days Ago",
-      "externalPath": "/job/Hyderabad/Senior-Analyst---Customer-Facing-Effectiveness_R2848691",
-      "reqId": "R2848691",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Customer-Facing-Effectiveness_R2848691",
-      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Customer-Facing-Effectiveness_R2848691",
-      "description": "Job title : Senior Analyst – Field Reporting \n Location: Hyderabad\n % of travel expected: Travel required as per business need, if any \n Job type: Permanent and Full time \n About the job \n Our Team:  \n Sanofi Global Hub (SGH) is an internal Sanofi resource organization based in India and is setup to centralize processes and activities to support Specialty Care, Vaccines, General Medicines, CHC, CMO, and R&D, Data & Digital functions​. SGH strives to be a strategic and functional partner for tactical deliveries to Medical, HEVA, and Commercial organizations​ in Sanofi, Globally. \n Main responsibilities:  \n The overall purpose and main responsibilities are listed below: \n At our Sanofi we are leveraging analytics and technology, on behalf of patients around the world. We are seeking those who have a passion for using data, analytics, and insights to drive decision making that will allow us to tackle some of the world’s greatest health threats.  \n Within our commercial Insights, Analytics, and Data organization we are transforming to better power decision-making across our end-to-end commercialization process, from business development to late lifecycle management. \n Analytics deliverables support planning and decision making across multiple functional areas such as finance, manufacturing, product development and commercial.  \n In addition to ensuring high-quality deliverables, our team drives synergies across the franchise, fosters innovation and best practices, and creates solutions to bring speed, scale and shareability to our planning processes.  \n We are looking for a team member to support our analytics team based out of US. Robust analytics is a priority for our businesses, as the product potential has major implications to a wide range of disciplines.  \n It is essential to have someone who understands and aspires to implement innovative analytics techniques to drive our insights generation across different franchises. \n People:  \n Maintain effective relationship with the end stakeholders within the allocated GBU and tasks – with an end objective to develop education and communication content as per requirement \n Actively lead and develop SGH operations associates and ensure new technologies are leveraged \n Initiate the contracting process and related documents within defined timelines; and  \n Collaborate with global stakeholders for project planning and setting up the timelines and maintaining budget  \n Performance:  \n Refresh Existing Reports and identifies improvement opportunities in reporting and BI tools and as needed structure / functionality with the latest insights as they become available \n Create dashboards to synthesize and visualize key information and enable business decisions \n Works to develop deal tracking analytics and reporting capabilities \n Collaborates with Digital to enhance data access across various sources, develop tools, technology, and process to constantly improve quality and productivity \n Process: \n Support delivery of projects in terms of resourcing, coordination, quality, timeliness, efficiency, and high technical standards for deliveries made by the medical/ field writing group, including scientific documents and clinical/medical reports \n Contribute to overall quality enhancement by ensuring high scientific standards for the output produced by the medical/ field writing group; and  Secure adherence to compliance procedures and internal/operational risk controls in accordance with all applicable standards \n Refresh report on frequency/cycle basis (weekly/monthly/quarterly/annually), along with QC checks for each refresh \n Stakeholder: Work closely with global teams and/ external vendors to ensure the end-to-end effective project delivery of the designated publication/medical education deliverables \n About you  \n Experience : 5 years of experience in pharmaceutical product commercial analytics. In-depth knowledge of common databases like IQVIA, APLD, Engagement and execution data, etc. \n Soft skills : Strong learning agility; Ability to manage ambiguous environments, and to adapt to changing needs of the business; Good interpersonal and communication skills; strong presentation skills a must; Team player who is curious, dynamic, result oriented and can work collaboratively; Ability to think strategically in an ambiguous environment; Ability to operate effectively in an international matrix environment, with ability to work across time zones; Demonstrated leadership and management in driving innovation and automation leveraging advanced statistical and analytical techniques \n Technical skills :  \n Automating reporting and analytics. \n 3 years experience in computer programming (SQL, Python, R) \n 2 years working experience in data visualization (Qlik Sense, PowerBI) \n 2 year working experience in Report design & creation for production and ad-hoc requests. \n Working experience in all phases of the software development life cycle \n Preferred experience in supporting Pharmaceutical Sales Operations with a concentration in Field Sales Reporting \n Preferred knowledge and experience with Commercial Pharma Dataset. \n Focus on ensuring high quality data output with strong quality assurance \n Analytical skills  to research and interpret data \n Oral & written communication skills \n Ability to work well in a team \n Commitment to quality   \n Strong English communications skills, both written and verbal \n Understanding of the importance for detail and organization \n Experience of working across cultures in a global organization \n Ability to work unsupervised, self-motivated, pro-active and reliable \n Ability to manage and prioritize multiple tasks simultaneously \n Microsoft Office experience, expert in Excel. \n Education : Advanced degree in areas such as Management/Statistics/Decision Sciences/Engineering/Life Sciences/ Business Analytics or related field (e.g., PhD / MBA / Masters) \n Languages : Excellent knowledge in English and strong communication skills – written and spoken \n Pursue progress, discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.  \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.  \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !\n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Senior-Analyst---Reporting-Solutions_R2874809-1",
+      "reqId": "R2874809",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Reporting-Solutions_R2874809-1",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Reporting-Solutions_R2874809-1",
+      "description": "Job title : Senior Analyst\n Hiring Manager: Lead, Business Analytics\n Location: Hyderabad\n % of travel expected: As per business need\n Job type: Permanent, Full time\n   \n   About the job\n  \n Our Team: \n   \n Sanofi Business Operations is an internal Sanofi resource organization based in India and is setup to centralize processes and activities to support Specialty Care, Vaccines, General Medicines, CHC, CMO, and R&D, Data & Digital functions. Sanofi Global Hub strives to be a strategic and functional partner for tactical deliveries to Medical, HEVA, and Commercial organizations in Sanofi, Global.\n   \n Main responsibilities: \n Ensure all Power Platform solutions (Power Apps, Power Automate and Power BI) are developed, deployed, and maintained in compliance with Sanofi s data governance and IT security standards\n Establish, implement, and maintain governance frameworks, standard operating procedures (SOPs), and policies for Medical Analytics operations\n Ensure reporting on Project Management activities, project resources, budget, and timelines\n Ensure on time and accurate delivery of all analytics and dashboard requirement by collaborating with relevant stakeholders\n Ensure Apps, dashboards and solutions are developed and maintained as per requirements\n Monitor adherence to governance protocols and drive continuous improvement initiatives.\n Support audit readiness and participate in internal/external audits as required\n Responsible for access management of all applications\n Ensuring data consistency across all applications\n Responsible for end-to-end access management of all Power Platform applications and dashboards\n Coordinate cross-functional projects and initiatives to enhance operational effectiveness.\n Providing training on analytical tools and usage\n Building advance tools and automate or improve processes for analytical and other needs\n  \n People: \n Maintain effective relationship with internal peers and stakeholders\n Liaise and coordinate with colleagues in global and local teams to understand their requirements\n Co-ordinating and performing QC Activities ensuring highest standards of delivery\n Act as a mentor and knowledge-sharing champion within the Medical Analytics team\n  \n Performance: \n Build intelligent, automated solutions that streamline analytical and operational processes, reducing manual effort and improving turnaround time\n Data Quality assessment: Identify abnormalities in the data monitored and develop report as per regulatory requirements\n Smart solutions by leveraging technology in most optimized way\n Continuously explore new Power Platform features, add-ons, and complementary tools (SQL, Snowflake) to enhance performance in a cost-effective manner\n Stakeholder : \n Build and maintain effective relationships with internal peers, stakeholders, and global teams, fostering a culture of collaboration and trust\n Serve as the primary point of contact for Power Platform-related queries, requirements, and escalations from stakeholders\n Translate complex technical concepts into clear, business-friendly language for non-technical stakeholders\n   \n Process: \n Ensure on time and accurate delivery of all IT solutions requirements\n Ensure data quality and consistency are maintained throughout the lifecycle of tracker/dashboard\n Pro-actively identifying analytical requirements\n Assist in managing medical plans in project management system\n Reporting and follow ups on Project Management activities, project resources, budget, and timelines\n Understanding IT solutions requirement of all relevant stakeholders and develop solution accordingly\n Continuously exploring the new features and add on, assess different tools to improve the overall performance in a cost-effective way\n Managing access for IT Solutions\n Developing SOPs for dashboards and other IT solutions\n About you: \n Experience : Minimum of 5 years experience with application development in Power Apps, Power Automate, Power BI, SQL, Snowflake, Advance Excel\n Soft skills : Strong communication skills, interpersonal skills and experience working in a global context\n Technical skills :\n Strong project management abilities; capable of prioritizing and handling multiple projects simultaneously  \n Working experience of using analytical tools like Power Apps, Power Automate, Power BI, Snowflake & advanced excel\n Experience of developing and managing applications and dashboards        \n Excellent planning, design, project management and documentation skills\n Expertise of understanding and working with large set of data\n Education : Bachelor’s or master’s degree in information systems, computer science, engineering or any technical related field\n Languages : Excellent knowledge in English and strong communication skills – written and spoken \n Pursue progress, discover extraordinary\n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.\n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !\n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
       "skills": [
-        "lifecycle management",
         "compliance",
-        "quality assurance",
-        "Excel"
+        "documentation",
+        "Excel",
+        "audit"
       ],
-      "experience": "5 yrs",
+      "experience": "5+ yrs",
       "salary": {
         "display": "Expected ₹15–26 LPA",
         "minLPA": 15,
@@ -4185,8 +4221,8 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": false,
-      "firstSeen": "2026-10-24T07:42:43.070Z"
+      "isNew": true,
+      "firstSeen": "2026-10-28T09:10:36.660Z"
     },
     {
       "source": "Workday",
@@ -4259,7 +4295,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.198Z"
     },
     {
@@ -5083,7 +5119,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.258Z"
     },
     {
@@ -5254,7 +5290,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.209Z"
     },
     {
@@ -5382,7 +5418,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.240Z"
     },
     {
@@ -5414,7 +5450,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.240Z"
     },
     {
@@ -5446,7 +5482,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.242Z"
     },
     {
@@ -5478,7 +5514,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.243Z"
     },
     {
@@ -5734,7 +5770,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.239Z"
     },
     {
@@ -5830,7 +5866,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.242Z"
     },
     {
@@ -5894,7 +5930,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.243Z"
     },
     {
@@ -6022,7 +6058,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.250Z"
     },
     {
@@ -6054,7 +6090,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.250Z"
     },
     {
@@ -6086,7 +6122,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.251Z"
     },
     {
@@ -6235,7 +6271,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.260Z"
     },
     {
@@ -6451,7 +6487,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.197Z"
     },
     {
@@ -6558,7 +6594,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.239Z"
     },
     {
@@ -6838,7 +6874,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.238Z"
     },
     {
@@ -6872,7 +6908,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-28T07:24:14.254Z"
     },
     {
@@ -7380,6 +7416,39 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-25T06:46:23.835Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Senior Specialist - IT SOX Compliance",
+      "location": "Chennai (Guindy), India",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Chennai-Guindy-India/Senior-Specialist---IT-SOX-Compliance_R20999",
+      "reqId": "R20999",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Senior-Specialist---IT-SOX-Compliance_R20999",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Senior-Specialist---IT-SOX-Compliance_R20999",
+      "description": null,
+      "skills": [
+        "compliance"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 54,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-28T09:10:36.646Z"
     },
     {
       "source": "Workday",
