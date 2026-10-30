@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-30T07:47:34.800Z",
+  "generatedAt": "2026-10-30T09:11:55.705Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 206,
-    "goal": 124,
+    "total": 205,
+    "goal": 123,
     "target": 0,
     "below": 82,
     "overseas": 0,
-    "new": 21,
+    "new": 1,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -298,7 +298,7 @@
         "remote",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.473Z"
     },
     {
@@ -891,44 +891,6 @@
     },
     {
       "source": "Workday",
-      "company": "GSK",
-      "domain": "pharma",
-      "title": "Principal - EUC / MDM Platform Engineer",
-      "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Principal---EUC---MDM-Platform-Engineer_449005",
-      "reqId": "449005",
-      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---EUC---MDM-Platform-Engineer_449005",
-      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---EUC---MDM-Platform-Engineer_449005",
-      "description": "Business Introduction GSK remains committed to achieving bold commercial ambitions for the future. By 2031, we aim to deliver £40 billion in annual sales, leveraging our existing strong performance momentum to significantly increase our positive impact on the health of billions of patients globally. Our Ahead Together strategy is centred on early intervention to prevent and alter the course of disease, thereby protecting people and supporting healthcare systems. Our diverse portfolio consists of vaccines, specialty medicines, and general medicines. Through continuous innovation and a dedicated focus on scientific and technical excellence, we strive to develop and launch new, groundbreaking treatments that address critical health challenges. \n Job Purpose     \n Build, automate and run the platform that manages every device 50,000 employees across [X] countries depend on — Windows and macOS laptops and desktops, iOS and Android phones and tablets, corporate-owned and BYOD, plus the rugged, lab, clinical and shop-floor devices that follow none of the usual rules.  \n This is the hands-on build role for the device estate. The Platform Engineer takes architecture direction and a prioritised backlog and turns them into working, tested, automated, documented configuration in production. The expectation is engineering rather than administration: enrolment profiles, compliance policies, application packages and remediation scripts expressed as code and deployed through pipelines, not clicked through a console and remembered by whoever was on shift.  \n The role also runs what it builds. Platform Engineers own the operational health of the endpoint platform — diagnosing the awkward, intermittent, only-happens-on-that-hardware-revision problems that never reproduce in a lab, and eliminating the root cause rather than closing the ticket. Every change carries real blast radius: a bad compliance policy can lock 50,000 people out of their email before lunch. \n   \n Key Responsibilities  \n Design, build, test and deploy endpoint configuration across the estate: Intune configuration and compliance policies, Autopilot and enrolment profiles, Windows Update rings, macOS configuration profiles, and iOS/Android enterprise policy.  \n Build and maintain the provisioning experience — zero-touch deployment, enrolment journeys, and the out-of-box experience that determines whether a new starter is productive on day one or raising a ticket.  \n Package, test and deploy applications at scale — Win32 and MSIX packaging, macOS packages, mobile app assignment and configuration, dependency and supersedence management.  \n Implement to the reference architecture and standards set by the Principal Architect; raise a design challenge when reality does not match the design rather than quietly deviating.  \n Deliver backlog items to production with the tests, telemetry, documentation and rollback path included — done means running and observable across the fleet, not merely configured for one pilot device.  \n Automate everything that would otherwise be done twice: provisioning, enrolment, lifecycle, licence and asset reconciliation, reporting, and proactive remediation.  \n Build detection and remediation scripts that fix problems on the device before the user notices, and instrument them so you know whether they worked.  \n Express endpoint configuration as code in version control; build and maintain CI/CD pipelines for policy and package deployment with automated validation and staged ring-based rollout.  \n Replace manual runbook steps with self-healing and self-service; treat a recurring manual task as a defect with a backlog item attached.  \n Own operational health of assigned platforms: enrolment success rates, policy assignment and compliance reporting, patch and OS currency, application deployment success, and device performance.  \n Investigate and resolve complex incidents and problems — third-line escalation for endpoint issues — and drive permanent root-cause elimination.  \n Participate in an on-call rotation for major incidents affecting the device estate.  \n Manage the continuous change stream from vendors: Windows and macOS feature updates, annual iOS and Android major releases, MDM platform updates and hardware model introductions. Test in a lab, assess compatibility, and roll out under control.  \n Maintain patch, OS currency and vulnerability remediation to target; hunt and correct configuration drift.  \n Implement and maintain endpoint security controls: disk encryption and key escrow, EDR deployment and health, application control, local privilege management, security baselines, and device compliance feeding Conditional Access.  \n Remediate endpoint vulnerabilities in partnership with Cyber Security, at fleet scale and to SLA.  \n Produce the evidence audits require — configuration baselines, patch compliance, change records — generated automatically wherever possible.  \n Build to regulated-environment requirements where applicable, including GxP-qualified endpoints and the validation and change control they demand.  \n Work daily with the Product Owner on refinement and estimation, and with the Architect on design; give honest estimates and flag risk early.  \n Produce operational documentation, runbooks and knowledge articles good enough that the service desk can use them and the next engineer can pick the work up.  \n Support and coach the service desk, deskside and field teams; reduce escalation volume by transferring capability, not by absorbing it.  \n Mentor junior engineers and contribute to engineering standards and code review within the squad.  \n Professional Qualifications   \n Bachelor s degree in Computer Science, Engineering or a related discipline, or equivalent demonstrable professional experience. Strong practical experience is an acceptable substitute for formal qualification.  \n Relevant certifications desirable (e.g., Microsoft 365 Certified: Endpoint Administrator Associate or Expert, Jamf Certified Tech/Admin, Apple Certified Support Professional, Android Enterprise Professional, Azure Administrator, ITIL v4 Foundation).  \n Area of Specialisation   \n Hands-on endpoint platform engineering — Microsoft Intune / Endpoint Manager, Autopilot, Windows Update for Business, Endpoint Analytics — at 50,000-device scale.  \n Mobile device management engineering across iOS (Apple Business Manager, ADE/DEP, APNs, supervised devices) and Android Enterprise (work profile, fully managed, dedicated/kiosk, Managed Google Play), plus app protection and containerisation for BYOD.  \n Complex endpoint troubleshooting across hardware, OS, identity, network and application layers, with root-cause elimination rather than ticket closure.  \n Experience Required   \n Overall 10 and 4 years in IT engineering or endpoint operations, including 3 years working hands-on with an enterprise MDM/UEM platform (Intune, Jamf, Workspace ONE or equivalent) in production.  \n Experience engineering or supporting an estate of 5,000 devices; comfortable with the difference between a small fleet and a large one.  \n Demonstrable hands-on capability in Windows endpoint management via Intune (or MECM) and at least one mobile platform (iOS or Android enterprise) — at a level that includes troubleshooting, not only configuration.  \n Practical experience packaging and deploying applications at scale, including detection logic and failure diagnosis.  \n Working PowerShell proficiency with real examples of automation delivered into production, plus practical experience calling the Microsoft Graph API.  \n Familiarity with Git and pull-request-based working; willingness to work configuration-as-code if not already doing so.  \n Experience operating in an ITIL-aligned change and incident process, including ownership of production change against a live device fleet.  \n Experience delivering within a Scrum or Kanban squad, including refinement, estimation and sprint commitment.  \n Willingness to participate in an on-call rotation for major incidents.  \n Fluent English, written and spoken; able to explain a technical issue to a non-technical colleague.  \n Desirable:  \n Experience in a regulated industry — pharmaceutical, life sciences, biotech, financial services or healthcare — including GxP/CSV/CSA and validated-endpoint change control.  \n Specialised and frontline devices — rugged handhelds (Zebra, Honeywell), lab instrument workstations, clinical and field devices, kiosks, shared and multi-user workstations, scanners and shop-floor endpoints.  \n Migration and transformation delivery — SCCM to Intune, Windows 10 to 11 at scale, MDM platform change, or on-premises to cloud-native device management.  \n Virtual desktop and cloud PC — Azure Virtual Desktop, Windows 365, Citrix or VMware Horizon; image and profile management.  \n Endpoint security engineering — Defender for Endpoint, WDAC/AppLocker, privilege management (BeyondTrust, Admin By Request), DLP on the endpoint, threat hunting in device telemetry.  \n Certificate and PKI operations as they touch devices — SCEP, NDES, certificate lifecycle troubleshooting.  \n Infrastructure-as-code tooling — Bicep, ARM or Terraform for supporting Azure resources.  \n Collaboration platform adjacency — M365 workloads and how conditional access and app protection land on the device.  \n Hardware and logistics exposure — OEM engagement, imaging and staging partners, asset management, secure disposal.  \n Accessibility and assistive technology provisioning and testing.  \n   \n Skills/Background   \n Deep endpoint platform engineering across Intune / Endpoint Manager, Windows engineering (OS deployment, servicing, drivers, security baselines, Group Policy to Intune migration), macOS management (Jamf or Intune for Mac), and Microsoft Configuration Manager (SCCM/MECM) where a hybrid or co-management estate remains.  \n Mobile device management engineering — iOS (Apple Business Manager, ADE/DEP, APNs, supervised devices, configuration profiles) and Android Enterprise (work profile, fully managed, dedicated/kiosk, Managed Google Play), plus app protection and containerisation for BYOD.  \n Entra ID as it applies to devices — device identity and join states, Conditional Access and device compliance, certificate deployment (SCEP/PKCS), Windows Hello / passwordless.  \n Application packaging and delivery — Win32/MSIX/PSADT, macOS packaging, detection rules, requirements, supersedence and uninstall logic that actually works.  \n Advanced PowerShell — modules, error handling, parameterisation, idempotency; scripts written to be maintained by someone else and to run safely on 50,000 machines.  \n Microsoft Graph API fluency — REST, delta queries, permission scopes, app-only auth, throttling and retry handling; automating Intune beyond what the console exposes.  \n Version control and CI/CD — Git branching and pull request discipline, and pipeline authoring in Azure DevOps or GitHub Actions — with configuration-as-code applied to endpoint policy and packages.  \n Monitoring and diagnostics — Log Analytics and KQL, Intune and Endpoint Analytics telemetry, DEX tooling (Nexthink, 1E or similar), Power BI reporting; instrumenting your own work so problems surface before users report them.  \n Shell scripting for macOS/Linux (bash/zsh) where the estate requires it.  \n Complex troubleshooting — methodical isolation of intermittent, multi-layer problems spanning hardware, OS, identity, network and application.  \n ITIL-aligned practice — incident, problem and change management executed properly at enterprise scale, including credible change records and rollback plans.  \n Blast-radius awareness — pilot rings, canary devices, and the habit of asking what does this do to 50,000 people, including the ones on a plane before pressing apply.  \n Clear technical writing — runbooks, knowledge articles and design notes others can follow.  \n Ownership — sees an item through to working across the fleet and stays with it when it misbehaves afterwards.  \n Curiosity and self-direction — reads release notes, tests in a lab, and brings improvement ideas to refinement unprompted.  \n Collaboration — works well with product, architecture, security, service desk and field teams; explains technical constraint without condescension.  \n User empathy — remembers that a compliance policy is somebody s Monday morning, and that some users are three time zones and one bad connection away from help.  \n #AGTech\n Skills \nApplication Packaging, Automation Technology, Cloud Infrastructure, Configuration Management (CM), Configuration Management Database (CMDB), Customer Service Operations, Cybersecurity, Data Analysis, Endpoint Management, Global Deployments, Incident Management, Information Security, Information Technology Infrastructure Library (ITIL), Microsoft Power Automate, Mobile Device Management (MDM), Network Security, Service Delivery, Services Management, System Administration, Technical Support, Troubleshooting  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
-      "skills": [
-        "REACH",
-        "GxP",
-        "compliance",
-        "documentation",
-        "data analysis"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 95,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-10-30T07:47:34.543Z"
-    },
-    {
-      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Senior Workforce Data Analyst",
@@ -1254,7 +1216,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.525Z"
     },
     {
@@ -2026,7 +1988,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.529Z"
     },
     {
@@ -2062,7 +2024,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.530Z"
     },
     {
@@ -2751,7 +2713,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.501Z"
     },
     {
@@ -2789,7 +2751,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.499Z"
     },
     {
@@ -2827,7 +2789,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.499Z"
     },
     {
@@ -2865,7 +2827,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.500Z"
     },
     {
@@ -3014,7 +2976,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.501Z"
     },
     {
@@ -3805,7 +3767,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.536Z"
     },
     {
@@ -3966,44 +3928,6 @@
     },
     {
       "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
-      "title": "Senior Safety Technology Analyst",
-      "location": "India-Hyderabad-Remote",
-      "postedText": "Posted 21 Days Ago",
-      "externalPath": "/job/India-Hyderabad-Remote/Senior-Safety-Technology-Analyst_R0000046661",
-      "reqId": "R0000046661",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Safety-Technology-Analyst_R0000046661",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Safety-Technology-Analyst_R0000046661",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n About Parexel \n Parexel is a leading global clinical development partner delivering insights-driven clinical and consulting solutions to the life sciences industry. With 22,000 employees worldwide, we partner with biopharmaceutical companies and research sites to design and deliver patient-focused clinical trials that broaden access and make research a care option for anyone, anywhere.\n We work with focus, agility, and shared purpose -- moving with urgency to address patient needs and accelerate the delivery of new therapies. We embrace bold thinking, adapt quickly to change, and continually raise the bar for the speed and quality of clinical research. We are expanding our team and seeking talented individuals to help drive industry leading innovation, With Heart(R).\n About the Role \n We are seeking a Senior Safety Technology Analyst to join our team. As a Senior Safety Technology Analyst, you will drive the strategic implementation and operational excellence of Parexel s pharmacovigilance safety technology systems. This position plays a critical role in ensuring regulatory compliance, system optimization, and the delivery of advanced safety solutions that protect patient safety and accelerate clinical research. You ll collaborate with cross-functional teams across Safety Operations, IT, Quality Assurance, and external auditors, following industry-standard processes and regulatory frameworks. Responsibilities include designing and implementing complex technology solutions, managing system integrations, leading change management initiatives, and providing expert guidance on safety database platforms and emerging pharmacovigilance technologies.\n You ll join a fast-paced, growth-oriented environment focused on making a meaningful impact through advancing patient safety, driving operational excellence, and shaping the future of clinical research technology. With diverse teams and continuous learning opportunities, the Senior Safety Technology Administrator can explore career paths and expand skills across clinical research technology, regulatory compliance, and strategic system implementation.\n Key Responsibilities \n Lead the setup, configuration, and support of Parexel s safety database and associated systems, including new study implementations, periodic and ad-hoc report generation, expedited report rule configuration, and comprehensive end-user support\n Direct the planning and execution of safety database handovers from clients to Parexel and from Parexel to clients at project completion, ensuring seamless transitions for complex pharmacovigilance operations\n Design and deliver complex integration solutions between Parexel safety technologies and other applications to enhance operational capabilities and drive service excellence\n Represent Safety Technology Management in cross-functional collaboration with IT, Quality Assurance, and external auditors, ensuring compliance with regulatory requirements, security standards, and quality protocols\n Lead change management initiatives aligned with Software Development Life Cycle principles, including impact assessments, testing methodologies, system validation, and software updates\n Develop and deliver presentations and technical documentation for safety technology solutions, including authorship and review of standard operating procedures and controlled documents\n Lead issue resolution and collaboration with Parexel IT, vendors, Safety Services staff, and clients for proper analysis and closure of technical issues across supported systems\n Train, coach, and provide work directions to team members in system administration, database support, and strategic implementation activities\n Collaborate with Global Pharmacovigilance Intelligence Office to ensure safety systems maintain regulatory compliance and proactively meet evolving requirements\n You ll thrive in this role if you bring: \n Advanced technical expertise in pharmacovigilance safety technology systems, including complex configurations, system administration, and application support\n Exceptional interpersonal, verbal, and written communication skills with the ability to engage stakeholders at all levels\n Advanced analytical and problem-solving capabilities with a client-focused approach\n Strong leadership presence with the ability to mentor team members and represent the organization in cross-functional environments\n Demonstrated experience in system validation, change management, and regulatory compliance (21 CFR Part 11, EMA Annex 11, GAMP)\n Proficiency with standard scripting languages (SQL), Service Desk Tools, and project management methodologies\n Knowledge of emerging pharmacovigilance technologies, including AI, with a flexible attitude toward continuous learning and new challenges\n Deep understanding of pharmacovigilance roles, standards, practices, GVP, and GCP requirements\n Required Qualifications \n 5 years of hands-on experience with safety supportive applications (Argus, Vault Safety, EDC, Safety ERP) across all functional areas and secondary tools\n 5 years of experience working closely with safety operations teams to manage issues, gather requirements, and deliver technology solutions\n Advanced knowledge and practical application of computer system regulations and guidance (21 CFR Part 11, EMA Annex 11, GAMP)\n Demonstrated proficiency with standard scripting languages (SQL) and industry-standard Service Desk Tools\n Strong technical writing capability and proven ability to communicate complex concepts clearly to diverse audiences\n Preferred Qualifications \n BA/BSc in Engineering, Computer Science, or related field; master s degree preferred\n 1 years of direct mentorship, training, or peer oversight experience\n Demonstrated lead participation in system/process improvement initiatives and 1 years of system validation design and execution\n We believe in flexibility, growth, and creating space for people to do their best work. Join us and be part of a team where your contributions help shape the future of clinical research.\n If this job doesn t sound like the next step in your career, but perhaps you know of someone who d be perfect fit, send them the link to apply!",
-      "skills": [
-        "EMA",
-        "pharmacovigilance",
-        "compliance",
-        "quality assurance",
-        "documentation"
-      ],
-      "experience": "5 yrs",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-25T06:46:23.850Z"
-    },
-    {
-      "source": "Workday",
       "company": "Sanofi",
       "domain": "pharma",
       "title": "Manager - Business Insights & Analytics",
@@ -4075,7 +3999,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.450Z"
     },
     {
@@ -4554,7 +4478,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.508Z"
     },
     {
@@ -4590,7 +4514,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.418Z"
     },
     {
@@ -4734,7 +4658,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.535Z"
     },
     {
@@ -4770,7 +4694,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.537Z"
     },
     {
@@ -4986,7 +4910,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.451Z"
     },
     {
@@ -5056,7 +4980,7 @@
         "domain fit",
         "remote"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.472Z"
     },
     {
@@ -5091,7 +5015,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.424Z"
     },
     {
@@ -5161,7 +5085,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.542Z"
     },
     {
@@ -5300,6 +5224,40 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-29T07:43:39.348Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IQVIA",
+      "domain": "pharma / CRO",
+      "title": "Senior Software Engineer - Data Engineering, Full Stack & BI",
+      "location": "Kochi, India",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Kochi-India/Senior-Software-Engineer---Data-Engineering--Full-Stack---BI_R1575373",
+      "reqId": "R1575373",
+      "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kochi-India/Senior-Software-Engineer---Data-Engineering--Full-Stack---BI_R1575373",
+      "applyUrl": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kochi-India/Senior-Software-Engineer---Data-Engineering--Full-Stack---BI_R1575373",
+      "description": "Job Overview: \n Designs/develops software solutions requiring general domain knowledge and developing business experience.\n Analyzes user requirements/needs and makes decisions within limited parameters under regular supervision.\n Primary & Good to Have skills : \n Data Engineering & Integration: SQL, ETL, Data Warehousing, Data Modeling, Cloud Databases, Cloud Architecture. Good to have : Snowflake, Databricks, SSIS, Informatica, Talend, DataStage, PySpark, Hive, Cloudera, AWS, Azure, PL/SQL, Python, Model N\n Data Management: Master Data Management (MDM), Data Quality, Data Stewardship, Data Governance. Good to have : Reltio MDM, Informatica MDM, Data Governance (Collibra)\n Full Stack Engineering: .NET, Full Stack Development, REST API Development, Java. Good to Have : Angular, React, Node.js, Spring Boot, Django, TypeScript, NestJS, .NET API, C#\n Analytics & BI: Reporting, Data Analysis, BI Development, Data Modeling. Good to Have: Power BI, Tableau, Qlik Sense, DAX\n Years of Experience :\n Grade 130 - 2 to 4 years; Grade 140 - 5 to 7 Years; Grade 150 - 8 to 12 Years\n Essential Functions \n • Designs/develops software solutions requiring general domain knowledge and developing business experience.\n • Works at all layers of the application stack including front-end user interface and backend development.\n • Analyzes user requirements/needs and makes decisions within limited parameters under regular supervision.\n • Supports and may lead projects within own organization with limited complexity, including the development of small to medium size system components.\n • Has broad understanding of quality standards and work requires minimal revision.\n • Reviews functional specifications and other validation deliverables as assigned.\n • Provides peer support and helps on-board new Associate Software Engineers to the team.\n Qualifications \n • Bachelor s Degree Computer Science, a related field, or equivalent experience\n  Req\n \n IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com \n \n IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+      "skills": [
+        "data analysis"
+      ],
+      "experience": "2–4 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 69,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-10-30T09:11:55.497Z"
     },
     {
       "source": "Workday",
@@ -5625,7 +5583,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-10-30T07:47:34.492Z"
     },
     {
