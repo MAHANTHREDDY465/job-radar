@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T10:14:47.065Z",
+  "generatedAt": "2026-11-04T08:01:26.711Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 184,
-    "goal": 108,
+    "total": 195,
+    "goal": 117,
     "target": 0,
-    "below": 76,
+    "below": 78,
     "overseas": 0,
-    "new": 23,
+    "new": 16,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -465,44 +465,6 @@
       "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
-      "title": "Regulatory Affairs Consultant – Germany & Austria (Munich on-site) m/f/d",
-      "location": "Germany-Berlin-Remote",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/Germany-Berlin-Remote/Regulatory-Affairs-Consultant---Germany---Austria--Munich-on-site-_R0000045589-1",
-      "reqId": "R0000045589",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Germany-Berlin-Remote/Regulatory-Affairs-Consultant---Germany---Austria--Munich-on-site-_R0000045589-1",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Germany-Berlin-Remote/Regulatory-Affairs-Consultant---Germany---Austria--Munich-on-site-_R0000045589-1",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n About the Role \n We are seeking an experienced   Regulatory Affairs Professional to provide comprehensive regulatory support for Germany and Austria. This is a strategic role that combines deep regulatory expertise with business acumen, supporting our client s mRNA therapeutics and vaccines across Germany and Austria.\n \n This role requires at least one day per week on-site presence (the office is in Munich). \n \n Key Responsibilities \n Regulatory Strategy & Guidance: Deliver forward-looking, pragmatic, and creative strategic regulatory guidance to affiliate and brand teams, anticipating regulatory challenges and providing agile solutions\n Regulatory Compliance & Operations: Support local business objectives through coordination of cross-functional reviews, translations of product information, artwork management, and market implementation activities\n Stakeholder Management: Review promotional materials and medical communications; provide regulatory training and updates to local affiliate teams; represent the Regulatory Affairs team in internal, affiliate, and cross-functional meetings\n Market Access Support: Coordinate regulatory activities related to pricing, reimbursement, and tender processes\n Authority Relations: Manage and coordinate interactions with German and Austrian regulatory authorities concerning client s pipeline and licensed products\n Project Leadership: Independently manage multiple complex regulatory projects in a fast-paced environment while maintaining precision, compliance, and strategic judgment\n Innovation & Efficiency: Explore opportunities to leverage Generative AI and emerging digital capabilities to enhance regulatory intelligence, content workflows, and operational efficiency\n Leadership Support: Deputise for the Director, Regulatory Affairs Strategy – Germany and Austria as needed\n \n Required Skills and Qualifications: \n University Degree in a Scientific or Technical Discipline (Advanced Degree preferred)\n Extensive years of experience   in regulatory affairs and regulatory strategy\n Deep knowledge of German, Austrian, and European pharmaceutical regulations , including: innovative medicines and vaccines, drug development and marketing authorisation procedures, line extensions and lifecycle management\n Strong working knowledge of regulatory systems and tools (artwork management systems, text-verification tools, electronic document/data management systems)\n Strategic thinking and sound regulatory judgment\n Critical thinking and problem-solving expertise\n Client-focused approach with consulting acumen\n Fluent in German and English   (written and verbal)",
-      "skills": [
-        "regulatory intelligence",
-        "lifecycle management",
-        "compliance",
-        "stakeholder management",
-        "regulatory affairs"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 97,
-      "tier": "goal",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "remote",
-        "≥15 LPA"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-31T09:02:54.616Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
       "title": "Regulatory Affairs Consultant (German and French language skills)",
       "location": "Switzerland-Remote",
       "postedText": "Posted 6 Days Ago",
@@ -711,7 +673,7 @@
       "domain": "pharma / CRO",
       "title": "Sr Country Regulatory Specialist, Clinical Research - 100% Remote in Mexico, English advanced",
       "location": "MEX-Remote",
-      "postedText": "Posted 19 Days Ago",
+      "postedText": "Posted 20 Days Ago",
       "externalPath": "/job/MEX-Remote/Sr-Country-Regulatory-Specialist_25113592",
       "reqId": "25113592",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/MEX-Remote/Sr-Country-Regulatory-Specialist_25113592",
@@ -1346,7 +1308,7 @@
       "domain": "pharma / CRO",
       "title": "Principal / Sr Principal Medical Writer (Regulatory Submission )",
       "location": "IND-Remote",
-      "postedText": "Posted 12 Days Ago",
+      "postedText": "Posted 13 Days Ago",
       "externalPath": "/job/IND-Remote/Senior---Principal-Medical-Writer--Regulatory-Submission--_25114044",
       "reqId": "25114044",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Remote/Senior---Principal-Medical-Writer--Regulatory-Submission--_25114044",
@@ -1419,6 +1381,130 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-18T06:36:24.740Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sponsor Dedicated - Sr. Principal Medical Writer - Regulatory Submission Docs (ISE/ISS/Clinical Overview - Must Have)",
+      "location": "POL-Remote",
+      "postedText": "Posted Yesterday",
+      "externalPath": "/job/POL-Remote/Sponsor-Dedicated---Sr-Principal-Medical-Writer---Regulatory-Submission-Docs--ISE-ISS-Clinical-Overview---Must-Have-_25113373",
+      "reqId": "25113373",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/POL-Remote/Sponsor-Dedicated---Sr-Principal-Medical-Writer---Regulatory-Submission-Docs--ISE-ISS-Clinical-Overview---Must-Have-_25113373",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/POL-Remote/Sponsor-Dedicated---Sr-Principal-Medical-Writer---Regulatory-Submission-Docs--ISE-ISS-Clinical-Overview---Must-Have-_25113373",
+      "description": "Sponsor Dedicated - Sr. Principal Medical Writer - Regulatory Submission Docs (ISE/ISS/Clinical Overview - Must Have) \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.   Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.   Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n Develop regulatory documents for submission to regulatory agencies globally, in accordance with ICH and other global guidelines, standards and processes, and the client authoring standards, as applicable, in adherence with study/project timelines and corporate objectives. \n Manage medical writing projects, including developing timelines (working with the study/project teams, as necessary) and communication with cross-functional team members to maintain awareness of review cycles and expectations. \n Participate in cross-functional meetings to provide input regarding medical writing deliverables, timelines, and any process(es) needed for the completion of regulatory documents. \n Review other documents associated with the assigned project(s) (eg, Protocols and Statistical Analysis Plans), as appropriate. \n Participate in cross-functional process improvement initiatives. \n Participate in defining and writing standard operating procedures and best practices for an efficient preparation of quality documents. \n Manage internal and contract medical writing resources as required to ensure timely completion of assigned projects. \n Mentor more junior medical writing staff. \n Minimum Requirements and Competencies: \n Oncology experience preferred, but not required\n Bachelor s degree required. Advanced degree in a relevant scientific/clinical/regulatory field preferred. \n At least 5 years of medical writing experience in the biopharmaceutical/CRO industry required or comparable experience within clinical or preclinical development. \n Proficiency in organizing and communicating clinical information required with minimal oversight. \n Strong organizational, time management, and project management skills are required. \n Strong verbal, written, and interpersonal communication skills needed to work effectively in a team environment. \n Proficient understanding and knowledge of global regulatory requirements needed and knowledge of therapeutic areas in all phases of clinical development desired. \n Proficient in MS Word. Experience with an electronic document management system and templates is required. \n \n Get to know Syneos Health \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n \n http://www.syneoshealth.com \n \n Additional Information \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description.  The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms.  Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "ICH",
+        "regulatory submission",
+        "compliance"
+      ],
+      "experience": "5+ yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.673Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sponsor Dedicated Senior Medical Writer (Regulatory Submission Documents) - Canada Remote Based",
+      "location": "CAN-Remote",
+      "postedText": "Posted Yesterday",
+      "externalPath": "/job/CAN-Remote/Sponsor-Dedicated-Senior-Medical-Writer---Canada-Remote-Based_25114221",
+      "reqId": "25114221",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/CAN-Remote/Sponsor-Dedicated-Senior-Medical-Writer---Canada-Remote-Based_25114221",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/CAN-Remote/Sponsor-Dedicated-Senior-Medical-Writer---Canada-Remote-Based_25114221",
+      "description": "Sponsor Dedicated Senior Medical Writer (Regulatory Submission Documents) - Canada Remote Based \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.   Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.   Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n The role could be remote based from the following locations: US or Canada\n This Sponsor dedicated role will involve partnering closely with Clinical Scientist and will be focused on Protocols and Protocol Amendments.\n Leads the clear and accurate completion of medical writing deliverables, ensuring scientific information is presented clearly and accurately. Manages medical writing activities associated with individual studies, coordinating medical writing activities within and across departments with minimal supervision. Leads the resolution of comments from the client.\n Completes a variety of documents that may include clinical study protocols and clinical study protocol amendments; clinical study reports; patient narratives; annual reports; investigator brochures; informed consents; annual reports; plain language summaries; periodic safety update reports, clinical development plans; IND submissions; integrated summary reports; NDA and eCTD submissions; journal manuscripts; and abstracts, posters, and presentations for scientific meetings.\n Adheres to established regulatory standards, including, but not limited to, ICH E3 guidelines, as well as company standard operating procedures, client standards, and company and/or client approved-templates, authorship requirements, and style and formatting guides, when completing medical writing projects, on time and on budget.\n Coordinates quality and editorial reviews. Ensures source documentation is managed appropriately. Leads team document reviews, and reviews documents as needed.\n Acts as peer reviewer for internal team to ensure document scientific content, clarity, overall consistency, and proper format.\n Reviews statistical analysis plans and table/figure/listing specifications for appropriate content, and for grammar, format, and consistency. Provides feedback to further define statistical output required and document needs.\n Interacts and builds good working relations with clients, department head, and peers in data management, biostatistics, regulatory affairs, and medical affairs, as necessary, to produce writing deliverables.\n Performs online clinical literature searches and complies with copyright requirements.\n Identifies and proposes solutions to resolve issues, escalating as appropriate. Provides technical support, training, and consultation to department and other company staff. May contribute to development of internal materials and presentations or changes to internal process, standard practices, and capabilities.\n Mentors and leads less experienced medical writers on complex projects, as necessary.\n Develops deep expertise on key topics in the industry and the regulatory requirements and guidelines that affect medical writing.\n Aware of budget specifications for assigned projects, working within the budgeted hours and communicating status and changes to medical writing leadership.\n Completes required administrative tasks within the specified timeframes.\n Performs other work-related duties as assigned.\n Minimal travel may be required (less than 25%).\n Qualifications:\n 3-5 years of relevant experience in medical writing, with proven experience in Protocol writing \n Experience working in the biopharmaceutical, device, or contract research organization industry required.\n Experience with late development \n Experience with Oncology/Hematology/Cell therapy. \n Strong understanding of FDA and ICH regulations, other regulatory guidelines, and/or good publication practices strongly required.\n Experience writing relevant document types required.\n Experience in working with Veeva/CARA.\n Extensive knowledge of English grammar and ability to communicate clearly; strong familiarity with AMA Manual of Style.\n \n Get to know Syneos Health \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n \n http://www.syneoshealth.com \n \n Additional Information \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description.  The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms.  Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "ICH",
+        "eCTD",
+        "IND",
+        "NDA",
+        "regulatory submission",
+        "compliance",
+        "documentation",
+        "regulatory affairs"
+      ],
+      "experience": "3–5 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.671Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sponsor Dedicated Senior Medical Writer (Regulatory Submission Documents)- US Remote Based",
+      "location": "USA-Remote",
+      "postedText": "Posted Yesterday",
+      "externalPath": "/job/USA-Remote/Sponsor-Dedicated-Senior-Medical-Writer--Regulatory-Submission-Documents---US-Remote-Based_25114220",
+      "reqId": "25114220",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-Remote/Sponsor-Dedicated-Senior-Medical-Writer--Regulatory-Submission-Documents---US-Remote-Based_25114220",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-Remote/Sponsor-Dedicated-Senior-Medical-Writer--Regulatory-Submission-Documents---US-Remote-Based_25114220",
+      "description": "Sponsor Dedicated Senior Medical Writer (Regulatory Submission Documents)- US Remote Based \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.   Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.   Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n The role could be remote based from the following locations: US or Canada\n This Sponsor dedicated role will involve partnering closely with Clinical Scientist and will be focused on Protocols and Protocol Amendments.\n Leads the clear and accurate completion of medical writing deliverables, ensuring scientific information is presented clearly and accurately. Manages medical writing activities associated with individual studies, coordinating medical writing activities within and across departments with minimal supervision. Leads the resolution of comments from the client.\n Completes a variety of documents that may include clinical study protocols and clinical study protocol amendments; clinical study reports; patient narratives; annual reports; investigator brochures; informed consents; annual reports; plain language summaries; periodic safety update reports, clinical development plans; IND submissions; integrated summary reports; NDA and eCTD submissions; journal manuscripts; and abstracts, posters, and presentations for scientific meetings.\n Adheres to established regulatory standards, including, but not limited to, ICH E3 guidelines, as well as company standard operating procedures, client standards, and company and/or client approved-templates, authorship requirements, and style and formatting guides, when completing medical writing projects, on time and on budget.\n Coordinates quality and editorial reviews. Ensures source documentation is managed appropriately. Leads team document reviews, and reviews documents as needed.\n Acts as peer reviewer for internal team to ensure document scientific content, clarity, overall consistency, and proper format.\n Reviews statistical analysis plans and table/figure/listing specifications for appropriate content, and for grammar, format, and consistency. Provides feedback to further define statistical output required and document needs.\n Interacts and builds good working relations with clients, department head, and peers in data management, biostatistics, regulatory affairs, and medical affairs, as necessary, to produce writing deliverables.\n Performs online clinical literature searches and complies with copyright requirements.\n Identifies and proposes solutions to resolve issues, escalating as appropriate. Provides technical support, training, and consultation to department and other company staff. May contribute to development of internal materials and presentations or changes to internal process, standard practices, and capabilities.\n Mentors and leads less experienced medical writers on complex projects, as necessary.\n Develops deep expertise on key topics in the industry and the regulatory requirements and guidelines that affect medical writing.\n Aware of budget specifications for assigned projects, working within the budgeted hours and communicating status and changes to medical writing leadership.\n Completes required administrative tasks within the specified timeframes.\n Performs other work-related duties as assigned.\n Minimal travel may be required (less than 25%).\n Qualifications:\n 3-5 years of relevant experience in medical writing, with proven experience in Protocol writing \n Experience working in the biopharmaceutical, device, or contract research organization industry required.\n Experience with late development \n Experience with Oncology/Hematology/Cell therapy. \n Strong understanding of FDA and ICH regulations, other regulatory guidelines, and/or good publication practices strongly required.\n Experience writing relevant document types required.\n Experience in working with Veeva/CARA.\n Extensive knowledge of English grammar and ability to communicate clearly; strong familiarity with AMA Manual of Style.\n \n At  Syneos Health, we believe in providing an environment and culture in which Our People can thrive, develop and advance. We reward and recognize our people by providing valuable benefits and a quality-of-life balance. The benefits for this position may include a company car or car allowance, Health benefits to include Medical, Dental and Vision, Company match 401k, eligibility to participate in Employee Stock Purchase Plan, Eligibility to earn commissions/bonus based on company and individual performance, and flexible paid time off (PTO) and sick time.  Because certain states and municipalities have regulated paid sick time requirements, eligibility for paid sick time may vary depending on where you work. Syneos complies with all applicable federal, state, and municipal paid sick time requirements.\n \n Salary Range:\n$80,600.00 - $145,000.00 \n The base salary range represents the anticipated low and high of the Syneos Health range for this position. Actual salary will vary based on various factors such as the candidate’s qualifications, skills, competencies, and proficiency for the role. \n \n \n Get to know Syneos Health \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n \n http://www.syneoshealth.com \n \n Additional Information \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description.  The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms.  Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
+      "skills": [
+        "FDA",
+        "EMA",
+        "ICH",
+        "eCTD",
+        "IND",
+        "NDA",
+        "regulatory submission",
+        "compliance",
+        "documentation",
+        "regulatory affairs"
+      ],
+      "experience": "3–5 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.671Z"
     },
     {
       "source": "Workday",
@@ -1512,7 +1598,7 @@
       "domain": "pharma",
       "title": "R&D and Regulatory Systems Lead",
       "location": "United States Remote Office",
-      "postedText": "Posted 20 Days Ago",
+      "postedText": "Posted 21 Days Ago",
       "externalPath": "/job/United-States-Remote-Office/R-D-and-Regulatory-Systems-Lead_R5674171",
       "reqId": "R5674171",
       "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/R-D-and-Regulatory-Systems-Lead_R5674171",
@@ -1580,7 +1666,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.011Z"
     },
     {
@@ -1625,7 +1711,7 @@
       "domain": "pharma",
       "title": "Associate Director - Product Owner, Engineering, EHS & Sustainability",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 6 Days Ago",
+      "postedText": "Posted 7 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Associate-Director---Product-Owner--Engineering--EHS---Sustainability_449065",
       "reqId": "449065",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Product-Owner--Engineering--EHS---Sustainability_449065",
@@ -1661,7 +1747,7 @@
       "domain": "pharma",
       "title": "Principal-MDM, Alignment & Dimensions Lead",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 6 Days Ago",
+      "postedText": "Posted 7 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Manager-MDM--Alignment---Dimensions_448755",
       "reqId": "448755",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-MDM--Alignment---Dimensions_448755",
@@ -1697,7 +1783,7 @@
       "domain": "pharma",
       "title": "Senior Principal - Product Owner - EUC/MDM",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 5 Days Ago",
+      "postedText": "Posted 6 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Product-Owner---EUC-MDM_449009",
       "reqId": "449009",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Product-Owner---EUC-MDM_449009",
@@ -1733,7 +1819,7 @@
       "domain": "pharma",
       "title": "Senior Principal - Product Owner - EUC/MDM",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 5 Days Ago",
+      "postedText": "Posted 6 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Product-Owner---EUC-MDM_449010-1",
       "reqId": "449010",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Product-Owner---EUC-MDM_449010-1",
@@ -2233,11 +2319,79 @@
     },
     {
       "source": "Workday",
+      "company": "Ecolab",
+      "domain": "specialty chemical / water & hygiene",
+      "title": "Senior Data Analyst",
+      "location": "IND - Karnataka - Bangalore - EDC",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Karnataka---Bangalore---EDC/Senior-Data-Analyst_R00309208",
+      "reqId": "R00309208",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Senior-Data-Analyst_R00309208",
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Senior-Data-Analyst_R00309208",
+      "description": "Responsibilities \n Provide expertise in PowerBi Analytics \n Create data models, advanced DAX calculations, and custom measures to support business analytics needs \n Create ELT flows, Data warehousing, Azure Data Pipelines\n Stay up to date with Power BI features and best practices. \n Innovate and be creative in your data analysis, problem solving and presentation of solutions\n Cross functional capabilities in various teams in Advance Analytics \n Handle outages or issues raised on Service now in the form of tickets / incidents \n Take additional responsibilities as & when required \n Help train new hires in all processes & skillsets required & mentor them \n Coach, motivate and guide the junior team members \n Bi-monthly presentation on the concepts & new features which can be implemented in the day-to-day work. \n Qualifications \n At least 5-8 years’ experience in data analytics along with UG / PG degree \n Good understanding of PowerBI Analytics, Data Flows, SQL, Cloud Solutions (Azure) Python. \n Experience in Snowflake, MS Fabric, Tabular Editor, Paginated reports, Power automate & dbt \n Build and maintain scalable data models using modern tools (e.g., Snowflake, dbt). Translate defined business logic into clean and reusable datasets. \n Experience in supporting Analytic solution roll outs and working across different time zones. \n Experience managing projects or working towards a deadline. \n Working with clients or customers internal or external. \n Experience working in an Agile/DevOps environment using design thinking methodology. \n Experience with effective communication at different levels in the organization. \n Willingness to accommodate work schedules that align with onsite hours & weekend schedules \n Upskill on new technologies to implement on the job / new business requirement \n Strong attention to detail and ability to ensure data accuracy \n Ability to work with global teams across time zones \n Clear communication skills \n Communicate data issues, variances, and root-cause findings with clear analysis and recommendations",
+      "skills": [
+        "data analysis"
+      ],
+      "experience": "5–8 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 87,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.587Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
+      "title": "Lead-MDM Integrations",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Lead-MDM-Integrations_450782",
+      "reqId": "450782",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Lead-MDM-Integrations_450782",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Lead-MDM-Integrations_450782",
+      "description": "About the role \n We are looking for a Technical Subject Matter Expert (SME) for our Master Data Management (MDM) DevOps team to lead the design, development and support of Reltio-based solutions. In this role, you will act as the key technical authority for Reltio MDM and its integrations across the Azure stack, governing code quality and design reviews, guiding and mentoring developers and support analysts, and ensuring secure, compliant and reliable data and API flows to downstream systems. You will work closely with cross-functional teams in an Agile environment to resolve incidents and defects, deliver enhancements and drive continuous improvement Key responsibilities \n Act as key Technical SME for MDM DevOps and cross-functional teams\n Lead development and Reltio API integration across Reltio and Azure stack (Java/C#, Azure Functions, Service Bus, AKS, Kong APIs), ensuring robust data and API inbound and outbound flows to Reltio, Vault, and downstream systems.\n Ensure technical designs meet regulatory expectations and embed appropriate security and governance controls in the architecture.\n Build and enhance Java utilities for custom tasks such as data cleanup, DCR extract/response, bulk loads and batch processes for Reltio entities and relationships\n Implement and maintain custom classes behind Reltio workflows (e.g. approval workflows, entity type checks, change validations), including BPMN-linked service tasks and user tasks.\n Contribute to microservices-based solutions (Java microservices on Azure functions, ADF, Databricks) that interface with Reltio MDM and other systems.\n Experience with modern data/AI stack around Reltio (Azure functions, ADF, Python/PySpark) and CI/CD practices for microservices.\n Approve source-code reviews and technical documents, confirming specifications are complete, defects resolved, programming standards followed, and Git/GitHub repository structure and practices are adhered to.\n Ensure secure coding practices in Java/C#/Azure solutions (encryption/decryption of credentials, OAuth token usage, remediation of security findings\n Guide and mentor Reltio Sr. Developers and Support Analysts, allocating work, reviewing designs, and driving continuous improvement and enhancements\n Oversee incident, defect, and change management related to Reltio, ensuring SLAs are met, root causes addressed, and changes follow SOPs for source code, change, and release management.\n Required skills and experience: \n 5 to 8 Years of professional experience.\n Experienced in Architecture and design experience in Reltio MDM and Rest APIs\n Proven experience acting as Tech Lead or equivalent: governing code quality, design reviews, defect resolution, and technical sign-offs\n Strong engineering background with experience in Reltio MDM (configuration, workflows, LCA components, UI, RDM, data validation, integration hub) and related microservices/integration patterns.\n Proficiency in Designing and Reltio L3 configuration including Data model, entity and relationship definition, crosswalks and source design strategies, Survivorship strategies, Match and merge concepts\n Strong Java development skills with experience in microservices and Reltio MDM Rest APIs(configuration, workflows, UI, RDM, security, LCA components).\n Design and implementation experience in Azure Functions using C# or Java to: - Ingest, transform and publish data to MDM platforms and downstream consumers - Integrate with REST/Graph APIs, message queues, event hubs and storage accounts - Orchestrate file transfers, scheduled jobs and real-time triggers from CRM, Reltio, OpenData\n Agile/Scrum ways of working, story-point estimation and participation in backlog refinement, sprint planning, show-and-tell, and hyper care activities.\n Ability to troubleshoot production issues, and drive resolution of defects/incidents in Reltio and related integrations.\n   \n Preferred Skills :\n Capability to build production-grade LLM applications using Azure services and microservice patterns\n Capability to build GenAI/agentic solutions on Azure AI Agent Service or similar, integrating LLMs (Azure OpenAI, gpt, Gemini) with enterprise data and workflows\n Exposure to in Azure AI Foundry and MCP/Kong patterns for agent orchestration\n #AGTech\n #GSK-LI\n Skills \nApplication Integrations, Application Programming Interface (API) Security, CI/CD, Cloud Engineering, Configuration Management (CM), Database Management, Data Engineering, Data Integration, Front-End Development, Internet of Things (IoT), Mobile Development, RESTful API Design, Security System Design, Software Development Life Cycle (SDLC), Version Control, Web Development  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH"
+      ],
+      "experience": "5–8 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 87,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.683Z"
+    },
+    {
+      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Country Regulatory Specialist, Clinical Research - 100% Remote in Brazil, English advanced",
       "location": "BRA-Remote",
-      "postedText": "Posted 4 Days Ago",
+      "postedText": "Posted 5 Days Ago",
       "externalPath": "/job/BRA-Remote/Country-Regulatory-Specialist--Clinical-Research---100--Remote-in-Brazil--English-advanced_25113591",
       "reqId": "25113591",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/BRA-Remote/Country-Regulatory-Specialist--Clinical-Research---100--Remote-in-Brazil--English-advanced_25113591",
@@ -2345,41 +2499,6 @@
     },
     {
       "source": "Workday",
-      "company": "Lonza",
-      "domain": "pharma / chemical",
-      "title": "Digital Finance Business Analyst",
-      "location": "IN - Hyderabad",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IN---Hyderabad/Digital-Finance-Business-Analyst_R75763-1",
-      "reqId": "R75763",
-      "url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Digital-Finance-Business-Analyst_R75763-1",
-      "applyUrl": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/job/IN---Hyderabad/Digital-Finance-Business-Analyst_R75763-1",
-      "description": "Digital Finance Business Analyst \n Location: Hyderabad\n \n About the Role \n The Digital Finance Business Analyst supports the development and delivery of data and analytics products within the Digital Finance team, part of FP&A . The role exists to enable standardized, data‑driven finance processes across Lonza’s global CDMO sites by driving the digitalization of Finance. Acting as a bridge between finance teams and technical systems, this role designs and delivers Power BI solutions using SAP ERP Finance and Controlling (FICO) data to support site‑level financial operations, performance management, and decision‑making.\n \n What We Offer \n An agile and dynamic working environment within a global life sciences leader \n The opportunity to contribute to global Finance digitalization initiatives across multiple CDMO sites\n Hands‑on exposure to SAP ERP Finance (FI/CO) and Microsoft Power Platform solutions\n A collaborative, inclusive, and ethical workplace culture\n Competitive compensation and benefits aligned with experience\n Opportunities for professional growth through global and cross‑functional collaboration\n \n Key Responsibilities \n Collaborate closely with site finance teams, controllers, and global process owners to gather reporting requirements and translate them into intuitive Power BI solutions\n Design and develop interactive Power BI dashboards and reports focused on site finance operations, cost management, and performance tracking\n Build and maintain robust data models and analytical solutions using data sourced from SAP ERP FI and CO modules \n Translate complex financial data into clear, actionable insights for non‑financial stakeholders\n Automate repetitive finance processes using Power Automate , improving efficiency and reducing manual effort\n Support finance users by providing training, documentation, and ongoing assistance to maximize report adoption and data literacy\n Ensure data accuracy and integrity by validating underlying SAP data and report logic\n Contribute to continuous improvement of digital finance solutions, standards, and best practices\n \n Education & Experience \n Bachelor’s degree in Finance, Accounting, Information Systems, Computer Science , or a related discipline\n Proven experience in finance analytics, reporting, or business analysis roles\n Strong exposure to enterprise finance systems and data‑driven decision support\n \n Skills & Technical Expertise \n Strong proficiency in Microsoft Power BI , including DAX, data modeling, and report publishing \n Deep understanding of SAP ERP Finance and Controlling (FI/CO) processes and underlying SAP table structures\n Solid knowledge of financial principles , including budgeting, forecasting, and variance analysis\n Excellent analytical and problem‑solving skills with strong attention to detail\n Ability to communicate complex technical concepts clearly to business and finance users\n Experience with SQL , advanced Excel , and other analytical tools is an advantage\n Familiarity with Agile or Scrum methodologies is desirable\n \n About Lonza \n At Lonza, our people are our greatest strength. With more than 30 sites across five continents , our globally connected teams work together every day to enable the manufacture of life‑saving medicines. Our core values— Collaboration, Accountability, Excellence, Passion, and Integrity —reflect how we work and succeed together.\n Everyone’s ideas, big or small, have the potential to improve millions of lives. Lonza is committed to fostering an inclusive environment where diverse perspectives drive innovation and where every employee can make a meaningful impact.",
-      "skills": [
-        "documentation",
-        "SAP",
-        "Excel"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 85,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-31T09:02:54.618Z"
-    },
-    {
-      "source": "Workday",
       "company": "Accenture",
       "domain": "consulting / MDM / analytics",
       "title": "#ACN-GN I&E life Science R&D Regulatory",
@@ -2413,7 +2532,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.011Z"
     },
     {
@@ -2451,7 +2570,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.010Z"
     },
     {
@@ -2489,7 +2608,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.010Z"
     },
     {
@@ -2527,7 +2646,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.010Z"
     },
     {
@@ -2612,7 +2731,7 @@
       "domain": "pharma / CRO",
       "title": "IT Data Analyst",
       "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 22 Days Ago",
+      "postedText": "Posted 23 Days Ago",
       "externalPath": "/job/IND-Hyderabad-Hybrid/IT-Data-Analyst_25107704",
       "reqId": "25107704",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IT-Data-Analyst_25107704",
@@ -2676,7 +2795,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.012Z"
     },
     {
@@ -2785,6 +2904,39 @@
     },
     {
       "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "Business Analyst - AI Content Engine",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10089858",
+      "reqId": "REQ-10089858",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10089858",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10089858",
+      "description": "Job Description Summary \nJoin Novartis for driving global impact with innovative digital solutions. We are looking for a candidate at the intersection of Product Management discipline, AI, and content creation for life sciences and pharmaceutical industry. As a product expert, you will drive strategy, evolution and adoption of Content Authoring Platforms and AI Content Engine which accelerates the creation of commercial and medical content for HCPs.  \n Job Description \n Key Responsibilities:  \n Accelerate content creation, personalize content for different people, and facilitate localization through technology platforms. \n Partner with business leaders to identify, analyze, and solve key challenges, leveraging your expertise to advise on strategic objectives and product roadmap. Roll out the product across different countries. \n Maintain & prioritize product backlog to support the Product Owner with the creation of EPICs, user stories and acceptance criteria. \n Manages solution scope and requirements and brings stakeholders to a common understanding of the requirements. \n Participates in refinement and planning sessions with product team and assists with requirement prioritization. \n Analyzes the impact of the requirements on the system and identifies gaps, contradictions, and inconsistencies. \n Deliver insights that drive Product teams decisions on strategy and product development. \n Translate data insights into actions and recommendations that will drive product adoption, customer satisfaction, and investment decisions. \n Essential Requirements: \n The candidate should understand gen AI, have content creation knowledge, and the ability to engage in in-depth conversations with relevant stakeholders in countries. \n Exposure to content & channels typically used in pharmaceutical and life sciences industry. E.g., Email-based channels and websites, social media and MSL slide decks \n Proven Applied Generative AI experience in real world scenarios to solve problems, create new products, or enhance existing ones, using AI for improving sales & marketing tactics. \n Bachelor’s / master’s degree in business or technology / engineering. \n Overall, around 5-7 years of experience in Product Management and, or Content Creation  \n Understanding the complexity of integrated working in a matrix and geographically dispersed environment. \n Plan projects, set schedules, coordinate resources across product, data, and engineering teams, and ensure end-to-end completion, meeting timelines and quality expectations.  \n Passion for keeping up to date with the latest in marketing technology and digital marketing trends. \n \n Desirable Requirements: \n Joint Value Creation: Ability to collaborate effectively to create value for all stakeholders. \n Dynamic, results-oriented team player who contributes positively to team success.  \n Exhibit organizational agility, creativity, strategic & strong analytical thinking.  \n Excellent presentation skills and storyboarding skills.  \n  \n Skills Desired \nAnalytical Thinking, Brand Awareness, Business Analytics, Change Agility, Cross-Functional Collaboration, Digital Marketing, Marketing Strategies, Media Campaigns, Project Management, Project Planning, Sales, Stakeholder Engagement, Stakeholder Management, Waterfall Model",
+      "skills": [
+        "stakeholder management"
+      ],
+      "experience": "5–7 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 81,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.619Z"
+    },
+    {
+      "source": "Workday",
       "company": "Parexel",
       "domain": "pharma / CRO",
       "title": "Clinical Trial Coordinator (Regulatory) - FSP",
@@ -2827,7 +2979,7 @@
       "domain": "pharma / CRO",
       "title": "Clinical Trial Regulatory Advisor - The position is to work with submissions in Canada - Argentina Home Based",
       "location": "ARG-Remote",
-      "postedText": "Posted Yesterday",
+      "postedText": "Posted 2 Days Ago",
       "externalPath": "/job/ARG-Remote/Clinical-Trial-Regulatory-Advisor---The-position-is-to-work-with-submissions-in-Canada---Argentina-Home-Based_25113414",
       "reqId": "25113414",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/ARG-Remote/Clinical-Trial-Regulatory-Advisor---The-position-is-to-work-with-submissions-in-Canada---Argentina-Home-Based_25113414",
@@ -2865,7 +3017,7 @@
       "domain": "pharma",
       "title": "Financial Master Data Analyst",
       "location": "Costa Rica Remote Office",
-      "postedText": "Posted 11 Days Ago",
+      "postedText": "Posted 12 Days Ago",
       "externalPath": "/job/Costa-Rica-Remote-Office/Financial-Master-Data-Analyst_R5674960",
       "reqId": "R5674960",
       "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/Costa-Rica-Remote-Office/Financial-Master-Data-Analyst_R5674960",
@@ -2895,41 +3047,6 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-31T09:02:54.703Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Dow",
-      "domain": "chemical",
-      "title": "EHS&S Digital Solution Specialist",
-      "location": "Navi Mumbai (IND)",
-      "postedText": "Posted 13 Days Ago",
-      "externalPath": "/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "reqId": "R2068094",
-      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
-      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role   \n  \n Dow has an exciting and challenging opportunity for Digital Solution Specialist , based in Navi Mumbai (India) to join the Environment, Health, Safety and Sustainability (EHS&S) Information Technology team. In this role, you will own and manage a small EHS&S portfolio of digital solutions and systems, guiding them through their full lifecycle—analysis, design, implementation, adoption, optimization, and end-of-life retirement. Your work will deliver advanced EHS&S functional and business capabilities that accelerate Dow’s digital transformation. \n You will collaborate with a multi-disciplinary IT team—including analysts, designers, developers, and support specialists—to deliver innovative, user-centric solutions. A key part of your role is to gather and analyze data to define functional and technical requirements, with a strong focus on experience, simplification, automation, efficiency, and reliability. You will also oversee development and adoption of solutions leveraging best-in-class mobile, web, desktop, and cloud technologies, while identifying opportunities for digital innovation. \n  \n Responsibilities  \n Requirements Analysis: Understand key business drivers to explore, analyze, and map business and functional requirements.  \n Experience Mapping: Translate user journeys and stories into solutions that enhance employee and customer experience (EX/CX).  \n Solution Lifecycle Management: Drive end-to-end lifecycle—design, architecture, integration (buy vs. build), development, testing, and compliance with corporate standards and security policies.  \n Adoption & Support: Support implementation, user adoption, and define supplier/team support models.  \n Performance Management: Establish controls, KPIs, and measures for solution performance and reliability.  \n Integration & Optimization: Coordinate with Solution Managers and Business Process Managers for end-to-end process integration.  \n Roadmap Development: Define improvement and innovation roadmaps; assess resources, technology, and investment needs.  \n Team Support: Assist senior Solution Managers with workload analysis and capacity planning.  \n Ability to analyze and resolve problems using technical expertise and sound judgment. Strong communication skills to explain complex concepts and provide informal guidance to new team members.  \n Qualifications  \n Bachelor’s degree in Computer Science, Information Systems, Engineering, EHS&S, or a related field.  \n Min 5 years of work experience in the role. \n Knowledge and experience with EHS and Sustainability processes and technologies.   \n Experience supporting sustainability, decarbonization, carbon accounting, environmental compliance, product carbon footprint (PCF), or lifecycle assessment (LCA) initiatives through digital solutions and data-driven capabilities .  \n Excellent written and verbal English communication skills.   \n Knowledge of AI, Generative AI, Microsoft Copilot, and automation technologies. \n Strong understanding of system integration and application architecture, including API integrations, data flow analysis, end-to-end process integration, and Azure Integration Services. \n Experience working with Databricks, SQL, and Azure DevOps. \n Proficiency in Microsoft Power Platform (Power Apps, Power BI, Power Automate) and Copilot solutions. \n Knowledge of software development concepts and modern application delivery practices. \n Experience working in Agile/Scrum delivery environments. \n Understanding of cloud-based technologies, enterprise data management, and digital transformation initiatives. \n  \n Your Skills  \n Business Requirements: The ability to gather, analyze, and translate business needs into clear functional and technical requirements that guide the design and delivery of effective digital solutions. \n Solutions Delivery: Managing the full lifecycle of digital solutions—including design, integration, development, testing, deployment, optimization, and retirement—to ensure they meet performance, security, and usability expectations. \n Design Thinking: Applying user‑centered methods such as journey mapping and experience analysis to create solutions that improve employee and customer experience while driving simplification, automation, and efficiency. \n Integration Services: Coordinating and defining end‑to‑end system and process integrations to ensure seamless data flow and interoperability across applications, platforms, and business processes. \n Strategic Planning: Developing solution roadmaps, identifying digital innovation opportunities, and aligning technology investments and resource needs with organizational strategy and long‑term business goals environment. \n \n Additional notes \n The ability to accommodate a flexible schedule aligned with international time zones is essential. \n Relocation assistance is not provided with this position. \n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
-      "skills": [
-        "REACH",
-        "lifecycle management",
-        "compliance"
-      ],
-      "experience": "5+ yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 80,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-31T09:02:54.592Z"
     },
     {
       "source": "Workday",
@@ -2972,7 +3089,7 @@
       "domain": "pharma / CRO",
       "title": "Principal Medical Writer ( Regulatory submission writing)",
       "location": "",
-      "postedText": "Posted 4 Days Ago",
+      "postedText": "Posted 5 Days Ago",
       "externalPath": "/job/Single-sponsor-Principal-I-II-Medical-Writer--Clinical---Submissions-exp--fully-remote-in-Italy--UK--Spain--Poland-or-Ireland_25112590-1",
       "reqId": "25112590",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/Single-sponsor-Principal-I-II-Medical-Writer--Clinical---Submissions-exp--fully-remote-in-Italy--UK--Spain--Poland-or-Ireland_25112590-1",
@@ -3009,7 +3126,7 @@
       "domain": "pharma / CRO",
       "title": "Regulatory Consultant (RA Biologics exp / EU market)",
       "location": "",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Regulatory-Consultant---EU-Centralized-Regulatory-Procedure-experience---office-based-_25112537",
       "reqId": "25112537",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/Regulatory-Consultant---EU-Centralized-Regulatory-Procedure-experience---office-based-_25112537",
@@ -3075,7 +3192,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.009Z"
     },
     {
@@ -3123,7 +3240,7 @@
       "domain": "pharma",
       "title": "Sr. Analyst, US Customer Engagement Measurement & Insights",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 18 Days Ago",
+      "postedText": "Posted 19 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst---Market-Access-Reporting_R1603755",
       "reqId": "R1603755",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---Market-Access-Reporting_R1603755",
@@ -3161,7 +3278,7 @@
       "domain": "pharma",
       "title": "Sr. Analyst, US Customer Engagement Measurement & Insights",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 18 Days Ago",
+      "postedText": "Posted 19 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Sr-Analyst--US-Customer-Engagement-Measurement---Insights_R1606586",
       "reqId": "R1606586",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Sr-Analyst--US-Customer-Engagement-Measurement---Insights_R1606586",
@@ -3197,9 +3314,47 @@
       "source": "Workday",
       "company": "GSK",
       "domain": "pharma",
+      "title": "Associate Director- Data Platform and BI Services",
+      "location": "Bengaluru Luxor North Tower",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Bengaluru-Luxor-North-Tower/Associate-Director--Data-Platform-and-BI-Services_450785",
+      "reqId": "450785",
+      "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director--Data-Platform-and-BI-Services_450785",
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director--Data-Platform-and-BI-Services_450785",
+      "description": "Job Purpose: \n We are seeking an experienced Associated Director- Data Platform & BI Services to provide technical leadership and service ownership across enterprise Azure Data Platform and Power BI services. This role will lead the delivery, governance, operation, and continuous improvement of Azure, Databricks, Data Lake, data engineering, integration, and Power BI capabilities, ensuring scalable, secure, reliable, and cost-effective services.\n The role will oversee platform engineering standards, security and access controls, Power BI services, CI/CD, monitoring, performance, production operations, and service management, while driving automation, Generative AI, Agentic AI, and emerging technology adoption. As technical Product Owner, the Senior Manager will translate business requirements into prioritized platform capabilities and ensure solutions align with GSK-approved design patterns, security, engineering, and governance standards.\n Key Responsibilities: \n Platform, AI & Technology Leadership: \n Lead enterprise and solution architecture for major commercial data, analytics, AI/ML, and Power BI initiatives.\n Lead technology delivery and platform enablement for major Commercial / Patient Data, Analytics, AI/ML, and Power BI initiatives.\n Drive AI and Agentic AI enablement, including AI agents, MCP servers, enterprise integrations, security, and governance.\n Ensure solutions follow GSK-approved architecture patterns, technology standards, security controls, and governance guidelines.\n Partner with Architecture, Security, Engineering, and Global Tech teams to obtain required technical reviews and approvals.\n Oversee infrastructure provisioning and ensure compliance with established enterprise platform and security standards.\n Drive cross-functional technical alignment and dependency management across US Commercial, Data, MDM, Engineering, Global Tech, and partner teams.\n Azure Data Platform & Engineering Leadership: \n Lead and oversee Azure Data Lake Platform services, including Azure Databricks, ADF, ADLS, Unity Catalog, and related Azure capabilities.\n Ensure platform solutions adhere to approved enterprise design patterns, engineering standards, security controls, and GSK technology guidelines.\n Ensure solutions meet scalability, reliability, security, performance, operational support, and cost-efficiency requirements.\n Drive adoption of standardized, reusable, configuration-driven platform capabilities and integration patterns.\n Partner with Architecture and Engineering teams to ensure new solutions align with enterprise technology direction and platform standards.\n Promote consistent implementation practices across Data Lake, analytics, AI/ML, and downstream data services.\n Platform Governance & Technical Operations: \n Manage platform user access, roles, permissions, Microsoft Entra ID (Azure AD) groups, service principals, and access approval processes.\n Implement and maintain role-based access controls (RBAC) across Azure, Databricks, Unity Catalog, Power BI, Data Lake, and related platform services.\n Ensure appropriate access controls for data, workspaces, applications, service principals, storage, and platform resources.\n Oversee user onboarding/offboarding, access reviews, segregation of duties, privileged access, and remediation of access-related risks.\n Ensure platform configurations and operational processes comply with GSK security, governance, audit, and approved technical standards.\n Drive platform controls, audit readiness, automation, monitoring, technical risk remediation, and continuous improvement.\n Power BI Platform & Service Management: \n Manage Power BI services including capacities, workspaces, gateways, semantic models, dataflows, reports, dashboards, and platform configurations.\n Oversee user access, roles, security groups, RLS, workspace provisioning, sharing, and approval processes.\n Establish technical standards for report development, semantic modeling, workspace management, deployment pipelines, and CI/CD processes.\n Govern the end-to-end report and semantic model lifecycle, including development, testing, deployment, certification, support, and retirement.\n Drive performance optimization, automation, monitoring, security, standardization, and cost-effective utilization of Power BI services.\n Ensure Power BI solutions integrate effectively with Databricks, Azure Data Lake, and enterprise data platforms while following GSK-approved technical, security, and governance standards.\n Technical Product Ownership & Requirements Management: \n Lead technical product ownership for Data Platform and Power BI services, including platform roadmap, capabilities, enhancements, and modernization.\n Translate business needs into technical requirements, data flows, integrations, security requirements, platform dependencies, and acceptance criteria.\n Review technical requirements and user stories across Azure, Databricks, Data Lake, APIs, data pipelines, Power BI, and related platform services.\n Assess technical feasibility, dependencies, risks, security, performance, and operational readiness before implementation.\n Manage and prioritize backlog across new capabilities, technical debt, automation, platform enhancements, security remediation, and production support.\n Coordinate end-to-end technical delivery while ensuring alignment with GSK-approved standards, design patterns, security, and governance requirements.\n Platform Service Operations & Technical Leadership: \n Lead day-to-day Data Platform and Power BI service operations, ensuring platform availability, reliability, performance, security, and operational readiness.\n Oversee JIRA backlogs, ServiceNow incidents, service requests, problem records, change requests, and operational support queues, ensuring appropriate prioritization and resolution.\n Drive resolution of complex technical issues across Azure, Databricks, Data Lake, data pipelines, integrations, Power BI, gateways, access, and platform services.\n Lead root-cause analysis (RCA), problem management, corrective/preventive actions, technical risk remediation, and recurring-issue elimination.\n Establish and monitor service KPIs, SLAs, platform health, incident trends, capacity/performance metrics, escalation paths, and operational dashboards.\n Coordinate production deployments, change management, release readiness, environment dependencies, and post-production support across engineering and support teams.\n Provide technical direction to Data Engineering, Power BI, platform, and support teams, ensuring consistent engineering, support, and operational practices.\n Partner with Cybersecurity, Data Governance, infrastructure, application, and business teams to resolve cross-platform dependencies, security issues, and production risks.\n Drive automation, monitoring, alerting, operational documentation, support procedures, and continuous service improvement to improve platform stability and supportability.\n Communicate service health, critical incidents, technical risks, dependencies, remediation plans, and platform priorities to leadership and key stakeholders.\n Platform Service Operations & Technical Leadership: \n Drive innovation across Data Platform and Power BI services by evaluating and adopting emerging technologies, tools, and engineering capabilities.\n Lead POCs and technical evaluations across Generative AI, Agentic AI, AI-assisted development, data engineering, analytics, and platform automation.\n Identify opportunities to apply AI agents, MCP, RAG, intelligent automation, and AI coding capabilities to improve engineering productivity and platform operations.\n Promote automation across data pipelines, testing, deployment, monitoring, data quality, incident management, and operational support.\n Evaluate new capabilities within Azure, Databricks, Power BI, and the broader data/AI ecosystem for potential enterprise adoption.\n Define measurable success criteria, technical feasibility, scalability, security, cost, and business value for innovation initiatives before production adoption.\n Drive successful POCs toward production-ready, reusable, governed, and scalable enterprise capabilities in alignment with GSK standards.\n Required Skills & Qualifications: \n 10 years of experience in data engineering, data platforms, analytics, BI, or enterprise technology, with significant technical leadership and platform/service ownership responsibilities.\n Strong hands-on knowledge of Microsoft Azure, Azure Databricks, ADLS, ADF, Unity Catalog, and Power BI in enterprise-scale environments.\n Strong understanding of data engineering, data modeling, data integration, APIs, cloud platforms, security, scalability, performance optimization, and cost management.\n Experience managing Power BI services, including capacities, workspaces, gateways, semantic models, reports, security, refresh processes, deployment, performance, and production support.\n Experience with Microsoft Entra ID (Azure AD), RBAC, security groups, service principals, user roles, access approvals, and platform/data access controls.\n Experience applying enterprise-approved design patterns, engineering standards, security controls, governance requirements, and reusable platform capabilities.\n Experience driving Generative AI, Agentic AI, automation, and emerging technology initiatives, including technical evaluations, POCs, enterprise integration, and production enablement.\n Demonstrated experience in technical product/platform ownership, including requirements, roadmaps, backlog prioritization, technical dependencies, delivery readiness, and cross-team execution.\n Experience with JIRA, ServiceNow, Azure DevOps/CI/CD, release management, incident/problem management, RCA, change management, monitoring, and production operations.\n Strong understanding of data governance, data quality, access management, security, and healthcare/pharma data domains.\n Strong technical leadership, communication, and stakeholder-management skills with the ability to coordinate across engineering, security, governance, analytics, infrastructure, support, and business teams.\n Preferred Skills: \n Experience with Generative AI and Agentic AI technologies, including multi-agent systems, MCP, RAG, prompt engineering, LLM integration, and Responsible AI practices.\n Hands-on knowledge of modern AI engineering frameworks and tools such as LangGraph, LangChain, LangSmith, vector databases, and AI-assisted development tools.\n Strong understanding of modern data-platform concepts, including data products, data mesh, metadata-driven frameworks, self-service analytics, lakehouse patterns, and open table formats such as Apache Iceberg and Delta Lake.\n Experience with AI/ML platforms, MLOps, model lifecycle management, monitoring, and production AI solutions.\n Strong understanding of Power BI semantic models, DAX, data modeling, gateways, capacity/performance optimization, deployment pipelines, and enterprise BI governance.\n Knowledge of healthcare, patient, commercial, marketing, and real-world data domains, with an understanding of data privacy, quality, security, and governance considerations.\n Experience driving automation and reusable engineering capabilities across ingestion, data quality, testing, CI/CD, monitoring, operational support, and platform management.\n Ability to evaluate emerging capabilities across Azure, Databricks, Power BI, data engineering, and AI ecosystems and transition successful POCs into scalable, governed production solutions.\n Demonstrated technical leadership in driving engineering standards, reusable patterns, platform modernization, innovation, and cross-functional technology adoption.\n #AGTech\n #GSK-LI\n Skills \nApplication Integrations, Application Programming Interface (API) Security, CI/CD, Cloud Engineering, Configuration Management (CM), Database Management, Data Engineering, Data Integration, Front-End Development, Internet of Things (IoT), Mobile Development, RESTful API Design, Security System Design, Software Development Life Cycle (SDLC), Version Control, Web Development  \n  \n \n Why GSK? \n Uniting science, technology and talent to get ahead of disease together. \n \n GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.\n \n People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n \n Inclusion at GSK: \n As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.\n \n Please contact our Recruitment Team at IN.recruitment-adjustments gsk.com to discuss your needs.\n \n Important notice to Employment businesses/ Agencies \n GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK s commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n \n It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.\n \n GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable. \n \n If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus gsk.com , so that we can confirm to you if the job is genuine.",
+      "skills": [
+        "REACH",
+        "lifecycle management",
+        "compliance",
+        "documentation",
+        "audit"
+      ],
+      "experience": "10 yrs",
+      "salary": {
+        "display": "Expected ₹30–55 LPA",
+        "minLPA": 30,
+        "maxLPA": 55,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.694Z"
+    },
+    {
+      "source": "Workday",
+      "company": "GSK",
+      "domain": "pharma",
       "title": "Principal Manufacturing Systems Analyst",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 6 Days Ago",
+      "postedText": "Posted 7 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Principal-Manufacturing-Systems-Analyst_448979",
       "reqId": "448979",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal-Manufacturing-Systems-Analyst_448979",
@@ -3238,7 +3393,7 @@
       "domain": "pharma",
       "title": "Senior Manager - SN Automation Engineering Product Analyst",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Senior-Manager---SN-Automation-Engineering-Product-Analyst_448653-1",
       "reqId": "448653",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---SN-Automation-Engineering-Product-Analyst_448653-1",
@@ -3346,6 +3501,46 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-31T09:02:54.629Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Novartis",
+      "domain": "pharma",
+      "title": "eCompliance Manager",
+      "location": "Hyderabad (Office)",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-Office/eCompliance-Manager_REQ-10088583",
+      "reqId": "REQ-10088583",
+      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/eCompliance-Manager_REQ-10088583",
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/eCompliance-Manager_REQ-10088583",
+      "description": "Job Description Summary \nAbout the role: The eCompliance Manager is responsible for providing Quality Assurance oversight and guidance with regard to computerized systems validation (CSV), operating within the framework of regulations (GxP, 21CFR11, etc.) and requirements defined in the Novartis Quality Manual and global procedures. eCompliance Manager provides the needed operational support such as approving the GxP impacted changes, Periodic Review Reports, deviations etc., Provides the guidance to the project and operations team on the CSV related topics and related information. Reviews and/or approves the global Computerized Systems key validation deliverables as a part of the eCompliance support to the GxP projects.  \n Job Description \n Key Requirements: \n Quality oversight of operational activities of GxP systems (e.g., Changes, Periodic Reviews, Deviations etc.,). Drive the design, deployment and continuous improvement of automation and AI-enabled solutions within assigned processes.​\n Provide needed support to meet the applicable Novartis and regulatory requirements for GxP regulated computerized systems projects. Supports the development of  future-focused strategy in AI and emerging technologies readiness, evaluating regulatory requirements and developments to ensure Novartis QMS is fit for purpose in the eCompliance environment.\n Point of Contact for all CSV related matters for GxP Computerized Systems and act as an interface between IT and Business for eCompliance topics in relation to GxP classified Computer Systems promoting a Quality Culture.\n Review and approve project related documents for GxP relevant systems including determination of GxP applicability for all GxP and non-GxP relevant systems.\n Establish trusted partnership with assigned IT Function with understanding of business drivers, and provide the needed day to day operational support. Review and approve the GxP Changes and the associated deliverables.\n Review and approve the GxP impacted deviations, ensure appropriate CAPA are  implemented. Review and approve the Periodic Review Reports for the GxP computerized systems and the associated gaps within CAPA Management System.\n Perform supplier qualification assessment activities. Provide Audit support as assigned and in case of CAPAs, provide the required Quality support.\n Essential Requirements: \n 10-15 years of overall IT experience, and a minimum 7 years of relevant experience in the Pharmaceutical Industry and in particular within regulated functions such as IT Quality and Compliance\n Education- Degree in Information Technology, Life Sciences, Pharmacy, Engineering or equivalent \n Solid understanding of global regulations and Health Authorities expectations governing computerized systems (CSV, Part 11, etc.)\n Solid experience in the development, implementation and lifecycle management of computerized systems in regulated environments\n Experience in quality management of Cloud, SaaS platform, mobile and digital application used in regulated environments. Highly experienced in the operational management of GxP solutions including its related technologies to support the operation\n Good understanding in system application management, its Quality support approach and industry best practices (ITIL, ITSM, etc.)\n Experience in the development, implementation and lifecycle management of key computerized systems in the Pharmaceutical Development, Manufacturing, Quality, Commercial and Infrastructure space (e.g. ERP/SAP, MES, LIMS, CRM, IAM, etc.)\n Desirable Requirements: \n Successful cross-divisional/functional work with complex international teams. Experience in GxP supplier qualification activities\n Proven ability to adjust to multiple demands, shifting priorities and unexpected events while maintaining a positive work attitude\n Ability to effectively interact and present to Management\n Ability to manage the key stakeholders and build trust\n Proven ability to influence without hierarchical authority and build trusted partnerships\n Proven self-starter with experience in initiating and delivering projects and processes\n Excellent communication, negotiation, facilitation, and interpersonal skills\n  \n Skills Desired \nAudits Compliance, cGMP Compliance, Collaboration, Communication, Data Integrity, Decision Making, Internal Auditing, Managing Ambiguity, Problem Solving, Quality Assurance (QA), Quality Auditing, Quality Compliance, Quality Management, Quality Management System Implementation, Quality Management Systems (QMS), Regulatory Compliance, Risk Management, Validation Activities",
+      "skills": [
+        "cGMP",
+        "GxP",
+        "lifecycle management",
+        "compliance",
+        "quality assurance",
+        "SAP",
+        "audit"
+      ],
+      "experience": "10–15 yrs",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 77,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.622Z"
     },
     {
       "source": "Workday",
@@ -3537,6 +3732,72 @@
     },
     {
       "source": "Workday",
+      "company": "Ecolab",
+      "domain": "specialty chemical / water & hygiene",
+      "title": "Data Analyst",
+      "location": "IND - Karnataka - Bangalore - EDC",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309206",
+      "reqId": "R00309206",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309206",
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309206",
+      "description": "Responsibilities \n Provide expertise in PowerBi Analytics \n Create data models, advanced DAX calculations, and custom measures to support business analytics needs \n Create ELT flows, Data warehousing, Azure Data Pipelines\n Stay up to date with Power BI features and best practices. \n Innovate and be creative in your data analysis, problem solving and presentation of solutions\n Cross functional capabilities in various teams in Advance Analytics \n Handle outages or issues raised on Service now in the form of tickets / incidents \n Bi-monthly presentation on the concepts & new features which can be implemented in the day-to-day work. \n Qualifications \n At least 3-5 years’ experience in data analytics along with UG / PG degree \n Good understanding of PowerBI Analytics, Data Flows, SQL, Cloud Solutions (Azure) Python. \n Experience in Snowflake, MS Fabric, Tabular Editor, Paginated reports, Power automate & dbt \n Build and maintain scalable data models using modern tools (e.g., Snowflake, dbt). Translate defined business logic into clean and reusable datasets. \n Experience in supporting Analytic solution roll outs and working across different time zones. \n Experience managing projects or working towards a deadline. \n Working with clients or customers internal or external. \n Experience working in an Agile/DevOps environment using design thinking methodology. \n Experience with effective communication at different levels in the organization. \n Willingness to accommodate work schedules that align with onsite hours & weekend schedules \n Upskill on new technologies to implement on the job / new business requirement \n Strong attention to detail and ability to ensure data accuracy \n Clear communication skills \n Communicate data issues, variances and root-cause findings with clear analysis and recommendations",
+      "skills": [
+        "data analysis"
+      ],
+      "experience": "3–5 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 76,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.585Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Ecolab",
+      "domain": "specialty chemical / water & hygiene",
+      "title": "Data Analyst",
+      "location": "IND - Karnataka - Bangalore - EDC",
+      "postedText": "Posted Today",
+      "externalPath": "/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309205",
+      "reqId": "R00309205",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309205",
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/en-US/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/Data-Analyst_R00309205",
+      "description": "Key Responsibilities:   \n Collaborate with business stakeholders to understand reporting and analytics requirements and translate them into actionable insights and BI solutions. \n Develop and maintain dynamic and interactive dashboards and reports using BI tools such as Power BI Fabric. \n Develop, design, and maintain Power BI reports and dashboards to visualize data for business insights and decision-making. \n Strong understanding of SQL, including writing and troubleshooting queries, working with database views, and understanding stored procedures. \n Create and manage data models and ETL(ADF) processes within Power BI to ensure data accuracy and consistency. \n Work with large and complex datasets from various sources to ensure data accuracy, consistency, and integrity. \n Develop and optimize ETL (Extract, Transform, Load) processes to support reporting and analytics needs. \n Monitor and maintain BI platform performance, troubleshoot issues, and provide support to end users. \n Stay updated on industry best practices, emerging trends in BI, and data visualization techniques. \n Experience in Power automate is a must, Databricks, Python experience is a plus \n  Qualifications: \n 2 to 4 years of experience in data analysis, business intelligence, or related roles. \n Proficiency in SQL, data modelling, and data visualization tools (PowerBi). \n Strong analytical and problem-solving skills with the ability to translate complex data into actionable insights. \n Knowledge working with ETL(ADF) processes and data warehousing concepts. \n Knowledge of statistical analysis and predictive modelling techniques is a plus. \n Excellent communication and presentation skills with the ability to communicate complex data insights to non-technical stakeholders. \n   Preferred Skills:   \n Experience with cloud-based BI platforms and services (e.g., AZURE, Databricks, Snowflake). \n Relevant certifications in business intelligence, data analysis, or related fields. \n Familiarity with Scrum methodologies.",
+      "skills": [
+        "data analysis"
+      ],
+      "experience": "2–4 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 76,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.587Z"
+    },
+    {
+      "source": "Workday",
       "company": "Novartis",
       "domain": "pharma",
       "title": "Analyst - Provider MDM",
@@ -3681,11 +3942,85 @@
     },
     {
       "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Sr. Accounting Analyst - A2R, Closing & Reporting",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Sr-Accounting-Analyst---A2R--Closing---Reporting_R2842161",
+      "reqId": "R2842161",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst---A2R--Closing---Reporting_R2842161",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst---A2R--Closing---Reporting_R2842161",
+      "description": "Job title: A2R CR Sr. Accounting Analyst \n Location: Hyderabad \n \n About the job \n \n Sanofi Business Services (SBS), one of the 4 pillars of Sanofi’s Business Transformation organization, is setting up a captive Business Services centre in Hyderabad to provide Finance & Accounting (Account-to-Report, Customer-Invoicing-to-Cash) as well as Employee oriented (Employee Experience) services. With respect to Account to Report (A2R) the Business Services centre will be covering the following areas of the process:\n Assets Management\n Intercompany Accounting\n Treasury Accounting\n GL Accounts Closing and Reporting\n The Closing & Reporting Accountant reports to A2R Closing & Reporting Lead and works closely with Finance (Controlling, Treasury, Internal Control), other SBS departments, Customer Service and the A2R team.\n Our Hubs are a crucial part of how we innovate, improving performance across every Sanofi department and providing a springboard for the amazing work we do. Build a career and you can be part of transforming our business while helping to change millions of lives. Ready? As a C&R Sr. Accounting Analyst within our Account to Report, you’ll be working in line to Increase automation, Optimize process, Centralize master data & Build a robust Governance.\n We are an innovative global healthcare company with one purpose: to chase the miracles of science to improve people’s lives. We’re also a company where you can flourish and grow your career, with countless opportunities to explore, make connections with people, and stretch the limits of what you thought was possible. Ready to get started?\n Main responsibilities: \n Operation: Deliver GL monthly closing & reporting services to SBS. Review interfaces that generate automatic postings to ensure that they have been correctly booked and close Balance Sheet and P&L accounts. Request & collect all recurring and non-recurring items, reconcile accounts and post Manual Journal Entries (MJE). Prepare ad-hoc reports and analysis.\n Contribute to business reviews. Execute in compliance of processes, transactions and reports with Sanofi accounting policies, internal control guidelines and audit / SOX requirements.\n Complete all activities as per the global Core Model and operational KPIs. Develop expert level knowledge of the activities in scope as well as local knowledge of entities in scope and become a super-user.\n Pro-actively anticipate operational issues and coach junior analysts. Build, document and transfer A2R Core Model process knowledge (Level 6/7) relating to GL monthly closure and reporting activities.\n Continuous improvement: Identify process improvement opportunities through elimination of redundant activities. Participate in process automation initiatives and ensure seamless adoption and transition.\n About you \n ·       Education & Experience:  Graduate degree in accounting or finance/ Professional Qualification like CA/ACCA/CPA (preferred). Good and proven experience of 4-8 years/ 1-2 Yrs (for CA/ACCA/CPA) in GL accounting preferably in an international multicultural environment (essential). Fluent in English (essential), Knowledge of other European languages (advantageous)\n ·       Functional: Knowledge of IFRS and local GAAPs (essential). Hands on expertise in GL accounting, closing & reporting processes, and activities (essential). Knowledge of GL accounting and reporting (essential). Experience in working within a Business Services organization (advantageous). Good business acumen (advantageous). Strong problem solving, deductive and analytical skills (advantageous)\n ·       Technical: Hands-on experience of SAP FICO – End user (essential) and other accounting related IT tools (e.g. Trintech Cadency, Blackline) (advantageous). Knowledge of Microsoft Office and expertise of MS Excel (essential)\n ·       Interpersonal: Ability to interact with internal and external clients in a professional manner (essential). Team player, able to work collaboratively transversally and with A2R front line teams with an end-to-end mindset (essential). Good communication skills (advantageous). Attentive to customer needs and feedback (advantageous).\n ·       Leadership: Ability to organize, prioritize and structure the tasks for oneself (essential). Attentive to detail and works with precision (advantageous). Action oriented, delivery driven, change agent (advantageous). Role model / coach to junior analysts (advantageous)\n ·       Working Hours: Be responsible for the period-end closing and reporting in accordance with Sanofi month end close schedule. The associate may need to work in different working hours during the month-end closing period for 5-7 days, depending on the region they support.\n \n Why choose us? \n Add four standard Sanofi selling points and up to three additional selling points that are specific to the role, team or location.  \n Bring the miracles of science to life alongside a supportive, future-focused team.\n Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.\n Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.\n Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention and wellness programs and at least 14 weeks’ gender-neutral parental leave.\n Part of Global Finance services in Sanofi, gives a great opportunity to work and have a enriching experience in Account to Report domain area.\n Opportunity to also have a Global exposure in accounting and experience on working for multiple geographies.\n \n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
+      "skills": [
+        "compliance",
+        "SAP",
+        "Excel",
+        "audit"
+      ],
+      "experience": "4–8 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 75,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.612Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Sr. Data Engineer – Supply Chain Analytics",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Sr-Data-Engineer---Supply-Chain-Analytics_R2873306-1",
+      "reqId": "R2873306",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Data-Engineer---Supply-Chain-Analytics_R2873306-1",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Data-Engineer---Supply-Chain-Analytics_R2873306-1",
+      "description": "Job title : Sr. Data Engineer\n Location : Hyderabad\n About the job: \n Sanofi is a global life sciences company committed to improving access to healthcare and supporting the people we serve throughout the continuum of care. From prevention to treatment, Sanofi transforms scientific innovation into healthcare solutions, in human vaccines, rare diseases, multiple sclerosis, oncology, immunology, infectious diseases, diabetes and cardiovascular solutions.\n As a company with a global vision of drug development and a highly regarded corporate culture, Sanofi is recognized as one of the best pharmaceutical companies in the world and is pioneering the application of Artificial Intelligence (AI) with strong commitment to develop advanced data standards to increase reusability & interoperability and thus accelerate impact on global health.\n The Global M&S Services acts as a cornerstone to this effort. Our team is responsible for delivering and supporting Global M&S teams in the area of regulatory compliance, maintenance of product licenses and technical writing of CMC documents. The team members of the global M&S Services Hub will act as partners in carrying out tasks and fulfilling responsibilities to support global quality activities with a focus on technical writing.\n Main Responsibilities : \n Data Pipeline Development — Design, build, and maintain scalable ETL/ELT pipelines to ingest, transform, and deliver supply chain data from multiple sources (ERP, IBP, operational systems) using Python, SQL, dbt, and Airflow. \n Data Modelling & Architecture — Develop and optimize data models in Snowflake to support supply chain KPIs \n Analytics Enablement — Power BI dashboards understanding and self-service reporting solutions for supply chain stakeholders across global markets. \n Data Quality & Governance — Implement data quality checks, monitoring, and lineage tracking to ensure accuracy and reliability of supply chain data assets. \n Collaboration & Stakeholder Engagement — Partner with supply chain planners, SAP experts, and product owners to understand requirements and deliver impactful data solutions. \n Continuous Improvement — Identify opportunities to optimize existing pipelines, reduce latency, and improve data availability for business decision-making. \n Documentation — Maintain clear technical documentation for data pipelines, models, and processes. \n About you : \n Experience: 7–10 years of experience in data engineering, with a strong focus on supply chain or operations analytics. \n Technical Skills: Advanced proficiency in Python and SQL Hands-on experience with Snowflake (data modelling, performance tuning, query optimization) \n Experience building and managing workflows with Apache Airflow or equivalent orchestration tools - intermediate \n Supply Chain Domain Knowledge — Good to have understanding of supply chain processes including demand planning, inventory management, logistics, and S&OP/IBP cycles. \n Data Architecture — Experience designing scalable data architectures (data lakes, data warehouses, medallion architecture). \n Education — Bachelor s or master s degree in computer science, Engineering, Data Science, or a related field. \n Pursue progress, discover extraordinary\n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.\n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !\n \n \n Pursue progress , discover extraordinary \n Better is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.\n \n At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.\n \n Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com !",
+      "skills": [
+        "CMC",
+        "compliance",
+        "documentation",
+        "SAP"
+      ],
+      "experience": "7–10 yrs",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 75,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.611Z"
+    },
+    {
+      "source": "Workday",
       "company": "Syneos",
       "domain": "pharma / CRO",
       "title": "Principal Product Ops Analyst- Veeva Vault Clinical",
       "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 18 Days Ago",
+      "postedText": "Posted 19 Days Ago",
       "externalPath": "/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
       "reqId": "25103316",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
@@ -4012,7 +4347,7 @@
       "domain": "pharma",
       "title": "Lead Analyst - Digital Investigations, Analytics & Insider Threat",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 4 Days Ago",
+      "postedText": "Posted 5 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Lead-Analyst---Digital-Investigations--Analytics---Insider-Threat_450096",
       "reqId": "450096",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Lead-Analyst---Digital-Investigations--Analytics---Insider-Threat_450096",
@@ -4048,7 +4383,7 @@
       "domain": "pharma",
       "title": "Lead Analyst - Predictive Security Ops",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 5 Days Ago",
+      "postedText": "Posted 6 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Lead-Analyst---Predictive-Security-Ops_450094",
       "reqId": "450094",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Lead-Analyst---Predictive-Security-Ops_450094",
@@ -4183,7 +4518,7 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:46.980Z"
     },
     {
@@ -4300,7 +4635,7 @@
       "domain": "pharma / CRO",
       "title": "Sr Technical Analyst ( Go-To-Market and AI Technologies) (Salesforce/Azure)",
       "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 19 Days Ago",
+      "postedText": "Posted 20 Days Ago",
       "externalPath": "/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
       "reqId": "25111062",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
@@ -4475,7 +4810,7 @@
       "domain": "pharma",
       "title": "Principal - Tech Finance Analyst",
       "location": "Bengaluru Luxor North Tower",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Bengaluru-Luxor-North-Tower/Principal---Tech-Finance-Analyst_449029",
       "reqId": "449029",
       "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---Tech-Finance-Analyst_449029",
@@ -4503,6 +4838,41 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-31T09:02:54.700Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Pfizer",
+      "domain": "pharma",
+      "title": "Director, Analytics Engineering & AI​",
+      "location": "India - Mumbai",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Mumbai/Director--Analytics-Engineering---AI-_4964708",
+      "reqId": "4964708",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Analytics-Engineering---AI-_4964708",
+      "applyUrl": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Analytics-Engineering---AI-_4964708",
+      "description": "ROLE SUMMARY   \n Analytics Gateway, part of Pfizer s Global Commercial Analytics (GCA) organization, is the India-based Global Capability Center that delivers innovative, high-quality analytics solutions at scale to Pfizer s data-driven International Commercial Division (ICD). The Director, Analytics Engineering & AI leads Analytics Gateway’s Data Engineering and Business Intelligence/Data Visualization teams which consists of ~20 colleagues who, in addition to traditional Data Engineering and Data Visualization offerings, are increasingly focused on designing, building, and scaling AI-enabled analytics solutions.  Reporting to the Mumbai-based lead of Analytics Gateway, the Director will oversee the execution and delivery of analytics solutions and will work with International Commercial Division stakeholders and Business Transformation and Chief Marketing Office teams to ensure Gateway’s technical capabilities continue to meet the business s evolving needs.   \n   \n   \n   \n Lead the ~20 colleagues that form the AI Engineering, Data Engineering, and Business Intelligence / Data Visualization teams within the Mumbai-based Analytics Gateway Global Capability Center supporting Pfizer s International Commercial Division. Manage 4–6 direct reports and oversee hiring, colleague development, and resource allocation across the team.  \n Act as the AI Engineering lead , owning the design, build, deployment, and scaling of AI-enabled and agentic solutions for commercial use cases, from proof of concept to production.  \n Serve as solution architect and design authority for the team, defining reference architectures, technical standards, and reusable patterns across data, AI, and BI solutions, and providing technical sign-off on solution designs.   \n Lead the development of agentic AI solutions using Snowflake Cortex Agents , orchestrating across structured and unstructured commercial data to deliver conversational, self-service insight and automated workflows, with appropriate guardrails, access controls, and responsible AI practices.   \n Establish and own MLOps / LLMOps practices , including model and agent versioning, CI/CD for AI, automated testing and evaluation, performance and cost monitoring, and lifecycle management to ensure solutions are reliable, compliant, and production-grade.  \n Design and deliver strategic analytics solutions end to end, sourcing and curating data from diverse commercial data sources and applying established data engineering practices alongside emerging AI techniques.  \n Own the evolution of the team s data foundation, from data curation, database modeling, and ETL pipeline development toward governed, observable, AI-ready data layers, driving data quality and permanent resolution of issues at the source.  \n Deliver intuitive, AI-enabled decision-support and reporting tools that turn complex data into clear, actionable insight for commercial stakeholders, from country teams to global leadership.  \n Guide the team s transition from traditional BI and data engineering skillsets toward AI engineering, agentic AI, and modern data engineering, including infrastructure standardization, automation, and CI/CD, supported by talent pipelines, training, and mentorship.  \n Partner with Business Transformation & Technology, Data Science, and Insights & Strategy teams to align on foundational data assets, engineering and AI best practices, platform choices, and shared roadmaps supporting Commercial s AI and analytics agenda.  \n Represent the team to GCA and ICD leadership, providing visibility into delivery, capability growth, and risk, and translating technical outcomes into clear business narratives.  \n Contribute to documentation, playbooks, and knowledge-sharing practices, serving as a subject matter expert who raises AI and analytics capability across the organization.  \n Drive a positive, inclusive, and high-engagement culture focused on retention, innovation, team development, and knowledge sharing.  \n    \n BASIC QUALIFICATIONS    \n 15-20 years of relevant experience in data analytics, data science, or business intelligence, and 8 years’ people-management experience with demonstrated success leading managers.  \n Proven track record of leading the design, development, and delivery of AI-enabled analytics and data engineering solutions that drive measurable business impact at scale.  \n   \n Education:   \n Advanced degree in Computer Science, Data Engineering, Management, Applied Econometrics, Actuarial Science, Statistics, Data Mining, Machine Learning, Analytics, Mathematics, Operations Research, Industrial Engineering, or related field.   \n   \n   \n PREFERRED QUALIFICATIONS   \n Demonstrated breadth of technical leadership experience, including engineering delivery, data architecture, ETL pipeline development (e.g., dbt, Airflow), database modeling, and BI/visualization tooling (e.g., Tableau, Power BI), together with fluency in data quality/observability monitoring (e.g., Grafana), agentic AI, and modern cloud data platforms (e.g., Snowflake)   \n Strong ability to influence stakeholders to develop high‑performing teams by coaching direct-report workstream leads to deliver meaningful outcomes and sustained business impact.  \n Hands-on experience architecting and delivering AI / agentic solutions on Snowflake Cortex (Cortex Agents, Cortex Analyst, Cortex Search) or similar platforms.  \n Experience establishing MLOps / LLMOps practices, including model and agent deployment, evaluation, monitoring, and governance.  \n Proven experience as a solution architect for enterprise-scale data and AI platforms.  \n Work Location Assignment: Hybrid \n Pfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates. \n \n \n To learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on  Pfizer Careers .\n  \n  \nInformation & Business Tech",
+      "skills": [
+        "lifecycle management",
+        "documentation"
+      ],
+      "experience": "15–20 yrs",
+      "salary": {
+        "display": "Expected ₹30–55 LPA",
+        "minLPA": 30,
+        "maxLPA": 55,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 71,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.649Z"
     },
     {
       "source": "Workday",
@@ -4580,7 +4950,7 @@
       "domain": "pharma",
       "title": "Senior Analyst, Perception Analytics & Insights",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--Perception-Analytics---Insights_R1607348",
       "reqId": "R1607348",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Perception-Analytics---Insights_R1607348",
@@ -4804,40 +5174,8 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.004Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Accenture",
-      "domain": "consulting / MDM / analytics",
-      "title": "Regulatory Compliance Analyst",
-      "location": "Chennai",
-      "postedText": "Posted 7 Days Ago",
-      "externalPath": "/job/Chennai/Regulatory-Compliance-Analyst_AIOC-S01661151-1",
-      "reqId": "AIOC-S01661151",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Regulatory-Compliance-Analyst_AIOC-S01661151-1",
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Regulatory-Compliance-Analyst_AIOC-S01661151-1",
-      "description": "Skill required: Control Testing - Agile testing Designation: Regulatory Compliance Analyst Qualifications: BCom Years of Experience: 3 to 5 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com What would you do? • Help clients transform their compliance function from reactive to proactive through an intelligent compliance operating model powered by data, intelligent technologies and talent\n• Looking for someone with SOX testing experience\n• Conduct testing tasks within Agile models and integration processes and manage development sprints. What are we looking for? • Primary skill - Agile Testing - P2 Roles and Responsibilities: • In this role you are required to do analysis and solving of lower-complexity problems.\n• Your day to day interaction is with peers within Accenture before updating supervisors.\n• In this role you may have limited exposure with clients and or Accenture management.\n• You will be given moderate level instruction on daily work tasks and detailed instructions on new assignments.\n• The decisions you make impact your own work and may impact the work of others.\n• You will be an individual contributor as a part of a team, with a focused scope of work.\n• Please note that this role may require you to work in rotational shifts \n \n \nBCom \n \n \n About Accenture \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at   www.accenture.com   \n \n \n Equal Employment Opportunity Statement \n We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.",
-      "skills": [
-        "compliance"
-      ],
-      "experience": "3–5 yrs",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 66,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-03T10:14:47.005Z"
     },
     {
       "source": "Workday",
@@ -4868,7 +5206,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.006Z"
     },
     {
@@ -4900,7 +5238,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.007Z"
     },
     {
@@ -4932,7 +5270,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.008Z"
     },
     {
@@ -4964,7 +5302,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.004Z"
     },
     {
@@ -4996,7 +5334,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.005Z"
     },
     {
@@ -5028,7 +5366,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.005Z"
     },
     {
@@ -5060,7 +5398,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.006Z"
     },
     {
@@ -5092,7 +5430,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.006Z"
     },
     {
@@ -5124,7 +5462,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.007Z"
     },
     {
@@ -5156,7 +5494,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.008Z"
     },
     {
@@ -5188,7 +5526,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.008Z"
     },
     {
@@ -5220,7 +5558,7 @@
         "title match",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.009Z"
     },
     {
@@ -5304,7 +5642,7 @@
       "domain": "pharma",
       "title": "Analyst - US Commercialization Decision Intelligence & MMx Solutions",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Analyst---US-Commercialization-Decision-Intelligence---MMx-Solutions_R1606764",
       "reqId": "R1606764",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst---US-Commercialization-Decision-Intelligence---MMx-Solutions_R1606764",
@@ -5341,7 +5679,7 @@
       "domain": "pharma",
       "title": "Risk Analyst II",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Today",
+      "postedText": "Posted Yesterday",
       "externalPath": "/job/Hyderabad---TS---IN/Risk-Analyst-II_R1604969",
       "reqId": "R1604969",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Risk-Analyst-II_R1604969",
@@ -5369,7 +5707,7 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-03T10:14:47.014Z"
     },
     {
@@ -5561,7 +5899,7 @@
       "domain": "pharma / CRO",
       "title": "Systems Analyst: Functional Payables (Oracle Fusion)- Hyderabad (Hybrid)- Third Shift",
       "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 13 Days Ago",
+      "postedText": "Posted 14 Days Ago",
       "externalPath": "/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
       "reqId": "25111100",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
@@ -5769,6 +6107,41 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-31T09:02:54.651Z"
+    },
+    {
+      "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Analyst- Publication coordinator/iEnvision Specialist",
+      "location": "India - Bangalore",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Bangalore/Analyst--Publication-coordinator-iEnvision-Specialist_R-263098-1",
+      "reqId": "R-263098",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Analyst--Publication-coordinator-iEnvision-Specialist_R-263098-1",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Analyst--Publication-coordinator-iEnvision-Specialist_R-263098-1",
+      "description": "Title: Analyst- Publication coordinator/iEnvision Specialist \n Career Level: C3 \n About AstraZeneca \n AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialization of prescription medicines for some of the world’s most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies.\n Introduction to role: \n Are you ready to turn operational perfection into faster, compliant scientific publications that inform clinical decision-making? As an i Envision Specialist, you will orchestrate the end-to-end publication lifecycle, connecting Global Scientific Communications and cross-functional partners to deliver timely, high-quality outputs for the BioPharmaceuticals Business Unit.\n Based in Manyata Tech Park, Bengaluru, you will be part of a Centre of Excellence that uses iEnvision to make sophisticated work simple, transparent, and compliant. Your ability to anticipate risks, structure plans, and elevate data quality will help our teams communicate evidence with transparency and speed—so insights reach healthcare professionals and patients when they matter most.\n Do you see patterns in processes others miss, and enjoy shaping systems so teams can move faster with confidence? This role puts you at the heart of how we plan, govern, and deliver publications across a global, multicultural environment in a hybrid model with three days on site each week.\n Accountabilities :\n Publication Lifecycle Management: Coordinate the planning, tracking and delivery of assigned publication activities across all phases to accelerate high-quality outputs and improve predictability.\n Collaborator Communication: Support publication writers and delivery leads in communicating with internal and external collaborators so decisions and achievements progress on time.\n Scheduling and Risk Management: Maintain accurate schedules, milestones, dependencies and status updates; escalate potential delays where appropriate; identify, track and support the mitigation of project issues and risks early.\n Compliance and Standards: Help ensure that publication work follow AstraZeneca procedures, quality standards, ethical requirements and relevant external publication guidelines, protecting trust and enabling approvals.\n iEnvision Leadership: Promote consistent and effective use of iEnvision as the end-to-end solution for publication oversight; maintain high-quality, complete and accurate records and metadata.\n Access and Protection Management: Lead all aspects of user access and security, including crafting and disabling user accounts and handling access-related requests to protect data.\n Release Readiness and UAT: Support validation by end users and business readiness for system upgrades, releases, implementations and system improvements to minimize disruption and unlock new capabilities.\n Training and User Support: Coordinate and maintain system training records and materials; support users with process and system queries to build confident adoption.\n Data Quality and Ongoing Improvement: Conduct routine data-quality reviews and clean database regularly. Find ways to improve publication operations and system use. Encourage adoption of effective methods.\n Global Collaboration: Collaborate across global, matrixed and multicultural teams to support consistent ways of working and continuous improvement, expanding impact from individual projects to enterprise-wide performance.\n Essential Skills/Experience: \n Bachelor’s or Master’s degree in any discipline.\n Three to five years of relevant experience in the pharmaceutical industry or a medical communications agency, preferably within a publications function.\n Demonstrated hands-on experience using and supporting iEnvision or a comparable publication management system.\n Highly organized and detail oriented\n Excellent written and verbal communication skills, with the ability to engage effectively with diverse stakeholders.\n Experience working effectively in a global, matrixed and multicultural pharmaceutical or medical communications environment.\n Strong attention to detail, sound judgement and a commitment to data quality, compliance and operational excellence.\n Agility, adaptability and a proactive learning mindset.\n Desirable Skills/Experience: \n Experience administering iEnvision user access, security, training records and data-quality activities.\n Experience supporting user acceptance testing, system releases, implementations or enhancements.\n Knowledge of recognised ethical publication practices and relevant industry guidelines.\n Why AstraZeneca? \n At AstraZeneca, we re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and unleash your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare.\n When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That s why we work, on average, a minimum of three days per week from the office. But that doesn t mean we re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n Also You can find alternative messaging to use in the ‘Global Talent Attraction Story messaging’ section of the Global Playbook on the Employer Brand Portal - try to use other examples in order to make it different for candidates!\n Call to Action: \n Bring your iEnvision expertise to a team that moves fast, cares deeply, and delivers with precision—take the next step and make your impact today!\n \n Date Posted \n04-Nov-2026 \n Closing Date \n10-Nov-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+      "skills": [
+        "REACH",
+        "lifecycle management",
+        "compliance"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 62,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.623Z"
     },
     {
       "source": "Workday",
@@ -5989,7 +6362,7 @@
       "domain": "pharma / CRO",
       "title": "Project Financial Analyst III",
       "location": "MEX-Remote",
-      "postedText": "Posted 6 Days Ago",
+      "postedText": "Posted 7 Days Ago",
       "externalPath": "/job/MEX-Remote/Project-Financial-Analyst-III_25113162",
       "reqId": "25113162",
       "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/MEX-Remote/Project-Financial-Analyst-III_25113162",
@@ -6089,11 +6462,45 @@
     },
     {
       "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Analyst Graphic Designer I – Medical Publications",
+      "location": "India - Bangalore",
+      "postedText": "Posted Today",
+      "externalPath": "/job/India---Bangalore/Analyst-Graphic-Designer-I---Medical-Publications_R-263108-2",
+      "reqId": "R-263108",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Analyst-Graphic-Designer-I---Medical-Publications_R-263108-2",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Bangalore/Analyst-Graphic-Designer-I---Medical-Publications_R-263108-2",
+      "description": "Title: Analyst Graphic Designer I – Medical Publications \n Career Level: C3 \n About AstraZeneca \n AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialization of prescription medicines for some of the world’s most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies.\n Introduction to role: \n Are you ready to turn sophisticated clinical data into visuals that shape scientific dialogue and influence patient outcomes? This role puts you at the heart of how our science is seen, understood, and trusted across journals, congresses, and digital channels.\n Based in Manyata Tech Park, Bengaluru (hybrid, three days on-site), you will collaborate with publication leads, medical writers, authors, and delivery teams. Your role involves translating clinical and scientific content into clear, accessible, publication-ready communications across multiple therapeutic areas and brands. Your craft will ensure our studies are interpreted accurately and confidently by reviewers, clinicians, and researchers worldwide.\n You will join a global team that powers excellence across the enterprise, combining rigor with creativity. If you enjoy owning assets end-to-end, guiding design standards, and making precision your advantage, this role offers the autonomy and influence to raise the quality bar and scale good practice.\n Accountabilities :\n End-to-end Publication Design: Lead the full design and formatting workflow for congress posters, abstract supplements, encore abstracts, submission materials, manuscript figures and tables, graphical abstracts, supplementary materials, scientific presentations, and digital publication assets—delivering on time and to specification.\n Scientific Narrative and Layout: Create publication-ready layouts that clearly communicate objectives, methods, results, and conclusions through visual hierarchy, readable typography, and an effective scientific storyline that stands up to peer review.\n Data-true Redrawing and Vectorisation: Redraw and vectorise graphs, charts, diagrams, pathways, and low-resolution source artwork into accurate, editable, high-resolution graphics—preserving the underlying data, context, and scientific meaning.\n Submission-ready Production: Prepare and adapt files so they meet the specifications of scholarly publications, publishing houses, and conference standards accurately, including dimensions, final-size readability, resolution, colour mode, typography, file format, naming, numbering, captions, and submission templates.\n Rigorous Quality Assurance: Perform detailed checks across source data, manuscript text, labels, legends, tables, units, citations, visual consistency, and final artwork; promptly raise any scientific discrepancies to safeguard accuracy and integrity.\n Build for Accessibility and Equity: Apply accessible practices—sufficient contrast, colour-blind-safe palettes, legible typography, clear labels, and non-colour cues—to ensure communication remains effective at final publication size.\n Collaborator Teamwork: Partner from briefing through finalisation; clarify requirements, present design rationale, incorporate consolidated feedback, and maintain version control to keep projects moving smoothly.\n Creative Direction and Standards: Provide practical feedback and best-practice guidance to designers and delivery partners while remaining accountable for the quality of your assigned deliverables.\n Ensure assets align with corporate visual identity, medical and publication standards. Respect intellectual property rights, authorization, and image licensing. Maintain patient confidentiality and approved responsible-use rules for AI-assisted content.\n Project and Capacity Management: Manage multiple projects across therapeutic areas and brands, estimate effort, prioritise workload, meet timelines, and communicate risks early to support planning.\n Compose Systems and Scale: Develop and maintain SOPs, frameworks, modular elements, checklists, and mentorship documents to drive consistency, efficiency, and first-time-right delivery.\n Essential Skills/Experience: \n Bachelor’s degree in graphic design, visual communication, or a related field, or equivalent relevant professional experience.\n At least 3 years of creative-design experience in pharmaceutical, healthcare, medical communications, scientific publishing, or a related regulated environment.\n A strong portfolio demonstrating broad experience across diverse design formats, visual communication assets, and data visualisation techniques, including a wide range of chart types.\n Advanced proficiency in Adobe Illustrator, InDesign, Photoshop, and Microsoft PowerPoint, including template creation, vector artwork, layout, typography, and production-ready file preparation.\n Strong understanding of publication artwork production, including vector and raster formats, resolution, colour modes, image scaling, file optimisation, and editable source-file preparation.\n Ability to interpret and apply journal, publisher, and congress artwork specifications, templates, and submission requirements accurately.\n Strong scientific visual literacy and the ability to translate complex clinical and scientific information into clear visual communications while preserving data accuracy, context, and meaning.\n Knowledge of accessible and inclusive scientific design, including colour-blind-safe palettes, contrast, legibility, clear labels, and effective communication at final publication size.\n Experience working in structured publication review and approval workflows, incorporating consolidated feedback, maintaining version control, and delivering accurate final files to deadline.\n Meticulous quality-control skills across figures, labels, legends, units, tables, references, image integrity, and consistency with approved scientific content.\n Understanding of brand governance, publication ethics, copyright and permissions, confidentiality, and compliance expectations in a regulated environment.\n Strong written and verbal English communication skills, with experience collaborating across medical, scientific, editorial, author, and cross-functional stakeholder groups.\n Strong organisational skills, attention to detail, sound prioritisation, and the ability to manage multiple concurrent projects across global teams and time zones.\n Desirable Skills/Experience: \n Experience with publication management, medical review, digital asset management, or workflow platforms.\n Experience supporting multiple therapeutic areas and adapting scientific visuals for specialist and non-specialist audiences.\n Experience developing design systems, templates, reusable components, or scalable publication-production workflows.\n Working knowledge of Figma or similar collaboration tools; prototyping experience is advantageous where digital publication assets are in scope.\n Experience with After Effects, Premiere Pro, motion graphics, or scientific video is advantageous but not essential.\n Experience with specialist scientific illustration, data-visualisation, video editing or 3D tools is advantageous.\n Why AstraZeneca? \n At AstraZeneca, we re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and unleash your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare.\n When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That s why we work, on average, a minimum of three days per week from the office. But that doesn t mean we re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n Also You can find alternative messaging to use in the ‘Global Talent Attraction Story messaging’ section of the Global Playbook on the Employer Brand Portal - try to use other examples in order to make it different for candidates!\n Call to Action: \n If you’re ready to elevate scientific storytelling and set a new benchmark for publication quality, bring your portfolio and momentum—step into a role where your design drives clarity, confidence, and impact!\n \n Date Posted \n04-Nov-2026 \n Closing Date \n10-Nov-2026 \n \n AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+      "skills": [
+        "compliance",
+        "quality assurance"
+      ],
+      "experience": "3+ yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 60,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.624Z"
+    },
+    {
+      "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
       "title": "Analytics Engineer I , Commercialization",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 6 Days Ago",
+      "postedText": "Posted 7 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
       "reqId": "R1607391",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
@@ -6127,7 +6534,7 @@
       "domain": "pharma",
       "title": "Applied AI Analyst II",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 7 Days Ago",
+      "postedText": "Posted 8 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Applied-AI-Analyst-II_R1607602",
       "reqId": "R1607602",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Applied-AI-Analyst-II_R1607602",
@@ -6329,41 +6736,6 @@
     },
     {
       "source": "Workday",
-      "company": "Parexel",
-      "domain": "pharma / CRO",
-      "title": "Global Trade Compliance Specialist (México)",
-      "location": "Mexico-Remote",
-      "postedText": "Posted 12 Days Ago",
-      "externalPath": "/job/Mexico-Remote/Global-Trade-Compliance-Specialist--Mxico-_R0000046748-1",
-      "reqId": "R0000046748",
-      "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Mexico-Remote/Global-Trade-Compliance-Specialist--Mxico-_R0000046748-1",
-      "applyUrl": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/Mexico-Remote/Global-Trade-Compliance-Specialist--Mxico-_R0000046748-1",
-      "description": "When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n \n \n When our values align, there s no limit to what we can achieve.   At Parexel, we all share the same goal - to improve the world s health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we re committed to making a difference.\n About Parexel\n Parexel is a leading global clinical development partner delivering insights-driven clinical and consulting solutions to the life sciences industry. With 22,000 employees worldwide, we partner with biopharmaceutical companies and research sites to design and deliver patient-focused clinical trials that broaden access and make research a care option for anyone, anywhere.\n \n We work with focus, agility, and shared purpose -- moving with urgency to address patient needs and accelerate the delivery of new therapies. We embrace bold thinking, adapt quickly to change, and continually raise the bar for the speed and quality of clinical research. We are expanding our team and seeking talented individuals to help drive industry-leading innovation, With Heart.\n \n Remote Job from Mexico \n About the Role\n Are you a detail-oriented professional with a passion for international trade compliance? Parexel is seeking a Global Trade Compliance Specialist to join our Clinical Logistics team. In this pivotal role, you ll manage import and export operations in Latin American countries, ensuring seamless compliance with customs regulations while supporting critical clinical research projects.\n \n Key Responsibilities\n Trade Compliance & Regulatory Excellence\n Ensure all import/export activities comply with customs and government agency regulations\n Build and maintain positive relationships with customs brokers and government agencies to stay ahead of regulatory changes\n Maintain comprehensive documentation in compliance with Parexel and local regulatory requirements\n Design and implement operational and compliance procedures for the Global Trade Compliance function\n Project Execution & Stakeholder Management\n Serve as the primary interface with customs brokers and logistics providers to ensure efficient clearance\n Prepare and submit import/export license applications aligned with project requirements\n Attend project meetings to provide updates, resolve issues, and escalate to management when needed\n Track and manage import/export licenses, monitoring quantities, expiry dates, and renewal timelines\n \n What We re Looking For\n Core Competencies\n Excellent interpersonal, verbal, and written communication skills with the ability to build strong relationships\n Proven ability to thrive in matrix environments and collaborate effectively across functional teams\n Strong analytical and problem-solving abilities with a sense of urgency in resolving issues\n Exceptional organizational skills with meticulous attention to detail and strong multitasking abilities\n Self-motivated and self-directed with the ability to work independently in a remote environment\n Experience & Knowledge\n Solid knowledge of international trade in Clinical Trials or healthcare industries\n Adequate knowledge of customs regulations and clinical development processes\n Demonstrated experience communicating with customs brokers and third-party logistics providers\n Solid experience working with global virtual teams in collaborative environments\n Strong proficiency with Microsoft Office Suite\n Experience with risk assessment and process improvement methodologies\n Fluent English\n Education\n Bachelor s or Master s degree in biology, pharmacy, health-related discipline, international trade, or logistics\n \n Why Join Parexel?\n At Parexel, we re committed to advancing clinical research and improving patient outcomes globally. As a Global Trade Compliance Coordinator, you ll play a critical role in ensuring our operations run smoothly across multiple countries.\n You ll have the opportunity to:\n Develop expertise in international trade compliance within the clinical research industry\n Work with a talented, collaborative team across Latin America and beyond\n Support meaningful clinical research that impacts global healthcare\n Enjoy flexible remote work arrangements with a supportive company culture\n Ready to Make an Impact? \n Apply now and join the Parexel team! Submit your resume and a brief cover letter highlighting your trade compliance experience.",
-      "skills": [
-        "compliance",
-        "documentation",
-        "stakeholder management"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 59,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "remote"
-      ],
-      "isNew": false,
-      "firstSeen": "2026-10-31T09:02:54.617Z"
-    },
-    {
-      "source": "Workday",
       "company": "Amgen",
       "domain": "pharma",
       "title": "Data Scientist - Data Modeling/analytics",
@@ -6434,7 +6806,7 @@
       "domain": "pharma",
       "title": "Analyst Customer Facing Effectiveness",
       "location": "Hyderabad",
-      "postedText": "Posted Yesterday",
+      "postedText": "Posted Today",
       "externalPath": "/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2870406",
       "reqId": "R2870406",
       "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2870406",
@@ -6501,7 +6873,7 @@
       "domain": "pharma",
       "title": "Analyst, Government Reporting",
       "location": "United States Remote Office",
-      "postedText": "Posted 20 Days Ago",
+      "postedText": "Posted 21 Days Ago",
       "externalPath": "/job/United-States-Remote-Office/Analyst--Government-Reporting_R5674703",
       "reqId": "R5674703",
       "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/United-States-Remote-Office/Analyst--Government-Reporting_R5674703",
@@ -6636,6 +7008,40 @@
       ],
       "isNew": false,
       "firstSeen": "2026-10-31T09:02:54.603Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Quality Analyst",
+      "location": "Hyderabad GBS, India",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad-GBS-India/Senior-Process-Coordinator_R21490",
+      "reqId": "R21490",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-Process-Coordinator_R21490",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Hyderabad-GBS-India/Senior-Process-Coordinator_R21490",
+      "description": "Job Summary \nAre you passionate about service excellence? Would you love to work for a global organization that is doing more good for people and planet? IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences, we deliver sustainable innovations that elevate everyday products. Global Business Services: Delivering streamlined, scalable support—enhancing efficiency, compliance and service excellence across the company. The role is based in Hyderabad, India(hybrid role). Be part of a creative, solution-oriented team where together we can achieve greatness and make a real impact. Your potential is our inspiration. \n \n IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences, we deliver sustainable innovations that elevate everyday products.\n  \n Global Business Services: Delivering streamlined, scalable support—enhancing efficiency, compliance and service excellence across the company.\n  \n The role is based in Hyderabad, India(hybrid role). Be part of a creative, solution-oriented team where together we can achieve greatness and make a real impact. Your potential is our inspiration.\n  \n Where You’ll Make a Difference \n Ensure end‑to‑end quality and compliance across operational processes\n Identify risks early and prevent repeat defects\n Strengthen controls through data‑driven insights\n Support audit readiness and process stability\n Drive continuous improvement and standardization\n What Makes You the Right Fit \n Strong experience in Quality Assurance, Audit, or Controls\n Hands‑on expertise in Quality Reviews, RCA & CAPA\n Solid understanding of SOPs, risk, compliance, and controls\n High attention to detail with analytical mindset\n Ability to collaborate and challenge constructively\n How Would You Stand Out? \n Proven success in reducing error and rework rates\n Experience managing quality dashboards and audit trackers\n Exposure to process transitions, SOP validations, or control testing\n Certifications like Six Sigma / Quality Frameworks\n Proactive mindset toward continuous improvement\n  \n Why Choose Us? \n Opportunity to work with a global, purpose‑driven organization\n Strong focus on quality, governance, and operational excellence\n Collaborative, inclusive, and growth‑oriented culture\n Exposure to cross‑functional stakeholders and global processes\n Platform to make a measurable impact\n   IFF is an Equal Opportunity Employer. \n   \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability. Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more \n \n \n \n \n We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability.\n \n Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more",
+      "skills": [
+        "compliance",
+        "quality assurance",
+        "audit"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 47,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-04T08:01:26.596Z"
     },
     {
       "source": "Workday",
