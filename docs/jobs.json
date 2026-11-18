@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-11-18T08:58:41.639Z",
+  "generatedAt": "2026-11-18T10:46:15.061Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 0,
-    "goal": 0,
+    "total": 2,
+    "goal": 2,
     "target": 0,
     "below": 0,
     "overseas": 0,
-    "new": 0,
+    "new": 2,
     "strong": 0,
     "stretch": 0,
     "reach": 0
   },
   "errors": [],
-  "jobs": []
+  "jobs": [
+    {
+      "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Senior Analyst - Commercial Pharma Analytics",
+      "location": "India - Chennai",
+      "postedText": "Posted 2 Days Ago",
+      "externalPath": "/job/India---Chennai/Senior-Analyst---Brand-Analytics_R-261980",
+      "reqId": "R-261980",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Analyst---Brand-Analytics_R-261980",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Analyst---Brand-Analytics_R-261980",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-18T10:46:14.798Z"
+    },
+    {
+      "source": "Workday",
+      "company": "AstraZeneca",
+      "domain": "pharma",
+      "title": "Senior Consultant – Business Systems Analyst – Coupa",
+      "location": "India - Chennai",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/India---Chennai/Senior-Consultant---Business-Systems-Analyst---Coupa_R-261837-1",
+      "reqId": "R-261837",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Consultant---Business-Systems-Analyst---Coupa_R-261837-1",
+      "applyUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/India---Chennai/Senior-Consultant---Business-Systems-Analyst---Coupa_R-261837-1",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-18T10:46:14.799Z"
+    }
+  ]
 }
