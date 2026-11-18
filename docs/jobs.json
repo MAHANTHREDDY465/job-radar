@@ -1,178 +1,19 @@
 {
-  "generatedAt": "2026-11-17T11:13:46.258Z",
+  "generatedAt": "2026-11-18T08:58:41.639Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 5,
-    "goal": 3,
+    "total": 0,
+    "goal": 0,
     "target": 0,
-    "below": 2,
+    "below": 0,
     "overseas": 0,
-    "new": 5,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
   },
   "errors": [],
-  "jobs": [
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Senior Analyst – CRM Field Operations",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 5 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
-      "reqId": "R1608101",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 67,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-17T11:13:46.245Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Senior Analyst II, Identity Governance & Administration",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
-      "reqId": "R1605976",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 67,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-17T11:13:46.245Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Senior Analyst, Identity Governance & Administration",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted Yesterday",
-      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "reqId": "R1604837",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 67,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-17T11:13:46.245Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Analyst II – Statutory Reporting",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 6 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Analyst-II---Statutory-Reporting_R1607556",
-      "reqId": "R1607556",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst-II---Statutory-Reporting_R1607556",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analyst-II---Statutory-Reporting_R1607556",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 56,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-17T11:13:46.243Z"
-    },
-    {
-      "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Analytics Engineer I , Commercialization",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 13 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "reqId": "R1607391",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 56,
-      "tier": "below",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-17T11:13:46.244Z"
-    }
-  ]
+  "jobs": []
 }
