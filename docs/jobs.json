@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T08:41:05.298Z",
+  "generatedAt": "2026-11-21T10:16:16.565Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 4,
-    "goal": 2,
+    "total": 5,
+    "goal": 3,
     "target": 0,
     "below": 2,
     "overseas": 0,
-    "new": 4,
+    "new": 5,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -18,62 +18,28 @@
   "jobs": [
     {
       "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "HR Compliance Analyst",
-      "location": "IND-Hyderabad",
-      "postedText": "Posted 15 Days Ago",
-      "externalPath": "/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
-      "reqId": "25113782",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
-      "description": null,
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Senior Analyst, Identity Governance & Administration",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 5 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "reqId": "R1604837",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Working With Us \n Challenging. Meaningful. Life-changing. Those aren t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients and the careers of those who do it. Join us and make a difference.\n Position Summary \n The Senior Analyst, Identity Governance & Administration (IGA) is responsible for supporting, enhancing, and maintaining enterprise Identity Governance capabilities with a primary focus on Access Reviews, Certification Campaigns, governance processes, and compliance controls.\n This role will work closely with business stakeholders, application teams, compliance partners, and security teams to execute and continuously improve access certification programs while ensuring a secure, scalable, and compliant Identity Governance environment. The successful candidate will possess advanced SailPoint IdentityIQ expertise and a strong understanding of access governance best practices, operational processes, and modern Identity Governance capabilities.\n The ideal candidate is a hands-on practitioner who enjoys solving complex business problems, designing scalable solutions, driving operational excellence, and modernizing access governance through automation, analytics, and emerging AI capabilities.\n Key Responsibilities \n Identity Access Reviews & Certifications \n Configure, execute, monitor, and optimize enterprise access review and certification campaigns.\n Support manager, application owner, entitlement, role, and privileged access certifications.\n Drive adoption of Intelligent Access Reviews by integrating/onboarding different types of applications like JDBC, Web services, Out of box connectors etc.\n Improve certification effectiveness through automation, analytics, and continuous process improvements.\n Partner with business stakeholders to ensure timely completion of certifications and remediation activities.\n Develop and operationalize certification metrics, dashboards, reports, and compliance evidence.\n Support internal and external audit activities related to access governance and certification controls.\n Identify opportunities to modernize access review processes and enhance reviewer experience.\n  \n Identity Governance Operations & Support \n Maintain Identity Governance platforms and provide advanced operational support.\n Troubleshoot production issues, perform root cause analysis, work on incidents & requests and implement sustainable resolutions.\n Monitor platform health, integrations, and governance processes to ensure stability and reliability.\n Support/execute periodic platform upgrades, enhancements, new integrations, enhancements, custom solution building, patching activities and configuration improvements.\n Ensure compliance with established governance, risk, and security requirements.\n Collaborate with technical teams to resolve integration, provisioning, and governance-related issues.\n  \n Solution Design & Application Onboarding \n Design and implement scalable, sustainable, and future-ready Identity Governance solutions both out of box & custom.\n Onboarding of new applications, entitlements, and identity sources into the SailPoint platform.\n Configure and enhance identity governance processes, workflows, certification models, and governance controls.\n Develop custom solutions, workflows, rules, reports, and integrations to address business requirements.\n Partner with application and infrastructure teams to strengthen governance controls across the enterprise.\n Contribute to platform standardization efforts and continuous improvement initiatives.\n AI & Governance Innovation \n Understand AI and emerging technology trends and their applicability within Identity Governance.\n Evaluate opportunities to leverage AI capabilities for access certifications, access recommendations, risk scoring, anomaly detection, and governance analytics.\n Support adoption of intelligent and data-driven access review capabilities that improve efficiency and decision-making.\n Collaborate with stakeholders to identify innovative approaches that simplify governance processes and reduce operational burden.\n Qualifications & Experience \n Required Qualifications \n Bachelor s degree in information technology, Computer Science, Cybersecurity, or related discipline.\n 5 years of experience in Identity and Access Management (IAM) or Identity Governance & Administration (IGA).\n Advanced hands-on experience with SailPoint IdentityIQ.\n Strong experience with Access Reviews, Certification Campaigns, and Access Governance processes.\n Experience supporting application onboarding and governance integrations.\n Strong Knowledge of identity lifecycle management, role management, provisioning, and governance controls.\n Strong understanding of security principles, access control models, and compliance requirements.\n Experience working in large enterprise environments.\n Excellent analytical, problem-solving, and stakeholder collaboration skills.\n Technical Skills \n SailPoint IdentityIQ (Advanced)\n Access Certifications and Governance\n Identity Lifecycle Management\n Role/Attrbiute-Based Access Control (RBAC)\n LDAP and Active Directory\n REST APIs and Web Services\n Java and BeanShell\n Web Services\n Linux and Tomcat\n SQL database\n Reporting and Analytics\n Identity Governance Architecture and Design\n Preferred Qualifications \n Experience with SailPoint IdentityNow / Identity Security Cloud.\n Experience with regulated environments and compliance frameworks such as SOX.\n Experience with AI-driven governance, identity analytics, or intelligent access review capabilities.\n Familiarity with ServiceNow, CyberArk, Entra ID, Active Directory, Ping, LDAP, Code repository, Ping and enterprise IAM ecosystems.\n Industry certifications in Identity, Security, or Governance disciplines.\n Key Competencies \n Advanced knowledge of SailPoint IdentityIQ architecture, core concepts, capabilities, and best practices.\n Strong understanding of Identity Governance concepts and access certification methodologies.\n Ability to design scalable, supportable, and future-focused governance solutions.\n Strong operational mindset with a focus on reliability, quality, and compliance.\n Continuous improvement and automation orientation.\n Ability to work effectively in cross-functional teams and a global environment.\n Strong communication and stakeholder management skills.\n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n For roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.\n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1604837 : Senior Analyst, Identity Governance & Administration",
       "skills": [
-        "compliance"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 81,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "India"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-21T08:41:05.281Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "Principal Tech Vendor Relations Analyst- Hyderabad (Hybrid)",
-      "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
-      "reqId": "25105953",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
-      "description": "Principal Tech Vendor Relations Analyst- Hyderabad (Hybrid) \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Every day we perform better because of how we work together, as one team, each the best at what we do. We bring together talented experts across a broad spectrum of business critical corporate functions. Every role plays an essential part in enabling our customers to achieve their goals. Our teams are agile, collaborative, and committed to delivering—for each other, for our customers, and ultimately for the people who rely on the services we support. Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n The Principal Tech Vendor Relations Analyst is responsible for managing complex technology vendor relationships across the full commercial and operational lifecycle, including software publishers, 3rd party data providers, outsourced delivery partners, and managed service providers. This role serves as the senior operational owner for vendor engagements, ensuring contracts, SOWs, renewals, and ongoing vendor performance are commercially sound, contractually compliant, and aligned with enterprise governance standards. The position acts as a central coordination point between vendors and internal stakeholders including Procurement, Legal, Finance/AP, Security, Architecture, and Delivery teams. \n \n Core Responsibilities\n •   Serve as Vendor Relationship Owner (VRO) for assigned technology vendors, including strategic software publishers and outsourced delivery partners.\n • Manage outsourced and managed service vendor contracts across the full lifecycle, including SOW development, execution, renewals, amendments, and terminations.\n • Act as the primary operational owner for outsourced vendor engagements, ensuring contractual obligations, deliverables, milestones, SLAs, and acceptance criteria are defined, tracked, and enforced.\n • Lead technology software and services renewals, including review of pricing, scope, and commercial risk.\n • Coordinate vendor performance reviews and proactively identify, escalate, and remediate delivery, financial, or compliance risks.\n • Partner with Procurement, Legal, Finance/AP, and business stakeholders to ensure contracts and purchase orders align with approved scope and commercial terms.\n • Support change management for vendor engagements, including scope changes, pricing adjustments, extensions, and transitions.\n •   Ensure vendor engagements comply with enterprise requirements for security, data protection, audit readiness, and regulatory obligations.\n • Support governance forums, legal checkpoints, and executive escalations related to vendor management. \n \n Qualifications \n • Four year degree in IT, business or equivalent experience \n • 8–10 years of related experience managing technology vendors, including outsourced service providers and managed services.\n •   Strong understanding of software licensing, maintenance, professional services, and managed services contracts.\n •   Proven experience working with Procurement, Legal, Finance/AP, and cross-functional IT stakeholders.\n •   Ability to interpret MSAs, SOWs, NDAs, and commercial terms and identify contractual or operational risk.\n •   Strong analytical, organizational, and problem-solving skills with the ability to manage multiple vendor engagements concurrently.\n •   Excellent written and verbal communication skills with the ability to interact effectively at all organizational levels.\n • Demonstrated ability to work independently, exercise sound judgment, and manage competing priorities in a dynamic environment. \n Critical Skills: \n Experience with \n • Vendor contract lifecycle management \n • Outsourced vendor and managed services oversight \n • Commercial and financial analysis \n • Contract interpretation and negotiation support \n • Cross-functional stakeholder management \n • Risk identification and escalation \n \n Disclaimer:\n Tasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities.\n Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job. \n \n Get to know Syneos Health \n \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.  \n http://www.syneoshealth.com \n \n Additional Information \n \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
-      "skills": [
-        "FDA",
-        "EMA",
         "lifecycle management",
         "compliance",
+        "Excel",
         "audit",
         "stakeholder management"
       ],
-      "experience": "8–10 yrs",
+      "experience": "5 yrs",
       "salary": {
-        "display": "Expected ₹20–38 LPA",
-        "minLPA": 20,
-        "maxLPA": 38,
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
@@ -86,54 +52,19 @@
         "≥15 LPA"
       ],
       "isNew": true,
-      "firstSeen": "2026-11-21T08:41:05.282Z"
+      "firstSeen": "2026-11-21T10:16:16.550Z"
     },
     {
       "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "SSU & Regulatory Coordinator (Contract Management Assistant) – Italian, Czech or Hungarian Language",
-      "location": "SRB-Remote",
-      "postedText": "Posted 11 Days Ago",
-      "externalPath": "/job/SRB-Remote/SSU---Regulatory-Coordinator--Contract-Management-Assistant----Italian--Czech-or-Hungarian-Language_25114430",
-      "reqId": "25114430",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/SRB-Remote/SSU---Regulatory-Coordinator--Contract-Management-Assistant----Italian--Czech-or-Hungarian-Language_25114430",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/SRB-Remote/SSU---Regulatory-Coordinator--Contract-Management-Assistant----Italian--Czech-or-Hungarian-Language_25114430",
-      "description": "SSU & Regulatory Coordinator (Contract Management Assistant) – Italian, Czech or Hungarian Language \n Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.   Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.   Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.   Discover what your 25,000 future colleagues already know:   Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life.  • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. \n \n Job Responsibilities \n \n Responsibilities\n Supports the timely preparation and execution of Confidentiality Disclosure Agreements (CDAs), Clinical Study Agreements (CSAs), associated Budgets and vendor agreements . As requested by the CMS, this may include but not be limited to: Customizing appropriate country CDA and CSA templates for a clinical study Managing logistics of obtaining internal and site signatures Filing of documents as necessary per global and local Standard Operating Procedures\n Supports the CMS in tracking of CDAs, CSAs, Site Intelligence, KPIs / Metrics as required.\n Supports the CMS in providing input into ongoing update of the Playbooks and Templates , with legal communication of potential process improvements for the contracting process identified during the course of the job responsibilities.\n \n \n Get to know Syneos Health \n Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000 Trial patients.\n \n No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n \n http://www.syneoshealth.com \n \n Additional Information \n Tasks, duties, and responsibilities as listed in this job description are not exhaustive.  The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description.  The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above.   Further, nothing contained herein should be construed to create an employment contract.  Occasionally, required skills/experiences for jobs are expressed in brief terms.  Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees.  The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.",
-      "skills": [
-        "FDA",
-        "EMA",
-        "compliance"
-      ],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹9–16 LPA",
-        "minLPA": 9,
-        "maxLPA": 16,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 77,
-      "tier": "below",
-      "reasons": [
-        "title match",
-        "domain fit",
-        "remote"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-21T08:41:05.284Z"
-    },
-    {
-      "source": "Workday",
-      "company": "Syneos",
-      "domain": "pharma / CRO",
-      "title": "Sr Tech Vendor Relations Analyst- Hyderabad (hybrid)",
-      "location": "IND-Hyderabad-Hybrid",
-      "postedText": "Posted 30+ Days Ago",
-      "externalPath": "/job/IND-Hyderabad-Hybrid/Sr-Tech-Vendor-Relations-Analyst--Hyderabad--hybrid-_25105956",
-      "reqId": "25105956",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Tech-Vendor-Relations-Analyst--Hyderabad--hybrid-_25105956",
-      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Tech-Vendor-Relations-Analyst--Hyderabad--hybrid-_25105956",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Senior Analyst – CRM Field Operations",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 9 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
+      "reqId": "R1608101",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
       "description": null,
       "skills": [],
       "experience": "—",
@@ -153,7 +84,104 @@
         "≥15 LPA"
       ],
       "isNew": true,
-      "firstSeen": "2026-11-21T08:41:05.283Z"
+      "firstSeen": "2026-11-21T10:16:16.549Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Senior Analyst II, Identity Governance & Administration",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 5 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
+      "reqId": "R1605976",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-21T10:16:16.551Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Analytics Engineer I , Commercialization",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 17 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "reqId": "R1607391",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Key Responsibilities \n Design, build, and support analytics-ready data products, curated datasets, and reusable transformation assets within a modern lakehouse environment to enable commercial reporting, self-service analytics, and business insights. \n Translate business and analytics requirements into clear data specifications, dimensional models, metrics definitions, and dataset readiness criteria aligned to internal modeling and delivery standards. \n Develop and maintain scalable SQL- and Python-based transformation logic that integrates structured and semi-structured pharma datasets such as claims, patient, sales, payer, HUB, and specialty pharmacy data. \n Apply internally developed accelerators, reusable code patterns, templates, and engineering guardrails to improve development speed, consistency, and maintainability across data products. \n Create analytics-friendly models, including fact and dimension tables, cross-domain joins, slowly changing dimensions, and business-rule-driven metrics that support dashboard, reporting, and advanced analytics consumption. \n Implement standardized data quality checks, reconciliation logic, validation routines, and anomaly detection controls to ensure datasets are accurate, complete, and trusted by downstream users. \n Document data products, metric definitions, lineage, assumptions, and known limitations in accordance with internal documentation and governance standards. \n Work as part of a deployed engineering team embedded alongside an assigned Commercial business domain, partnering with data engineers, analysts, BI developers, and business stakeholders to support dashboard and reporting use cases. \n Apply data governance standards, access controls, and compliant handling practices for sensitive and regulated data, including PII/PHI awareness. \n Skills & Competencies \n Strong proficiency in SQL for analytics transformations, data modeling, validation, and performance tuning. \n Working knowledge of Python for data preparation, validation, automation, and analytical workflows. \n Experience developing analytics-ready datasets using dimensional modeling concepts such as facts, dimensions, grains, keys, and slowly changing dimensions. \n Familiarity with ETL/ELT patterns, lakehouse concepts, and medallion architecture, including bronze, silver, and gold/refined layers. \n Hands-on familiarity with Databricks notebooks, jobs/workflows, and Delta Lake concepts. \n Understanding of semantic layer concepts, metric definitions, and how curated datasets support BI, dashboards, and self-service analytics. \n Experience with data quality practices including profiling, cleansing, standardization, reconciliation, and anomaly detection. \n Working knowledge of governance and secure data handling practices, including documentation, lineage, and access controls. \n Familiarity with BI/visualization tools such as Tableau or Power BI. \n Understanding of engineering practices such as Git/version control, code reviews, and basic CI/CD concepts. \n Strong problem-solving and communication skills, with the ability to work effectively with both technical and business stakeholders. \n Willingness to work as part of a deployed team embedded within a business domain, learning to adapt to domain-specific priorities. \n Qualifications & Experience \n A bachelor s or master s degree in Computer Science, Engineering, Information Systems, Statistics/Mathematics, Analytics, or a related field (or equivalent practical experience). \n 1–3 years of hands-on experience in analytics engineering, data engineering, business intelligence engineering, or a related role building curated datasets and analytics-ready assets. \n Experience transforming large-scale structured and semi-structured datasets using SQL and Python, with attention to data quality and performance. \n Preferred: experience with Databricks, Delta Lake, or lakehouse architecture. \n Preferred: experience working with commercial pharma datasets such as claims, sales, payer, patient, HUB, or specialty pharmacy data. \n Preferred: exposure to BI/reporting use cases, semantic layer design, or dashboard-ready data modeling. \n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n For roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.\n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1607391 : Analytics Engineer I , Commercialization",
+      "skills": [
+        "documentation",
+        "Excel"
+      ],
+      "experience": "1–3 yrs",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 60,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-21T10:16:16.548Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Cost Intelligence & AI Analytics - Capital Projects",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 4 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Cost-Intelligence---AI-Analytics---Capital-Projects_R1608286",
+      "reqId": "R1608286",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Cost-Intelligence---AI-Analytics---Capital-Projects_R1608286",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Cost-Intelligence---AI-Analytics---Capital-Projects_R1608286",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-21T10:16:16.547Z"
     }
   ]
 }
