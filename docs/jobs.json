@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T10:16:16.565Z",
+  "generatedAt": "2026-11-22T08:40:26.515Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 5,
-    "goal": 3,
+    "total": 22,
+    "goal": 10,
     "target": 0,
-    "below": 2,
+    "below": 12,
     "overseas": 0,
-    "new": 5,
+    "new": 18,
     "strong": 0,
     "stretch": 0,
     "reach": 0
@@ -18,64 +18,160 @@
   "jobs": [
     {
       "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Senior Analyst, Identity Governance & Administration",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 5 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "reqId": "R1604837",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
-      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Working With Us \n Challenging. Meaningful. Life-changing. Those aren t words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients and the careers of those who do it. Join us and make a difference.\n Position Summary \n The Senior Analyst, Identity Governance & Administration (IGA) is responsible for supporting, enhancing, and maintaining enterprise Identity Governance capabilities with a primary focus on Access Reviews, Certification Campaigns, governance processes, and compliance controls.\n This role will work closely with business stakeholders, application teams, compliance partners, and security teams to execute and continuously improve access certification programs while ensuring a secure, scalable, and compliant Identity Governance environment. The successful candidate will possess advanced SailPoint IdentityIQ expertise and a strong understanding of access governance best practices, operational processes, and modern Identity Governance capabilities.\n The ideal candidate is a hands-on practitioner who enjoys solving complex business problems, designing scalable solutions, driving operational excellence, and modernizing access governance through automation, analytics, and emerging AI capabilities.\n Key Responsibilities \n Identity Access Reviews & Certifications \n Configure, execute, monitor, and optimize enterprise access review and certification campaigns.\n Support manager, application owner, entitlement, role, and privileged access certifications.\n Drive adoption of Intelligent Access Reviews by integrating/onboarding different types of applications like JDBC, Web services, Out of box connectors etc.\n Improve certification effectiveness through automation, analytics, and continuous process improvements.\n Partner with business stakeholders to ensure timely completion of certifications and remediation activities.\n Develop and operationalize certification metrics, dashboards, reports, and compliance evidence.\n Support internal and external audit activities related to access governance and certification controls.\n Identify opportunities to modernize access review processes and enhance reviewer experience.\n  \n Identity Governance Operations & Support \n Maintain Identity Governance platforms and provide advanced operational support.\n Troubleshoot production issues, perform root cause analysis, work on incidents & requests and implement sustainable resolutions.\n Monitor platform health, integrations, and governance processes to ensure stability and reliability.\n Support/execute periodic platform upgrades, enhancements, new integrations, enhancements, custom solution building, patching activities and configuration improvements.\n Ensure compliance with established governance, risk, and security requirements.\n Collaborate with technical teams to resolve integration, provisioning, and governance-related issues.\n  \n Solution Design & Application Onboarding \n Design and implement scalable, sustainable, and future-ready Identity Governance solutions both out of box & custom.\n Onboarding of new applications, entitlements, and identity sources into the SailPoint platform.\n Configure and enhance identity governance processes, workflows, certification models, and governance controls.\n Develop custom solutions, workflows, rules, reports, and integrations to address business requirements.\n Partner with application and infrastructure teams to strengthen governance controls across the enterprise.\n Contribute to platform standardization efforts and continuous improvement initiatives.\n AI & Governance Innovation \n Understand AI and emerging technology trends and their applicability within Identity Governance.\n Evaluate opportunities to leverage AI capabilities for access certifications, access recommendations, risk scoring, anomaly detection, and governance analytics.\n Support adoption of intelligent and data-driven access review capabilities that improve efficiency and decision-making.\n Collaborate with stakeholders to identify innovative approaches that simplify governance processes and reduce operational burden.\n Qualifications & Experience \n Required Qualifications \n Bachelor s degree in information technology, Computer Science, Cybersecurity, or related discipline.\n 5 years of experience in Identity and Access Management (IAM) or Identity Governance & Administration (IGA).\n Advanced hands-on experience with SailPoint IdentityIQ.\n Strong experience with Access Reviews, Certification Campaigns, and Access Governance processes.\n Experience supporting application onboarding and governance integrations.\n Strong Knowledge of identity lifecycle management, role management, provisioning, and governance controls.\n Strong understanding of security principles, access control models, and compliance requirements.\n Experience working in large enterprise environments.\n Excellent analytical, problem-solving, and stakeholder collaboration skills.\n Technical Skills \n SailPoint IdentityIQ (Advanced)\n Access Certifications and Governance\n Identity Lifecycle Management\n Role/Attrbiute-Based Access Control (RBAC)\n LDAP and Active Directory\n REST APIs and Web Services\n Java and BeanShell\n Web Services\n Linux and Tomcat\n SQL database\n Reporting and Analytics\n Identity Governance Architecture and Design\n Preferred Qualifications \n Experience with SailPoint IdentityNow / Identity Security Cloud.\n Experience with regulated environments and compliance frameworks such as SOX.\n Experience with AI-driven governance, identity analytics, or intelligent access review capabilities.\n Familiarity with ServiceNow, CyberArk, Entra ID, Active Directory, Ping, LDAP, Code repository, Ping and enterprise IAM ecosystems.\n Industry certifications in Identity, Security, or Governance disciplines.\n Key Competencies \n Advanced knowledge of SailPoint IdentityIQ architecture, core concepts, capabilities, and best practices.\n Strong understanding of Identity Governance concepts and access certification methodologies.\n Ability to design scalable, supportable, and future-focused governance solutions.\n Strong operational mindset with a focus on reliability, quality, and compliance.\n Continuous improvement and automation orientation.\n Ability to work effectively in cross-functional teams and a global environment.\n Strong communication and stakeholder management skills.\n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n For roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.\n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1604837 : Senior Analyst, Identity Governance & Administration",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "HR Compliance Analyst",
+      "location": "IND-Hyderabad",
+      "postedText": "Posted 16 Days Ago",
+      "externalPath": "/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
+      "reqId": "25113782",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Compliance-Analyst_25113782",
+      "description": null,
       "skills": [
-        "lifecycle management",
-        "compliance",
-        "Excel",
-        "audit",
-        "stakeholder management"
+        "compliance"
       ],
-      "experience": "5 yrs",
+      "experience": "—",
       "salary": {
-        "display": "Expected ₹15–26 LPA",
-        "minLPA": 15,
-        "maxLPA": 26,
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
-      "score": 77,
-      "tier": "goal",
+      "score": 81,
+      "tier": "below",
       "reasons": [
-        "partial title match",
+        "title match",
         "domain fit",
-        "India",
-        "≥15 LPA"
+        "India"
       ],
       "isNew": true,
-      "firstSeen": "2026-11-21T10:16:16.550Z"
+      "firstSeen": "2026-11-22T08:40:26.499Z"
     },
     {
       "source": "Workday",
-      "company": "BMS",
-      "domain": "pharma",
-      "title": "Senior Analyst – CRM Field Operations",
-      "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 9 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
-      "reqId": "R1608101",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst---CRM-Field-Operations_R1608101",
+      "company": "Dow",
+      "domain": "chemical",
+      "title": "EHS&S Digital Solution Specialist",
+      "location": "Navi Mumbai (IND)",
+      "postedText": "Posted 2 Days Ago",
+      "externalPath": "/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
+      "reqId": "R2068094",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/EHS-S-Data-Engineer--Senior-IT-Analyst-_R2068094",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role   \n  \n Dow has an exciting and challenging opportunity for Digital Solution Specialist , based in Navi Mumbai (India) to join the Environment, Health, Safety and Sustainability (EHS&S) Information Technology team. In this role, you will own and manage a small EHS&S portfolio of digital solutions and systems, guiding them through their full lifecycle—analysis, design, implementation, adoption, optimization, and end-of-life retirement. Your work will deliver advanced EHS&S functional and business capabilities that accelerate Dow’s digital transformation. \n You will collaborate with a multi-disciplinary IT team—including analysts, designers, developers, and support specialists—to deliver innovative, user-centric solutions. A key part of your role is to gather and analyze data to define functional and technical requirements, with a strong focus on experience, simplification, automation, efficiency, and reliability. You will also oversee development and adoption of solutions leveraging best-in-class mobile, web, desktop, and cloud technologies, while identifying opportunities for digital innovation. \n  \n Responsibilities  \n Requirements Analysis: Understand key business drivers to explore, analyze, and map business and functional requirements.  \n Experience Mapping: Translate user journeys and stories into solutions that enhance employee and customer experience (EX/CX).  \n Solution Lifecycle Management: Drive end-to-end lifecycle—design, architecture, integration (buy vs. build), development, testing, and compliance with corporate standards and security policies.  \n Adoption & Support: Support implementation, user adoption, and define supplier/team support models.  \n Performance Management: Establish controls, KPIs, and measures for solution performance and reliability.  \n Integration & Optimization: Coordinate with Solution Managers and Business Process Managers for end-to-end process integration.  \n Roadmap Development: Define improvement and innovation roadmaps; assess resources, technology, and investment needs.  \n Team Support: Assist senior Solution Managers with workload analysis and capacity planning.  \n Ability to analyze and resolve problems using technical expertise and sound judgment. Strong communication skills to explain complex concepts and provide informal guidance to new team members.  \n Qualifications  \n Bachelor’s degree in Computer Science, Information Systems, Engineering, EHS&S, or a related field.  \n Min 5 years of work experience in the role. \n Knowledge and experience with EHS and Sustainability processes and technologies.   \n Experience supporting sustainability, decarbonization, carbon accounting, environmental compliance, product carbon footprint (PCF), or lifecycle assessment (LCA) initiatives through digital solutions and data-driven capabilities .  \n Excellent written and verbal English communication skills.   \n Knowledge of AI, Generative AI, Microsoft Copilot, and automation technologies. \n Strong understanding of system integration and application architecture, including API integrations, data flow analysis, end-to-end process integration, and Azure Integration Services. \n Experience working with Databricks, SQL, and Azure DevOps. \n Proficiency in Microsoft Power Platform (Power Apps, Power BI, Power Automate) and Copilot solutions. \n Knowledge of software development concepts and modern application delivery practices. \n Experience working in Agile/Scrum delivery environments. \n Understanding of cloud-based technologies, enterprise data management, and digital transformation initiatives. \n  \n Your Skills  \n Business Requirements: The ability to gather, analyze, and translate business needs into clear functional and technical requirements that guide the design and delivery of effective digital solutions. \n Solutions Delivery: Managing the full lifecycle of digital solutions—including design, integration, development, testing, deployment, optimization, and retirement—to ensure they meet performance, security, and usability expectations. \n Design Thinking: Applying user‑centered methods such as journey mapping and experience analysis to create solutions that improve employee and customer experience while driving simplification, automation, and efficiency. \n Integration Services: Coordinating and defining end‑to‑end system and process integrations to ensure seamless data flow and interoperability across applications, platforms, and business processes. \n Strategic Planning: Developing solution roadmaps, identifying digital innovation opportunities, and aligning technology investments and resource needs with organizational strategy and long‑term business goals environment. \n \n Additional notes \n The ability to accommodate a flexible schedule aligned with international time zones is essential. \n Relocation assistance is not provided with this position. \n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
+      "skills": [
+        "REACH",
+        "lifecycle management",
+        "compliance"
+      ],
+      "experience": "5+ yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 80,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.497Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Data Analyst I",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 16 Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
+      "reqId": "25111783",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
       "description": null,
       "skills": [],
       "experience": "—",
       "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 74,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "IT Data Analyst",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/IT-Data-Analyst_25107704",
+      "reqId": "25107704",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IT-Data-Analyst_25107704",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IT-Data-Analyst_25107704",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 74,
+      "tier": "below",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Dow",
+      "domain": "chemical",
+      "title": "Implementation Specialist (Senior IT Analyst)",
+      "location": "Navi Mumbai (IND)",
+      "postedText": "Posted 11 Days Ago",
+      "externalPath": "/job/Navi-Mumbai-IND/Implementation-Specialist--Senior-IT-Analyst-_R2067635",
+      "reqId": "R2067635",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Implementation-Specialist--Senior-IT-Analyst-_R2067635",
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Implementation-Specialist--Senior-IT-Analyst-_R2067635",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this role \n \n As an Implementation (Senior IT Anal yst) , you will support end-to-end implementations and deployments across software, infrastructure, digital transformation , and mergers, acquisitions , and divestiture projects . You will help ensure initiatives are delivered on time, within budget, and adopted smoothly by the organization. Working as part of an implementation team, you will manage the deployment of complex software or technical solutions for enterprise clients. Key responsibilities include leading implementation projects, configuring systems, managing data migration, directing testing activities , coordinating cross-functional teams, and training users to enable a seamless transition and faster time-to-value .   \n   You are responsible for applying technical expertise , established best practices, and sound judgment to analyze and resolve problems. Your performance directly influences the quality of your work and your team’s outcomes and requires adherence to established guidelines and policies.   \n   \n This role requires an understanding of the key business drivers within your discipline and function , along with the ability to expand both conceptual and practical knowledge in your area of expertise. You are expected to provide informal guidance to new team members and clearly explain complex information to.. \n Responsibilities \n Project Delivery: Drive or support end-to-end enterprise infrastructure or software deployments from kickoff to launch.   \n \n Configure Technical Solutions: Sets up advanced platform capabilities, including integrations, security requirements , data mapping, and configurations tailored to client needs.   \n \n Data Migration : Oversee the secure extraction, transformation, and loading of client data.   \n \n Manage Enterprise Clients: Act as the primary technical advisor for high-value corporate stakeholders.   \n \n Quality Assurance & Troubleshooting: Leads product test and user acceptance testing (UAT), identifies root causes for integration defects, and resolves production blockers.   \n \n Stakeholder Management: Communicates project status, timelines, and potential roadblocks to both internal executives and client stakeholders.   \n \n Standardize Operational Playbooks: Build reusable implementation templates to accelerate customer time-to-value.   \n \n Qualifications \n Bachelor s degree in IT discipline preferred or a minimum of 5 years of relevant experience. \n \n Excellent communication skills to explain complex concepts and build consensus.   \n Good to have experience into HP ALM. \n \n Your Skill s \n Analytical & Problem -Solving: Ability to analyze error trends, perform root-cause analysis, and recommend effective long-term fixes.   \n \n Communication: Exceptional capability to translate highly technical concepts to non-technical stakeholders and business users.   \n \n Technical Proficiency: Excellent understanding & practical knowledge of IT Infrastructure, operating systems, networking, integrations , application development etc. .   \n \n Project Management: Ability to coordinate software implementations, upgrades, and testing phases with minimal supervision.   \n \n Additional notes \n No relocation support is provided on the role.   \n \n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
+      "skills": [
+        "REACH",
+        "quality assurance",
+        "stakeholder management"
+      ],
+      "experience": "5+ yrs",
+      "salary": {
         "display": "Expected ₹15–26 LPA",
         "minLPA": 15,
         "maxLPA": 26,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
-      "score": 67,
+      "score": 73,
       "tier": "goal",
       "reasons": [
         "partial title match",
@@ -84,7 +180,7 @@
         "≥15 LPA"
       ],
       "isNew": true,
-      "firstSeen": "2026-11-21T10:16:16.549Z"
+      "firstSeen": "2026-11-22T08:40:26.496Z"
     },
     {
       "source": "Workday",
@@ -92,7 +188,7 @@
       "domain": "pharma",
       "title": "Senior Analyst II, Identity Governance & Administration",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 5 Days Ago",
+      "postedText": "Posted 6 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
       "reqId": "R1605976",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst-II--Identity-Governance---Administration_R1605976",
@@ -115,34 +211,232 @@
         "India",
         "≥15 LPA"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-21T10:16:16.551Z"
     },
     {
       "source": "Workday",
       "company": "BMS",
       "domain": "pharma",
-      "title": "Analytics Engineer I , Commercialization",
+      "title": "Senior Analyst, Identity Governance & Administration",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 17 Days Ago",
-      "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "reqId": "R1607391",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
-      "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n Key Responsibilities \n Design, build, and support analytics-ready data products, curated datasets, and reusable transformation assets within a modern lakehouse environment to enable commercial reporting, self-service analytics, and business insights. \n Translate business and analytics requirements into clear data specifications, dimensional models, metrics definitions, and dataset readiness criteria aligned to internal modeling and delivery standards. \n Develop and maintain scalable SQL- and Python-based transformation logic that integrates structured and semi-structured pharma datasets such as claims, patient, sales, payer, HUB, and specialty pharmacy data. \n Apply internally developed accelerators, reusable code patterns, templates, and engineering guardrails to improve development speed, consistency, and maintainability across data products. \n Create analytics-friendly models, including fact and dimension tables, cross-domain joins, slowly changing dimensions, and business-rule-driven metrics that support dashboard, reporting, and advanced analytics consumption. \n Implement standardized data quality checks, reconciliation logic, validation routines, and anomaly detection controls to ensure datasets are accurate, complete, and trusted by downstream users. \n Document data products, metric definitions, lineage, assumptions, and known limitations in accordance with internal documentation and governance standards. \n Work as part of a deployed engineering team embedded alongside an assigned Commercial business domain, partnering with data engineers, analysts, BI developers, and business stakeholders to support dashboard and reporting use cases. \n Apply data governance standards, access controls, and compliant handling practices for sensitive and regulated data, including PII/PHI awareness. \n Skills & Competencies \n Strong proficiency in SQL for analytics transformations, data modeling, validation, and performance tuning. \n Working knowledge of Python for data preparation, validation, automation, and analytical workflows. \n Experience developing analytics-ready datasets using dimensional modeling concepts such as facts, dimensions, grains, keys, and slowly changing dimensions. \n Familiarity with ETL/ELT patterns, lakehouse concepts, and medallion architecture, including bronze, silver, and gold/refined layers. \n Hands-on familiarity with Databricks notebooks, jobs/workflows, and Delta Lake concepts. \n Understanding of semantic layer concepts, metric definitions, and how curated datasets support BI, dashboards, and self-service analytics. \n Experience with data quality practices including profiling, cleansing, standardization, reconciliation, and anomaly detection. \n Working knowledge of governance and secure data handling practices, including documentation, lineage, and access controls. \n Familiarity with BI/visualization tools such as Tableau or Power BI. \n Understanding of engineering practices such as Git/version control, code reviews, and basic CI/CD concepts. \n Strong problem-solving and communication skills, with the ability to work effectively with both technical and business stakeholders. \n Willingness to work as part of a deployed team embedded within a business domain, learning to adapt to domain-specific priorities. \n Qualifications & Experience \n A bachelor s or master s degree in Computer Science, Engineering, Information Systems, Statistics/Mathematics, Analytics, or a related field (or equivalent practical experience). \n 1–3 years of hands-on experience in analytics engineering, data engineering, business intelligence engineering, or a related role building curated datasets and analytics-ready assets. \n Experience transforming large-scale structured and semi-structured datasets using SQL and Python, with attention to data quality and performance. \n Preferred: experience with Databricks, Delta Lake, or lakehouse architecture. \n Preferred: experience working with commercial pharma datasets such as claims, sales, payer, patient, HUB, or specialty pharmacy data. \n Preferred: exposure to BI/reporting use cases, semantic layer design, or dashboard-ready data modeling. \n We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway. \n How We Work \n Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working. \n Supporting People with Disabilities \n BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to  adastaffingsupport bms.com . Visit  careers.bms.com/eeo-accessibility  to access our complete Equal Employment Opportunity statement.\n Candidate Rights \n BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n For roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information:  https://careers.bms.com/california-residents/ \n For roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.\n Data Protection \n We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at  https://careers.bms.com/fraud-protection .\n Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n If this posting is missing required information required by local law or incorrect, contact BMS at  TAEnablement bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n \nR1607391 : Analytics Engineer I , Commercialization",
-      "skills": [
-        "documentation",
-        "Excel"
-      ],
-      "experience": "1–3 yrs",
+      "postedText": "Posted 6 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "reqId": "R1604837",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Senior-Analyst--Identity-Governance---Administration_R1604837",
+      "description": null,
+      "skills": [],
+      "experience": "—",
       "salary": {
-        "display": "Expected ₹8–14 LPA",
-        "minLPA": 8,
-        "maxLPA": 14,
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
         "actual": false,
         "note": "estimated from seniority + India market"
       },
-      "score": 60,
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": false,
+      "firstSeen": "2026-11-21T10:16:16.550Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Principal Product Ops Analyst- Veeva Vault Clinical",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "reqId": "25103316",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Principal Tech Vendor Relations Analyst- Hyderabad (Hybrid)",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
+      "reqId": "25105953",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Tech-Vendor-Relations-Analyst--Hyderabad--Hybrid-_25105953",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
+      "reqId": "25111101",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sr Systems Analyst (Oracle Fusion experience)- Hyderabad- Hybrid (2nd shift)",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Oracle-Fusion-experience---Hyderabad--Hybrid--2nd-shift-_25111098",
+      "reqId": "25111098",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Oracle-Fusion-experience---Hyderabad--Hybrid--2nd-shift-_25111098",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Oracle-Fusion-experience---Hyderabad--Hybrid--2nd-shift-_25111098",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Sr Technical Analyst ( Go-To-Market and AI Technologies) (Salesforce/Azure)",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
+      "reqId": "25111062",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Dow",
+      "domain": "chemical",
+      "title": "Purchasing Analyst - Procure to Pay",
+      "location": "Navi Mumbai (IND)",
+      "postedText": "Posted 5 Days Ago",
+      "externalPath": "/job/Navi-Mumbai-IND/Purchasing-Analyst---Procure-to-Pay_R2069358",
+      "reqId": "R2069358",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Purchasing-Analyst---Procure-to-Pay_R2069358",
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Navi-Mumbai-IND/Purchasing-Analyst---Procure-to-Pay_R2069358",
+      "description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.    \n   \n Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration.   If you’re looking for a challenge and meaningful role, you’re in the right place.   \n \n \n About you and this Role \n Supports the Dow Purchasing organization by effectively delivering Supplier Onboarding and Vendor Master Data Management (MDG) services. This role is responsible for supplier modification, validation, and governance activities to enable seamless purchasing and payment transactions across the enterprise.\n The position requires an understanding of supplier lifecycle management, data governance principles, compliance requirements, and cross-functional collaboration with Procurement, Finance, Suppliers, and Business stakeholders. The successful candidate will demonstrate strong analytical skills, attention to detail, customer focus, and a continuous improvement mindset.\n  \n Responsibilities \n Execute supplier setup, and maintenance activities in accordance with established procedures and compliance requirements.\n Review and validate supplier requests to ensure completeness, accuracy, and adherence to company policies.\n Perform vendor master data creation, updates, and governance activities within SAP MDG or related systems.\n Collaborate with Procurement, Accounts Payable, Tax, Compliance, and business stakeholders to resolve supplier-related issues.\n Support supplier due diligence, documentation reviews, and compliance verification processes.\n Investigate and troubleshoot supplier onboarding and master data issues, driving timely resolution.\n Monitor work queues and ensure service levels are achieved consistently.\n Identify opportunities for process standardization, automation, and operational improvements.\n Support audits, controls, and data quality initiatives related to supplier master data.\n Participate in training, knowledge sharing, and continuous improvement activities.\n Maintain accurate documentation and process records.\n Qualifications \n Bachelor’s Degree in Business, Supply Chain, Finance, Commerce, or related discipline.\n 2-3 years of relevant experience in Supplier Onboarding, Vendor Master Data Management, Procurement Operations, Shared Services, or related functions.\n Understanding of Procure-to-Pay processes and supplier lifecycle management.\n Strong communication and stakeholder management skills.\n Proficiency in Microsoft Office applications, particularly Excel.\n Experience with SAP, SAP MDG, S/4HANA, or similar ERP systems is preferred.\n Strong analytical, problem-solving, and organizational skills.\n High attention to detail and data accuracy.\n Preferred Skills \n Experience with Supplier Onboarding or Vendor Master Data Governance processes.\n Knowledge of supplier compliance, sanctions screening, tax documentation, and risk management processes.\n Familiarity with ServiceNow, workflow management, or ticketing tools.\n Experience with Power BI or reporting and analytics tools.\n Advanced Excel skills including Pivot Tables, Power Query, and data analysis techniques.\n Understanding of continuous improvement methodologies such as Lean or Six Sigma.\n Experience working in a global shared services or multinational environment.\n Additional Notes \n Relocation assistance is not available with this position.\n Ability to accommodate a flexible schedule aligned with international time zones is essential.\n Occasional interaction with suppliers and global stakeholders across regions will be required.\n \n \n \n \n Benefits – What Dow offers you  \n \n We invest in you.   \n Dow invests in total rewards programs to help you manage all aspects of you: your pay, your health, your life, your future, and your career. You bring your background, talent, and perspective to work every day. Dow rewards that commitment by investing in your total wellbeing.   \n Here are just a few highlights of what you would be offered as a Dow employee: \n Equitable and market-competitive base pay and bonus opportunity across our global markets, along with locally relevant incentives. \n Benefits and programs to support your physical, mental, financial, and social well-being, to help you get the care you need...when you need it. \n Competitive retirement program that may include company-provided benefits, savings opportunities, financial planning, and educational resources to help you achieve your long term financial-goals.  Employee stock purchase programs (availability varies depending on location).\n \n Student Debt Retirement Savings Match Program (U.S. only). Dow will take the value of monthly student debt payments and apply them as if they are contributions to the Employees’ Savings Plan (401(k)), helping employees reach the Company match.\n \n Robust medical and life insurance packages that offer a variety of coverage options to meet your individual needs. Travel insurance is also available in certain countries/locations.\n Opportunities to learn and grow through training and mentoring, work experiences, community involvement and team building. \n Workplace culture empowering role-based flexibility to maximize personal productivity and balance personal needs. \n Competitive yearly vacation allowance.\n Paid time off for new parents (birthing and non-birthing, including adoptive and foster parents).   \n Paid time off to care for family members who are sick or injured.  \n Paid time off to support volunteering and Employee Resource Group’s (ERG) participation. \n Wellbeing Portal for all Dow employees, our one-stop shop to promote wellbeing, empowering employees to take ownership of their entire wellbeing journey.\n On-site fitness facilities to help stay healthy and active (availability varies depending on location).\n Employee discounts for online shopping, cinema tickets, gym memberships and more.\n Additionally, some of our locations might offer: Transportation allowance (availability varies depending on location)\n Meal subsidiaries/vouchers (availability varies depending on location)\n Carbon-neutral transportation incentives e.g. bike to work (availability varies depending on location)\n \n \n Join our team, we can make a difference together.\n \n About Dow Chemical International Pvt Ltd \n Dow Chemical International Private Limited (Dow India) aims to be the most innovative, sustainable, inclusive customer-centric materials science company. The company is committed to delivering the right solutions to its customers’ challenges. With broadest technology sets spanning performance materials, industrial intermediates, and plastics Dow India delivers differentiated science-based products and solutions in high-growth segments, such as packaging, infrastructure, automobile, and consumer care.\n \n A Great Place to Work® Certified company with approximately over 1000 employees, its operations comprise of manufacturing sites, innovation center, established centers of excellence, and commercial office. As a responsible corporate, the company supports its Corporate Social Responsibility (program) with technology expertise and employee volunteerism. Dow India works with non-profit partners towards the empowerment of differently abled, women, and children in communities where it operates. The company aims to redefine the societal blueprint, by supporting holistic sustainability and circular economy initiatives.\n \n \n As part of our dedication to inclusion, Dow is committed to equal opportunities in employment .  We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow s equal opportunities is available on www.dow.com .",
+      "skills": [
+        "REACH",
+        "lifecycle management",
+        "compliance",
+        "documentation",
+        "SAP",
+        "Excel",
+        "data analysis",
+        "stakeholder management"
+      ],
+      "experience": "2–3 yrs",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 66,
       "tier": "below",
       "reasons": [
         "partial title match",
@@ -150,6 +444,69 @@
         "India"
       ],
       "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.494Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Grant Analyst II/Sr Site Grant Analyst",
+      "location": "USA-Remote",
+      "postedText": "Posted 18 Days Ago",
+      "externalPath": "/job/USA-Remote/Grant-Analyst-II-Sr-Site-Grant-Analyst_25114354",
+      "reqId": "25114354",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-Remote/Grant-Analyst-II-Sr-Site-Grant-Analyst_25114354",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-Remote/Grant-Analyst-II-Sr-Site-Grant-Analyst_25114354",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 64,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Analytics Engineer I , Commercialization",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 18 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "reqId": "R1607391",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": false,
       "firstSeen": "2026-11-21T10:16:16.548Z"
     },
     {
@@ -158,7 +515,7 @@
       "domain": "pharma",
       "title": "Cost Intelligence & AI Analytics - Capital Projects",
       "location": "Hyderabad - TS - IN",
-      "postedText": "Posted 4 Days Ago",
+      "postedText": "Posted 5 Days Ago",
       "externalPath": "/job/Hyderabad---TS---IN/Cost-Intelligence---AI-Analytics---Capital-Projects_R1608286",
       "reqId": "R1608286",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Cost-Intelligence---AI-Analytics---Capital-Projects_R1608286",
@@ -180,8 +537,195 @@
         "domain fit",
         "India"
       ],
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-11-21T10:16:16.547Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "HR Analyst II",
+      "location": "IND-Hyderabad",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad/HR-Analyst-II_25102410-1",
+      "reqId": "25102410",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Analyst-II_25102410-1",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad/HR-Analyst-II_25102410-1",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "HR Analytics & Visualization Specialist",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/HR-Analytics---Visualization-Specialist_25110025",
+      "reqId": "25110025",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/HR-Analytics---Visualization-Specialist_25110025",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/HR-Analytics---Visualization-Specialist_25110025",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Systems Analyst: Functional Payables (Oracle Fusion)- Hyderabad (Hybrid)- Third Shift",
+      "location": "IND-Hyderabad-Hybrid",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
+      "reqId": "25111100",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Senior Specialist - Ingredient Compliance",
+      "location": "Mumbai, India",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "reqId": "R22376",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "description": null,
+      "skills": [
+        "compliance"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 54,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Syneos",
+      "domain": "pharma / CRO",
+      "title": "Project Financial Analyst II",
+      "location": "USA-WA-Remote",
+      "postedText": "Posted 9 Days Ago",
+      "externalPath": "/job/USA-WA-Remote/Project-Financial-Analyst-II_25112696",
+      "reqId": "25112696",
+      "url": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-WA-Remote/Project-Financial-Analyst-II_25112696",
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site/job/USA-WA-Remote/Project-Financial-Analyst-II_25112696",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 53,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "remote"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.500Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Analyst II, READI",
+      "location": "Chennai (Guindy), India",
+      "postedText": "Posted 30 Days Ago",
+      "externalPath": "/job/Chennai-Guindy-India/Analyst-II--READI_R22517",
+      "reqId": "R22517",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Analyst-II--READI_R22517",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Chennai-Guindy-India/Analyst-II--READI_R22517",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 41,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-22T08:40:26.499Z"
     }
   ]
 }
