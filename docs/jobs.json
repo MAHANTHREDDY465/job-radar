@@ -1,19 +1,304 @@
 {
-  "generatedAt": "2026-11-23T09:37:14.176Z",
+  "generatedAt": "2026-11-23T11:19:39.840Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 0,
-    "goal": 0,
+    "total": 9,
+    "goal": 5,
     "target": 0,
-    "below": 0,
+    "below": 4,
     "overseas": 0,
-    "new": 0,
+    "new": 9,
     "strong": 0,
     "stretch": 0,
     "reach": 0
   },
   "errors": [],
-  "jobs": []
+  "jobs": [
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Analyst - Python Developer",
+      "location": "Hyderabad",
+      "postedText": "Posted 18 Days Ago",
+      "externalPath": "/job/Hyderabad/Senior-Analyst---Python-Developer_R2876914",
+      "reqId": "R2876914",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Python-Developer_R2876914",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Python-Developer_R2876914",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.820Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Analyst – Business Analytics",
+      "location": "Hyderabad",
+      "postedText": "Posted 11 Days Ago",
+      "externalPath": "/job/Hyderabad/Senior-Analyst---Business-Analytics_R2875457",
+      "reqId": "R2875457",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2875457",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2875457",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.819Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Analyst – Business Analytics",
+      "location": "Hyderabad",
+      "postedText": "Posted 24 Days Ago",
+      "externalPath": "/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862686",
+      "reqId": "R2862686",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862686",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862686",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.820Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Data Integration Analyst",
+      "location": "Hyderabad",
+      "postedText": "Posted 11 Days Ago",
+      "externalPath": "/job/Hyderabad/Senior-Data-Integration-Analyst_R2876357",
+      "reqId": "R2876357",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Data-Integration-Analyst_R2876357",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Data-Integration-Analyst_R2876357",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.819Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Sr. Accounting Analyst-A2R Balance Sheet Review",
+      "location": "Hyderabad",
+      "postedText": "Posted 5 Days Ago",
+      "externalPath": "/job/Hyderabad/Sr-Accounting-Analyst-A2R-Balance-Sheet-Review_R2877598-1",
+      "reqId": "R2877598",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst-A2R-Balance-Sheet-Review_R2877598-1",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst-A2R-Balance-Sheet-Review_R2877598-1",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.818Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Analytics Engineer I , Commercialization",
+      "location": "Hyderabad - TS - IN",
+      "postedText": "Posted 19 Days Ago",
+      "externalPath": "/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "reqId": "R1607391",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹8–14 LPA",
+        "minLPA": 8,
+        "maxLPA": 14,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.820Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Analyst - Customer Facing Effectiveness",
+      "location": "Hyderabad",
+      "postedText": "Posted 3 Days Ago",
+      "externalPath": "/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2877786",
+      "reqId": "R2877786",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2877786",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2877786",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.816Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Analyst Data Process Management",
+      "location": "Hyderabad",
+      "postedText": "Posted 17 Days Ago",
+      "externalPath": "/job/Hyderabad/Analyst-Data-Process-Management_R2877809",
+      "reqId": "R2877809",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst-Data-Process-Management_R2877809",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst-Data-Process-Management_R2877809",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.820Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Analytics Platforms Analyst",
+      "location": "Hyderabad",
+      "postedText": "Posted 4 Days Ago",
+      "externalPath": "/job/Hyderabad/Analytics-Platforms-Analyst_R2871874",
+      "reqId": "R2871874",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analytics-Platforms-Analyst_R2871874",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analytics-Platforms-Analyst_R2871874",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-23T11:19:39.818Z"
+    }
+  ]
 }
