@@ -1,52 +1,19 @@
 {
-  "generatedAt": "2026-11-24T11:30:06.182Z",
+  "generatedAt": "2026-11-24T12:57:49.642Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 1,
-    "goal": 1,
+    "total": 0,
+    "goal": 0,
     "target": 0,
     "below": 0,
     "overseas": 0,
-    "new": 1,
+    "new": 0,
     "strong": 0,
     "stretch": 0,
     "reach": 0
   },
   "errors": [],
-  "jobs": [
-    {
-      "source": "Workday",
-      "company": "Novartis",
-      "domain": "pharma",
-      "title": "Associate Director, Analytics Governance & Operations",
-      "location": "Remote Position (USA)",
-      "postedText": "Posted 28 Days Ago",
-      "externalPath": "/job/Remote-Position-USA/Associate-Director--Analytics-Governance---Operations_REQ-10090122-2",
-      "reqId": "REQ-10090122",
-      "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Associate-Director--Analytics-Governance---Operations_REQ-10090122-2",
-      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Associate-Director--Analytics-Governance---Operations_REQ-10090122-2",
-      "description": null,
-      "skills": [],
-      "experience": "—",
-      "salary": {
-        "display": "Expected ₹30–55 LPA",
-        "minLPA": 30,
-        "maxLPA": 55,
-        "actual": false,
-        "note": "estimated from seniority + India market"
-      },
-      "score": 64,
-      "tier": "goal",
-      "reasons": [
-        "partial title match",
-        "domain fit",
-        "remote",
-        "≥15 LPA"
-      ],
-      "isNew": true,
-      "firstSeen": "2026-11-24T11:30:06.182Z"
-    }
-  ]
+  "jobs": []
 }
