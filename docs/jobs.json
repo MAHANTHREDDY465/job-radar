@@ -1,19 +1,248 @@
 {
-  "generatedAt": "2026-11-27T10:00:53.400Z",
+  "generatedAt": "2026-11-27T11:28:23.450Z",
   "profile": "Regulatory Analyst — chemical / pharma",
   "resumeLoaded": false,
   "candidate": null,
   "counts": {
-    "total": 0,
-    "goal": 0,
+    "total": 7,
+    "goal": 6,
     "target": 0,
-    "below": 0,
+    "below": 1,
     "overseas": 0,
-    "new": 0,
+    "new": 7,
     "strong": 0,
     "stretch": 0,
     "reach": 0
   },
   "errors": [],
-  "jobs": []
+  "jobs": [
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Manager, Regulatory Affairs Project Management",
+      "location": "Indianapolis - RayzeBio - IN",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Indianapolis---RayzeBio---IN/Manager--Regulatory-Affairs-Project-Management_R1605576",
+      "reqId": "R1605576",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager--Regulatory-Affairs-Project-Management_R1605576",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Indianapolis---RayzeBio---IN/Manager--Regulatory-Affairs-Project-Management_R1605576",
+      "description": null,
+      "skills": [
+        "regulatory affairs"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹20–38 LPA",
+        "minLPA": 20,
+        "maxLPA": 38,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 92,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.266Z"
+    },
+    {
+      "source": "Workday",
+      "company": "BMS",
+      "domain": "pharma",
+      "title": "Director, Advertising and Promotion Regulatory Affairs",
+      "location": "Remote - United States - US",
+      "postedText": "Posted 14 Days Ago",
+      "externalPath": "/job/Remote---United-States---US/Director--Advertising-and-Promotion-Regulatory-Affairs_R1608459",
+      "reqId": "R1608459",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Remote---United-States---US/Director--Advertising-and-Promotion-Regulatory-Affairs_R1608459",
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Remote---United-States---US/Director--Advertising-and-Promotion-Regulatory-Affairs_R1608459",
+      "description": null,
+      "skills": [
+        "regulatory affairs"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹30–55 LPA",
+        "minLPA": 30,
+        "maxLPA": 55,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 89,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "remote",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.266Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Data Analyst - R&D Portfolio Data Strategy & Insights",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Senior-Data-Analyst---R-D-Portfolio-Data-Strategy---Insights_R2872418",
+      "reqId": "R2872418",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Data-Analyst---R-D-Portfolio-Data-Strategy---Insights_R2872418",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Data-Analyst---R-D-Portfolio-Data-Strategy---Insights_R2872418",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 85,
+      "tier": "goal",
+      "reasons": [
+        "title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.266Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Analyst  Data and Process Management",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Senior-Analyst--Data-and-Process-Management_R2869335",
+      "reqId": "R2869335",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst--Data-and-Process-Management_R2869335",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst--Data-and-Process-Management_R2869335",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.266Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Senior Analyst - Data & Process Management",
+      "location": "Hyderabad",
+      "postedText": "Posted Yesterday",
+      "externalPath": "/job/Hyderabad/Senior-Analyst---Data---Process-Management_R2880352",
+      "reqId": "R2880352",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Data---Process-Management_R2880352",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-Analyst---Data---Process-Management_R2880352",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 67,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.266Z"
+    },
+    {
+      "source": "Workday",
+      "company": "Sanofi",
+      "domain": "pharma",
+      "title": "Analyst – Business Analytics",
+      "location": "Hyderabad",
+      "postedText": "Posted Today",
+      "externalPath": "/job/Hyderabad/Analyst---Business-Analytics_R2879839",
+      "reqId": "R2879839",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst---Business-Analytics_R2879839",
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Analyst---Business-Analytics_R2879839",
+      "description": null,
+      "skills": [],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹9–16 LPA",
+        "minLPA": 9,
+        "maxLPA": 16,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 56,
+      "tier": "below",
+      "reasons": [
+        "partial title match",
+        "domain fit",
+        "India"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.265Z"
+    },
+    {
+      "source": "Workday",
+      "company": "IFF",
+      "domain": "flavors / fragrances / ingredients",
+      "title": "Senior Specialist - Ingredient Compliance",
+      "location": "Mumbai, India",
+      "postedText": "Posted 30+ Days Ago",
+      "externalPath": "/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "reqId": "R22376",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Mumbai-India/Senior-Specialist---Ingredient-Compliance_R22376",
+      "description": null,
+      "skills": [
+        "compliance"
+      ],
+      "experience": "—",
+      "salary": {
+        "display": "Expected ₹15–26 LPA",
+        "minLPA": 15,
+        "maxLPA": 26,
+        "actual": false,
+        "note": "estimated from seniority + India market"
+      },
+      "score": 54,
+      "tier": "goal",
+      "reasons": [
+        "partial title match",
+        "India",
+        "≥15 LPA"
+      ],
+      "isNew": true,
+      "firstSeen": "2026-11-27T11:28:23.263Z"
+    }
+  ]
 }
